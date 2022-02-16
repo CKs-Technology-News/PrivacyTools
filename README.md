@@ -743,6 +743,7 @@ Not so good in terms of privacy:
 - [Yandex](https://www.dailymail.co.uk/sciencetech/article-7894643/Privacy-concerns-Russias-popular-search-engine-Yandex-uses-facial-recognition.html)
 
 Privacy oriented alternatives:
+- [Andi](https://andisearch.com/) – A new generation anonymous and ad-free search engine it provides relevant results via auto-learning A.I.
 - [Blinde Kuh](https://www.blinde-kuh.de/) – Search engine designed for our kids, made in Germany.
 - [Ekoru](https://ekoru.org/) – Privacy focused search engine that also aims to clean up the oceans.
 - [Esteroids](https://esteroids.eth.limo/) – A search engine for ENS+IPFS websites.
