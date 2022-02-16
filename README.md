@@ -2967,6 +2967,7 @@ The main reason IRC or XMPP is listed and Matrix is not
 - It is unclear if Matrix will include a crypto system like Signal or not. Rumors say they might introduce some sort of coin system.
 
 
+Privacy oriented alternatives:
 - [BitchX](http://bitchx.sourceforge.net/) – A full-featured, scriptable free software IRC client for UNIX-like systems.
 - [Convos](https://convos.chat/) – Self-hosted web client for IRC.
 - [HexChat](https://hexchat.github.io/) – HexChat is an IRC client based on XChat, but unlike XChat it’s completely free for both Windows and Unix-like systems.
