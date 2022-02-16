@@ -1802,7 +1802,7 @@ Privacy oriented alternatives:
 - [XD](https://xd-torrent.github.io/) – Anonymous file-sharing. Torrent client for I2P.
 - [XTahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) – Distributed file system and Cloud storage system with integrated privacy and security features.
 
-### Mobile File-Sharing](#mobile-file-sharing)
+### [Mobile File-Sharing](#mobile-file-sharing)
 - [RDrop](https://rdrop.link/) – A Simple P2P File Transfer Service Web-App. - **controversial**
 - [Sharik](https://github.com/marchellodev/sharik) - Works with Wi-Fi connection or Tethering (via WiFi Hotspot). No internet connection needed. Available for Android, iOS, Linux, MacOS & Windows.
 - [Seeker](https://github.com/jackBonadies/SeekerAndroid) – Android client for the Soulseek peer-to-peer network.
@@ -4319,7 +4319,7 @@ Controversial:
 - United States: [Whitehouse Petitions](https://petitions.whitehouse.gov/) / [Ballot Initiatives](https://oag.ca.gov/initiatives)
 
 
-### Domain Hosting providers](#domain-hosting-providers)
+### [Domain Hosting providers](#domain-hosting-providers)
 - [1984 Hosting](https://1984hosting.com) – A green, ethical web hosting that protects its user's privacy.
 - [AccuWeb Hosting](https://www.accuwebhosting.com/web-hosting/free-wordpress-hosting) – No Ads or Banners.
 - [CloudSigma](https://www.cloudsigma.com/) – CloudSigma’s cloud infrastructure and services have been certified as compliant with the highest ISO 27001 requirements for security and data privacy.
