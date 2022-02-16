@@ -4119,6 +4119,7 @@ Consider joining and donating to one, several or all of the listed organizations
 
 ## [Metadata removal](#metadata-removal)
 - [BleachBit](https://www.bleachbit.org/) – Alternative for CCleaner that is FOSS and can also remove leftovers, metadata etc.
+- [Dangerzone](https://dangerzone.rocks/) – Take potentially dangerous PDFs, office documents, or #images and convert them to safe PDFs.
 - [Exiv2](https://www.exiv2.org/) – Exiv2 is a Cross-platform C++ library and a command line utility to manage image metadata
 - [ExifCleaner](https://exifcleaner.com) – A free desktop app to clean image metadata.
 - [mat2](https://0xacab.org/jvoisin/mat2) – A metadata removal tool, supporting a wide range of commonly used file formats.
@@ -4126,6 +4127,7 @@ Consider joining and donating to one, several or all of the listed organizations
 - [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif) – An Android app to remove exif data from pictures before sharing them.
 
 ### [Mobile exifdata and metadata removal apps](#mobile-exifdata-and-metadata-removal-apps)
+- [DetoxDroid](https://github.com/flxapps/DetoxDroid) – This app follows a different approach by stripping away all the attention-grabbing and manipulative features of other apps. DetoxDroid does not require you to choose a time and place when you want to "detox", or punish you if you fail.
 - [Exif-Remove](https://github.com/roothaxor/Exif-Remove) – Remove exif data from all digital pictures in current directory by typing exif.
 - [ImagePipe](https://codeberg.org/Starfish/Imagepipe) – Reduces image size and removes exif-tags when sharing images on Android devices.
 - [MAT](https://github.com/jubalh/MAT) – Metadata Anonymization Toolkit.
