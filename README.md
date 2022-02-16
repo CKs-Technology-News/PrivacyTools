@@ -2513,11 +2513,6 @@ You can obtain a [comprehensive aggregator for news feeds here](https://en.wikip
 - [Stringer](https://github.com/swanson/stringer) – Simple reader with the ability to run it at your hosting provider or for free at e.g. heroky.
 - [Snownews](https://github.com/kouya/snownews) – A command-line RSS feed reader. It runs on everything Unix.
 - [Thunderbird](https://www.thunderbird.net/) – Thunderbird also includes a chat as well as an RSS reader.
-    - [Allow HTML Temp](https://addons.thunderbird.net/thunderbird/addon/allow-html-temp/) – Allows to have HTML temporarily enabled (and displayed) in the currently selected message by only one click. When switching to another message, it'll be shown automatically again in plain text or simple html mode (according to your settings).
-    - [MetaClean](https://addons.thunderbird.net/en-US/thunderbird/addon/metaclean-for-thunderbird/) – Removes metadata and hidden data in email attachments preventing the leakage of confidential information that occurs in this type of communication and avoiding possible economic and reputational damages derived from the malicious use of metadata. The add-on is controversial because it uploads every attachment into a Cloud, however an AV usually does the same to check against a reputation database.
-    - [pgpgeek](https://github.com/pgpgeek/pgpgeek) – Quick & easy PGP encryption / decryption tool using openPGP.js
-    - [Octopus](https://sequoia-pgp.org/blog/2021/12/13/202112-octopus/) – Alternative OpenPGP Back End for Thunderbird.
-    - [Betterbird](https://www.betterbird.eu/) – A fork of Mozilla Thunderbird with some extra candy in it, you still need to install essential add-ons and tweak the configuration.
 - [Weloverss](https://weloverss.com/) – Another Web RSS-Reader.
 
 
@@ -3281,6 +3276,11 @@ Most network systems are by default not designed to be fully anonymous.
 - [Notmuchmail](https://notmuchmail.org/) – A fast mail indexer built on top of xapian.
 - [S-nail](https://www.sdaoden.eu/code.html#s-mailx) – S-nail provides a simple and friendly environment for sending and receiving mail.
 - [Thunderbird](https://www.thunderbird.net) – A free customizable open source email client.
+    - [Allow HTML Temp](https://addons.thunderbird.net/thunderbird/addon/allow-html-temp/) – Allows to have HTML temporarily enabled (and displayed) in the currently selected message by only one click. When switching to another message, it'll be shown automatically again in plain text or simple html mode (according to your settings).
+    - [MetaClean](https://addons.thunderbird.net/en-US/thunderbird/addon/metaclean-for-thunderbird/) – Removes metadata and hidden data in email attachments preventing the leakage of confidential information that occurs in this type of communication and avoiding possible economic and reputational damages derived from the malicious use of metadata. The add-on is controversial because it uploads every attachment into a Cloud, however an AV usually does the same to check against a reputation database.
+    - [pgpgeek](https://github.com/pgpgeek/pgpgeek) – Quick & easy PGP encryption / decryption tool using openPGP.js
+    - [Octopus](https://sequoia-pgp.org/blog/2021/12/13/202112-octopus/) – Alternative OpenPGP Back End for Thunderbird.
+    - [Betterbird](https://www.betterbird.eu/) – A fork of Mozilla Thunderbird with some extra candy in it, you still need to install essential add-ons and tweak the configuration.
 
 ### [CLI based eMail Clients](#cli-based-email-clients)
 - [Himalaya](https://github.com/soywod/himalaya) – A CLI based Email Client.
