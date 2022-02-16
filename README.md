@@ -5763,7 +5763,7 @@ Privacy oriented alternatives:
 - [UBIC Wallet](https://f-droid.org/en/packages/network.ubic.ubic/) – Wallet for the Unconditional Basic InCome.
 
 
-### Hardware Wallets](#hardware-wallets)
+### [Hardware Wallets](#hardware-wallets)
 
 You find an introduction into the hardware wallet market [here](https://99bitcoins.com/hardware-wallets/).
 
