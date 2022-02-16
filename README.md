@@ -7,8 +7,6 @@ This is my own collection I gathered over the years, written down into one singl
 
 ## [Do not drag me into so-called "privacy communities"](#do-not-drag-me-into-so-called-privacy-communities)
 
-![Image credit: Warner](https://i.imgflip.com/5vtcdw.jpg)
-
 I do not want to have anything to do with [PrivacyGuides](https://lemmy.ml/post/31433), [PrismBreak](https://news.ycombinator.com/item?id=6010803) or any other "privacy clown community". Please do not link me / my guides into such communities. The reason is simply, I want to stay unbiased and objective. I do not advertise tools to gain money/reputation or to get any benefit out of it. I fully stand behind listed products because I tested or reviewed them and can suggest them without hesitation.
 
 
@@ -6223,9 +6221,6 @@ Please keep in mind that every software and service is at some point fixable and
 My guide got copied already dozen of times without any credit, re-published on alt-right platforms [such as 4Chan](https://boards.4chan.org/g/thread/84302113). I do not allow anonymous and random troll accounts to use or link my guides without permission nor consent because I do not want that Nazis abuse my findings to harass, bully and dox others or to spread their propaganda. 4chan is the dirt the internet does not need, and this is not [even news](https://en.wikipedia.org/wiki/4chan).
 
 I never gave my permission to link or copy parts of my guidance on such websites because my intention is to help honest people who mean well and not people who abuse my findings and stuff for their questionable purposes.
-
-
-![Against nazis](https://pbs.twimg.com/media/FF2a5cPXIAQVSKy?format=jpg&name=medium)
 
 
 Do not bother nor give those platforms any clicks or attention. Mostly [filled with alt-right people and extremists](https://www.splcenter.org/peril-guide-online-youth-radicalization/). Some of listed projects are down for good. I do not link the evidence but ~~Google~~ searching and checking who is behind those platforms clearly shows that they are mostly alt-right winged, often used by people who got banned on legitimate social media platforms.
