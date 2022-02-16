@@ -3149,17 +3149,19 @@ Privacy oriented alternatives:
 Comparison of different services, check [this](https://digdeeper.neocities.org/ghost/email.html). And regarding security and emails check [this](https://lushka.al/truth-about-email). [Self-host your own Email server](https://www.c0ffee.net/blog/mail-server-guide).
 
 Not so good in terms of privacy:
+
 - [Gmail](https://www.theguardian.com/technology/2021/may/09/how-private-is-your-gmail-and-should-you-switch) – [Google does not use mail content to target ads, and does not sell mail content to third parties](https://www.blog.google/technology/safety-security/ensuring-your-security-and-privacy-within-gmail/). But [third-parties can get access on request](https://github.com/Lissy93/personal-security-checklist/blob/master/5_Privacy_Respecting_Software.md#encrypted-email).
 - Outlook / [Office 365](https://www.robin-data.io/en/data-protection-academy/news/data-protection-of-microsoft-office-365-in-the-criticism)
 - [Yandex Mail](https://mako.cc/copyrighteous/google-has-most-of-my-email-because-it-has-all-of-yours) – See [here](https://www.dailymail.co.uk/sciencetech/article-7894643/Privacy-concerns-Russias-popular-search-engine-Yandex-uses-facial-recognition.html).
 - [Yahoo! Mail](https://www.theverge.com/2018/8/28/17793964/how-to-opt-out-yahoo-mail-email-data-scanning-advertising)
 
 
-Privacy oriented alternatives:
-
 
 I will split the list in free-mailer and paid providers. Free mailer tend to use ads based systems to survive and are controversial because that might come with privacy implications.
 
+
+
+Privacy oriented alternatives:
 
 - [33Mail](https://33mail.com/) – Email alias service, including anonymous replies and custom domains.
 - [Anonymize.com Email](https://anonymize.com/) – Paid secure email service provided by Epik.com.
@@ -3187,7 +3189,6 @@ I will split the list in free-mailer and paid providers. Free mailer tend to use
 - [StartMail](https://www.startmail.com) – A private email service developed by the creators of StartPage.
 - [Thexyz](https://www.thexyz.com/) – A Canadian company offering privacy-conscious business email. Premium web-mail costs around USD $2.95 per month.
 - [Tutanota](https://tutanota.com/) – Secure email for everybody and open source. The provider [accepts Bitcoin or Monero](https://digitalgoods.proxysto.re/), see [here](https://tutanota.com/faq/#cryptocurrency). Tutanota doesn't allow the use of third-party email clients and there are [no plans to pull emails from external eMail accounts using the IMAP protocol](https://github.com/tutao/tutanota/issues/544#issuecomment-670473647). This means [eMail import is currently not possible](https://github.com/tutao/tutanota/issues/630).
-
 - [VFEmail](https://vfemail.net/) – Since 2001, VFEmail has provided businesses and end-users a quick and convenient way to ensure their own security when it comes to email.
 - [Webmail](https://www.webmail.co.za/register.php) – Free email service.
 - [Wasc](https://wasc.me/) – A German, anti-tracking mail service. Clean interface, trackers blocked, obfuscated addresses.
