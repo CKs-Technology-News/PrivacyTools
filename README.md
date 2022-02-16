@@ -4167,7 +4167,8 @@ Only unique tests are getting listed here, it makes no sense to list 1000+ pages
 - [Audio Fingerprint](https://audiofingerprint.openwpm.com/) – Possible to detect you on the same PC if you use different browsers / virtual environment.
 - [browserleaks](https://browserleaks.com/)
 - [browserspy](https://browserspy.dk/)
-- [canvasblocker](https://canvasblocker.kkapsner.de/test/) – Test you canvas in the different browsers, if they all have the same signature you are in trouble.
+- [CanvasBlocker Test](https://canvasblocker.kkapsner.de/test/) – Test you canvas in the different browsers, if they all have the same signature you are in trouble.
+- [CreepJS - Creepy device and browser fingerprinting.](https://abrahamjuliot.github.io/creepjs/)
 - [CSS exfil Vulnerability Tester](https://www.mike-gualtieri.com/css-exfil-vulnerability-tester)
 - [dnscookie](http://dnscookie.com/) – DNS cookies use DNS caches as a side-channel to identify related network flows.
 - [dnsleaktest](https://www.dnsleaktest.com/)
