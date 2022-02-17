@@ -1480,6 +1480,7 @@ Privacy oriented alternatives:
 ### [Self-hosted photo storage](#self-hosted-photo-storage)
 - [DAVx⁵](https://gitlab.com/bitfireAT/davx5-ose) – Synchronization solution for both contacts (CardDAV) and calendars (CalDAV). Requires a hosting server. Previously known as DAVdroid. (Price: 3.33€ (Google Play), Free (F-Droid))
 - [DigiKam](https://www.digikam.org/) – Awesome Professional Photo Management with the Power of Open Source.
+- [Garage](https://garagehq.deuxfleurs.fr/) – An open-source distributed storage service you can self-host to fullfill many needs.
 - [LibrePhotos](https://github.com/LibrePhotos/librephotos) – Active [OwnPhotos](https://github.com/hooram/ownphotos) fork. Self-hosted alternative to Google Photos.
 - [Lychee](https://lycheeorg.github.io/) – An open-source self-hosted photo-management tool that includes built-in support for videos.
 - [Nextcloud](https://nextcloud.com/) – The open source self-hosted productivity platform that keeps you in control. It has a [Photos](https://github.com/nextcloud/photos) plugin to help you organize and visualize your photos. E2EE is still unstable on Nextcloud, especially when it may cause data loss if the user did not backup their files and enabling it without knowing.
