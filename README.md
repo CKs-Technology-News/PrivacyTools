@@ -1743,7 +1743,6 @@ Not so good in terms of privacy:
 - iCloud – [Records call logs from phone, FaceTime, Skype, WhatsApp, and others](https://theintercept.com/2016/11/17/iphones-secretly-send-call-history-to-apple-security-firm-says/) + [no E2EE](https://www.reuters.com/article/us-apple-fbi-icloud-exclusive/exclusive-apple-dropped-plan-for-encrypting-backups-after-fbi-complained-sources-idUSKBN1ZK1CT)
 
 Privacy oriented alternatives:
-
 - [Cozy Cloud](https://cozy.io/) – French based cloud storage provider with free and paid plans. Can also be self-hosted and is open-source. And it also offers a collaborative notes editor.
 - [Csyncx](https://csync.org/userguide/) – Dropbox alternative only needs SFTP at server side.
 - [Diode](https://diode.io/) – For individuals and organizations who want to safeguard their digital sovereignty. It is a high security, end-to-end encrypted solution for file sharing, collaboration, and backup that prioritizes security and confidentiality.
@@ -3131,6 +3130,7 @@ Privacy oriented alternatives:
 - [LocalisationLab makes "FLOSS technology accessible through collaboration with developers, organizations, end users, and communities in need.](https://www.localizationlab.org/)
 - [OKFN - Open knowledge for a digital civil society](https://okfn.de/en/)
 - [Prototype Fund - We Fund Public Interest Tech](https://prototypefund.de/en/)
+- [Wikipedia Library: Free Access to Paywalled Resources for Wiki Editors](https://wikipedialibrary.wmflabs.org/)
 
 
 ## [Oculus Quest](#oculus-quest)
