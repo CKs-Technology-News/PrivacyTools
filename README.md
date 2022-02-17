@@ -746,6 +746,7 @@ Privacy oriented alternatives:
 - [Andi](https://andisearch.com/) – A new generation anonymous and ad-free search engine it provides relevant results via auto-learning A.I.
 - [Blinde Kuh](https://www.blinde-kuh.de/) – Search engine designed for our kids, made in Germany.
 - [Ekoru](https://ekoru.org/) – Privacy focused search engine that also aims to clean up the oceans.
+- [Entfer](https://entfer.com/) – A new search engine that lets you control the ordering of search results.
 - [Esteroids](https://esteroids.eth.limo/) – A search engine for ENS+IPFS websites.
 - [Gibiru](https://gibiru.com/) – Search Provider since 2009.
 - [Givero](https://www.givero.com/) – Donates a large part of it’s gross revenue to Non-Profit organizations.
