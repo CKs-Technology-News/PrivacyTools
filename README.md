@@ -4375,7 +4375,7 @@ Controversial:
 
 
 Not so good in terms of privacy:
-- [Adobe Analytics](https://rudderstack.com/blog/8-google-analytics-alternatives-enterprise-and-open-source/)
+- [Adobe Analytics](https://rudderstack.com/blog/8-google-analytics-alternatives-enterprise-and-open-source/), see [Adobe Analytics and GDPR](https://cunderwood.dev/2022/02/16/adobe-analytics-and-gdpr/).
 - [Countly](https://count.ly/) – Website analytics, product analytics, experimentation, plugins.
 - Facebook
 - [Google Analytics - Some facts about Google Analytics data privacy](https://blog.google/around-the-globe/google-europe/google-analytics-facts/).
