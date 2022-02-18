@@ -4548,6 +4548,7 @@ Privacy oriented alternatives:
 - [C64 TrueType (TTF) Fonts](https://style64.org/c64-truetype) – Downloadable C64 TrueType (TTF) Fonts.
 - [Font Squirrel](https://www.fontsquirrel.com/) – Free fonts have met their match.
 - [Fontless](https://fontless.varld.co/) – The easiest way to self-host Google Fonts.
+- [fonts](https://github.com/coollabsio/fonts) – Another privacy-focused Google Fonts alternative.
 - [fontsource](https://github.com/fontsource/fontsource) – An updating monorepo full of self-hostable Open Source fonts bundled into individual NPM packages.
 - [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/) – Hassle-Free Way to Self-Host Google Fonts.
 - [OpenFoundry](https://open-foundry.com/) – A new platform for open-source fonts in a noise-free environment, to highlight their beauty, extend functionality and encourage further exploration.
