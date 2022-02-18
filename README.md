@@ -235,10 +235,12 @@ Privacy oriented alternatives:
 - [Learn Out Loud](http://www.learnoutloud.com/) – An audio eBook store where users can purchase CDs or MP3 downloads of books, ranging from educational non-fiction to classic fiction like Herman Hesse's Siddhartha.
 - [LibriVox](http://librivox.org/) – A wonderful archive of audio eBooks, completely free from DRM. Highlights include recordings of Jane Austen's Pride and Prejudice, L. Frank Baum's The Wizard of Oz, and Lewis Carrol's Alice in Wonderland.
 - [libro.fm](https://libro.fm/) – Is a purveyor of audiobooks. Files from libro.fm are directly downloadable, though they also have an app which may not be free software.
+- [Lit2Go](https://etc.usf.edu/lit2go/) – A free online collection of stories and poems in mp3 (audiobook) format. The website contains analytics to track statistics.
 - [Naxos Audiobooks](http://www.naxosaudiobooks.com/) – A variety of contemporary and classical audio books, without DRM and in the MP3 format.
 - [Book D'Oreille](https://bookdoreille.com/fr/titres-gratuits) – French language audio books, sans DRM.
 - [Podiobooks/Scribl](https://scribl.com/info/podiobooks-now-scribl/) – Audiobooks that are are free to download and share.
 - [Telltale Weekly](http://alexwilson.com/telltale/) – A one-stop source for audiobooks, including the work of Mark Twain, Charles Dickens, H.G. Wells and Edgar Allen Poe. Starting from $1, enjoy these beautiful readings of classic stories. What's more, every file is free of DRM and guaranteed to play on any music player you own. Accepts payments in PayPal or BitPass.
+
 
 ## [Audiobook Player](#audiobook-player)
 - [aesopPlayer](https://github.com/DonnKey/aesopPlayer) – An audio book player with emphasis on the elderly and visually impaired.
