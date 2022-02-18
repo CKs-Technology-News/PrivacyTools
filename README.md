@@ -3715,6 +3715,9 @@ Privacy oriented alternatives:
 - [ncspot](https://github.com/hrkfdn/ncspot) – Cross-platform nurses Spotify client written in Rust, inspired by ncmpc and the likes.
 - [psst](https://github.com/jpochyla/psst) – Fast and multi-platform Spotify client with native GUI.
 
+### [Spotify Tools](#spotify-tools)
+- [Spoqify](https://spoqify.com/) – Replace 't' with 'q' in a Spotify URL to remove personalization.
+
 
 ## [Deezer Alternative clients](#deezer-alternative-clients)
 - [dzr](https://github.com/yne/dzr) – Command line Deezer player for Linux, BSD, Android + Termux.
