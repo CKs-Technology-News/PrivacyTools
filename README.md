@@ -2,6 +2,9 @@
 
 This is my own collection I gathered over the years, written down into one single file which anyone can freely access. I do claim that the listed tools are good enough alternatives to e.g. Google, Microsoft etc. products. I believe it's an important piece of democracy that we have the right to be anonymous and free of tracking in our personal life, this is why I've created this list in the first place. I do [not believe](https://numair.medium.com/competitive-losers-e4e8cf06bda9) in any [competition](https://rugpullindex.com/blog#IsCompetitionForLosers), which means listed tools/products are not in any competition to each one another and I do not get paid nor sponsored showing them on my page.
 
+I decided to go with the name - Privacy Tools - not to bait someone or under the false premise that those make you automatically more private, I moreover decided to use that name for people who are interested in alternative programs that are overall designed - for the user - and not entirely for only profit. This does not mean you should stop supporting open source developers, but listed tools are hand picked with best intentions and research behind.
+
+
 ## [Do not drag me into so-called "privacy communities"](#do-not-drag-me-into-so-called-privacy-communities)
 
 I do not want to have anything to do with [PrivacyGuides](https://lemmy.ml/post/31433), [PrismBreak](https://news.ycombinator.com/item?id=6010803) or any other "privacy clown community". Please do not link me / my guides into such communities. The reason is simply, I want to stay unbiased and objective. I do not advertise tools to gain money/reputation or to get any benefit out of it. I fully stand behind listed products because I tested or reviewed them and can suggest them without hesitation.
