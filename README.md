@@ -769,6 +769,7 @@ Metasearch engines use another search engine's data to produce its own [results 
 Be careful if you use public instances, this applies to every self-hosted public instance, and is not an exclusive search engine warning. Similar like with Tor nodes, anyone with bad intentions can set up a “rogue” instance and [potentially log user activity](https://asciimoo.github.io/searx/user/own-instance.html).
 
 
+- [Approach Zero](https://approach0.xyz/search/) – A math-aware search engine.
 - [Ecosia](https://www.ecosia.org/) – A search engine based in Berlin, Germany which uses Bing as upper layer.
 - [Givero](https://www.givero.com/) – Based in Denmark, Givero offers more privacy than Google and combines search with charitable donations.
 - [Hello](https://beta.sayhello.so/) – A conversational search engine powered by transformers. - **controversial**
