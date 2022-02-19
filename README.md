@@ -1040,6 +1040,7 @@ Privacy oriented alternatives:
 - [dismail](https://dismail.de/info.html#dns)
 - [Digitalcourage](https://digitalcourage.de/support/zensurfreier-dns-server)
 - [Digitale Gesellschaft](https://www.digitale-gesellschaft.ch/dns/)
+- [DNS.SB](https://dns.sb/)
 - [dnsforge.de](https://dnsforge.de/)
 - [ffmuc.net](https://ffmuc.net/)
 - [LibreDNS](https://libredns.gr/)
