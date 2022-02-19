@@ -4679,6 +4679,7 @@ Privacy oriented alternatives:
 
 
 ## [Data deletion services](#data-deletion-services)
+- [Django-GDPR-assist](https://github.com/wildfish/django-gdpr-assist) – Tools to help manage user data in the age of GDPR.
 - [JustGetMyData and JustDeleteMe](https://justgetmydata.com/) – JustGetMyData and JustDeleteMe are websites that help you obtain and/or delete your data from multiple services.
 - [lethe](https://github.com/rafael-santiago/lethe) – A cross-platform data wiping tool that implements data destruction.
 
