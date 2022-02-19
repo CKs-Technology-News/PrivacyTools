@@ -666,6 +666,9 @@ Electron Framework is in general more [heavy on resources](https://blog.logrocke
 - [Void](https://github.com/josephernest/void) – Static pages and blog articles are possible.
 
 
+### [Blogging Tools](#blogging-tools)
+- [markdown_ss](https://github.com/rysolv/markdown_ssg) – Ultra minimal markdown static site generator.
+
 ## [CMS](#cms)
 - [Contentful](https://www.contentful.com/) – One of the most popular CMS.
 - [Post](https://blog.cloudflare.com/production-saas-intro/) – Cloudflares own CMS. If you already trust CL, then use all of their products. - **controversial**
