@@ -4729,6 +4729,9 @@ Privacy oriented alternatives:
 - [Termux](https://f-droid.org/packages/com.termux/) – Simple Android Terminal app.
 - [Webinstall.dev](https://webinstall.dev/) – Install developer tools simply from the command line.
 
+### [Mobile Developer Tools](#mobile-developer-tools)
+- [Mozilla Webmaker](https://foundation.mozilla.org/en/artifacts/webmaker/) – Various web dev tools.
+
 
 ### [Code and Text Editors](#code-and-text-editors)
 - [Atom](https://atom.io) – A hackable text editor for the 21st Century.
