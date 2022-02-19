@@ -3444,6 +3444,7 @@ Privacy oriented alternatives:
 - [Mumla (client for Mumble)](https://mumla-app.gitlab.io/) – Third-party Android client for Mumble.
 - [MiroTalk](https://github.com/miroslavpejic85/mirotalk) – Video up to 4k and 60 FPS WebRTC P2P open source and self-hosted.
 - [PeerCalls](https://peercalls.com/) – Group peer to peer video calls for everyone written in Go and TypeScript.
+- [Pyrite](https://garage44.org/posts/pyrite/pyrite-conferencing.html) – Open source video conferencing.
 - [Zoom](https://sfu.mirotalk.org/) – Google meet Open Source alternative for smart working.
 
 
