@@ -5191,6 +5191,7 @@ Provided guidance are provided as-is.
 - [Basic and practical security tips for Linux by Jesse Smith](https://distrowatch.com/weekly.php?issue=20220124#qa)
 - [Beginner's Guide to Social Media Verification](https://www.bellingcat.com/resources/2021/11/01/a-beginners-guide-to-social-media-verification/)
 - [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/)
+- [CISA Compiles Free Cybersecurity Services and Tools for Network Defenders](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/18/cisa-compiles-free-cybersecurity-services-and-tools-network)
 - [CUPS Server Security](https://www.cups.org/doc/security.html)
 - [Cyber security in the public cloud](https://www.infoworld.com/article/3634111/cyber-security-in-the-public-cloud.html) – A brief guide to the network, infrastructure, data, and application security capabilities AWS, Microsoft Azure, and Google Cloud provide to prevent cyber-attacks and protect your cloud-based resources and workloads.
 - [Cyber Security Trends of 2021](https://deduce.today/blog/posts/1-cybersecurity-trends-2021)
