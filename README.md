@@ -3191,6 +3191,7 @@ Privacy oriented alternatives:
 - [StartMail](https://www.startmail.com) – A private email service developed by the creators of StartPage.
 - [Thexyz](https://www.thexyz.com/) – A Canadian company offering privacy-conscious business email. Premium web-mail costs around USD $2.95 per month.
 - [Tutanota](https://tutanota.com/) – Secure email for everybody and open source. The provider [accepts Bitcoin or Monero](https://digitalgoods.proxysto.re/), see [here](https://tutanota.com/faq/#cryptocurrency). Tutanota doesn't allow the use of third-party email clients and there are [no plans to pull emails from external eMail accounts using the IMAP protocol](https://github.com/tutao/tutanota/issues/544#issuecomment-670473647). This means [eMail import is currently not possible](https://github.com/tutao/tutanota/issues/630).
+- [Ubikom](https://github.com/regnull/ubikom) – Decentralized E2EE email service.
 - [VFEmail](https://vfemail.net/) – Since 2001, VFEmail has provided businesses and end-users a quick and convenient way to ensure their own security when it comes to email.
 - [Webmail](https://www.webmail.co.za/register.php) – Free email service.
 - [Wasc](https://wasc.me/) – A German, anti-tracking mail service. Clean interface, trackers blocked, obfuscated addresses.
