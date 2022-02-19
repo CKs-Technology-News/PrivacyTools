@@ -752,6 +752,7 @@ Privacy oriented alternatives:
 - [Esteroids](https://esteroids.eth.limo/) – A search engine for ENS+IPFS websites.
 - [Gibiru](https://gibiru.com/) – Search Provider since 2009.
 - [Givero](https://www.givero.com/) – Donates a large part of it’s gross revenue to Non-Profit organizations.
+- [Goopt](https://github.com/jokenox/Goopt) – Search Engine for a Procedural Simulation of the Web with GPT-3.
 - [MetaGer](https://metager.org/) – Search engine project from the registered nonprofit organization SUMA E.V. in Germany. There is an .de and .org domain, one is for german and the .org domain is for english results.
     - [Gigablast](http://gigablast.com/) – A search provider focused on privacy and one of only a handful of search engines in the US that maintains its own index of over a billion pages.
 - [Okeano](https://okeano.com/) – Claims to not store any [identifiable information](https://okeano.com/privacy).
