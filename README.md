@@ -2404,6 +2404,8 @@ Privacy oriented alternatives:
   - Official instance is [https://bibliogram.art](https://bibliogram.art/)
 - [Imginn](https://imginn.com/) – An online instagram backup tool that helps users save instagram photos through the instagram public API. The website contains trackers and the service is not FOSS. - **controversial**
 
+### [Instagram Tools](#instagram-tools)
+- [Instagram Scraper](https://github.com/arc298/instagram-scraper) – Scrapes an Instagram user's photos and videos.
 
 ### [YouTube](#youtube)
 
