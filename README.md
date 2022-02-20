@@ -1139,37 +1139,37 @@ I do not list the original Pihole project in this section since I think AdGuard 
 - [Eva Icons](https://akveo.github.io/eva-icons) – Eva Icons is a pack of more than 480 beautifully crafted Open Source icons for common actions and items.
 - [Feather](https://feathericons.com/) – A collection of simply beautiful open source icons.
 - [feather](https://github.com/feathericons/feather) – Simply beautiful open source icons.
-- [flaticon](https://www.flaticon.com/) – 1,468,000 vector icons grouped in 30,310 packs.
+- [flaticon](https://www.flaticon.com/) – 1M+ vector icons grouped in 30k packs.
 - [Font Awesome](http://fontawesome.io/) – Scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS.
 - [Foundation Icon Fonts 2](http://zurb.com/playground/foundation-icons) – Custom icon sets that are stored in a handy web font and are coded to be more accessible. A couple lines of CSS and the right markup will get you going in no time.
-- [Foundation Icon Fonts 3](http://zurb.com/playground/foundation-icon-fonts-3) – A custom collection of 283 icons.
+- [Foundation Icon Fonts 3](http://zurb.com/playground/foundation-icon-fonts-3) – A custom collection of lots of icons.
 - [Glyphicons](http://glyphicons.com/) – Is a library of precisely prepared monochromatic icons and symbols, created with an emphasis to simplicity and easy orientation.
 - [Google Material Design Icons, by Google](https://design.google.com/icons/) – Official Google Material Design Icons.
-- [Govicons](http://govicons.io/) – Gov Icons is a font and CSS toolkit with 115 government themed icons.
+- [Govicons](http://govicons.io/) – Gov Icons is a font and CSS toolkit with over 100 government themed icons.
 - [Heroicons](https://github.com/refactoringui/heroicons) – A set of free MIT-licensed high-quality SVG icons for UI development.
-- [Icofont](https://icofont.com/) – 2100+ free icons to spice up your creative designs.
-- [icoMoon](https://icomoon.io) – 490+ free Icons.
+- [Icofont](https://icofont.com/) – 5k free icons to spice up your creative designs.
+- [icoMoon](https://icomoon.io) – 500+ free Icons.
 - [Iconic.app](https://iconic.app/) – Free, “do wtf you want with” pixel-perfect SVG icons.
-- [Iconic](https://useiconic.com/open/) – An open source icon set with 223 marks in SVG, webfont and raster formats.
-- [iconmonstr](http://iconmonstr.com/) – Discover over 3000 free simple icons in various collections.
+- [Iconic](https://useiconic.com/open/) – An open source icon set with 300 marks in SVG, webfont and raster formats.
+- [iconmonstr](http://iconmonstr.com/) – Discover over 3k free simple icons in various collections.
 - [icons](https://github.com/twbs/icons) – Official open source SVG icon library for Bootstrap.
-- [icons8](https://icons8.com/) – 70,900 Free Flat Icons.
-- [IconSweets2](https://www.designbombs.com/iconsweets2/) – Is a huge set containing over 1,000 custom designed icons. IconSweets 2 will quench your icon thirst for all your iPhone, iPad & Android apps or new web projects.
+- [icons8](https://icons8.com/) – 70k Free Flat Icons.
+- [IconSweets2](https://www.designbombs.com/iconsweets2/) – Is a huge set containing over 1k custom designed icons. Icon Sweets 2 will quench your icon thirst for all your iPhone, iPad & Android apps or new web projects.
 - [Ionicons](http://ionicons.com/) – The premium icon font for Ionic Framework.
 - [IconShock](https://www.iconshock.com/freeicons/) – Over 100k free icons, icons are taken from open source projects and then they got optimized.
 - [Jam Icons](https://jam-icons.com/) – Jam icons is a set of icons designed for web projects, illustrations, print projects, etc. Shipped in JavaScript, font & SVG versions.
 - [Marka](http://fian.my.id/marka/) – 36 Beautiful transformable icons.
 - [Octicons](https://octicons.github.com/) – All GitHub's icons.
 - [Pepicons](https://pepicons.com) – Pepicons is a completely original 80s themed set of hand-crafted icons, made in two retro variants: Pop! and Print.
-- [pictonic](https://pictonic.co) – Over 260+ free icons.
+- [pictonic](https://pictonic.co) – Over 300+ free icons.
 - [Remix Icon](https://remixicon.com/) – Remix Icon is a set of open-source neutral-style system symbols elaborately crafted for designers and developers.
 - [RPG-Awesome](https://nagoshiashumari.github.io/Rpg-Awesome/) – A fantasy themed font and CSS toolkit.
 - [Simple icons](https://github.com/simple-icons/simple-icons) – Over 1000 Free SVG icons for popular brands.
 - [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) – Miniscule SVG versions of website and app logos, under 1KB each.
-- [svg-icon](https://github.com/leungwensen/svg-icon) – An ultimate svg icons collection done right, with over 4,000 SVG icons out of the box.
+- [svg-icon](https://github.com/leungwensen/svg-icon) – An ultimate svg icons collection done right, with over 5k SVG icons out of the box.
 - [teenyicons](https://teenyicons.com/) – Tiny minimal 1px icons designed to fit in the smallest places.
-- [Themify Icons](https://themify.me/themify-icons) – Themify Icons is a complete set of icons for use in web design and apps, consisting of 320+ pixel-perfect, hand-crafted icons that draw inspiration from Apple iOS 7.
-- [TheNounProject](https://thenounproject.com/) – Search over 150,000 icons designed by creators from around the world.
+- [Themify Icons](https://themify.me/themify-icons) – Themify Icons is a complete set of icons for use in web design and apps, consisting of 500+ pixel-perfect, hand-crafted icons that draw inspiration from Apple iOS 7.
+- [TheNounProject](https://thenounproject.com/) – Search over 150k icons designed by creators from around the world.
 - [uiw-icons](https://uiwjs.github.io/icons) – The premium icon font for UIW Framework.
 - [zondicons](http://www.zondicons.com/) – A set of free premium SVG icons for you to use on your digital products.
 
