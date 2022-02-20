@@ -2441,6 +2441,7 @@ Privacy oriented alternatives:
 - [Bastyon](https://bastyon.com/) – Alternative media network to YouTube.
 - [yattee](https://github.com/yattee/yattee) – Alternative YouTube front-end for iOS, tvOS and macOS built with Invidious and Piped.
 - [Piped](https://github.com/TeamPiped/Piped) – The Privacy-friendly [YouTube frontend](https://piped.kavin.rocks/) and alternative that's efficient by design.
+- [New Piped UIl](https://ui-v2.piped.pages.dev/) – Similar like Piped Material.
 - [Piped Material](https://github.com/mmjee/Piped-Material) – A fork of Piped, focusing on better performance and a more usable design.
 - [Plumber](https://github.com/keshavbhatt/plumber) – Local and remote video trimmer, can trim parts of video without downloading whole video, utilizes youtube-dl, allows conversion to GIFs.
 - [Invidious](https://github.com/iv-org/invidious) – Alternative and privacy respecting YouTube front-end. Most instances that use invidious still need JavaScript enabled despite the claim on the GitHub claim that invidious does not need JavaScript.
