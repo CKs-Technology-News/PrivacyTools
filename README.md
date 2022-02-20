@@ -1374,6 +1374,7 @@ Before someone wrongly interpret this as "he uses those listed extensions himsel
 - [Language Switch by Manuel Reimer](https://addons.mozilla.org/en-US/firefox/addon/languageswitch/) – Allows to change the language identifier sent to webservers to whatever language you need.
 - [LibreJS](https://www.gnu.org/software/librejs/) – Allows to change the language identifier sent to webservers to whatever language you need. GNU LibreJS aims to address the JavaScript problem described in Richard Stallman's article The JavaScript Trap.
 - [Tab Session Manager](https://github.com/sienori/Tab-Session-Manager) – A simple session manager. You can quickly save your current browser state and reload it whenever necessary.
+- [LibRedirect](https://github.com/libredirect/libredirect) – A web extension that redirects YouTube, Twitter, Instagram... requests to alternative privacy friendly frontends and backends.
 - [Old Reddit Redirect](https://github.com/tom-james-watson/old-reddit-redirect) – Ensure Reddit always loads the old design.
 - [Prevent CSS Exfil attack](https://github.com/mlgualtieri/CSS-Exfil-Protection) – Not needed with Tor Browser.
 - [Privacy-Oriented Origin Policy](https://addons.mozilla.org/en-US/firefox/addon/privacy-oriented-origin-policy) – Prevent Firefox from sending Origin headers when they are least likely to be necessary, to protect your privacy.
