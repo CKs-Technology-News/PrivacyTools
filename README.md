@@ -5761,6 +5761,7 @@ Privacy oriented alternatives:
 
 ## [URL Protection Tools](#url-protection-tools)
 - [leon](https://github.com/svenjacobs/leon) – Android app for removing tracking parameters from shared URLs.
+- [This Link Will Self-Destruct](https://thislinkwillselfdestruct.com/) – This link will self destruct allows you to create and share links that self-destruct after a set numbers of views, or at a point in time.
 - [Url checker](https://f-droid.org/en/packages/com.trianguloy.urlchecker/) – Allows you to analyze (or share) urls before opening them.
 
 
