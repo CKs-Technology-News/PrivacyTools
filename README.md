@@ -5097,6 +5097,10 @@ The main reason why some VPN provider adding it is not security, or privacy, it 
 - [Bouncer (paid + NOT FOSS)](https://play.google.com/store/apps/details?id=com.samruston.permission) – Gives you the ability to grant permissions temporarily. Want to tag a location or take a photo, but don't want that app to be able to use the camera or get your location whenever it wants?
 
 
+## [Threat Monitoring](#threat-monitoring)
+- [MISP](https://www.misp-project.org/) – Open-source threat intelligence and sharing platform.
+
+
 ## [Tor](#tor)
 
 **This section is not finished.**
