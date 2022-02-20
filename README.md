@@ -1178,10 +1178,11 @@ I do not list the original Pihole project in this section since I think AdGuard 
 - [Articons](https://f-droid.org/packages/com.donnnno.arcticons) – A line-based icon pack with over 2100 icons! Originally forked from Frost, but rebuild with consistent sizing and adjustments specifically for lines in mind.
 
 
-### [Icon Tools](#icon-tools)
+### [Icon and SVG Tools](#icon-and-svg-tools)
 - [fontello](http://fontello.com/) – Icon fonts generator.
 - [Orion icon library](https://orioniconlibrary.com/) – Generate icon fonts or download icons in multiple formats.
 - [LibreSprite](https://github.com/LibreSprite/LibreSprite) – Animated sprite editor & pixel art tool.
+- [Penpot](https://github.com/penpot/penpot) – The Open-Source design & prototyping platform.
 - [svg-icon](http://leungwensen.github.io/svg-icon/) – Select as many SVG icons as you need, and download as an SVG symbols sprite file.
 - [svgtofont](https://github.com/jaywcjlove/svgtofont) – Read a set of SVG icons and output a TTF/EOT/WOFF/WOFF2/SVG font.
 
