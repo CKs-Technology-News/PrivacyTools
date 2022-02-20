@@ -18,7 +18,7 @@ I, among others depend on evidence - findings and sources - from third-parties, 
 - Sources are often protected, or obfuscated, renamed to protect individual people. Some reporters do not even bother to link to a specific source at all.
 - Screenshots can be faked easily, same like text and timestamps. Everyone can access eg. Adobe Photoshop, Gimp, online tools etc. You do not have to be skilled to do such things. [‘Evidence’ means and includes All documents including electronic records produced for the inspection of the Court](https://indianlegalsolution.com/can-screenshots-be-submitted-as-evidence-or-not/).
 - You cannot, in most cases contact FBI etc. to verify statements because they do not answer you directly even if you are an actual reporter, getting in touch takes lots of time and effort. Writing an eMail to feds, Google and Co. only results that you get an automated Bot answer back.
-- External links, content and claims by others are by no means ultimate proof, but it gives someone a glimpse that there is something wrong or revealed.
+- External links, content and claims by others are by no means ultimate proof, but it gives someone a glimpse that there is something wrong or revealed. [Absence of evidence theory still can have meaning](https://stats.stackexchange.com/questions/512678/absence-of-evidence-is-not-evidence-of-absence-what-does-bayesian-probability-h).
 - Verification of some statements are impossible to reproduce unless you have access, or are you skilled enough eg. doing an audit yourself or hire someone professional. Most people have no time, and no skill to audit a program or review something on a professional level because it consumes time, you need coding skills and the understanding how to spot certain patterns which you only obtain if you deeply involved into such topics. Professional people usually taking money for the time they do to audit software.
 - Things can change in the meantime or the media forgot some stuff to include in their reports, it happens all the time. Newspapers and news have these days almost no trust.
 - Some news, articles spread, on purpose misinformation, there is political motivation, there are feds that give reporters on purpose wrong information or lead parts out and so on.
@@ -626,7 +626,7 @@ Electron Framework is in general more [heavy on resources](https://blog.logrocke
 - [ATutor](https://atutor.github.io/) – Web-based Learning Content Management System (LCMS).
 - [Chamilo](http://www.chamilo.org/) – Web-based e-learning and content management system.
 - [Claroline](http://claroline.net/) – Collaborative Learning Management System.
-- [DoceboLMS](http://docebo.com/) – SAAS/cloud platform for learning.
+- [DoceboLMS](https://www.docebo.com/) – SAAS/cloud platform for learning.
 - [eFront](http://www.efrontlearning.net/) – Icon-based learning management system.
 - [FlightPath](http://getflightpath.com/) – Academic advising software for universities.
 - [GCompris](https://gcompris.net/) – Educational entertainment, aimed at children aged 2–10.
