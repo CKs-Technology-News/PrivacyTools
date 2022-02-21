@@ -3446,7 +3446,7 @@ Privacy oriented alternatives:
 - [Jami (formely Ring)](https://jami.net/) – Distributed universal and secure Free Software for multimedia communications.
 - [Jitsi Meet](https://meet.jit.si/) – More secure, more flexible, and completely free video conferencing. It does not need any account or installation. You find an [instances list over here](https://jitsi.github.io/handbook/docs/community/community-instances). Jitsi itself [currently does not support OMEMO](https://github.com/jitsi/jitsi/issues/199#issuecomment-170175764).
     - [Brave Talk](https://brave.com/talk/) – Based on Jitsi integrated into Brave Browser.
-- [kMeet](https://github.com/Infomaniak/android-infomaniak-meet) – Free and secure videoconferencing solution for Android.
+- [kMeet](https://github.com/Infomaniak/android-infomaniak-meet) – Free and secure videoconferencing solution for Android and iOS.
 - [Mumla (client for Mumble)](https://mumla-app.gitlab.io/) – Third-party Android client for Mumble.
 - [MiroTalk](https://github.com/miroslavpejic85/mirotalk) – Video up to 4k and 60 FPS WebRTC P2P open source and self-hosted.
 - [PeerCalls](https://peercalls.com/) – Group peer to peer video calls for everyone written in Go and TypeScript.
