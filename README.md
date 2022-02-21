@@ -3501,6 +3501,7 @@ For mobile please check the file manager section, most file manager include such
 
 ## [Microsoft Exchange](#microsoft-exchange)
 - [Grommunio](https://grommunio.com/) – The most advanced solution in communication and collaboration, a platform for everyone.
+- [Internxt](https://github.com/internxt) – An Open Source Encrypted Cloud Service With Native Linux Client.
 - [Kopano](https://kopano.com/) – From the German-Dutch software manufacturer Kopano, is also AGPLv3-licensed and based on the Zarafa software stack.
 - [Nextcloud](https://nextcloud.com/) – Like in ownCloud or Dropbox, users can access the software suite via their desktops (Windows, Linux, and macOS), web browsers, or native apps (Android and iOS).
 - [ownCloud](https://owncloud.com/) – The core of the client-server software and many community apps are published under the AGPLv3.
