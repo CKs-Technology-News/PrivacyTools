@@ -271,7 +271,6 @@ Privacy oriented alternatives:
 - [master_librarian](https://github.com/CoolerVoid/master_librarian) – A simple tool to audit Unix/*BSD/Linux system libraries to find public security vulnerabilities.
 
 
-
 ## [Audio Recording](#audio-recording)
 - [AudioMass](http://audiomass.co/) – Audio waveform editor in your browser. Ability to record is planned but limited based on what Audio APIs are supported by the OS and Browser.
 - [Audio Recorder](https://gitlab.com/axet/android-audio-recorder/) – Record audio files, clean and simple.
@@ -283,6 +282,7 @@ Privacy oriented alternatives:
 - [Waveshop](https://waveshop.sourceforge.net/) – Free open source audio recorder software for Windows.
 
 ### [Mobile Audio Recording](#mobile-audio-recording)
+- [AudioNotes](https://github.com/certified84/AudioNote) – A simple Android app allowing you to take voice recordings. It supports light and dark themes, lets you save and edit your recordings.
 - [Audio Recorder for Android](https://f-droid.org/packages/com.github.axet.audiorecorder/) – Audio recorder for Android with custom recording folder, nice recording volume indicator, recording notification, recording lock screen activity.
 - [Audio recorder (Voice recorder, Sound recorder)](https://github.com/Dimowner/AudioRecorder) – An application that gives easy audio recording experience. This app is optimized to start up as fast as possible, aiding the user in not missing important sounds.
 - [Simple Voice Recorder - Record any audio easily](https://f-droid.org/packages/com.simplemobiletools.voicerecorder/) – An easy way of recording any discussion or sounds without ads or internet access.
