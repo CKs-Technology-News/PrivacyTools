@@ -2838,6 +2838,7 @@ The overall best strategy is that you post only useful or helpful stuff on platf
 - [Fake Face Generator](https://generated.photos/face-generator) – Unique real-time face generator.
 - [Fake Name generator](https://www.fakenamegenerator.com/) – Generate fake names.
 - [Not a real Human](http://notarealhuman.com/) – Random AI generated faces that can be used as profile pictures, avatars etc on social media platforms.
+- [Random Face Generator](https://github.com/adityar224/Random-Face-Generator) – A Cross-Platform app to Generate Faces of non-existing People.
 - [This Person does not Exists](https://thispersondoesnotexist.com/) – AI that generates faces which you freely can use. There is also the same for [cats](https://thiscatdoesnotexist.com/).
 - [This is not a Person](https://thisisnotaperson.com/) – AI that generates fake persons.
 - [Which Face Is Real?](https://www.whichfaceisreal.com/) – Seeing through the illusions of a fabricated world, small game you can play.
