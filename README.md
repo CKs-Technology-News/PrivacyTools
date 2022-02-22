@@ -2843,8 +2843,9 @@ The overall best strategy is that you post only useful or helpful stuff on platf
 - [This is not a Person](https://thisisnotaperson.com/) – AI that generates fake persons.
 - [Which Face Is Real?](https://www.whichfaceisreal.com/) – Seeing through the illusions of a fabricated world, small game you can play.
 
+
 ### [Streaming Platforms (e.g. Twitch)](#streaming-platforms-eg-twitch)
-Avoid using platforms as Twitch, Patreon, YouTube as they are very privacy-invasive with your viewers (and you!). Instead, you can try using some self-hosted platforms that do take care of everyone's privacy.
+Avoid using platforms such as Twitch, Patreon, YouTube because they are very privacy-invasive with viewers and you. Instead, you can try using some self-hosted platforms that do take care of everyone's privacy.
 
 Privacy oriented alternatives:
 - [Altair](https://altair.tv/) – Is an up-and-coming streaming platform. Not fully FOSS.
