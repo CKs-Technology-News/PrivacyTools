@@ -5024,6 +5024,7 @@ The main reason why some VPN provider adding it is not security, or privacy, it 
 
 ### [Self-manageable VPNs](#self-manageable-vpns)
 - [algo](https://github.com/trailofbits/algo) – Install WireGuard VPN with a simple script.
+- [Amnezia VPN](https://en.amnezia.org/) – Your own self-hosted VPN.
 - [DigitalOcean self-hosted VPN](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-16-04) – Guide for self-hosted VPN on Digital Ocean.
 - [Docker AWS VPN](https://gist.github.com/glennschler/63e3c3f93038cddb5204) – Guide for self-hosting VPN on AWS with docker.
 - [GlobalProtect openconnect](https://github.com/yuezk/GlobalProtect-openconnect) – A GlobalProtect VPN Client (GUI) for Linux, Support SAML.
