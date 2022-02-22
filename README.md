@@ -4256,6 +4256,7 @@ Only unique tests are getting listed here, it makes no sense to list 1000+ pages
 - [Pegasus](https://pegasus-frontend.org) – A cross platform front-end for launching emulators and managing your game collection.
 - [Playnite](https://playnite.link/) – An open source video game library manager.
 - [PlayOnLinux](https://www.playonlinux.com) – A tool to help Linux, MacOS users run games and programs for Windows.
+- [PlayStation 2 Emulator in a Web Browser](https://playjs.purei.org/) – Open Source PlayStation 2 Emulator in a Web Browser.
 - [RetroArch](https://retroarch.com) – A front-end for emulators, game engines and media players.
 - [vAmiga](https://github.com/dirkwhoffmann/vAmiga/) – macOS Amiga emulator.
 - [Winetricks](https://github.com/Winetricks/winetricks) – An easy way to work around problems in Wine.
