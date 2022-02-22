@@ -4534,13 +4534,15 @@ In May 2020 Keybase was acquired by [Zoom](https://keybase.io/blog/keybase-joins
 - [xremap](https://github.com/k0kubun/xremap) – Dynamic key remapper for X11 and Wayland, written in Rust for Linux.
 
 ### [Mobile Key Remapper](#mobile-key-remapper)
-- [KeyMapper](https://github.com/keymapperorg/KeyMapper) – change what the buttons do, the Android app is on Google Play Store and F-Droid.
+- [KeyMapper](https://github.com/keymapperorg/KeyMapper) – Change what the buttons do, the Android app is on Google Play Store and F-Droid.
 
 
 ## [Office Apps](#office-apps)
+
 Not so good in terms of privacy:
 - [Microsoft Office](https://docs.microsoft.com/en-us/deployoffice/compat/deploy-telemetry-dashboard)
 - Google Docs
+
 
 Privacy oriented alternatives:
 - [AbiWord](http://www.nl.abisource.com) – A free word processing program similar to Microsoft Word.
