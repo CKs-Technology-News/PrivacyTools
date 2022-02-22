@@ -4533,6 +4533,9 @@ In May 2020 Keybase was acquired by [Zoom](https://keybase.io/blog/keybase-joins
 - [Wayremap](https://github.com/acro5piano/wayremap) – Wayremap is a Dynamic key remapper for Wayland desktop environment.
 - [xremap](https://github.com/k0kubun/xremap) – Dynamic key remapper for X11 and Wayland, written in Rust for Linux.
 
+### [Mobile Key Remapper](#mobile-key-remapper)
+- [KeyMapper](https://github.com/keymapperorg/KeyMapper) – change what the buttons do, the Android app is on Google Play Store and F-Droid.
+
 
 ## [Office Apps](#office-apps)
 Not so good in terms of privacy:
