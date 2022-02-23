@@ -4586,8 +4586,9 @@ Privacy oriented alternatives:
 
 
 ## [Bypass GeForce RTX „LHR“ anti-mining protection](#bypass-geforce-rtx-lhr-anti-mining-protection)
- - [NBMiner](https://github.com/NebuTech/NBMiner/)
- - [T-Rex-Miner](https://github.com/trexminer/T-Rex/wiki/LHR/)
+- [NBMiner](https://github.com/NebuTech/NBMiner/)
+- [NvidiaRTX-LHRv2Unlocker](https://github.com/BySergeyDev/NvidiaRTX-LHRv2Unlocker)
+- [T-Rex-Miner](https://github.com/trexminer/T-Rex/wiki/LHR/)
 
 
 ## [Payment systems](#payment-systems)
