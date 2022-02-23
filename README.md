@@ -58,9 +58,9 @@ In case you have some questions, you can ask them directly on our official [Matr
 Please keep in mind that there will always be leaks, software is never perfect and privacy/security is more a concept/idea which is defined by people with "high" standards/expectations.
 
 
-## [Definition of the word "controversial" on my list](#definition-of-the-word-controversial-on-my-list)
+## [Definition of the term "controversial"](#definition-of-the-term-controversial)
 - Closed source or OSS.
-- Connections to AWS, Google, Azure even if encryption is strong enough.
+- Connections to AWS, Google, Azure even if encryption is strong enough. Example why this is not wanted is explained over [here](https://www.eff.org/deeplinks/2020/03/google-says-it-doesnt-sell-your-data-heres-how-company-shares-monetizes-and).
 - Contains [Google Fonts](https://fonts.google.com/knowledge), there are some products listed with Google Fonts but in that case I made sure they can be self-hosted to eliminate the exposure of possible backtracking. Google collects some data, they say it is to improve the service - whatever that means.
 - Ethical right is by no means a subject, most people mean moral anyway. However, if the status of the software and his involving into X are unclear then this also results automatically in a controversial tag. Besides criminal involvement this extends to harassment, doxing and behavior which is not tolerated by society terms.
 - Possible outdated without a statement from maintainers or developers.
