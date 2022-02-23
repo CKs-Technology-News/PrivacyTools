@@ -3151,6 +3151,7 @@ Privacy oriented alternatives:
 - [LocalisationLab makes "FLOSS technology accessible through collaboration with developers, organizations, end users, and communities in need.](https://www.localizationlab.org/)
 - [OKFN - Open knowledge for a digital civil society](https://okfn.de/en/)
 - [Prototype Fund - We Fund Public Interest Tech](https://prototypefund.de/en/)
+- [Schulcampus RLP](https://www.schulcampus-rlp.de/)
 - [Wikipedia Library: Free Access to Paywalled Resources for Wiki Editors](https://wikipedialibrary.wmflabs.org/)
 
 
