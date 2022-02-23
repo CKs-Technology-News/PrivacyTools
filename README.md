@@ -6133,7 +6133,7 @@ Please keep in mind that every software and service is at some point fixable and
     - [lbry for Android](https://github.com/lbryio/lbry-fdroid) – The rumours that the F-Droid Clients containing [telemetry are wrong](https://github.com/lbryio/lbry-android/issues/1047), the app itself has no anti-features.
 - [Privera](https://privera.io/) – Uses Use Google Analytics as back-end.
 - [PunkPanda](https://punkpanda.io/) – Not FOSS.
-- [Olvid](https://olvid.io/) – Claims to be the most secure messenger in the world. No source code.
+- [Olvid](https://olvid.io/) – Claims to be the most secure messenger in the world. No source code and [weird privacy statements](https://olvid.io/technology/en/#security).
 - [Opera](https://techcrunch.com/2016/08/26/opera-says-its-service-for-syncing-web-browser-data-was-hacked/) – Needs no explanation.
 - [OnionBrowser leaks IP via WebRTC](https://github.com/OnionBrowser/OnionBrowser/issues/117).
 - [Osiris Browser](https://browseosiris.com/) – Closed source and copied from Brave.
