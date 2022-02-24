@@ -3625,7 +3625,7 @@ Privacy oriented alternatives:
 
 ## [Amazon shopping alternatives](#amazon-shopping-alternatives)
 Not so good in terms of privacy:
-- Amazon
+- [Amazon](https://www.theatlantic.com/technology/archive/2019/01/amazon-made-online-commerce-bewildering/580660/)
 
 Privacy oriented alternatives:
 - [Wibbets](https://wibbets.com/) – The privacy guaranteed online shopping website Amazon alternative. - **controversial**
