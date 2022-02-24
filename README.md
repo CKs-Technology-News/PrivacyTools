@@ -439,6 +439,7 @@ Well worth searching your GitHub URL with [Google Scholar](https://scholar.googl
 - [https://www.plagium.com/en/plagiarismchecker](https://www.plagium.com/en/plagiarismchecker)
 - [https://www.plagscan.com/](https://www.plagscan.com/)
 - [https://www.quetext.com/](https://www.quetext.com/)
+- [YouTube Data Viewer](https://citizenevidence.amnestyusa.org/)
 
 
 ## [Per-app anonymization](#per-app-anonymization)
@@ -2399,7 +2400,7 @@ In general [social networks are fedpots](https://theintercept.com/2021/09/21/sur
 Instagram is a [very privacy-invasive app](https://twitter.com/mame82/status/1464229264769884169) with biased results and feeds based on user profiles, it is also used as a manipulation tool and has a lot of censorship going against free speech. Lastly, it has an addictive and toxic UI design.
 
 Privacy oriented alternatives:
-- [Barinsta](https://codeberg.org/avalos/barinsta) – Instagram client; previously known as InstaGrabber.
+- [Barinsta](https://codeberg.org/avalos/barinsta) – Simple Instagram client, previously known as InstaGrabber.
 - [PixelFed](https://pixelfed.org) – A free and ethical photo sharing platform.
     - [PixelDroid](https://pixeldroid.org/) – Free Android client for Pixelfed, the federated image sharing platform.
 
@@ -2413,10 +2414,11 @@ Privacy oriented alternatives:
 - [Bibliogram](https://sr.ht/~cadence/bibliogram/) – Bibliogram is an alternative front-end for Instagram.
   - [Bibliogram instances list](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md)
   - Official instance is [https://bibliogram.art](https://bibliogram.art/)
-- [Imginn](https://imginn.com/) – An online instagram backup tool that helps users save instagram photos through the instagram public API. The website contains trackers and the service is not FOSS. - **controversial**
+- [Imginn](https://imginn.com/) – An online Instagram backup tool that helps users save instagram photos through the instagram public API. The website contains trackers and the service is not FOSS. - **controversial**
 
 ### [Instagram Tools](#instagram-tools)
 - [Instagram Scraper](https://github.com/arc298/instagram-scraper) – Scrapes an Instagram user's photos and videos.
+
 
 ### [YouTube](#youtube)
 
