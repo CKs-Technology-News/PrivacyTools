@@ -1948,7 +1948,7 @@ Not so good in terms of privacy:
 
 Privacy oriented alternatives:
 - [Aegis Authenticator](https://getaegis.app/) – A free, secure and open source app for Android to manage your 2-step verification tokens. Supports variety of imports from other apps (Google Authenticator, Authy etc.), vault encryption and exporting keys (plaintext or encrypted).
-- [Authorizer](A Password Manager for Android with Auto-Type over USB and Bluetooth, OTP and much more.) – A Password Manager for Android with Auto-Type over USB and Bluetooth, OTP and much more.
+- [Authorizer](https://github.com/tejado/Authorizer) – A Password Manager for Android with Auto-Type over USB and Bluetooth, OTP and much more.
 - [andOTP](https://github.com/andOTP/andOTP) – One of the oldest and first 2FA app for Android.
 - [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro) – Two-Factor Authentication (2FA) client for Android + Wear OS.
 - [Extended version of Standardnotes + tokenvault extension](https://standardnotes.org/extensions/tokenvault)
