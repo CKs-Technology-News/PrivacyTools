@@ -4759,6 +4759,7 @@ Privacy oriented alternatives:
 - [Howl](https://howl.io/) – A general purpose, fast and lightweight editor with a keyboard-centric minimalistic user interface.
 - [Kakoune](https://kakoune.org/) – Modal editor, faster as in less keystrokes.
 - [Kate](https://kate-editor.org) – A multi-document editor part of KDE.
+- [Ledit](https://github.com/liz3/ledit) – Simple, GPU-rendered, no bullshit text editor.
 - [Notepad++](https://notepad-plus-plus.org) – A free code editor and Notepad replacement that supports several languages.
   - [Notepadqq](https://notepadqq.com/) – Notepad++ for Linux.
 - [TextMate](https://macromates.com) – Powerful and customizable text editor with support for a huge list of programming languages.
