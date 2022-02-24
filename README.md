@@ -4277,6 +4277,7 @@ Only unique tests are getting listed here, it makes no sense to list 1000+ pages
 - [airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) – App at Linux systems to audit wireless networks.
 - [Capa](https://github.com/fireeye/capa) – Quickly check what execution files can really do.
 - [cgit](https://git.cgsecurity.org/cgit/) – Collection of data recovery tools.
+- [email2phonenumber](https://github.com/martinvigo/email2phonenumber) – A OSINT tool to obtain a target's phone number just by having his email address.
 - [fluxion](https://github.com/FluxionNetwork/fluxion) – A WiFi attack proof tool.
 - [Gitleaks](https://github.com/zricethezav/gitleaks) – Check for privacy data leaked from git repos.
 - [LinkScope](https://github.com/AccentuSoft/LinkScope_Client) – LinkScope allows you to perform online investigations by representing information as discrete pieces of data, called Entities.
