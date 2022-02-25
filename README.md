@@ -506,6 +506,7 @@ Well worth searching your GitHub URL with [Google Scholar](https://scholar.googl
 - [pyhpc-benchmarks](https://github.com/dionhaefner/pyhpc-benchmarks) – CPU and GPU Benchmark of the most popular high-perf Python libs.
 - [unixbench.sh](https://github.com/haydenjames/bench-scripts/blob/master/README.md#unixbenchsh) – Auto install unixbench and test script.
 - [VPS Benchmark](https://github.com/haydenjames/bench-scripts/blob/master/README.md#vps-benchmark) – Benchmark disk, CPU and network.
+- [Web Frameworks Benchmark](https://web-frameworks-benchmark.netlify.app/) – Static framework benchmark page.
 
 
 ## [Disqus alternatives](#disqus-alternatives)
