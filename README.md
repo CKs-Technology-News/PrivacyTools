@@ -2864,6 +2864,8 @@ Privacy oriented alternatives:
 Read more about the issue with Wikipedia on the [Wikiless manifesto](https://codeberg.org/orenom/wikiless#why-i-should-use-wikiless-instead-of-wikipedia).
 
 - [Wikiless](https://wikiless.org/) – A free open source alternative Wikipedia front-end focused on privacy [Source Code](https://codeberg.org/orenom/wikiless).
+- [Wikipedia Fetch](https://github.com/yashsinghcodes/fetch) – Terminal Based Wikipedia tool.
+
 
 ### [Wikipedia Mobile](#wikipedia-mobile)
 - [Kiwix](https://f-droid.org/packages/org.kiwix.kiwixmobile) – Lets you read Wikipedia and other websites without an Internet connection.
