@@ -3257,6 +3257,7 @@ Most network systems are by default not designed to be fully anonymous.
 
 - [Hyperboria](http://hyperboria.net/) – Formerly known as Meshnet, a community dedicated for local WiFi initiatives, programmers, and enthusiasts. They run several servers and networks. Hyperboria is based on the cjdns routing protocol.
 - [Yggdrasil](https://yggdrasil-network.github.io/) – End-to-end encrypted IPv6 network but not entirely antonyms.
+- [Sentinel](https://sentinel.co/) – A network of independent dVPN applications, not just a single consumer facing dVPN.
 - [urbit](https://urbit.org/) – A decentralized personal server platform, basically a compact system for an individual to run their own permanent personal server.
 
 
