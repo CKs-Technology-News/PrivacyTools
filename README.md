@@ -7,7 +7,7 @@ I decided to go with the name - Privacy Tools - not to bait someone or under the
 
 ## [Do not drag me into so-called "privacy communities"](#do-not-drag-me-into-so-called-privacy-communities)
 
-I do not want to have anything to do with [PrivacyGuides](https://lemmy.ml/post/31433), [PrismBreak](https://news.ycombinator.com/item?id=6010803) or any other "privacy clown community". Please do not link me / my guides into such communities. The reason is simply, I want to stay unbiased and objective. I do not advertise tools to gain money/reputation or to get any benefit out of it. I fully stand behind listed products because I tested or reviewed them and can suggest them without hesitation.
+I do not want to have anything to do with [PrivacyGuides](https://lemmy.ml/post/31433), [PrismBreak](https://news.ycombinator.com/item?id=6010803) or any other "privacy clown community". Please do not link me or my guides into such communities. The reason is simply, I want to stay unbiased and objective. I do not advertise tools to gain money / reputation, or to get any benefit out from it. I fully stand behind listed products because I tested or reviewed them and can suggest them without hesitation, if new findings occur I will update entries as soon as possible.
 
 
 ## [About evidence aka links as so-called proof](#about-evidence-aka-links-as-so-called-proof)
