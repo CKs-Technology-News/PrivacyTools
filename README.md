@@ -5615,6 +5615,7 @@ Do not even think about it wasting my time submitting nonsense tools like e.g. "
 - [RoundedTB](https://github.com/torchgm/RoundedTB) – Add margins, rounded corners and segments to your taskbars.
 - [Sophia Script](https://github.com/farag2/Sophia-Script-for-Windows) – The most powerful PowerShell module on GitHub for Windows fine-tuning and tweaking.
 - [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor/) – Display network,CPU, GPU, Mem usage and temp in Windows taskbar.
+- [TweakUIX](https://github.com/builtbybel/TweakUIX) – The user interface is based on the classic Tweak UI app.
 - [WSA Toolbox](https://github.com/voletro/wsa-toolbox) – A Windows 11 application to easily install and use the Windows Subsystem For Android™ package on your computer.
 - [WSAGAScript](https://github.com/ADeltaX/WSAGAScript) – Install Google Apps (Play Store) on WSA (Windows Subsystem Android)
 - [Windows11Upgrade](https://github.com/coofcookie/Windows11Upgrade) – Windows 11 Upgrade tool that bypasses Microsoft´s requirements.
