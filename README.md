@@ -1313,6 +1313,7 @@ Adobe Flash is practical dead, and has several security implications, however, s
 ### [Peer-to-Peer Browser](#peer-to-peer-browser)
 - [Beaker Browser](https://beakerbrowser.com/) – An experimental peer-to-peer Web browser.
 - [Ceno](https://censorship.no/en/about.html) – A P2P mobile browser to fight censorship. - **controversial**
+- [Decenter Browser](https://decentr.net/) – Blockchain based Browser approach.
 - [Stealth](https://github.com/tholian-network/stealth) – Secure, Peer-to-Peer, Private and automatable Web Browser/Scraper/Proxy.
 
 
