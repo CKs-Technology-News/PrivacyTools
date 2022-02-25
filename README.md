@@ -5880,16 +5880,15 @@ You find an introduction into the hardware wallet market [here](https://99bitcoi
 
 ## [Literary Archives & Libraries](#literary-archives--libraries)
 - [Adelaide University](http://ebooks.adelaide.edu.au/) – Contains Classic books on Literature, Philosophy, Science, History, Exploration and Travel in ePUB format or for reading online.
-- [The Anarchist Library](http://theanarchistlibrary.org/special/index) – An archive focusing on anarchism, anarchist texts, and texts of interest for anarchists, in PDF, plaintext, and EPUB formats.
 - [Bookyards library](http://www.bookyards.com/) – Has ebooks and other items. eBooks are PDF.
-- [Classic Reader](http://www.classicreader.com/) – Online library of thousands of free books by authors such as Dickens, Austen, Shakespeare and many others.
 - [Century Past Library](https://centurypast.org/) – A site aggregating links to many public domain books of historical and scientific interest, as well as magazines and other periodicals. While we cannot recommend the books and articles that make use of the Internet Archive's DRM-restricted borrowing service, the majority of the works listed here are available free of charge as PDF downloads.
+- [Classic Reader](http://www.classicreader.com/) – Online library of thousands of free books by authors such as Dickens, Austen, Shakespeare and many others.
 - [DigiLibraries](http://www.digilibraries.com/) – No cost eBooks library, with over 20.000 Free eBooks.
-- [The Dunyazad Digital Library](http://www.dunyazad-library.net/) – A personal collection of DRM-free ebooks of history and adventure.
-- [Ebooks.com](https://ebooks.com/) – Has DRM-free ebooks as well as ones restricted with DRM. However, you can filter search results to only show you the DRM-free ones.
 - [E-Books Directory](http://www.e-booksdirectory.com/) – No cost eBooks, documents, and lectures from all over the internet, available in PDF format and organized by subjects.
-- [Free-ebooks.net](http://www.free-ebooks.net/) – Free eBooks in various formats.
+- [Ebooks](https://ebooks.com/) – Has DRM-free ebooks as well as ones restricted with DRM. However, you can filter search results to only show you the DRM-free ones.
+- [epub Books](https://www.epubbooks.com/) – Offers gratis books, with a focus on high-quality formatting and images that work reliably on a variety of devices.
 - [Free Tamil eBooks](http://www.freetamilebooks.com/) – No cost eBooks in the Tamil language.
+- [Free-ebooks.net](http://www.free-ebooks.net/) – Free eBooks in various formats.
 - [Global Grey](https://www.globalgreyebooks.com/) – DRM-free libre and public domain eBooks in several formats.
 - [Internet Archive](http://archive.org/details/texts) – Free Books from a variety of sources, most available as scanned PDFs and OCRed plain text. More that 2,000,000 books available. Please note that we do not recommend their eBook lending program, which is DRM-encumbered and managed through a non-free client.
 - [Internet Sacred Text Archive](http://www.sacred-texts.com/) – Books about religion, mythology, folklore and the esoteric.
@@ -5898,18 +5897,19 @@ You find an introduction into the hardware wallet market [here](https://99bitcoi
 - [Marxists Internet Archive](http://marxists.org/) – Books and articles by hundreds of writers, Marxist and non-Marxist. Some of the books have an option of PDF download, but the PDF version is the webpage printed to a PDF file and thus not very suitable for most ebook readers.
 - [Mutopia](http://www.mutopiaproject.org/) – Hosts thousands pieces of music – free to download, modify, print, copy, distribute, perform, and record – all in the Public Domain or under Creative Commons licenses, in PDF, MIDI and other formats.
 - [OBOOKO](http://www.obooko.com/) – Hundreds of ebooks for direct download at no charge. Fiction and non-fiction. Authors may publish books on the site free of charge.
-- [Planet eBook](http://www.planetebook.com/) – Free classic literature that has fallen out of copyright. Available in PDF format.
 - [PDFBooksWorld](http://www.pdfbooksworld.com/) – Distributes public domain books in PDF format.
-- [Project Gutenberg](http://www.gutenberg.org/) – Is the original purveyor of DRM-free eBooks. The project aims to encourage the creation and distribution of eBooks that will be readable on any device you choose. When you obtain an eBook, you should not be locked into using one particular eBook reader. Instead, you should have the freedom to read that book on any device. All of the material available through Project Gutenberg is free of charge, including the complete works of William Shakespeare, Peter Pan, and the United States Declaration of Independence.
+- [Planet eBook](http://www.planetebook.com/) – Free classic literature that has fallen out of copyright. Available in PDF format.
 - [Project Gutenberg Australia](http://gutenberg.net.au/) – Provides books that are public domain in Australia.
 - [Project Gutenberg Canada](http://www.gutenberg.ca/) – Canada has different copyright laws than the US. These eBooks are public domain in Canada. Content is HTML and TXT.
+- [Project Gutenberg](http://www.gutenberg.org/) – Is the original purveyor of DRM-free eBooks. The project aims to encourage the creation and distribution of eBooks that will be readable on any device you choose. When you obtain an eBook, you should not be locked into using one particular eBook reader. Instead, you should have the freedom to read that book on any device. All of the material available through Project Gutenberg is free of charge, including the complete works of William Shakespeare, Peter Pan, and the United States Declaration of Independence.
 - [Project Runeberg](http://runeberg.org/) – A volunteer effort to create free electronic editions of classic Nordic (Scandinavian) literature and make them openly available over the Internet.
-- [PublicBookshelf](http://www.publicbookshelf.com/) – Over 540 books to read using a built-in, easy-to-read book format, specializing in all types of romance books including classics and contemporary.
-Renascence Editions specializes in English works written between 1477 and 1799. PDF or HTML, generally, and an excellent source for works in Early Modern English.
+- [PublicBookshelf](http://www.publicbookshelf.com/) – Over 540 books to read using a built-in, easy-to-read book format, specializing in all types of romance books including classics and contemporary. Renascence Editions specializes in English works written between 1477 and 1799. PDF or HTML, generally, and an excellent source for works in Early Modern English.
+- [Smart Study](http://smart.study/blog/1000-open-textbooks-and-learning-resources-for-all-subjects/) – Post with more than 1,000 open textbooks and learning resources for various subjects
 - [Snewd](https://snewd.com/) – A great source of professionally edited public domain texts in a variety of ebook formats.
 - [Standard Ebooks](https://standardebooks.org/) – Produces new and attractive editions of ebooks sourced from Project Gutenberg with additional proofing, using modern typography, updated font kerning, and in the latest ebook formats.
-- [Smart Study](http://smart.study/blog/1000-open-textbooks-and-learning-resources-for-all-subjects/) – Post with more than 1,000 open textbooks and learning resources for various subjects
-- [epubBooks](https://www.epubbooks.com/) – Offers gratis books, with a focus on high-quality formatting and images that work reliably on a variety of devices.
+- [The Anarchist Library](http://theanarchistlibrary.org/special/index) – An archive focusing on anarchism, anarchist texts, and texts of interest for anarchists, in PDF, plaintext, and EPUB formats.
+- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) – A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+- [The Dunyazad Digital Library](http://www.dunyazad-library.net/) – A personal collection of DRM-free ebooks of history and adventure.
 
 
 ### [eBook Publishers](#ebook-publishers)
