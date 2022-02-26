@@ -1422,7 +1422,7 @@ You do not need them if you have above listed extensions/add-ons installed or in
 - Cookie AutoDelete
 - DDG Privacy Essentials
 - Disconnect
-- [Don't touch my tabs! (rel=noopener]()https://addons.mozilla.org/en-US/firefox/addon/dont-touch-my-tabs/) – [Fixed within Mozilla Firefox source code](https://mathiasbynens.github.io/rel-noopener/) and removed from AMO.
+- [Don't touch my tabs! (rel=noopener)](https://addons.mozilla.org/en-US/firefox/addon/dont-touch-my-tabs/) – [Fixed within Mozilla Firefox source code](https://mathiasbynens.github.io/rel-noopener/) and removed from AMO.
 - Google search link fix (also Yandex) – No one should use Google nor Yandex Search.
 - HTTPS Everywhere is [deprecated](https://lemmy.ml/post/82533).
 - HTTPZ – Replaced with Auto HTTPS mode in almost every Browser.
