@@ -904,6 +904,7 @@ Some of the listed apps are not traditional firewalls. I decided included them a
 
 
 ### [Windows Firewall GUIs](#windows-firewall-guis)
+- [Fort Firewall](https://github.com/tnodir/fort/) – Fort is a simple firewall for Windows 7+.
 - [Private WinTen (Private Win10)](https://github.com/DavidXanatos/priv10) – Privacy tool for Windows with a built in firewall.
 - [PortMaster](https://safing.io/portmaster/) – Open-source network monitor and firewall.
 - [SimpleWall](https://github.com/henrypp/simplewall) – Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.
