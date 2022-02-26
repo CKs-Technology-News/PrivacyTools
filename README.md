@@ -2443,8 +2443,11 @@ Privacy oriented alternatives:
 - [DTube](https://github.com/dtube/dtube) – A full-featured video sharing website, decentralized via IPFS.
 
 
-### [YouTube alternative clients and front-ends](#youtube-alternative-clients-and-front-ends)
+### [YouTube Music alternative front-ends](#youtube-music-alternative-front-ends)
+- [Beatbump](https://github.com/snuffyDev/Beatbump) – A front-end for YouTube music.
 
+
+### [YouTube alternative clients and front-ends](#youtube-alternative-clients-and-front-ends)
 - [Bastyon](https://bastyon.com/) – Alternative media network to YouTube.
 - [yattee](https://github.com/yattee/yattee) – Alternative YouTube front-end for iOS, tvOS and macOS built with Invidious and Piped.
 - [Piped](https://github.com/TeamPiped/Piped) – The Privacy-friendly [YouTube frontend](https://piped.kavin.rocks/) and alternative that's efficient by design.
