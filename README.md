@@ -2665,7 +2665,7 @@ A developer created a nice little tool which is called ["Unfollow Everything"](h
 - [GetTogether](https://gettogether.community/) – A free open source event management site. Groups are called “teams”, and the site automatically searches for teams and events near you.
 - [Hubzilla](https://hubzilla.org//page/hubzilla/hubzilla-project) – A powerful platform for creating interconnected websites featuring a decentralized identity, communications, and permissions framework built using common web server technology.
 - [Mobilizon](https://mobilizon.org/en/#you-want-to-sign-up-to-mobilizon) – A federated and libre event organization platform, provided by France’s largest ethical software organization Framasoft.
-- [Movim](https://movim.eu) – A decentralized social and chat platform that act as a web front-end for the XMPP protocol.
+- [Movim](https://movim.eu) – A [decentralized](https://mov.im/) social and chat platform that act as a web front-end for the XMPP protocol.
 - [SlimSocial](https://github.com/rignaneseleo/SlimSocial-for-Facebook) – Android, alternative front-end for Facebook, built with Java.
 - [Zom](https://play.google.com/store/apps/details?id=im.zom.messenger) – An extremely easy to use and free open source messenger app. You don’t need to register to use it, just think of a username.
 
