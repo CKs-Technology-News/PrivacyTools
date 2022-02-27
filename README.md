@@ -2912,12 +2912,14 @@ Privacy oriented alternatives:
 - [Saiy](https://github.com/brandall76/Saiy-PS/) – Fully customizable open source voice assistant.
 
 
-### [Alternative Discord clients](#alternative-discord-clients)
+### [Alternative Discord Clients](#alternative-discord-clients)
+
 > Your IP and messages will still be shared and belong to Discord and they are NOT encrypted.
 
 - [Aliucord](https://github.com/Aliucord/Aliucord) – Discord Android app mod inspired by desktop Discord client mods [without Discord Tracking](https://github.com/Aliucord/Aliucord/blob/main/Aliucord/src/main/java/com/aliucord/coreplugins/NoTrack.java).
 - [Fosscord](https://fosscord.com/) – Free and open source software compatible with Discord.
-- [Guilded](https://www.guilded.gg/) – A Discord competitor that is primarily focused on video gaming communities, such as those focused on competitive gaming and esports. - **controversial**
+- [Guilded](https://www.guilded.gg/) – A Discord competitor that is primarily focused on video gaming communities, such as those focused on competitive gaming and eSports. - **controversial**
+- [gtkcord3](https://github.com/diamondburned/gtkcord3) – A lightweight Discord client written in Golang which uses GTK3 for the user interface.
 
 
 ## [Instant Messaging](#instant-messaging)
