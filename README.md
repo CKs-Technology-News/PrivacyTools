@@ -3748,10 +3748,10 @@ Privacy oriented alternatives:
 
  > These clients, although will have less tracking, still DO NOT protect your privacy at all as you will still be streaming from Spotify servers from you own **premium (paid, identified)** account. The only workaround is to use faked accounts in case you use some downloader tools.
 
-- [Spot](https://github.com/xou816/spot) – Native Spotify client built in GTK and Rust.
-- [Spotiqueue](https://github.com/toothbrush/Spotiqueue) – Minimalistic queue-oriented macOS-native client, with Guile Scheme scriptability.
 - [ncspot](https://github.com/hrkfdn/ncspot) – Cross-platform nurses Spotify client written in Rust, inspired by ncmpc and the likes.
 - [psst](https://github.com/jpochyla/psst) – Fast and multi-platform Spotify client with native GUI.
+- [Spot](https://github.com/xou816/spot) – Native Spotify client built in GTK and Rust.
+- [Spotiqueue](https://github.com/toothbrush/Spotiqueue) – Minimalistic queue-oriented macOS-native client, with Guile Scheme scriptability.
 
 ### [Spotify Tools](#spotify-tools)
 - [Spoqify](https://spoqify.com/) – Replace 't' with 'q' in a Spotify URL to remove personalization.
