@@ -2450,6 +2450,10 @@ Privacy oriented alternatives:
 
 
 ### [YouTube alternative clients and front-ends](#youtube-alternative-clients-and-front-ends)
+
+> Assuming you use any alternative Instance and Service make sure to read the Privacy Policy of that specific Instance/Service first.
+
+
 - [Bastyon](https://bastyon.com/) – Alternative media network to YouTube.
 - [yattee](https://github.com/yattee/yattee) – Alternative YouTube front-end for iOS, tvOS and macOS built with Invidious and Piped.
 - [ytcast](https://github.com/MarcoLucidi01/ytcast) – Cast YouTube videos to your smart TV from the command line. ytcast does roughly the same thing as the "Play on TV" button that appears on the player bar when you visit YouTube.com with Chrome or when you use the YouTube smartphone app.
