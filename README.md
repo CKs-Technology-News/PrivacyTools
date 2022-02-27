@@ -963,6 +963,7 @@ Some of the listed apps are not traditional firewalls. I decided included them a
 - [stegotorus](https://sri-csl.github.io/stegotorus/) – A tool that comprehensively disguises Tor from protocol analysis. To foil analysis of packet contents, Tor’s traffic is steganographed to resemble an innocuous cover protocol, such as HTTP.
 - [streisand](https://github.com/jlund/streisand) – Single command set for a server running a wide variety of anti-censorship software
 - [telex](https://github.com/ewust/telex) – Involves placing anti-censorship technology into the Internet's core network infrastructure, through cooperation from large ISPs.
+- [Torspray](https://github.com/gergelykalman/torspray) – A simple Python script to bring up multiple Tor bridges.
 - [trojan](https://github.com/trojan-gfw/trojan) – An unidentifiable mechanism that helps you bypass GFW
 - [tunsafe](https://tunsafe.com/about) – A fast and modern layer 3 VPN tunnel that implements the new and modern WireGuard protocol that is becoming increasingly popular in the VPN community due to its security, speed, reliability and ease of use. TunSafe was developed with the goal to bring the power of the WireGuard-protocol to all the Windows users around the world and in March 2018 the first version was released.
 - [uproxy](https://github.com/uProxy) – uProxy is a browser extension that lets friends route their connection to their Internet through each other's computers. It can help people with restricted or insecure access to the Internet get to the content they care about safely.
