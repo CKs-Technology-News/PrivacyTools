@@ -952,7 +952,7 @@ Some of the listed apps are not traditional firewalls. I decided included them a
 - [marionette](https://github.com/kpdyer/marionette/) – A programmable client-server proxy that enables the user to control network traffic features with a lightweight domain-specific language.
 - [meek](https://trac.torproject.org/projects/tor/wiki/doc/meek) – Tor pluggable transport that uses HTTP for carrying bytes and TLS for obfuscation.
 - [NaiveProxy](https://github.com/klzgrad/naiveproxy) – It uses Chrome's network stack to camouflage traffic with stronger censorship resistance and less detectability than custom-made network stacks (Shadowsocks and variants, V2Ray suite, handmade Golang stacks).
-- [obfs4](https://github.com/Yawning/obfs4) – the newest version of the Tor obfsproxy obfuscation proxy. implements multiple pluggable transports.
+- [obfs4](https://github.com/Yawning/obfs4) – The newest version of the Tor obfsproxy obfuscation proxy. implements multiple pluggable transports.
 - [obfsproxy with OpenVPN](https://community.openvpn.net/openvpn/wiki/TrafficObfuscation) – OpenVPN traffic obfuscation using obfsproxy.
 - [obfsproxy](https://git.torproject.org/pluggable-transports/obfsproxy.git) – Tor framework for implementing pluggable transports (anti-censorship network tunnels).
 - [obfuscated-openssh](https://github.com/brl/obfuscated-openssh) – Handshake obfuscation strengthens the initial SSH handshake against systems that identify or classify various network protocols by examining data in transit for static signatures.
@@ -964,7 +964,7 @@ Some of the listed apps are not traditional firewalls. I decided included them a
 - [streisand](https://github.com/jlund/streisand) – Single command set for a server running a wide variety of anti-censorship software
 - [telex](https://github.com/ewust/telex) – Involves placing anti-censorship technology into the Internet's core network infrastructure, through cooperation from large ISPs.
 - [Torspray](https://github.com/gergelykalman/torspray) – A simple Python script to bring up multiple Tor bridges.
-- [trojan](https://github.com/trojan-gfw/trojan) – An unidentifiable mechanism that helps you bypass GFW
+- [trojan](https://github.com/trojan-gfw/trojan) – An unidentifiable mechanism that helps you bypass GFW.
 - [tunsafe](https://tunsafe.com/about) – A fast and modern layer 3 VPN tunnel that implements the new and modern WireGuard protocol that is becoming increasingly popular in the VPN community due to its security, speed, reliability and ease of use. TunSafe was developed with the goal to bring the power of the WireGuard-protocol to all the Windows users around the world and in March 2018 the first version was released.
 - [uproxy](https://github.com/uProxy) – uProxy is a browser extension that lets friends route their connection to their Internet through each other's computers. It can help people with restricted or insecure access to the Internet get to the content they care about safely.
 - [v2ray](https://github.com/v2ray/v2ray-core) – A platform for building proxies to bypass network restrictions.
