@@ -2403,7 +2403,8 @@ In general [social networks are fedpots](https://theintercept.com/2021/09/21/sur
 Instagram is a [very privacy-invasive app](https://twitter.com/mame82/status/1464229264769884169) with biased results and feeds based on user profiles, it is also used as a manipulation tool and has a lot of censorship going against free speech. Lastly, it has an addictive and toxic UI design.
 
 Privacy oriented alternatives:
-- [Barinsta](https://codeberg.org/avalos/barinsta) – Simple Instagram client, previously known as InstaGrabber.
+- [Barinsta](https://github.com/austinhuang0131/barinsta) – Open-source alternative Instagram client for Android.
+- [Barinsta Fork](https://codeberg.org/avalos/barinsta) – Simple Instagram client, previously known as InstaGrabber. This fork is unofficial unless community decides otherwise. C&D letters will be ignored.
 - [PixelFed](https://pixelfed.org) – A free and ethical photo sharing platform.
     - [PixelDroid](https://pixeldroid.org/) – Free Android client for Pixelfed, the federated image sharing platform.
 
@@ -2444,20 +2445,22 @@ Privacy oriented alternatives:
 
 
 ### [YouTube Music alternative front-ends](#youtube-music-alternative-front-ends)
+- [AudioTube](https://invent.kde.org/plasma-mobile/audiotube) – AudioTube is a client for YouTube Music. It is a Plasma mobile project with an interface designed for Linux phones.
 - [Beatbump](https://github.com/snuffyDev/Beatbump) – A front-end for YouTube music.
 
 
 ### [YouTube alternative clients and front-ends](#youtube-alternative-clients-and-front-ends)
 - [Bastyon](https://bastyon.com/) – Alternative media network to YouTube.
 - [yattee](https://github.com/yattee/yattee) – Alternative YouTube front-end for iOS, tvOS and macOS built with Invidious and Piped.
+- [ytcast](https://github.com/MarcoLucidi01/ytcast) – Cast YouTube videos to your smart TV from the command line. ytcast does roughly the same thing as the "Play on TV" button that appears on the player bar when you visit YouTube.com with Chrome or when you use the YouTube smartphone app.
+- [ytcc](https://github.com/woefe/ytcc) – Command line tool to keep track of your favorite playlists on YouTube and many other places. You can import YouTube subscriptions from Google Takeout and provide them as an RSS feed for your favorite reader.
 - [Piped](https://github.com/TeamPiped/Piped) – The Privacy-friendly [YouTube frontend](https://piped.kavin.rocks/) and alternative that's efficient by design.
 - [New Piped UIl](https://ui-v2.piped.pages.dev/) – Similar like Piped Material.
 - [Piped Material](https://github.com/mmjee/Piped-Material) – A fork of Piped, focusing on better performance and a more usable design.
 - [Plumber](https://github.com/keshavbhatt/plumber) – Local and remote video trimmer, can trim parts of video without downloading whole video, utilizes youtube-dl, allows conversion to GIFs.
 - [Invidious](https://github.com/iv-org/invidious) – Alternative and privacy respecting YouTube front-end. Most instances that use invidious still need JavaScript enabled despite the claim on the GitHub claim that invidious does not need JavaScript.
     - [Invidious-viewer](https://github.com/git-bruh/invidious-viewer) – Python application to watch YouTube videos through the Invidious API, in the terminal (requires MPV player and libmpv.so).
-- [Yotter](https://github.com/ytorg/yotter) – YouTube and Twitter with privacy. Never share any of your data to YouTube, yet be able to watch YouTube videos.
-    - [Yotter instances](https://github.com/ytorg/Yotter#public-instances), the official instance is [yotter.xyz](https://yotter.xyz).
+- [Maurice Oegerli](https://github.com/ViewTube/viewtube-vue) – An alternative YouTube front-end using the invidio.us API.
 - [NewPipe](https://newpipe.net/) – Alternative Android YouTube app. No account needed, privacy respecting, no ads.
     - [NewPipe X Sponsorblock](https://github.com/polymorphicshade/NewPipe) – NewPipe fork that incorporates Sponsorblock.
 - [SkyTube](https://github.com/SkyTubeTeam/SkyTube) – Alternative Android YouTube app. No account needed, privacy respecting, no ads.
@@ -2477,7 +2480,8 @@ Privacy oriented alternatives:
 - [YouTube Vanced](https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757) – A well-known modded version of the YouTube app with many features such as ad-blocking and background playback.
 - [Youtube-viewer](https://github.com/trizen/youtube-viewer) – Lightweight YouTube client for Linux.
 - [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) – Ad free app for watching tube videos on Android TV boxes.
-- [Maurice Oegerli](https://github.com/ViewTube/viewtube-vue) – An alternative YouTube front-end using the invidio.us API.
+- [TubeSync](https://github.com/meeb/tubesync) – A personal video recorder for YouTube. It syncs YouTube channels and playlists to a locally hosted media server.
+- [uYouPlus](https://github.com/qnblackcat/uYouPlus) – Spoken uYou+ is an alternative YouTube app for Apple's iOS and iPadOS.
 
 ### [Self-hosted YouTube media servers](#self-hosted-youtube-media-servers)
 - [Tube Archivist](https://github.com/bbilly1/tubearchivist) – Your self hosted YouTube media server.
@@ -2593,7 +2597,7 @@ Onlyfans has a [controversial history](https://www.vice.com/en/article/4avjvq/fo
 Avoid using Twitter official app or the website. It tracks users and creates user profiles based on what they follow, retweet and like. Twitter harms and violates user privacy with their policies.
 
 - [Bleeter](https://www.github.com/sumeetdas/Bleeter) – [Twitter UI](https://sumeetdas.me/Bleeter/) built using F#.
-- [Fritter](https://github.com/jonjomckay/fritter) – A free, open-source Twitter client for Android and iOS.
+- [Fritter](https://github.com/jonjomckay/fritter) – A free, open-source Twitter client for Android.
 - [Harpy](https://github.com/robertodoering/harpy) – Android alternative front-end for Twitter built with Flutter/Dart.
 - [Shitter](https://github.com/nuclearfog/Shitter) – Android alternative front-end for Twitter built with Java.
 - [Tweepy](https://github.com/tweepy/tweepy) – Twitter for Python.
@@ -2810,7 +2814,7 @@ You can Use `r/redditrequest` to take over subreddits, and/or make new subreddit
 - [Slide](https://github.com/ccrama/Slide) – Open source, ad free Reddit browser for Android.
 - [Snew](https://github.com/snew/snew) – Open-source client for Reddit forked from the Reddit source code.
 - [Teedit](http://teddit.net/) – Alternative Reddit front-end focused on privacy.
-- [Troddit](https://troddit.com/) – Alternative Reddit front-end focused on privacy.
+- [Troddit](https://troddit.com/) – Alternative Reddit front-end web-client focused on privacy.
 - [Top of Reddit](https://github.com/mgerb/top-of-reddit) – Top Reddit posts every day.
 - [Updoot](https://github.com/adityam49/Updoot) – Android, alternative front-end for Reddit.
 - [Xeddit](https://github.com/ErlingMK/Xeddit) – A Xamarin.Forms app for Reddit.
@@ -3037,6 +3041,7 @@ Keep these options in mind when communicating with your clique. Many of us belon
 - [AnonPaste](https://anonpaste.org/) – Forked from private bin, and features the option set pastes to never expire.
 - [0bin](https://0bin.net/) – 0bin is a client-side-encrypted alternative pastebin. You can store code, text and images online for a set period of time and share with the world.
 - [CryptoContainer](https://github.com/Alex014/CryptoContainer) – Encrypted messaging system inside container.
+- [NoPaste](https://github.com/bokub/nopaste) – An open-source website similar to Pastebin where you can store any piece of code, and generate links for easy sharing.
 - [pastor](https://gitlab.com/cocainefarm/pastor) – The pastebin that hopefully doesn't suck.
 - [PrivateBin](https://privatebin.info/directory/) – Minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted and decrypted in the browser using 256 bits AES.
 - [publicnote](https://publicnote.com/) – Enter any title above to access a note. No account required.
@@ -4940,7 +4945,7 @@ Privacy oriented alternatives:
 - [Imgin](https://imgin.voidnet.tech/) – A minimalist read-only Imgur proxy.
 - [Lutim](https://entraide.chatons.org/en/) – Let’s Upload That IMage is a privacy-friendly and libre photo sharing service. You can set your image to be deleted at first view or after a specified time.
 - [Picc.io](https://picc.io/) – Pinterest/Imgur alternative anonymous image selfie sharing. Each image you upload has a built image sharing widget to share images on social media. FOSS is planned.
-- [Rimgu](https://codeberg.org/3np/rimgu) – Self-hosted free and ad/trackless front end for imgur.
+- [Rimgo](https://codeberg.org/3np/rimgu) – Self-hosted free and ad/trackless front end for Imgur.
 
 
 ## [Mozilla Pocket alternatives](#mozilla-pocket-alternatives)
