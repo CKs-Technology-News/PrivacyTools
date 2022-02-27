@@ -1391,6 +1391,7 @@ Before someone wrongly interpret this as "he uses those listed extensions himsel
 - [Scrt.link - Share a secret!](https://scrt.link/) – Securely share sensitive information online.
 - [Shodan](https://addons.mozilla.org/en-US/firefox/addon/shodan_io/?utm_content=addons-manager-reviews-link&utm_medium=firefox-browser&utm_source=firefox-browser) – The Shodan plugin tells you where the website is hosted (country, city), who owns the IP and what other services/ ports are open.
 - [SoundFixer](https://github.com/unrelentingtech/soundfixer) – Lets you fix annoying sound problems in YouTube videos and such. Like audio in one channel only, too quiet or too loud.
+- [Snowflake](https://snowflake.torproject.org/) – Allows you to circumvent Tor censorship over WebRTC. When using the extension, your browser becomes a temporary proxy to the Tor network.
 - [SponsorBlock for YouTube - Skip Sponsorships](https://sponsor.ajay.app/) – Skip sponsorships, subscription begging and more on YouTube videos. Report sponsors on videos you watch to save others' time.
 - [Tab Stash](https://josh-berry.github.io/tab-stash/) – A no-fuss way to save and restore batches of tabs as bookmarks.
 - [Tabji](https://tabji.link/) – A privacy-first lightweight alternative to The Great Suspender.
