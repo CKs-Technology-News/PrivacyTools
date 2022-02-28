@@ -177,6 +177,15 @@ See [here](https://support.google.com/googleplay/android-developer/answer/604824
 - [RPiPlay](https://github.com/FD-/RPiPlay) – An open-source AirPlay mirroring server for the Raspberry Pi. Supports iOS 9 and up.
 
 
+## [Anti-Reflective Glasses](#anti-reflective-glasses)
+
+There are [some benefits](https://en.wikipedia.org/wiki/Anti-reflective_coating) in using [anti-reflective glasses](https://www.allaboutvision.com/lenses/anti-reflective.htm). Make sure if you pick some, that they come with a CE & FDA certification. [Do not buy some blue light filter glasses](https://www.vice.com/en/article/pa7nzz/blue-light-glasses-screen-scam) since there is [no evidence](https://www.college-optometrists.org/the-college/policy/position-statements/blue-blocking-spectacle-lenses.html) that they actually help.
+
+- [Ghost](https://www.reflectacles.com/order/ghost)
+- [Invisible Queen](https://www.privacyglasses.net/enhanced-anti-surveillance-reflective-sunglasses-block-cctv-cameras-product/)
+- [Phantom](https://www.reflectacles.com/order/phantom)
+
+
 ## [AntiVirus](#antivirus)
 - [ClamAV](https://www.clamav.net/)
 - [ClamWin](https://clamwin.com/)
