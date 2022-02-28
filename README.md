@@ -3842,17 +3842,19 @@ Privacy oriented alternatives:
 - [Zorin OS](https://zorinos.com/) – A beautiful Ubuntu-based operating system. It’s focused on making the transition from Windows or macOS to Linux as easy as possible.
 
 
-### [Distros for beginners or ex-Windows users](#distros-for-beginners-or-ex-windows-users)
+### [Linux Distros for beginners or ex-Windows users](#linux-distros-for-beginners-or-ex-windows-users)
 [Gaming on Linux is no longer a major issue](https://www.gamingonlinux.com/2021/09/epic-games-announce-full-easy-anti-cheat-for-linux-including-wine-a-proton).
 
-Canonical was repeatedly accused of negatively [influencing the development of Ubuntu](https://www.netzwelt.de/news/86520-gerry-carr-ubuntu-interview-konnten-gnome-3-warten.html) and the reason I do not list it here.
+
+Not so good in terms of privacy:
+- Canonical was repeatedly accused of negatively [influencing the development of Ubuntu](https://www.netzwelt.de/news/86520-gerry-carr-ubuntu-interview-konnten-gnome-3-warten.html) and the reason I do not list it here.
 
 
 Testing and reviewing Linux Distros:
-
 - [FSF's list of truly Free/Libre GNU/Linux distros](https://www.gnu.org/distros/free-distros.html).
 - [DistroTester](https://distrotest.net/) – Check distros online.
 - [OnWorks](http://onworks.net/) – Online Linux Distro test, similar like DistroTester.
+- [Linux From Scratch](https://linuxfromscratch.org/) – A project that provides you with step-by-step instructions for building your own custom Linux system, entirely from source code.
 - [Linux Live Kit](https://www.linux-live.org/) – A set of shell scripts which allows you to create your own Live Linux from an already installed Linux distribution. The Live system you create will be bootable from CD-ROM or USB Flash Drive.
 
 
