@@ -1139,12 +1139,12 @@ Some notes regarding the Web3.
 - Internet itself has no versions numbers, it constantly evolves and changes + adopts new + removes obsolete protocols and tech.
 
 
-## [Web Browser](#web-browser)
+## [About Browsers](#about-browsers)
 
 Please check the [Browser + WebView Comparison Table](https://divestos.org/index.php?page=browsers) before you use something. In general I do not list any clown forks who offers no or less benefits because you can do it yourself without depending on a third-party project (in most cases) or in other words the community doesn't really need two practically identical packages that accomplish the same thing. [iOS has limited Browser choice](https://css-tricks.com/ios-browser-choice/).
 
 Not so good in terms of privacy:
-- 360 Secure Browser ([Proprietary](https://en.wikipedia.org/wiki/360_Secure_Browser))
+- 360 Secure Browser is [proprietary](https://en.wikipedia.org/wiki/360_Secure_Browser)
 - [Cốc Cốc](https://en.wikipedia.org/wiki/C%E1%BB%91c_C%E1%BB%91c)
 - [Comodo Dragon](https://en.wikipedia.org/wiki/Comodo_Group)
 - Epic Browser is proprietary, same like Cent Browser
@@ -1189,6 +1189,14 @@ Browsers are typically used as gateways to a lot of things and not only Browsing
     - [Thorium](https://github.com/Alex313031/Thorium) Chromium fork designed for performance and security. - **controversial**
     - [Chromium browser for Fedora Linux with video acceleration patches](https://github.com/biswasab/chromium_vaapi_fed/blob/master/README.md).
 - [Tor Browser](https://www.torproject.org/) combined [with uBlock](https://www.esat.kuleuven.be/cosic/publications/thesis-407.pdf) – Firefox ESR hardened Browser which allows Tor (Onion) connections.
+
+
+### [Browser Backup Solutions](#Browser Backup Solutions)
+
+You can manually backup your profile or use some tools.
+
+- [Hekasoft Backup & Restore](https://www.hekasoft.com/hekasoft-backup-restore/) – All-in-one Windows solution to manage your browser data and settings across various Browsers. - **controversial**
+- [Simple Backup for Firefox](https://www.sordum.org/12298/simple-firefox-backup-v1-2/) – Small Windows Tool to quickly backup your Firefox Profile. - **controversial**
 
 
 ### [Flash Browser](#flash-browser)
