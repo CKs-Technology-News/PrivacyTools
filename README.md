@@ -2931,7 +2931,7 @@ Keep these options in mind when communicating with your clique. Many of us belon
 - [Onymochat](https://github.com/SamratDuttaOfficial/onymochat) – An end-to-end encrypted, decentralized, anonymous chat application. You can also host your anonymous .onion webpage with Onymochat.
 
 
-## [Text sharing Tools](#text-sharing-tools)
+## [Text sharing](#text-sharing)
 - [AnonPaste](https://anonpaste.org/) – Forked from private bin, and features the option set pastes to never expire.
 - [0bin](https://0bin.net/) – 0bin is a client-side-encrypted alternative pastebin. You can store code, text and images online for a set period of time and share with the world.
 - [CryptoContainer](https://github.com/Alex014/CryptoContainer) – Encrypted messaging system inside container.
@@ -2941,6 +2941,9 @@ Keep these options in mind when communicating with your clique. Many of us belon
 - [publicnote](https://publicnote.com/) – Enter any title above to access a note. No account required.
 - [VeryBin](https://www.verybin.com/) – An anonymous and encrypted online pastebin using 256-bit AES.
 - [writefreely](https://writefreely.org/) – An open source platform for building a writing space on the web.
+
+## [Disposable Text Sharing](#disposable-text-sharing)
+- [Secrets.io](https://www.secrets.so/) – Securely send & receive secrets using a [disposable link](https://www.indiehackers.com/post/securely-send-receive-secrets-using-a-disposable-link-2a64894949).
 
 
 ## [Password Managers](#password-managers)
