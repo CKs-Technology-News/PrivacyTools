@@ -2896,7 +2896,7 @@ The main reason IRC or XMPP is listed and Matrix is not
 - There are plans for IRCv3 and XMPPv3 that might solve mentioned issues.
 - There exist better networks to Matrix for specific needs, which I listed below such as Mastodon which are for most people enough, depends of course on what you want, micro-blogging, chatting etc.
 - Matrix gets money directly from the [government](https://element.io/blog/element-raises-30m-as-matrix-explodes/) which I do not like, nor do I see the need for such influence. The same could have been accomplished via eg donations.
-- It is unclear if Matrix will include a crypto system like Signal or not. Rumors say they might introduce some sort of coin system.
+- It is unclear if Matrix will include a crypto system like Signal or not. Rumors say they might introduce some sort of coin or NFT based system or overlay based system.
 
 
 Privacy oriented alternatives:
@@ -2905,6 +2905,7 @@ Privacy oriented alternatives:
 - [HexChat](https://hexchat.github.io/) – HexChat is an IRC client based on XChat, but unlike XChat it’s completely free for both Windows and Unix-like systems.
 - [Ii](https://tools.suckless.org/ii/) – A minimalist FIFO and filesystem-based IRC client.
 - [Irssi](https://irssi.org/) – Your text mode chatting application since 1999. IRC built-in. Multi-protocol friendly for module authors.
+- [Libera.Chat](https://libera.chat/) – A next-generation IRC network for FOSS projects. Libera.Chat can be accessed using an IRC client.
 - [Textual](https://www.codeux.com/textual/) – Textual as a popular macOS client.
 - [The Lounge](https://thelounge.chat/) – ZNC as a bouncer for any IRC client for receiving offline messages.
 - [ZNC](https://znc.in/) – ZNC as a bouncer for any IRC client for receiving offline messages.
@@ -5648,7 +5649,7 @@ Not so good in terms of privacy:
 - [AWS CodeCommit](https://aws.amazon.com/codecommit/)
 - [Dropbox git remote](https://github.com/anishathalye/git-remote-dropbox), it's slow and unencrypted and uses Dropbox which is controversial on its own.
 - [GitHub](https://github.com/), [censorship](https://github.com/nixxquality/WebMConverter/commit/c1ac0baac06fa7175677a4a1bf65860a84708d67), [in-transparent ToS](https://diy.rednumberone.com/why-i-deleted-all-my-github-repos/) and [owned by Microsoft](https://news.microsoft.com/announcement/microsoft-acquires-github/) + there are [better alternatives](https://github.com/privacytools/privacytools.io/issues/843).
-- [GitLab](https://twitter.com/techgirlwonder/status/1182045393292427265) – A web-based git repository management with wiki, code reviews, issue-tracking.
+- [GitLab](https://twitter.com/techgirlwonder/status/1182045393292427265) – [Not entirely privacy friendly](https://emilis.github.io/2019/10/24/on-gitlab-and-keeping-your-privacy.html).
 - [JeBeans Space](https://www.jetbrains.com/space/)
 - [Keybase git](https://keybase.io/blog/encrypted-git-for-everyone)
 - [Beanstalk](https://news.ycombinator.com/item?id=2119104)
