@@ -3559,6 +3559,7 @@ Not so good in terms of privacy:
 Privacy oriented alternatives:
 - [Better World Books](https://www.betterworldbooks.com/) – Better World Books is an online bookshop which tries to take a more ethical approach, by donating one book to charity for every book it sells.
 - [BookWyrm](https://github.com/bookwyrm-social/bookwyrm) – It's a fediverse [decentral](https://docs.joinbookwyrm.com/instances.html) alternative for Amazon's Goodreads.
+- [booqsi](https://www.booqsi.com/) – A more social, Amazon-free alternative to Goodreads.
 - [buch7.de](https://www.buch7.de/) – German platform to get free books.
 - [OpenStax](https://openstax.org/) – Free and Flexible Textbooks-
 - [Hive](https://www.hive.co.uk/) – Delivery is free within the UK, and a bit extra overseas.
