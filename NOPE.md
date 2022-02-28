@@ -78,6 +78,7 @@ Please keep in mind that every software and service is at some point fixable and
 - [Mailpile](https://www.mailpile.is) – A fast web-mail client with user-friendly encryption and privacy features. [Project is considerable dead](https://twitter.com/HerraBRE/status/1399077999245463558).
 - [Mailtrash](http://mytrashmail.com/) – #fedpot.
 - [Mail Catch](http://mailcatch.com/en/disposable-email) – No SSL or TLS.
+- [Mesibo Messenger App for iOS and Android](https://github.com/mesibo/messenger-app-android) – Phone number, weird code, no benefits over existing solutions.
 - [Migadu](https://www.migadu.com/) – Not FOSS.
 - [Mojeek](https://mojeek.com) – Independent and unbiased search results with no user tracking in UK's greenest data center. Mojeek is unfortunately proprietary, similarly to most parts of other search engines like DDG or Qwant.
 - [Mozilla VPN](https://vpn.mozilla.org/) – Rebranded Mullvad with an Mozilla Logo on top of it.
