@@ -387,6 +387,7 @@ Well worth searching your GitHub URL with [Google Scholar](https://scholar.googl
 - [Linux Bench](https://github.com/haydenjames/bench-scripts/blob/master/README.md#linux-bench) – STH Linux benchmarking script.
 - [Nench](https://github.com/haydenjames/bench-scripts/blob/master/README.md#nench) – A script loosely based on the established freevps.us/bench.sh.
 - [Phoronix Test Suite](https://www.phoronix-test-suite.com/) – Makes the process of carrying out automated tests incredibly simple.
+- [PyTorch Benchmark](https://leimao.github.io/blog/PyTorch-Benchmark/) – PyTorch automatically performs necessary synchronization when copying data between CPU and GPU or between two GPUs.
 - [VPSbench](https://github.com/haydenjames/bench-scripts/blob/master/README.md#vpsbench) – A script to run simple and comprehensive benchmarks on CPU and IO performance.
 - [byte-unixbench](https://github.com/kdlucas/byte-unixbench) – The original BYTE UNIX benchmark suite, updated and revised by many people over the years.
 - [pyhpc-benchmarks](https://github.com/dionhaefner/pyhpc-benchmarks) – CPU and GPU Benchmark of the most popular high-perf Python libs.
