@@ -1,3 +1,9 @@
+Overview
+==========
+
+[[_TOC_]]
+
+
 ## [Advertising](#advertising)
 Do not use any advertising service that comes from big tech corporations like e.g. Google Ads, Facebook/Instagram Ads or Bing Ads. These services aggregate and exploit user data by micro-targeting specific individuals. [Online Ads produce 60 Megatons of CO2 every year](https://www.researchgate.net/publication/328665574_Environmental_impact_assessment_of_online_advertising).
 
