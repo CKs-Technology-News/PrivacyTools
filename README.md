@@ -2361,6 +2361,7 @@ Listed guidance are provided as-is.
 
 
 ### [Anti-censorship Guides and Tools](#anti-censorship-guides-and-tools)
+- [@GetBridgesBot Bot - Provides Tor Birdges to bypass censorship via SnowFlake](https://t.me/GetBridgesBot)
 - [Apple censorship App Check Website](https://applecensorship.com/)
 - [A closer look at the Great Firewall of China – Tor Blog](https://blog.torproject.org/blog/closer-look-great-firewall-china)
 - [Analyzing China's Blocking of Unpublished Tor Bridges](https://www.usenix.org/conference/foci18/presentation/dunna)
