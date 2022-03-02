@@ -4,6 +4,13 @@ Overview
 [[_TOC_]]
 
 
+## [3D simulation](#3d-simulation)
+- [Blender](https://www.blender.org/) – Blender is a professional suite of tools for doing 3D and 2D animations, visual effects, compositing and video editing.
+- [FlightGear](https://www.flightgear.org/) – Atmospheric and orbital flight simulator with a flight dynamics engine (JSBSim) that is used in a 2015 NASA benchmark to judge new simulation code to space industry standards.
+- [Maverick Model 3D](https://clover.moe/mm3d/) – An open source 3D model editor based on Misfit Model 3D.
+- [SimPy](http://simpy.readthedocs.org/) – Queue-theoretic event-based simulator written in Python.
+
+
 ## [Advertising](#advertising)
 Do not use any advertising service that comes from big tech corporations like e.g. Google Ads, Facebook/Instagram Ads or Bing Ads. These services aggregate and exploit user data by micro-targeting specific individuals. [Online Ads produce 60 Megatons of CO2 every year](https://www.researchgate.net/publication/328665574_Environmental_impact_assessment_of_online_advertising).
 
@@ -45,8 +52,49 @@ See [here](https://support.google.com/googleplay/android-developer/answer/604824
 - [waydro](https://waydro.id/) – Waydroid uses Linux namespaces (user, pid, uts, net, mount, ipc) to run a full Android system in a container and provide Android applications on any GNU/Linux-based platform.
 
 
+## [Android microphone checker and jamming](#android-microphone-checker-and-jamming)
+- [Haven](https://guardianproject.github.io/haven/) – For people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors
+- [PilferShush Jammer](https://github.com/kaputnikGo/PilferShushJammer) – Light Android AOSP application to test microphone jamming techniques to combat Cross-Device Tracking (XDT).
+- [Privacy Indicators](https://f-droid.org/en/packages/com.nitish.privacyindicator/) – Get notified every time an app or a service uses camera or microphone.
+- [SafeDot](https://f-droid.org/en/packages/com.aravi.dot) – Alerts you when a third-party application uses your device.
+- [Skewy - anti eavesdropping](https://f-droid.org/en/packages/hans.b.skewy1_0/) – A tool to prevent eavesdropping and ultrasonic access of your smart phone.
+- [Vigilante](https://f-droid.org/en/packages/com.crazylegend.vigilante) – Know when a third-party app uses your device.
+
+
+## [Artificial Intelligence Tools](#artificial-intelligence-tools)
+- [OpenCog](http://opencog.org/) – A project that aims to build an artificial general intelligence (AGI) framework. OpenCog Prime is a specific set of interacting components designed to give rise to human-equivalent artificial general intelligence.
+
+
+## [ASN Blocking](#asn-blocking)
+- [asnban](https://github.com/SharkyRawr/asnban) – Python script to easily block all announced prefixes of the owner of any given IP address.
+- [blockasn](https://github.com/hackers-terabit/blockasn) – Blocks IP subnets belonging to an autonomous system.
+- [sirubo](https://github.com/stutteringsteve/sirubo) – ASN prefix (big tech) outbound traffic blocker.
+- [tcp-wrapper-asn-filter](https://github.com/SecOpsToolbox/tcp-wrapper-asn-filter) – A simple way to filter IPs by ASN to deny or allow connections to SSH.
+
+
+## [Avatars](#avatars)
+- [99avatars.com](https://99avatars.com/) – Avatars for Humans and Computers.
+- [9LibrAvatar](https://www.libravatar.org/) – Federated, Open Source Avatars.
+- [GetAvatars](https://getavataaars.com/) – Open source avatar generator (mix n match).
+
+
 ## [Anti-Facial Recognition](#anti-facial-recognition)
 - [MaskID](https://mask.id/en/) – MaskID keeps your face hidden from the machines! Share your identity and morph with the community.
+
+
+## [Alternative Networks](#alternative-networks)
+
+Most network systems are by default not designed to be fully anonymous.
+
+- [DERO](https://urbit.org/) – The industry leader with innovation and features DeroDAG technology, Bulletproofs and a TLS encrypted network.
+- [Hyperboria](http://hyperboria.net/) – Formerly known as Meshnet, a community dedicated for local WiFi initiatives, programmers, and enthusiasts. They run several servers and networks. Hyperboria is based on the cjdns routing protocol.
+- [Yggdrasil](https://yggdrasil-network.github.io/) – End-to-end encrypted IPv6 network but not entirely antonyms.
+- [Sentinel](https://sentinel.co/) – A network of independent dVPN applications, not just a single consumer facing dVPN.
+- [urbit](https://urbit.org/) – A decentralized personal server platform, basically a compact system for an individual to run their own permanent personal server.
+
+
+## [Alternatives to Shopify](#alternatives-to-shopify)
+- [Medusa](https://github.com/medusajs/medusa) – An open-source headless commerce engine that enables developers to create amazing digital commerce experiences.
 
 
 ### [Analytics Software](#analytics-software)
@@ -177,6 +225,10 @@ Privacy oriented alternatives:
 - [7-Zip](https://www.7-zip.org/) – Can archive and password protect + encrypt any file you put in a zip folder, regardless of the file extension.
 - [Keka](https://www.keka.io/) – The macOS file archiver Store more, share with privacy.
 - [PeaZip](https://peazip.github.io/) – Free file archiver utility, open extract RAR TAR ZIP files, it also can encrypt files.
+
+
+## [Auto Airplane Mode](#auto-airplane-mode)
+- [Auto Airplane Mode](https://f-droid.org/en/packages/org.miamplayer.autoairplanemode/) – Schedule airplane mode based on your settings, e.g. by date/time. Root access is required to write secure system settings!
 
 
 ## [Audiobooks](#audiobooks)
@@ -691,11 +743,28 @@ Privacy oriented alternatives:
 - [pivx2bitcoin](https://pivx2bitcoin.com) – Awesome private crypto swap. No accounts, no signups, no JavaScript, no tracking, no analytics. Tor and VPN friendly, too.
 
 
+## [Computer Vision](#computer-vision)
+- [AForge.NET](http://www.aforgenet.com/) – Computer vision, artificial intelligence and robotics library for the .NET Framework.
+- [OpenCV](https://opencv.org/) – Computer vision library in C++.
+
+
+## [Car Diagnostic](#car-diagnostic)
+- [AndrOBD](https://github.com/fr3ts0n/AndrOBD) - Use your android device to connect to your car's on-board diagnostics system via diagnostic adapters.
+
+
+## [Computer-aided design short CAD](#computer-aided-design-short-cad-tools)
+- [Chokoku CAD](https://github.com/itta611/ChokokuCAD) – A new open-source CAD software on the browser.
+- [FreeCAD](https://www.freecadweb.org/) – Parametric 3D CAD modeler with a focus on mechanical engineering, BIM, and product design.
+- [LibreCAD](https://librecad.org/) – 2D CAD software using AutoCAD-like interface and file format.
+- [OpenSCAD](https://openscad.org/) – A software for creating solid 3D CAD objects. It is free software and available for Linux/UNIX, MS Windows and Mac OS X.
+- [XTrackCAD](https://sourceforge.net/projects/xtrkcad-fork/) – An open-source, free, CAD program for designing model railroad layouts.
+
+
 ## [Cryptocurrencies Trading Bots](#crypto-trading-bots)
 - [freqtrade](https://github.com/freqtrade/freqtrade) – Free, open source crypto trading bot.
 
 
-## [Crashlytics logging](#Crashlytics-logging)
+## [Crashlytics Logging](#crashlytics-logging)
 Not so good in terms of privacy:
 - [Google's Firebase SDK collects Crashdata despite opt-out](https://github.com/FirebaseExtended/flutterfire/issues/6934)
 - Google Crashlytics
@@ -708,17 +777,55 @@ Privacy oriented alternatives:
 - [Supabase](https://supabase.io/) – Open source Firebase alternative.
 
 
-## [Data deletion services](#data-deletion-services)
+## [Data Deletion Services](#data-deletion-services)
 - [Django-GDPR-assist](https://github.com/wildfish/django-gdpr-assist) – Tools to help manage user data in the age of GDPR.
 - [JustGetMyData and JustDeleteMe](https://justgetmydata.com/) – JustGetMyData and JustDeleteMe are websites that help you obtain and/or delete your data from multiple services.
 - [lethe](https://github.com/rafael-santiago/lethe) – A cross-platform data wiping tool that implements data destruction.
 
 
-## [Data recovery](#data-recovery)
+## [Dating Sites](#dating-sites)
+- [Alovoa](https://alovoa.com/) – [Alovoa](https://github.com/Alovoa/alovoa) is an AGPL-licensed dating site with a good privacy policy.
+
+
+## [Dialer Apps](#Dialer-Apps)
+- [Koler](https://github.com/Chooloo/koler) – Just a phone app.
+- [Simple Dialer](https://github.com/SimpleMobileTools/Simple-Dialer) – A handy phone call manager with phonebook, number blocking and multi-SIM support.
+
+
+## [Diagramming Software](#diagramming-software)
+Not so good in terms of privacy:
+- Lucidchart
+- X-Mind
+
+Privacy oriented alternatives:
+- [Diagrams.net](https://www.diagrams.net/) – Security-first diagramming for teams.
+
+
+## [Developer Tools](#developer-tools)
+- [Alternatives for colors.js and faker.js](https://snyk.io/blog/open-source-maintainer-pulls-the-plug-on-npm-packages-colors-and-faker-now-what/) – [Faker.js alternative](https://pkg.land/package/faker), and [colors.js](https://pkg.land/package/colors).
+- [Andronix](https://andronix.app/) – Run full-fledged Linux Distros right on your Android device without rooting.
+- [Beekeeper Studio](https://www.beekeeperstudio.io) – Open Source SQL Editor and Database Manager with a privacy commitment in their mission statement.
+- [Encoding Tools](https://encoding.tools/) – Encoding Tools is an alternative to CyberChef and Burp Suite Encoder.
+- [RegEx101](https://regex101.com/) – Regular expression tester with syntax highlighting, explanation, cheat sheet for PHP/PCRE, Python, GO, JavaScript, Java. Features a regex quiz & library.
+- [Secure remote DevTools](https://github.com/i5ik/secure-remote-devtools) – Connect to DevTools and debug from anywhere.
+- [Termux](https://f-droid.org/packages/com.termux/) – Simple Android Terminal app.
+- [Webinstall.dev](https://webinstall.dev/) – Install developer tools simply from the command line.
+
+### [Mobile Developer Tools](#mobile-developer-tools)
+- [Mozilla Webmaker](https://foundation.mozilla.org/en/artifacts/webmaker/) – Various web dev tools.
+
+
+## [Deezer Alternative clients](#deezer-alternative-clients)
+- [dzr](https://github.com/yne/dzr) – Command line Deezer player for Linux, BSD, Android + Termux.
+- [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) – Multiplatform Music Downloader that supports Spotify, Youtube, Gaana, Jio-Saavn, SoundCloud. - **controversial**
+
+
+## [Data Recovery](#data-recovery)
 - [dvdisaster](https://dvdisaster.jcea.es/) – A computer program aimed to enhance data survivability on optical discs by creating error detection and correction data, which is used for data recovery.
 - [Foremost](http://foremost.sourceforge.net/) – A forensic data recovery program for Linux used to recover files using their headers, footers, and data structures through a process known as file carving.
 - [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec) – A free and open-source utility software for data recovery with text-based user interface using data carving techniques, designed to recover lost files from various digital camera memory, hard disk and CD-ROM.
 - [TestDisk](https://www.cgsecurity.org/wiki/TestDisk) – It is primarily designed to help recover lost data storage partitions and/or make non-booting disks bootable again when these symptoms are caused by faulty software, certain types of viruses or human error (such as accidentally erasing a partition table).
+
 
 ### [Data Collection and Telemetry Studies](#data-collection-and-telemetry-studies)
 
@@ -756,32 +863,58 @@ Privacy oriented alternatives:
 - [vdbench](https://github.com/haydenjames/bench-scripts/blob/master/README.md#vdbench) – Generate disk I/O workloads to be used for validating storage performance and storage data integrity.
 
 
-## [Documentation generators](#documentation-generators)
+## [Documentation Generators](#documentation-generators)
 - [CDoxygen](http://www.doxygen.nl/) – Tool for writing software reference documentation. The documentation is written within code.
 - [CMkd](https://en.wikipedia.org/wiki/Mkd_(software)) – The software documentation is extracted from the sources files, from pseudo-code or comments.
 - [CNatural Docs](http://www.naturaldocs.org/) – Claims to use a more natural language as input from the comments, hence its name.
 
 
-## [Computer Vision](#computer-vision)
-- [AForge.NET](http://www.aforgenet.com/) – Computer vision, artificial intelligence and robotics library for the .NET Framework.
-- [OpenCV](https://opencv.org/) – Computer vision library in C++.
+### [DRM-Free Book Stores](#drm-free-book-stores)
+- [Beam Book Store](http://www.beam-ebooks.de/) – Sells DRM-free books in German. Some books are distributed with a buyer-unique watermark, although this watermark does not limit book usage.
+- [Book View Café](http://bookviewcafe.com/bookstore/) – Sells ebooks without DRM or an EULA
+- [The Bundle of Holding](https://bundleofholding.com/) – Is a DRM-free bookselling site that sells time-limited, DRM-free offers of tabletop roleplaying game rulebook .PDFs and RPG-related ebooks.
+- [Chicago Shorts](http://press.uchicago.edu/ucp/books/series/CHISH.html) – DRM-free ebooks, passages and short stories selected by the University of Chicago.
+- [Closed Circle](http://www.closed-circle.net/) – Small DRM-free ebook store, direct from the authors themselves. Specializing in fantasy.
+- [Delphi Classics](http://delphiclassics.com/) – sells copies of classic texts edited and formatted as ebooks. All epub files are - DRM-free, but not the .mobi files.
+- [Ediciones Babylon](http://www.edicionesbabylon.es/) – Spanish books and ebooks free of DRM.
+- [Editions Fleurus](http://www.fleuruseditions.com/) – A French publishing house with over 1000 titles available.
+- [Elegant Solutions Software and Publishing Company](http://esspc-ebooks.com/) – eBooks in a few portable formats.
+- [The Fifth Imperium](http://ebooks.thefifthimperium.com/) – CD-ROM images, mostly the images are of the free CD-ROMs included with some Baen Books. Baen Books allows the CD-ROMs to be copied and distributed for free. Every CD-ROM contains several complete novels in HTML format, and some have extras, like MP3 readings. All CD-ROMs also contain artwork for the CD-ROM itself.
+- [Girlebooks](http://girlebooks.com/) – A resource for classic and contemporary ebooks by female writers.
+- [Humble Bundle (Books)](https://www.humblebundle.com/books/) – Sells collections of DRM-free ebooks, with two bundles available at any point in time.
+- [Immatériel.fr](http://www.immateriel.fr/) – A French distributor of ebooks that indicates DRM-free titles with smiley faces.
+- [Lektu](https://lektu.com/) – A Spanish-language DRM-free ebook store. In addition to books, it has audiobooks, ecomics, and music.
+- [U.S. Government Bookstore](http://bookstore.gpo.gov/ebooks) – Offers both print and DRM-free digital publications from across the entire US federal government, ranging from art and travel to business, education, and history.
+- [Weightless Books](http://weightlessbooks.com/) – An independent DRM-free ebooksite devoted to ebooks of all sorts.
 
 
-## [Car Diagnostic](#car-diagnostic)
-- [AndrOBD](https://github.com/fr3ts0n/AndrOBD) - Use your android device to connect to your car's on-board diagnostics system via diagnostic adapters.
+## [Document Scanners](#document-scanners)
+- [Docus](https://apt.izzysoft.de/fdroid/index/apk/com.bretahajek.docus) – Android application for scanning and managing documents.
+- [Open Note Scanner](https://f-droid.org/app/com.todobom.opennotescanner) – With Open Note Scanner you can capture documents, handwritten notes, arts, shopping receipts, etcetera. It will automatically adjust the image aspect, contrast and save it. It will allow browsing, view and share the scanned documents.
 
 
-## [Computer-aided design short CAD](#computer-aided-design-short-cad-tools)
-- [Chokoku CAD](https://github.com/itta611/ChokokuCAD) – A new open-source CAD software on the browser.
-- [FreeCAD](https://www.freecadweb.org/) – Parametric 3D CAD modeler with a focus on mechanical engineering, BIM, and product design.
-- [LibreCAD](https://librecad.org/) – 2D CAD software using AutoCAD-like interface and file format.
-- [OpenSCAD](https://openscad.org/) – A software for creating solid 3D CAD objects. It is free software and available for Linux/UNIX, MS Windows and Mac OS X.
-- [XTrackCAD](https://sourceforge.net/projects/xtrkcad-fork/) – An open-source, free, CAD program for designing model railroad layouts.
+## [Download Managers](#download-managers)
+- [Aria2 Download Manager](https://github.com/jk-gan/ADM) – Aria2 Download Manager is a download manager built with electron, react and aria2.
+- [axel](https://github.com/axel-download-accelerator/axel) – Lightweight CLI download accelerator. It supports HTTP, HTTPS, FTP and FTPS protocols.
+- [FireDM](https://github.com/firedm/FireDM) – Python open source (Internet Download Manager) with multi-connections, high speed engine, based on python, LibCurl, and youtube-dl.
+- [GNU Wget2](https://www.gnu.org/software/wget/) – GNU Wget is a free software package for retrieving files using HTTP, HTTPS, FTP and FTPS, the most widely used Internet protocols.
+- [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) – Desktop utility to download images/videos/music/text from various websites.
+- [JDownloader2](http://jdownloader.org/download/index) – JDownloader is a free, open-source download management tool with a huge community of developers that makes downloading as easy.
+- [lftp](https://github.com/lavv17/lftp) – Sophisticated command line file transfer program (ftp, http, sftp, fish, torrent).
+- [Persepolis](https://persepolisdm.github.io) – Boost Downloading Using Libre Software!
+- [XDM Xtreme Download Manager](https://github.com/subhra74/xdm) – Xtreme Download Manager (XDM) is a powerful tool to increase download speeds up to 500%, save streaming videos from YouTube, DailyMotion, Facebook, Vimeo, Google Video and 1000+ other websites, resume broken/dead downloads, schedule and convert downloads.
+- [You-Get](https://you-get.org/) – Tiny command-line utility to download media contents (videos, audios, images) from the Web, in case there is no other handy way to do it.
+
+### [Mobile Download Mangers](#mobile-download-managers)
+- [Aria2App](https://github.com/devgianlu/Aria2App) – An advanced download manager based on aria2 that can handle remote servers too.
+- [Download Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) – Free and Open Source software download manager.
+- [LibreTorrent](https://github.com/proninyaroslav/libretorrent) – Free and Open Source, full-featured torrent client for Android.
+- [Motrix](https://motrix.app) – A full-featured download manager that supports downloading HTTP, FTP, BitTorrent, Magnet, etc.
 
 
-## [Electronic design automation (EDA)](#electronic-design-automation-eda)
-- [Fritzing](https://fritzing.org/) – Fritzing is an open-source initiative to develop amateur or hobby CAD software for the design of electronics hardware, to support designers and artists ready to move from experimenting with a prototype to building a more permanent circuit.
-- [KiCad](http://www.kicad.org/) – KiCad is a free software suite for electronic design automation (EDA).
+## [Electronic Design Automation (EDA)](#electronic-design-automation-eda)
+- [Fritzing](https://fritzing.org/) – An open-source initiative to develop amateur or hobby CAD software for the design of electronics hardware, to support designers and artists ready to move from experimenting with a prototype to building a more permanent circuit.
+- [KiCad](http://www.kicad.org/) – A free software suite for electronic design automation (EDA).
 
 
 ## [Electron Framework Alternatives](#electron-framework-alternatives)
@@ -805,8 +938,24 @@ Electron Framework is in general more [heavy on resources](https://blog.logrocke
 - [Tauri](https://tauri.studio/en/) – Build smaller, faster, and more secure desktop applications with a web fronten.
 - [Ultimate++](https://www.ultimatepp.org/) – A C++ cross-platform rapid application development framework.
 - [Vuido](https://github.com/mimecorg/vuido) – Build native desktop applications using Vue.js.
-- [Webber](https://open-store.io/app/webber.timsueberkrueb) – Webber effortlessly installs local shortcuts for any webpage
+- [Webber](https://open-store.io/app/webber.timsueberkrueb) – Effortlessly installs local shortcuts for any webpage
 - [wxWidgets](http://www.wxwidgets.org/) – A C++ library that lets developers create applications for Windows, OS X, Linux and UNIX on 32-bit and 64-bit architectures as well as several mobile platforms including Windows Mobile, iPhone SDK and embedded GTK+.
+
+
+### [Ebook readers](#ebook-readers)
+- [Bookworm](https://babluboy.github.io/bookworm/) – A simple, focused eBook reader.
+- [Calibre](https://calibre-ebook.com) – The one stop solution to all your e-book needs.
+    - [Calibre Web](https://github.com/janeczku/calibre-web) – An app for browsing eBooks stored in a Calibre database.
+- [DIY ePub Reader](https://github.com/atomic14/diy-esp32-epub-reader) – An ESP32 e-reader.
+- [Duofolio](https://github.com/farshed/duofolio) – An eBook reader that helps you read books in other languages.
+- [Foliate](https://johnfactotum.github.io/foliate/) – A simple and modern eBook viewer for Linux desktops.
+- [KOReader](https://koreader.rocks) – A document viewer for E Ink devices.
+- [Librera Reader](https://librera.mobi) – All-Format eBook Reader for Android.
+- [Thorium Reader](https://www.edrlab.org/software/thorium-reader/) – An EPUB reader of choice for Windows 10, macOS and Linux.
+
+
+## [Employee Monitoring](#employee-monitoring)
+- [fleet](https://github.com/fleetdm/fleet) – Open source device management, built on osquery.
 
 
 ## [Educational Suites](#educational-suites)
@@ -862,30 +1011,6 @@ Electron Framework is in general more [heavy on resources](https://blog.logrocke
 - [TruthOrFiction.com](https://www.truthorfiction.com/) – Truth or Fiction is one of the best fact-checking sites where you can get information on fake news and viral content you may come across online or by email.
 
 
-## [Microblogging](#microblogging)
-- [Bear blog](https://bearblog.dev) – Microblogging without trackers, the upper layer is Heroku.
-- [Heaven Web previously known as Simple Blogs](https://havenweb.org/) – Good for private blogs but not for commercial/public blogging. Built-in feed reader.
-- [Gollum](https://github.com/gollum/gollum) – A simple, Git-powered wiki with a sweet API and local front-end.
-- [NoFilter](https://nofilter.org/) – Unstoppable uncensorable free speech blogging app and content live on IPFS. There is no source code provided for the platform or the hosted website. - **controversial**
-- [Orca](https://github.com/ElevenSymbols/orca) – An open-source platform for building modern community apps.
-- [Rainbow Stream](https://github.com/orakaro/rainbowstream) – A smart and nice Twitter client on terminal written in Python.
-- [Retype](https://retype.com/) – A self-hosted alternative to GitBook.
-- [Spill](https://usespill.com/auth/login/?next=/feed/new) – Anonymous Micro-Blogging. Non-Harvard people can join although their accounts will be flagged as such. - **controversial**
-- [slc.is](https://github.com/splch/slc.is) – A Markdown Blog on Go.
-- [Statsigstatus](https://github.com/statsig-io/statsigstatus) – Open-Source Status Page Built with GitHub Actions.
-- [Toot](https://github.com/ihabunek/toot) – Mastodon CLI & TUI client.
-    - [tut](https://github.com/RasmusLindroth/tut) – A Mastodon TUI.
-- [Turses](https://github.com/louipc/turses) – A Twitter client for the console.
-- [Twtxt](https://twtxt.readthedocs.io/en/latest/user/intro.html) – Minimalist Micro-Blogging service for hackers with a CLI.
-- [Write.as](https://write.as) – A simple writing platform built to preserve and spread your words.
-- [WriteFreely](https://writefreely.org/) – An open-source platform for building a writing space on the web.
-- [Void](https://github.com/josephernest/void) – Static pages and blog articles are possible.
-
-
-### [Blogging and Microblogging Tools](#blogging-and-microblogging-tools)
-- [markdown_ss](https://github.com/rysolv/markdown_ssg) – Ultra minimal markdown static site generator.
-
-
 ## [Bluetooth Auto-Off](#bluetooth-auto-off)
 - [Greentooth](https://f-droid.org/en/packages/com.smilla.greentooth/) – Save battery and mitigate the security risks of Bluetooth by automatically turning Bluetooth off when it is no longer needed.
 
@@ -897,94 +1022,6 @@ Electron Framework is in general more [heavy on resources](https://blog.logrocke
 - [Write Freely](https://write.as/) – A blogging service like Medium where the focus is on the text itself, with a clean uncluttered aesthetic.
 - [Scribe.rip](https://scribe.rip/) – An open source Medium Blog front-end.
 - [Stringer](https://stringer.blog/) – A blogging platform for the masses. Built for the decentralized web.
-
-
-## [Software Energy Consumption Measurement](#software-energy-consumption-measurement)
-- [Tools to Measure Software Energy Consumption from your Computer](https://luiscruz.github.io/2021/07/20/measuring-energy.html)
-
-
-## [Search Engines](#search-engines)
-
-List of GitHub repositories and articles with [list of dorks for different search engines](https://github.com/cipher387/Dorks-collections-list). I do not list [App Stores under Search Engines](https://www.indiehackers.com/post/app-stores-are-search-engines-06e1f883a2) because I do not want to confuse the average user and to avoid useless discussion about semantics and content discovery.
-
-Not so good in terms of privacy:
-- [Bing](https://www.makeuseof.com/tag/best-privacy-focused-search-engines/)
-- [Brave Search](https://chef-koch.bearblog.dev/brave-browser-hardening-by-chef-koch/#brave-search-faq)
-- [DuckDuckGo](http://techrights.org/2020/07/02/ddg-privacy-abuser-in-disguise/), please see [here](https://old.reddit.com/r/degoogle/comments/pwf7q0/twitter_censors_email_correspondence_that_appears/hegyiik/).
-- [Google Search](https://en.wikipedia.org/wiki/Privacy_concerns_regarding_Google)
-- [Yahoo Search](https://en.wikipedia.org/wiki/Search_engine_privacy)
-- [Yandex](https://www.dailymail.co.uk/sciencetech/article-7894643/Privacy-concerns-Russias-popular-search-engine-Yandex-uses-facial-recognition.html)
-
-Privacy oriented alternatives:
-- [Andi](https://andisearch.com/) – A new generation anonymous and ad-free search engine it provides relevant results via auto-learning A.I.
-- [Blinde Kuh](https://www.blinde-kuh.de/) – Search engine designed for our kids, made in Germany.
-- [Ekoru](https://ekoru.org/) – Privacy focused search engine that also aims to clean up the oceans.
-- [Entfer](https://entfer.com/) – A new search engine that lets you control the ordering of search results.
-- [Esteroids](https://esteroids.eth.limo/) – A search engine for ENS+IPFS websites.
-- [Gibiru](https://gibiru.com/) – Search Provider since 2009.
-- [Givero](https://www.givero.com/) – Donates a large part of it’s gross revenue to Non-Profit organizations.
-- [Goopt](https://github.com/jokenox/Goopt) – Search Engine for a Procedural Simulation of the Web with GPT-3.
-- [MetaGer](https://metager.org/) – Search engine project from the registered nonprofit organization SUMA E.V. in Germany. There is an .de and .org domain, one is for german and the .org domain is for english results.
-    - [Gigablast](http://gigablast.com/) – A search provider focused on privacy and one of only a handful of search engines in the US that maintains its own index of over a billion pages.
-- [Okeano](https://okeano.com/) – Claims to not store any [identifiable information](https://okeano.com/privacy).
-- [Qdrant](https://qdrant.tech/) – Vector Search Engine.
-- [Personal Search Engine](https://github.com/beenotung/personal-search-engine) – A home-grown search engine for individuals.
-- [Presearch](https://presearch.org) – A decentralized search engine, powered by the community.
-- [The Social Search Engine Find Unique Topics and Make Anonymous Comments](https://thesocialsearchengine.com/) – A crowd-sourced, anonymous social search tool. Pretty unique search engine and the only reason why it is listed.
-
-
-### [Metasearch engines](#metasearch-engines)
-
-Metasearch engines use another search engine's data to produce its own [results from the Internet](https://www.searchenginemap.com/). There's a widespread misconception that meta-search engines are somehow inferior or unworthy.
-
-Be careful if you use public instances, this applies to every self-hosted public instance, and is not an exclusive search engine warning. Similar like with Tor nodes, anyone with bad intentions can set up a “rogue” instance and [potentially log user activity](https://asciimoo.github.io/searx/user/own-instance.html).
-
-
-- [Approach Zero](https://approach0.xyz/search/) – A math-aware search engine.
-- [Ecosia](https://www.ecosia.org/) – A search engine based in Berlin, Germany which uses Bing as upper layer.
-- [Givero](https://www.givero.com/) – Based in Denmark, Givero offers more privacy than Google and combines search with charitable donations.
-- [Hello](https://beta.sayhello.so/) – A conversational search engine powered by transformers. - **controversial**
-- [Infinity Search](https://infinitysearch.co/) – Infinity Search is a privacy metasearch engine that does not log any information about its users. In terms of privacy, it works the same way as [DuckDuckGo](https://codeberg.org/swiso/website/issues/137).
-- [Kiddle](https://www.kiddle.co/) – Safe visual search engine for kids. - **controversial**
-- [MeiliSearch](https://codefibershq.com/blog/hands-on-meilisearch-a-next-generation-search-engine-for-modern-web) – A next generation search engine for modern web.
-- [MusicSrch](https://musicsrch.com/) – Simple Music Search Engine, it includes trackers for statistics. - **controversial**
-- [Mwmbl](https://github.com/mwmbl/mwmbl) – An open source, non-profit search engine implemented in Python.
-- [Oscobo](https://www.oscobo.com/) – A search engine created for the sole purpose of protecting your privacy while you search the web.
-- [Private](https://private.sh/) – The search engine that cryptographically protects your privacy.
-- [Roogle](https://github.com/hkmatsumoto/roogle) – A (Hoogle-like) Rust API search engine.
-- [Rave Book Search Engine](https://ravebooksearch.com/) – Easily find books or audio-books.
-- [RigFoot](https://rigfoot.com/) – A guitar and bass pedal search engine. - **controversial**
-- [SearX](https://searx.me/) – Privacy-respecting metasearch software. - **controversial** Keep in mind that anyone can create an instance an deliver ads, malware etc.
-    - [SearX.be](https://searx.be/) – Example: SearX.be is located in the EU.
-    - [List of searx instances](https://searx.space/) –  Shows different instances, choose one or more to use. Click "..." in address bar to add as search engine.
-    - [SearX.QT](https://notabug.org/CYBERDEViL/searx-qt) – Lightweight desktop application for Searx.
-- [SS](https://ss.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) – Onion based search engine focused on privacy.
-- [Swisscows](https://swisscows.com) – 100% anonymous, child-friendly, own servers in the Swiss alps (no cloud provider), everything is located outside of the EU and US.
-- [Whoogle Search](https://github.com/benbusby/whoogle-search) – A self-hosted, ad-free, privacy-respecting Google metasearch engine.
-- [YaCy](https://yacy.net/) – A free, open source and decentralized search engine.
-
-
-### [Enterprise search engines](#enterprise-search-engines)
-- [Lucene](https://lucene.apache.org/) – A free and open-source search engine software library, originally written in Java by Doug Cutting.
-- [Nutch](https://nutch.apache.org/) – A highly extensible and scalable open source web crawler software project.
-- [Solr](https://solr.apache.org/) – An open-source enterprise-search platform, written in Java. Its major features include full-text search, hit highlighting, faceted search, real-time indexing, dynamic clustering, database integration, NoSQL features and rich document (e.g. Word and PDF) handling.
-- [Xapian](https://xapian.org/) – A free and open-source probabilistic information retrieval library, released under the GNU General Public License (GPL).
-
-
-### [Bittorrent Search Engines](#bittorrent-search-engines)
-- [Cleanbay](https://github.com/Gr3atWh173/cleanbay) – Torrent meta-search engine.
-- [Giga](https://giga.cat/) – Torrent search engine but the database is fetched locally from IPFS.
-- [rats-search](https://github.com/DEgITx/rats-search) – BitTorrent search engine.
-
-
-### [Developer oriented Search engines](#developer-oriented-search-engines)
-- [Nrtsearch](https://engineeringblog.yelp.com/2021/09/nrtsearch-yelps-fast-scalable-and-cost-effective-search-engine.html) – Yelp’s Fast, Scalable and Cost Effective Search Engine
-
-
-### [Exploit and leaks search engines](#exploit-and-leaks-search-engines)
-- [Shodan Search Engine](https://www.shodan.io/) – Search Engine for the Internet of Everything.
-- [Have I Been Pwned](https://haveibeenpwned.com/) – Allows you to search across multiple data breaches to see if your email address or phone number has been compromised.
-- [dnstwister](https://dnstwister.report/) – The anti-phishing domain name search engine and DNS monitoring service.
 
 
 ## [Docker alternatives](#docker-alternatives)
@@ -1011,15 +1048,6 @@ You can find an open-source home cloud that allows you to run Docker application
 
 ## [Detect Trackers in Apps](#detect-trackers-in-apps)
 - [Exodus Privacy](https://reports.exodus-privacy.eu.org/) – Easily detect tracker before you install random apps.
-
-
-## [Android microphone checker and jamming](#android-microphone-checker-and-jamming)
-- [Haven](https://guardianproject.github.io/haven/) – For people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors
-- [PilferShush Jammer](https://github.com/kaputnikGo/PilferShushJammer) – Light Android AOSP application to test microphone jamming techniques to combat Cross-Device Tracking (XDT).
-- [Privacy Indicators](https://f-droid.org/en/packages/com.nitish.privacyindicator/) – Get notified every time an app or a service uses camera or microphone.
-- [SafeDot](https://f-droid.org/en/packages/com.aravi.dot) – Alerts you when a third-party application uses your device.
-- [Skewy - anti eavesdropping](https://f-droid.org/en/packages/hans.b.skewy1_0/) – A tool to prevent eavesdropping and ultrasonic access of your smart phone.
-- [Vigilante](https://f-droid.org/en/packages/com.crazylegend.vigilante) – Know when a third-party app uses your device.
 
 
 ## [Debuggers designed for testing and trouble-shooting](#debuggers-designed-for-testing-and-trouble-shooting)
@@ -1079,27 +1107,6 @@ Some of the listed apps are not traditional firewalls. I decided included them a
 - [ModSecurity](http://www.modsecurity.org/) – ModSecurity is a toolkit for real-time web application monitoring, logging, and access control.
 - [NAXSI](https://github.com/nbs-system/naxsi) – NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX, NAXSI means Nginx Anti Xss & Sql Injection.
 - [sql_firewall](https://github.com/uptimejp/sql_firewall) – SQL Firewall Extension for PostgreSQL.
-
-
-## [Artificial Intelligence Tools](#artificial-intelligence-tools)
-- [OpenCog](http://opencog.org/) – A project that aims to build an artificial general intelligence (AGI) framework. OpenCog Prime is a specific set of interacting components designed to give rise to human-equivalent artificial general intelligence.
-
-
-### [ASN Blocking](#asn-blocking)
-- [asnban](https://github.com/SharkyRawr/asnban) – Python script to easily block all announced prefixes of the owner of any given IP address.
-- [blockasn](https://github.com/hackers-terabit/blockasn) – Blocks IP subnets belonging to an autonomous system.
-- [sirubo](https://github.com/stutteringsteve/sirubo) – ASN prefix (big tech) outbound traffic blocker.
-- [tcp-wrapper-asn-filter](https://github.com/SecOpsToolbox/tcp-wrapper-asn-filter) – A simple way to filter IPs by ASN to deny or allow connections to SSH.
-
-
-## [Avatars](#avatars)
-- [99avatars.com](https://99avatars.com/) – Avatars for Humans and Computers.
-- [9LibrAvatar](https://www.libravatar.org/) – Federated, Open Source Avatars.
-- [GetAvatars](https://getavataaars.com/) – Open source avatar generator (mix n match).
-
-
-## [MongoDB alternatives](#mongodb-alternatives)
-- [FerretDB](https://github.com/FerretDB/FerretDB) – A truly open-source MongoDB alternative.
 
 
 ## [Deep Fakes Software](#deep-fakes-software)
@@ -1173,14 +1180,35 @@ Privacy oriented alternatives:
 - [Onion based DNS servers](http://www.xpqizwv63kdv3wxcecdrokx24itbts7y2tedemntqeyc2wbm3lrobbid.onion/providers/dns/)
 
 
-### [DNS latency matters](#dns-latency-matters)
+### [DNS Latency Matters](#dns-latency-matters)
 - [DNS Caching](https://github.com/DNSCrypt/dnscrypt-proxy/wiki/Caching)
 - [DNSPerf](https://www.dnsperf.com/#!dns-resolvers) – Can be used to check which one is fastest for you.
 - [Stop using low DNS TTLS](https://00f.net/2019/11/03/stop-using-low-dns-ttls/)
 - [What is a good TTL for DNS?](https://www.nslookup.io/blog/what-is-a-good-ttl-for-dns/)
 
 
-### [Network-wide ads & trackers blocking DNS server](#network-wide-ads--trackers-blocking-DNS-server)
+## [Kahoot Alternatives](#kahoot-alternatives)
+- [Particify](https://ars.particify.de/) – Game-based learning platform.
+
+
+## [Keybase Alternatives](#keybase-alternatives)
+
+In May 2020 Keybase was acquired by [Zoom](https://keybase.io/blog/keybase-joins-zoom).
+
+- [Keyoxide](https://keyoxide.org/) – A Keybase alternative, basically a privacy-friendly platform to establish your decentralized identity.
+- [wheretofind.me](https://wheretofind.me/) – An open source identity directory website. It lets you create a small profile with all your social media links. Afterwards, point people to this profile so they can quickly find you on all platforms.
+
+
+## [Key Remapper](#key-remapper)
+- [KMonad](https://github.com/kmonad/kmonad) – An advanced keyboard manager.
+- [Remap keys on Windows without installing anything](https://n8ta.com/projects/windows_key_remapper.html).
+- [Wayremap](https://github.com/acro5piano/wayremap) – Wayremap is a Dynamic key remapper for Wayland desktop environment.
+- [xremap](https://github.com/k0kubun/xremap) – Dynamic key remapper for X11 and Wayland, written in Rust for Linux.
+
+### [Mobile Key Remapper](#mobile-key-remapper)
+- [KeyMapper](https://github.com/keymapperorg/KeyMapper) – Change what the buttons do, the Android app is on Google Play Store and F-Droid.
+
+### [Network-wide ad & tracker blocking DNS servers](#network-wide-ad--tracker-blocking-DNS-servers)
 I do not list the original Pihole project in this section since I think AdGuard Home does overall a better job.
 
 - [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) – Network-wide ads & trackers blocking DNS server.
@@ -1217,66 +1245,6 @@ I do not list the original Pihole project in this section since I think AdGuard 
 - [GNU Mailman](https://list.org/) – Mailman is free software for managing electronic mail discussion and e-newsletter lists. Mailman is integrated with the web, making it easy for users to manage their accounts and for list owners to administer their lists. Mailman supports built-in archiving, automatic bounce processing, content filtering, digest delivery, spam filters, and more.
 - [Groups.io](https://groups.io/) – A privacy focused email list system that does not track you, nor your members. It is not open source. Data is hosted on one central server but the server is encrypted. It has modern email group features such as a wiki, integrations, and RSS import support.
 - [Sympa](https://www.sympa.org/) – An open-source mailing list manager. It provides advanced features with a rich and secure web interface.
-
-
-## [Icon Libraries](#icon-libraries)
-- [3dicons](https://3dicons.co/) – Open-source 3D icon library.
-- [Ant Design Icons, by Ant Financial](https://ant.design/components/icon/) – Ant Design SVG Icons.
-- [Bootstrap Icons](https://icons.getbootstrap.com/) – Official open source SVG icon library for Bootstrap.
-- [Boxicons](https://boxicons.com/) – Boxicons is a simple vector icons set carefully crafted for designers and developers to use in your next project.
-- [CoreUI Icons](https://coreui.io/icons/free/) – Premium designed free icon set with marks in SVG, Webfont and raster formats.
-- [css.gg](https://css.gg/) – Open-source CSS, SVG, and Figma UI Icons available in SVG Sprite, styled-components, NPM & API
-- [Devicon](https://konpa.github.io/devicon/) – A set of icons representing programming languages, designing & development tools. You can use it as a font or directly copy/paste the svg code into your project.
-- [DevUI Icons, by Huawei Cloud](https://github.com/DevCloudFE/devui-icons) – DevUI font icons.
-- [Eva Icons](https://akveo.github.io/eva-icons) – Eva Icons is a pack of more than 480 beautifully crafted Open Source icons for common actions and items.
-- [Feather](https://feathericons.com/) – A collection of simply beautiful open source icons.
-- [feather](https://github.com/feathericons/feather) – Simply beautiful open source icons.
-- [flaticon](https://www.flaticon.com/) – 1M+ vector icons grouped in 30k packs.
-- [Font Awesome](http://fontawesome.io/) – Scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS.
-- [Foundation Icon Fonts 2](http://zurb.com/playground/foundation-icons) – Custom icon sets that are stored in a handy web font and are coded to be more accessible. A couple lines of CSS and the right markup will get you going in no time.
-- [Foundation Icon Fonts 3](http://zurb.com/playground/foundation-icon-fonts-3) – A custom collection of lots of icons.
-- [Glyphicons](http://glyphicons.com/) – Is a library of precisely prepared monochromatic icons and symbols, created with an emphasis to simplicity and easy orientation.
-- [Google Material Design Icons, by Google](https://design.google.com/icons/) – Official Google Material Design Icons.
-- [Govicons](http://govicons.io/) – Gov Icons is a font and CSS toolkit with over 100 government themed icons.
-- [Heroicons](https://github.com/refactoringui/heroicons) – A set of free MIT-licensed high-quality SVG icons for UI development.
-- [Icofont](https://icofont.com/) – 5k free icons to spice up your creative designs.
-- [icoMoon](https://icomoon.io) – 500+ free Icons.
-- [Iconic.app](https://iconic.app/) – Free, “do wtf you want with” pixel-perfect SVG icons.
-- [Iconic](https://useiconic.com/open/) – An open source icon set with 300 marks in SVG, webfont and raster formats.
-- [iconmonstr](http://iconmonstr.com/) – Discover over 3k free simple icons in various collections.
-- [icons](https://github.com/twbs/icons) – Official open source SVG icon library for Bootstrap.
-- [icons8](https://icons8.com/) – 70k Free Flat Icons.
-- [IconSweets2](https://www.designbombs.com/iconsweets2/) – Is a huge set containing over 1k custom designed icons. Icon Sweets 2 will quench your icon thirst for all your iPhone, iPad & Android apps or new web projects.
-- [Ionicons](http://ionicons.com/) – The premium icon font for Ionic Framework.
-- [IconShock](https://www.iconshock.com/freeicons/) – Over 100k free icons, icons are taken from open source projects and then they got optimized.
-- [Jam Icons](https://jam-icons.com/) – Jam icons is a set of icons designed for web projects, illustrations, print projects, etc. Shipped in JavaScript, font & SVG versions.
-- [Marka](http://fian.my.id/marka/) – 36 Beautiful transformable icons.
-- [Octicons](https://octicons.github.com/) – All GitHub's icons.
-- [Pepicons](https://pepicons.com) – Pepicons is a completely original 80s themed set of hand-crafted icons, made in two retro variants: Pop! and Print.
-- [pictonic](https://pictonic.co) – Over 300+ free icons.
-- [Remix Icon](https://remixicon.com/) – Remix Icon is a set of open-source neutral-style system symbols elaborately crafted for designers and developers.
-- [RPG-Awesome](https://nagoshiashumari.github.io/Rpg-Awesome/) – A fantasy themed font and CSS toolkit.
-- [Simple icons](https://github.com/simple-icons/simple-icons) – Over 1000 Free SVG icons for popular brands.
-- [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) – Miniscule SVG versions of website and app logos, under 1KB each.
-- [svg-icon](https://github.com/leungwensen/svg-icon) – An ultimate svg icons collection done right, with over 5k SVG icons out of the box.
-- [teenyicons](https://teenyicons.com/) – Tiny minimal 1px icons designed to fit in the smallest places.
-- [Themify Icons](https://themify.me/themify-icons) – Themify Icons is a complete set of icons for use in web design and apps, consisting of 500+ pixel-perfect, hand-crafted icons that draw inspiration from Apple iOS 7.
-- [TheNounProject](https://thenounproject.com/) – Search over 150k icons designed by creators from around the world.
-- [uiw-icons](https://uiwjs.github.io/icons) – The premium icon font for UIW Framework.
-- [zondicons](http://www.zondicons.com/) – A set of free premium SVG icons for you to use on your digital products.
-
-### [Mobile Icon Libraries](#mobile-icon-libraries)
-- [Ameixa](https://f-droid.org/packages/org.xphnx.ameixa) – Port of TwelF CMTheme for many launchers.
-- [Articons](https://f-droid.org/packages/com.donnnno.arcticons) – A line-based icon pack with over 2100 icons! Originally forked from Frost, but rebuild with consistent sizing and adjustments specifically for lines in mind.
-
-
-### [Icon and SVG Tools](#icon-and-svg-tools)
-- [fontello](http://fontello.com/) – Icon fonts generator.
-- [Orion icon library](https://orioniconlibrary.com/) – Generate icon fonts or download icons in multiple formats.
-- [LibreSprite](https://github.com/LibreSprite/LibreSprite) – Animated sprite editor & pixel art tool.
-- [Penpot](https://github.com/penpot/penpot) – The Open-Source design & prototyping platform.
-- [svg-icon](http://leungwensen.github.io/svg-icon/) – Select as many SVG icons as you need, and download as an SVG symbols sprite file.
-- [svgtofont](https://github.com/jaywcjlove/svgtofont) – Read a set of SVG icons and output a TTF/EOT/WOFF/WOFF2/SVG font.
 
 
 ## [Life360 Alternatives](#Life360-alternatives)
@@ -1384,132 +1352,7 @@ There are some Windows apps but this is depending on BIOS/firmware because the [
 - [Librelogos.org](https://www.librelogos.org/) – Free logos for open source projects and NGOs.
 
 
-## [Alternative Networks](#alternative-networks)
-
-Most network systems are by default not designed to be fully anonymous.
-
-- [DERO](https://urbit.org/) – The industry leader with innovation and features DeroDAG technology, Bulletproofs and a TLS encrypted network.
-- [Hyperboria](http://hyperboria.net/) – Formerly known as Meshnet, a community dedicated for local WiFi initiatives, programmers, and enthusiasts. They run several servers and networks. Hyperboria is based on the cjdns routing protocol.
-- [Yggdrasil](https://yggdrasil-network.github.io/) – End-to-end encrypted IPv6 network but not entirely antonyms.
-- [Sentinel](https://sentinel.co/) – A network of independent dVPN applications, not just a single consumer facing dVPN.
-- [urbit](https://urbit.org/) – A decentralized personal server platform, basically a compact system for an individual to run their own permanent personal server.
-
-
-## [Alternatives to Shopify](#alternatives-to-shopify)
-- [Medusa](https://github.com/medusajs/medusa) – An open-source headless commerce engine that enables developers to create amazing digital commerce experiences.
-
-
-## [Video Conferencing](#video-conferencing)
-Not so good in terms of privacy:
-- Discord
-- Google Meet
-- Instagram
-- Microsoft Teams
-- Skype
-- WhatsApp
-- ZOOM
-
-Privacy oriented alternatives:
-- [BigBlueButton](https://bigbluebutton.org/) – A web conferencing system designed for online learning.
-- [Freenet](https://freenetproject.org/index.html) – A peer-to-peer platform for censorship-resistant communication.
-- [Jami (formely Ring)](https://jami.net/) – Distributed universal and secure Free Software for multimedia communications.
-- [Jitsi Meet](https://meet.jit.si/) – More secure, more flexible, and completely free video conferencing. It does not need any account or installation. You find an [instances list over here](https://jitsi.github.io/handbook/docs/community/community-instances). Jitsi itself [currently does not support OMEMO](https://github.com/jitsi/jitsi/issues/199#issuecomment-170175764).
-    - [Brave Talk](https://brave.com/talk/) – Based on Jitsi integrated into Brave Browser.
-- [kMeet](https://github.com/Infomaniak/android-infomaniak-meet) – Free and secure videoconferencing solution for Android and iOS.
-- [Mumla (client for Mumble)](https://mumla-app.gitlab.io/) – Third-party Android client for Mumble.
-- [MiroTalk](https://github.com/miroslavpejic85/mirotalk) – Video up to 4k and 60 FPS WebRTC P2P open source and self-hosted.
-- [PeerCalls](https://peercalls.com/) – Group peer to peer video calls for everyone written in Go and TypeScript.
-- [Pyrite](https://garage44.org/posts/pyrite/pyrite-conferencing.html) – Open source video conferencing.
-- [Zoom](https://sfu.mirotalk.org/) – Google meet Open Source alternative for smart working.
-
-
-## [Video Streaming Platforms](#video-streaming-platforms)
-Not so good in terms of privacy:
-- Amazon Prime Video
-- Disney+
-- Netflix
-- Plex
-
-### [Video and Audio Streaming](#video-and-audio-streaming)
-- [Jellyfin](https://jellyfin.org/) – The volunteer-built media solution that puts you in control of your media. Stream to any device from your own server, with no strings attached.
-- [librefm](https://libre.fm/) – A music community website that aims to provide a Free Software replacement for last.fm.
-- [Owncast](https://owncast.online) – A self-hosted live video and web chat server.
-- [Stremio](https://www.stremio.com/) – A modern media center that's a one-stop solution for your video entertainment.
-
-### [Mobile Streaming](#mobile-streaming)
-- [CloudStream-3](https://github.com/LagradOst/CloudStream-3) – Android app for streaming and downloading Movies, TV-Series and Anime.
-- [Findroid](https://github.com/jarnedemeulemeester/findroid) – Third-party native Jellyfin Android app.
-- [Serenity](https://github.com/YajanaRao/Serenity) – A React Native Music Player for Android and IOS.
-
-
-## [Video encoders](#video-encoders)
-- [Avidemux](http://www.avidemux.org/) – A free and open-source software application for non-linear video editing and transcoding multimedia files.
-- [HandBrake](https://handbrake.fr/) – A free and open-source transcoder for digital video files.
-- [FFmpeg](https://apps.kde.org/en/spectacle) – A free and open-source software project consisting of a suite of libraries and programs for handling video, audio, and other multimedia files and streams.
-
-
-## [Video editors](#video-editors)
-- [AviSynth](http://www.avisynth.nl/) – A frameserver program for Microsoft Windows developed by Ben Rudiak-Gould, Edwin van Eggelen, Klaus Post, Richard Berg, Ian Brabham and others.
-- [Avidemux](http://www.avidemux.org/) – A free and open-source software application for non-linear video editing and transcoding multimedia files.
-- [Cinelerra](http://heroinewarrior.com/cinelerra.php) – A video editing and composition program (an NLE, Non-Linear Editor) designed for Linux.
-- [DVD Flick](http://www.dvdflick.net/) – An open source DVD authoring application for Windows developed by Dennis Meuwissen and released under the GNU General Public License.
-- [Flowblade](https://jliljebl.github.io/flowblade/) – A free and open-source video editing software for Linux.
-- [Kdenlive](https://kdenlive.org) – An open source and feature-rich video editor.
-- [LiVES](http://lives-video.com/) – A free video editing software and VJ tool, released under the GNU General Public License version 3 or later.
-- [LosslessCut](https://www.shotcut.org) – A free, platform independent Video editing software, which supports numerous audio, video and container formats.
-- [Natron](http://natrongithub.github.io/) – A free and open-source node-based compositing application.
-- [Olive](https://www.olivevideoeditor.org) – A free non-linear video editor for Windows, macOS, and Linux.
-- [OpenShot](https://www.openshot.org) – A simple and powerful video editing program.
-- [Pitivi](http://pitivi.org/) – Pitivi (originally spelled PiTiVi) is a free and open-source non-linear video editor for Linux, developed by various contributors from free software community and the GNOME project, with support also available from Collabora.
-- [Shotcut](https://www.shotcut.org) – A free, open source, cross-platform video editor.
-- [VideoLAN Movie Creator](https://www.vlmc.org) – VLMC (standing for VideoLAN Movie Creator) is a cross-platform, non-linear, video editing software application based on the VLC Media Player.
-- [VirtualDub](http://www.virtualdub.org/) – VirtualDub is a free and open-source video capture and video processing utility for Microsoft Windows written by Avery Lee. It is designed to process linear video streams, including filtering and recompression. It uses AVI container format to store captured video.
-    - [VirtualDubMod](http://virtualdubmod.sourceforge.net/) – An open-source video capture and processing tool for Microsoft Windows, based on Avery Lee's VirtualDub.
-
-
-## [Video transcoders](#video-transcoders)
-- [Shutter Encode](https://www.shutterencoder.com) – A converter designed by video editors.
-- [VidCoder](https://vidcoder.net) – A Windows front-end for Handbrake.
-- [WinFF](https://www.biggmatt.com/p/winff.html), [FFQueue](https://ffqueue.bruchhaus.dk), [StaxRip](https://github.com/staxrip/staxrip), [QWinFF](https://qwinff.github.io) and many other front-ends for FFmpe.g. Keep in mind that every single [font-end violates the copyright](https://ffmpe.g.org/shame.html).
-
-
-## [WebDAV](#webdav)
-- [Cyberduck](https://cyberduck.io/) - Libre server and cloud storage browser with WebDAV support that supports Windows and MacOS. - **controversial**
-- [Duplicacy](https://duplicacy.com/) - Support for WebDAV as a backup target, it works for Windows, Mac and Linux. - **controversial**
-- [Duplicati](https://github.com/duplicati/duplicati) - WebDAV as a backup target, currently for Windows, Mac and Linux.
-- [FileZilla Pro](https://filezillapro.com/how-to-connect-to-webdav/) - File-transfer tool that supports many protocols, including WebDAV, it works with Windows, Mac and Linux. - **controversial**
-- [Mountain Duck](https://mountainduck.io/) - WebDAV as a disk, that supports Windows and MacOS. - **controversial**
-- [WinSCP](https://winscp.net/eng/docs/webdav) - SFTP Windows client that also supports WebDAV.
-- [davfs2](https://savannah.nongnu.org/projects/davfs2) - Allows mounting a WebDAV server as a local filesystem, for Linux only.
-
-### [Mobile WebDAV](#mobile-webdav)
-- [Total Commander](https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander) - File manager that includes a WebDAV plugin which you optionally need to activate. - **controversial**
-- [WebDAV Navigator](https://play.google.com/store/apps/details?id=com.schimera.webdavnav) - WebDAV client for Android devices. - **controversial**
-
-
-## [Webgrabber](#webgrabber)
-- [cURL](https://www.librelogos.org/) – A computer software project providing a library (libcurl) and command-line tool (curl) for transferring data using various network protocols. The name stands for "Client URL", which was first released in 1996.
-- [HTTrack](https://www.httrack.com/) – A free and open-source Web crawler and offline browser, developed by Xavier Roche and licensed under the GNU General Public License Version 3.
-- [Wget](https://www.gnu.org/software/wget/) – A computer program that retrieves content from web servers. It is part of the GNU Project.
-
-
-## [Webcam Apps](webcam-apps)
-- [Cheese](https://apps.gnome.org/app/org.gnome.Cheese/) – GNOME webcam application.
-- [Guvcview](http://guvcview.sourceforge.net/) – Linux webcam application.
-
-
-## [Web3](#web3)
-
-Some notes regarding the Web3.
-
-- [Web3 is not decentralized](https://blog.wesleyac.com/posts/web3-centralized), the Venture Capitalists and their Limited Partners do. It is [not about decentralization](https://invisibleup.com/articles/38/).
-- It will never escape their [incentives](https://www.usenix.org/publications/loginonline/web3-fraud).
-- It’s [ultimately a centralized entity with a different label](https://www.stephendiehl.com/blog/web3-bullshit.html).
-- [Crypto push](https://medium.com/@rossstalker_5939/web3-is-not-decentralisation-its-a-ploy-to-put-crypto-bros-in-charge-c791752e2bb6) and a term uses in marketing.
-- Internet itself has no versions numbers, it constantly evolves and changes + adopts new + removes obsolete protocols and tech.
-
-
-## [About Browsers](about-browsers)
+## [Browsers - A general starter](#browsers-a-general-starter)
 
 Please check the [Browser + WebView Comparison Table](https://divestos.org/index.php?page=browsers) before you use something. In general I do not list any clown forks who offers no or less benefits because you can do it yourself without depending on a third-party project (in most cases) or in other words the community doesn't really need two practically identical packages that accomplish the same thing. [iOS has limited Browser choice](https://css-tricks.com/ios-browser-choice/).
 
@@ -1767,7 +1610,7 @@ You do not need them if you have above listed extensions/add-ons installed or in
     - [WebView Switcher](https://github.com/Magisk-Modules-Repo/bromitewebview) – A tool for installing Bromite WebView on Android 10 (and higher).
 
 
-## [Referrer hider tools](#referrer-hider-tools)
+## [Browser Referrer Hider Tools](#browser-referrer-hider-tools)
 - [href.li](https://href.li/) – Hide your referrer and create an anonymous link that will hide the HTTP Referer header.
 
 
@@ -1879,13 +1722,6 @@ Privacy oriented alternatives:
 - [Stingle Photos](https://stingle.org/) – A convenient, easy to use Gallery/Camera application with Backup and Sync functionality for your photos and videos which seamlessly provides strong security, privacy and encryption.
 
 
-## [Local public transport](#local-public-transport)
-- [Maps](https://gitlab.com/axet/omim/-/blob/HEAD/README.md) – Open-source navigation app based on MAPS.ME.
-- [Organic Maps](https://f-droid.org/en/packages/app.organicmaps/) – An Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced OpenStreetMap data.
-- [Transportr](https://f-droid.org/packages/de.grobox.liberario/) – Transportr is a non-profit app developed by people around the world in their free time.
-- [Öffi Stations](https://f-droid.org/de/packages/de.schildbach.oeffi/) – Öffi is a public transport Android app (also shows delays and replacement bus service for more and more transport authorities in Europe and beyond) – similar to Transportr app.
-
-
 ## [URL changer for YouTube, Twitter...](#url-changer-for-YouTube-Twitter)
 - [UntrackM](https://www.f-droid.org/en/packages/app.fedilab.nitterizeme/) – UntrackMe once set by default to open Twitter, YouTube and Instagram links will transform them into Nitter, Invidious and Bibliogram links and delegate the action to another app.
 
@@ -1933,11 +1769,6 @@ Privacy oriented alternatives:
 - [RadioDroid](https://f-droid.org/packages/net.programmierecke.radiodroid2/) – Browse and stream internet radios on Android.
 - [Transistor](https://f-droid.org/packages/org.y20k.transistor) – Transistor is an app for listening to radio programs over the internet.
 - [tuner](https://github.com/louis77/tuner) – GNU/Linux app to discover and play internet radio stations.
-
-
-## [TV Streaming](#tv-streaming)
-- [Zapp](https://f-droid.org/packages/de.christinecoenen.code.zapp/) – Zapp ist Teil von MediathekView und gibt dir einen schnellen Zugang zu vielen deutschen öffentlich-rechtlichen Fernsehsendern. Schaue ARD, ZDF und andere Sender live oder aus der Mediathek.
-- [DroidShows](https://f-droid.org/en/packages/nl.asymmetrics.droidshows/) – TV series browser and tracker.
 
 
 ## [Streaming](#streaming)
@@ -2003,6 +1834,10 @@ Tools and utilities mentioned in [The Art of Mac Malware by Patrick Wardle](http
 - [olevba](https://github.com/decalage2/oletools/wiki/olevba) – A script to parse Office documents to detect VBA Macros.
 
 
+## [MongoDB alternatives](#mongodb-alternatives)
+- [FerretDB](https://github.com/FerretDB/FerretDB) – A truly open-source MongoDB alternative.
+
+
 ## [Marine Autopilot](#marine-autopilot)
 - [Pypilot](https://pypilot.org/) – An open source marine autopilot.
 
@@ -2013,60 +1848,6 @@ Tools and utilities mentioned in [The Art of Mac Malware by Patrick Wardle](http
 
 ## [Pin Brute-Force Protection](#pin-brute-force-protection)
 - [Wrong PIN Shutdown](https://f-droid.org/packages/org.nuntius35.wrongpinshutdown/) – This simple app monitors the number of failed login attempts. If a certain number of attempts is exceeded, the device is automatically shut down.
-
-
-## [Auto Airplane Mode](#auto-airplane-mode)
-- [Auto Airplane Mode](https://f-droid.org/en/packages/org.miamplayer.autoairplanemode/) – Schedule airplane mode based on your settings, e.g. by date/time. Root access is required to write secure system settings!
-
-
-## [PDF tools](#PDF-tools)
-### [PDF merging](#pdf-merging)
-- [PDFWrench](https://pdfwrench.com/) – Free PDF merging tool that works without any file upload to ensure privacy.
-
-### [PDF Reader](#pdf-reader)
-- [Document Viewer](https://github.com/SufficientlySecure/document-viewer) – A highly customizable document viewer for Android.
-- [Evince](https://wiki.gnome.org/Apps/Evince) – A document viewer for multiple document formats.
-- [Okular](https://okular.kde.org) – A universal document viewer developed by KDE.
-- [Sioyek](https://github.com/ahrm/sioyek) – Sioyek is a PDF viewer designed for reading research papers and technical books.
-- [Skim](https://skim-app.sourceforge.io) – A PDF reader and note-taker for macOS.
-- [SumatraPDF](https://www.sumatrapdfreader.org) – A multi-format reader for Windows.
-- [zathura](https://pwmt.org/projects/zathura/) – A highly customizable and functional document viewer.
-
-### [Mobile PDF Reader](#mobile-pdf-reader)
-- [Book Reader](https://gitlab.com/axet/android-book-reader) – Android book reader application.
-- [Document Viewer](https://github.com/PrivacyApps/document-viewer) – Document Viewer is a highly customizable document viewer for Android.
-- [KOReader](https://github.com/koreader/koreader) – An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices.
-- [Librera Reader](https://github.com/foobnix/LibreraReader) – Book Reader for Android.
-- [MuPDF](https://mupdf.com) – A lightweight and customizable PDF and XPS viewer.
-- [PDF Viewer Plus](https://github.com/JavaCafe01/PdfViewer) – A simple PDF document viewer for Android.
-
-
-### [PDF Editor](#pdf-editor)
-- [PDF Converter](https://f-droid.org/packages/swati4star.createpdf) – PDF Converter is an easy to use application to convert Images to PDF.
-
-
-### [PDF Document Scanner](#pdf-document-scanner)
-- [Open Note Scanner](https://f-droid.org/packages/com.todobom.opennotescanner/) – With Open Note Scanner you can capture documents, handwritten notes, arts, shopping receipts, etcetera.
-- Termux with pandoc and texlive-bin plugin allows you to scan or convert documents from e.g. markdown to PDF.
-
-
-### [Ebook readers](#ebook-readers)
-- [Bookworm](https://babluboy.github.io/bookworm/) – A simple, focused eBook reader.
-- [Calibre](https://calibre-ebook.com) – The one stop solution to all your e-book needs.
-    - [Calibre Web](https://github.com/janeczku/calibre-web) – An app for browsing eBooks stored in a Calibre database.
-- [DIY ePub Reader](https://github.com/atomic14/diy-esp32-epub-reader) – An ESP32 e-reader.
-- [Duofolio](https://github.com/farshed/duofolio) – An eBook reader that helps you read books in other languages.
-- [Foliate](https://johnfactotum.github.io/foliate/) – A simple and modern eBook viewer for Linux desktops.
-- [KOReader](https://koreader.rocks) – A document viewer for E Ink devices.
-- [Librera Reader](https://librera.mobi) – All-Format eBook Reader for Android.
-- [Thorium Reader](https://www.edrlab.org/software/thorium-reader/) – An EPUB reader of choice for Windows 10, macOS and Linux.
-
-
-## [3D simulation](#3d-simulation)
-- [Blender](https://www.blender.org/) – Blender is a professional suite of tools for doing 3D and 2D animations, visual effects, compositing and video editing.
-- [FlightGear](https://www.flightgear.org/) – Atmospheric and orbital flight simulator with a flight dynamics engine (JSBSim) that is used in a 2015 NASA benchmark to judge new simulation code to space industry standards.
-- [Maverick Model 3D](https://clover.moe/mm3d/) – An open source 3D model editor based on Misfit Model 3D.
-- [SimPy](http://simpy.readthedocs.org/) – Queue-theoretic event-based simulator written in Python.
 
 
 ## [Photo Editing and Management](#photo-editing-and-management)
@@ -2110,44 +1891,6 @@ Privacy oriented alternatives:
 ### [PCB Design Software](#pcb-design-software)
 - [KiCAD](http://www.kicad-pcb.org/) – Open-source tool that helps you in making Electronic Design Automation(EDA).
 - [LibrePCB](https://librepcb.org/) – A free EDA software to develop printed circuit boards.
-
-
-### [File-Sharing](#file-sharing)
-- [0x0](http://0x0.st/) – File URLs are valid for at least 30 days.
-- [AnonFiles](https://anonfiles.com/) – Quick and easy share files.
-- [Arbore](https://arbo.re/) – A free and open-source file sharing application that enables you to send your pictures, documents, files to your contacts privately and without limits.
-- [Anoxinon Share (50 MB)](https://share.anoxinon.de/) – Clean and simple file-sharing made in Germany.
-- [BorgBase](https://www.borgbase.com/) – Secure encrypted backup hosting service that offers 10 GB free storage forever.
-- [Disroot Upload (2 GB)](https://upload.disroot.org/) – Simple and easy file sharing.
-- [dotfilesync](https://github.com/snvishna/dotfilesync) – Sync your dotfiles into a private GitHub gist.
-- [e2ee-cloud](https://e2ee-cloud.com/) – A self-hosted, end-to-end encryption and cloud sharing software.
-- [federalist](https://github.com/publiusfederalist/federalist) – Access files on the decentralized, unblockable torrent swarm and visit links using Handshake domains. Decentralized internet is here.
-- [fex](https://fex.net/) – A big files sharing service.
-- [FileBin](https://filebin.net/) – 6 Day file storage system.
-- [FreedomBox](https://freedombox.org/) – A private server for non-experts: it lets you install and configure server applications with only a few clicks.
-- [git-annex](https://git-annex.branchable.com/) – Git annex offers robust and flexible file management. Packed with features, future proofing, and many different back-ends to connect to cloud services.
-- [Gotify](https://gotify.net/) – A simple server for sending and receiving messages.
-- [MuWire](https://muwire.com/) – File-sharing over I2P.
-- [NowTransfer (2 GB)](https://nowtransfer.de/) – No tracking, no logging and no advertising.
-- [Oshi](https://oshi.at/) – Anonymous file storage.
-- [Rclone](https://rclone.org/) – Rclone is a command line program to manage files on cloud storage. It is a feature rich alternative to cloud vendors' web storage interfaces and like the tools listed above enables encryption for encrypting files in the cloud.
-    - [RCX](https://github.com/x0b/rcx) – Android GUI for rclone. Manage files across many cloud services in a simple way under one interface.
-    - [Rclone Remount](https://github.com/Magisk-Modules-Repo/com.piyushgarg.rclone) – Remount cloud storage locally during boot via rclone & fusermount directly on your Android powered smart device.
-- [Syncthing](https://syncthing.net/) – Continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes.
-- [Transfer.sh](https://transfer.sh/) – Easy file sharing from the command line.
-- [uMTP-Responder](https://github.com/viveris/uMTP-Responder) – Lightweight Media Transfer Protocol (MTP) responder daemon for GNU/Linux (USB).
-- [Uguu](https://github.com/nokonoko/Uguu) – A simple lightweight temporary file host with support for drop, paste, click and API uploading.
-- [Up1](https://github.com/Upload/Up1) – A Software for file encrypted hosting.
-- [Pomf](https://github.com/pomf/pomf) – A simple lightweight file host with support for drop, paste, click and API uploading.
-- [Protocol for SYnchronous Conferencing (PSYC)](https://about.psyc.eu/PSYC) – A flexible text-based protocol for delivery of data to a flexible amount of recipients or people, by unicast or multicast. It is primarily used for chat conferencing, presence, pubsub and instant messaging, but not limited to that. Existing systems can easily use PSYC, since PSYC hides its complexity from them.
-- [XD](https://xd-torrent.github.io/) – Anonymous file-sharing. Torrent client for I2P.
-- [XTahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) – Distributed file system and Cloud storage system with integrated privacy and security features.
-
-### [Mobile File-Sharing](#mobile-file-sharing)
-- [RDrop](https://rdrop.link/) – A Simple P2P File Transfer Service Web-App. - **controversial**
-- [Sharik](https://github.com/marchellodev/sharik) - Works with Wi-Fi connection or Tethering (via WiFi Hotspot). No internet connection needed. Available for Android, iOS, Linux, MacOS & Windows.
-- [Seeker](https://github.com/jackBonadies/SeekerAndroid) – Android client for the Soulseek peer-to-peer network.
-- [TrebleShot](https://github.com/trebleshot) – Free and open-source software for sharing files with support for browsers, Android & desktop.
 
 
 ### [Send files between devices](#send-files-between-devices)
@@ -2212,7 +1955,7 @@ A Comparison of Encrypted Raid on Debian GNU/Linux is available over [here](http
 - [ves](https://ves.host/docs/ves-util) – End-to-end encrypted sharing via cloud repository, secure recovery through a viral network of friends in case of key loss.
 
 
-## [Mobile Encryption (File/FDE)](#mobile-encryption-filefde)
+### [Mobile Encryption (File/FDE)](#mobile-encryption-filefde)
 - [Oversec for Android](https://www.oversec.io/) – You can use 128-Bit keys and the plain text is only visible in an overlay layer, both participant users need to have the app installed.
 
 
@@ -2261,60 +2004,59 @@ This section is absolute unfinished.
 - [factordb.com](http://factordb.com/) – A tool used to store known factorizations of any number.
 
 
-## [Two Factor Authentication (2FA)](#two-factor-authentication-2fa)
-
-[2FA Directory: List of websites and whether or not they support 2FA](https://2fa.directory/). [2FA QR code generator](https://2fa-qr-svelte.vercel.app/) can be of assistance, it can be combined with e.g. Aegis Authenticator.
-
-
+## [Location tracking](#location-tracking)
 Not so good in terms of privacy:
-- [Authy](https://old.reddit.com/r/privacy/comments/au4eml/i_have_questions_about_authy/)
-- [AuthLite](https://www.authlite.com/) – Affordable Two-Factor Authentication For Active Directory. Propriety software.
-- [Google Authenticator](https://www.zdnet.com/article/using-google-authenticator-heres-why-you-should-get-rid-of-it/)
-- [Microsoft Authenticator](https://www.transmitsecurity.com/blog/microsoft-authenticator-a-false-sense-of-security)
+- Apple AirTag
+- Google location history
+- Google FindMyDevice
 
 Privacy oriented alternatives:
-- [Aegis Authenticator](https://getaegis.app/) – A free, secure and open source app for Android to manage your 2-step verification tokens. Supports variety of imports from other apps (Google Authenticator, Authy etc.), vault encryption and exporting keys (plaintext or encrypted).
-- [Authorizer](https://github.com/tejado/Authorizer) – A Password Manager for Android with Auto-Type over USB and Bluetooth, OTP and much more.
-- [andOTP](https://github.com/andOTP/andOTP) – One of the oldest and first 2FA app for Android.
-- [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro) – Two-Factor Authentication (2FA) client for Android + Wear OS.
-- [Extended version of Standardnotes + tokenvault extension](https://standardnotes.org/extensions/tokenvault)
-- [FreeOTP+](https://github.com/helloworld1/FreeOTPPlus) – Enhanced fork of FreeOTP-Android providing a feature-rich 2FA authenticator.
-- [OTP Auth (iOS)](https://apps.apple.com/us/app/otp-auth/id659877384) – 2-Factor Auth for Pros.
-- [Raivo OTP](https://github.com/raivo-otp) – A native, lightweight and secure one-time-password (OTP) client built for iOS.
-- [Tofu](https://tofuauth.com/) – Open-source 2FA for iOS.
+- [Private Location](https://f-droid.org/en/packages/com.wesaphzt.privatelocation/) – Keep your phone location private.
+- [OpenTracks](https://f-droid.org/de/packages/de.dennisguse.opentracks/) – OpenTracks – GPS-Tracker that s privacy respecting.
+- [My Position](https://f-droid.org/de/packages/net.mypapit.mobile.myposition/) – Share your location, easily and lightly. Supports plain coordinates, geo:-URI, OpenStreetMap- and GoogleMaps-Links.
+
+### [Mobile location tracking](#mobile-location-tracking)
+- [AirGuard](https://f-droid.org/en/packages/de.seemoo.at_tracking_detection/) – To detect if you’re being tracked by an Apple AirTag without your knowledge.
+- [FIND3 Scanner](https://f-droid.org/app/com.internalpositioning.find3.find3app) – Scan Bluetooth and WiFi for FIND3.
+- [Finder](https://f-droid.org/app/ru.seva.finder) – Remote mobile phone searching via SMS-requests.
+- [Flyve MDM Agent](https://f-droid.org/app/org.flyve.mdm.agent.mqtt) – Manage and secure effectively your mobile devices and applications.
+- [PhoneTrack Nextcloud application](https://apps.nextcloud.com/apps/phonetrack)
+- [prey](https://github.com/prey/prey-android-client) – Android client for the Prey anti-theft software.
+- [Simple sms remote](https://f-droid.org/app/tranquvis.simplesmsremote) – Control your device by sending text messages.
+- [Traccar Client - Track your location](https://f-droid.org/en/packages/org.traccar.client/index.html) – Client for Traccar server software. A demo server is setup in the app for trying
+it out and the results can be viewed in a browser.
+- [Ulogger for Android](https://github.com/bfabiszewski/ulogger-android) – Android application for real-time collection and publishing of geolocation data.
 
 
-## [Two Factor MITM and auditing](#two-factor-mitm-and-auditing)
-- [SSH-MITM](https://github.com/ssh-mitm/ssh-mitm/) – SSH audits made simple.
+## [Local Public Transport](#local-public-transport)
+- [Maps](https://gitlab.com/axet/omim/-/blob/HEAD/README.md) – Open-source navigation app based on MAPS.ME.
+- [Organic Maps](https://f-droid.org/en/packages/app.organicmaps/) – An Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced OpenStreetMap data.
+- [Transportr](https://f-droid.org/packages/de.grobox.liberario/) – Transportr is a non-profit app developed by people around the world in their free time.
+- [Öffi Stations](https://f-droid.org/de/packages/de.schildbach.oeffi/) – Öffi is a public transport Android app (also shows delays and replacement bus service for more and more transport authorities in Europe and beyond) – similar to Transportr app.
 
 
-## [Two Factor Hardware Keys](#two-factor-hardware-keys)
-- [Dicekeys](https://dicekeys.com/) – DiceKeys are the back-up you can rely on to restore your accounts and data.
-- [NitroKey](https://www.nitrokey.com/) – Protects emails, files, hard drives, server certificates and online accounts
-- [OnlyKey](http://onlykey.io/) – OnlyKey is an open source alternative to YubiKey. OnlyKey natively supports: a hardware password manager, multiple two-factor methods (FIDO2, TOTP, and Yubico® OTP), passwordless SSH login, and OpenPGP.
-- [Solokeys](https://solokeys.com/) – The first open-source FIDO2 security key.
+## [Microblogging](#microblogging)
+- [Bear blog](https://bearblog.dev) – Microblogging without trackers, the upper layer is Heroku.
+- [Heaven Web previously known as Simple Blogs](https://havenweb.org/) – Good for private blogs but not for commercial/public blogging. Built-in feed reader.
+- [Gollum](https://github.com/gollum/gollum) – A simple, Git-powered wiki with a sweet API and local front-end.
+- [NoFilter](https://nofilter.org/) – Unstoppable uncensorable free speech blogging app and content live on IPFS. There is no source code provided for the platform or the hosted website. - **controversial**
+- [Orca](https://github.com/ElevenSymbols/orca) – An open-source platform for building modern community apps.
+- [Rainbow Stream](https://github.com/orakaro/rainbowstream) – A smart and nice Twitter client on terminal written in Python.
+- [Retype](https://retype.com/) – A self-hosted alternative to GitBook.
+- [Spill](https://usespill.com/auth/login/?next=/feed/new) – Anonymous Micro-Blogging. Non-Harvard people can join although their accounts will be flagged as such. - **controversial**
+- [slc.is](https://github.com/splch/slc.is) – A Markdown Blog on Go.
+- [Statsigstatus](https://github.com/statsig-io/statsigstatus) – Open-Source Status Page Built with GitHub Actions.
+- [Toot](https://github.com/ihabunek/toot) – Mastodon CLI & TUI client.
+    - [tut](https://github.com/RasmusLindroth/tut) – A Mastodon TUI.
+- [Turses](https://github.com/louipc/turses) – A Twitter client for the console.
+- [Twtxt](https://twtxt.readthedocs.io/en/latest/user/intro.html) – Minimalist Micro-Blogging service for hackers with a CLI.
+- [Write.as](https://write.as) – A simple writing platform built to preserve and spread your words.
+- [WriteFreely](https://writefreely.org/) – An open-source platform for building a writing space on the web.
+- [Void](https://github.com/josephernest/void) – Static pages and blog articles are possible.
 
 
-## [File Management and Sharing](#file-management-and-sharing)
-Not so good in terms of privacy:
-- [WeTransfer](https://betanews.com/2019/06/21/wetransfer-fail/)
-- [SendAnywhere](https://old.reddit.com/r/androidapps/comments/5seddm/question_is_send_anywhere_safe/)
-
-Privacy oriented alternatives:
-- [Blaze](https://blaze.now.sh/) – A fast, p2p and radically different way to transfer files.
-- [Dat-cp](https://github.com/tom-james-watson/dat-cp) – Copy files between hosts on a network using the peer-to-peer Dat network.
-- [Lufi](https://framagit.org/fiat-tux/hat-softwares/lufi) – Let's Upload that FIle — File sharing software.
-- [OnionShare](https://github.com/micahflee/onionshare) – An open source tool that lets you securely and anonymously share files, host websites, and chat with friends using the Tor network.
-- [Paperless-ng](https://github.com/jonaswinkler/paperless-ng) – A supercharged version of paperless: scan, index and archive all your physical documents.
-- [QRcp](https://github.com/claudiodangelis/qrcp) – Transfer files over WiFi from your computer to your mobile device by scanning a QR code without leaving the terminal.
-- [Send](https://gitlab.com/timvisee/send) – Simple, private file sharing. [Send](https://send.vis.ee/). List of [public instances](https://github.com/timvisee/send-instances/#public-send-instances).
-- [Snapdrop](https://snapdrop.net/) – A Progressive Web App for local file sharing inspired by Apple's Airdrop.
-  - [SnapDrop for Android](https://github.com/fm-sys/snapdrop-android) - Android client for local file sharing via SnapDrop.
-- [Transferfile.io](https://www.transferfile.io/) - Decentralized Alternative to Wetransfer. - **controversial**
-- [Tresorit](https://send.tresorit.com/) – Free, End-to-end encrypted alternative for file sending. Up to 5GB.
-- [Wormhole](https://wormhole.app/) – Simple, private file sharing.
-    - [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) - Get things from one computer to another, safely.
-- [YourTransfer.io](https://www.youtransfer.io/) – The simple but elegant file-sharing solution
+### [Blogging and Microblogging Tools](#blogging-and-microblogging-tools)
+- [markdown_ss](https://github.com/rysolv/markdown_ssg) – Ultra minimal markdown static site generator.
 
 
 ## [Mind Mapping](#mind-mapping)
@@ -2368,50 +2110,17 @@ Privacy oriented alternatives:
 - [WolframAlpha](https://www.wolframalpha.com/) – A computational knowledge engine and answer engine developed by Wolfram Research.
 
 
-## [Location tracking](#location-tracking)
-Not so good in terms of privacy:
-- Apple AirTag
-- Google location history
-- Google FindMyDevice
-
-Privacy oriented alternatives:
-- [Private Location](https://f-droid.org/en/packages/com.wesaphzt.privatelocation/) – Keep your phone location private.
-- [OpenTracks](https://f-droid.org/de/packages/de.dennisguse.opentracks/) – OpenTracks – Ein GPS-Tracker, der deine Daten für sich behält.
-- [My Position](https://f-droid.org/de/packages/net.mypapit.mobile.myposition/) – Share your location, easily and lightly. Supports plain coordinates, geo:-URI, OpenStreetMap- and GoogleMaps-Links.
-
-### [Mobile location tracking](#mobile-location-tracking)
-- [AirGuard](https://f-droid.org/en/packages/de.seemoo.at_tracking_detection/) – To detect if you’re being tracked by an Apple AirTag without your knowledge.
-- [FIND3 Scanner](https://f-droid.org/app/com.internalpositioning.find3.find3app) – Scan Bluetooth and WiFi for FIND3.
-- [Finder](https://f-droid.org/app/ru.seva.finder) – Remote mobile phone searching via SMS-requests.
-- [Flyve MDM Agent](https://f-droid.org/app/org.flyve.mdm.agent.mqtt) – Manage and secure effectively your mobile devices and applications.
-- [PhoneTrack Nextcloud application](https://apps.nextcloud.com/apps/phonetrack)
-- [prey](https://github.com/prey/prey-android-client) – Android client for the Prey anti-theft software.
-- [Simple sms remote](https://f-droid.org/app/tranquvis.simplesmsremote) – Control your device by sending text messages.
-- [Traccar Client - Track your location](https://f-droid.org/en/packages/org.traccar.client/index.html) – Client for Traccar server software. A demo server is setup in the app for trying
-it out and the results can be viewed in a browser.
-- [Ulogger for Android](https://github.com/bfabiszewski/ulogger-android) – Android application for real-time collection and publishing of geolocation data.
+## [Mozilla Pocket alternatives](#mozilla-pocket-alternatives)
+- [Wallabag](https://wallabag.org/en) – A privacy-friendly, libre online service which lets you save articles from the web so you can read them later.
 
 
-## [UnifiedNLP Backends used for MicroG](#unifiednlp-backends-used-for-microg)
-
-If location (NLP) is not working, download and install [this](https://f-droid.org/app/com.vonglasow.michael.satstat) and enable High Accuracy Location and open SatStat. Wait for it to get your location. Don't close SatStat app instead minimize it and open MicroG Settings > Self-Check. All boxes should be checked.
-
-- [Déjà Vu](https://github.com/n76/DejaVu)
-- [Local GSM Backend](https://github.com/n76/Local-GSM-Backend)
-- [Local WiFi Backend](https://github.com/n76/wifi_backend)
-- [Mozilla](https://mozilla.github.io/ichnaea)
-- [OpenBMap](https://github.com/openbmap/radiocells-nlp-android)
-
-
-### [Tracking](#tracking)
-- [DejaVu](https://f-droid.org/packages/org.fitchfamily.android.dejavu) – Mobile/cell and WLAN/Wi-Fi based network provider for UnifiedNlp and microG.
-- [Hammond](https://github.com/akhilrex/hammond) – Self-hosted vehicle expense tracking system with multiple users support.
-- [MozillaNlpBackend](https://f-droid.org/packages/org.microg.nlp.backend.ichnaea/) – Location calculation is done online and therefor requires internet connection.
-- [Nextcloud Phonetrack](https://apps.nextcloud.com/apps/phonetrack) – Nextcloud app can track location history with an [Android app](https://gitlab.com/eneiluj/phonetrack-android) ([other apps also supported](https://gitlab.com/eneiluj/phonetrack-oc/-/wikis/userdoc#logging-methods)). Supports caching positions offline and sending them to the server in batches. The first-party app has good battery saving options.
-- [NominatimNlpBackend](https://f-droid.org/packages/org.microg.nlp.backend.nominatim/) – MapQuest’s Nominatim service (based on OpenStreetMap) for geocoding.
-- [OwnTracks](https://owntracks.org/) – Location tracking for displaying the current location only (limited location history functionality).
-- [Traccar](https://www.traccar.org/) – Location tracking software made for dedicated GPS logging devices.
-- [UnifiedNLP](https://f-droid.org/packages/org.microg.nlp) – Most modern ROMs come with support for non-Google geo-location providers. On these systems UnifiedNlp can be installed as a user app to replace the network location provider.
+## [MAC Address Changer](#mac-address-changer)
+- [BAT script](https://gist.github.com/iJos/d561057f1a00d926a47532396a8c71de) – Randomly change the Mac Address on Windows.
+- [easymacchanger](https://github.com/KALILINUXTRICKSYT/easymacchanger) – Change the network identity of your device.
+- [MAC Address Tool](https://github.com/sietseringers/MACAddressTool) – Windows tool allowing users to change the MAC-address of network adapters through a registry key.
+- [macchanger](https://github.com/sbdchd/macchanger) – A Bash based MAC address changer.
+- [Spoof](https://github.com/feross/spoof) – Easily spoof your MAC address in macOS, Windows & Linux.
+- [SpoofMAC](https://github.com/feross/SpoofMAC) – Change your MAC address for debugging for OS X, Windows, and Linux.
 
 
 ### [Find My Device](#find-my-device)
@@ -2424,6 +2133,66 @@ This category needs some work because lots of known-apps are years old and outda
 
 - [Find My Device](https://gitlab.com/Nulide/findmydevice) – Find your Android Device via SMS.
 - [Device Locator](https://f-droid.org/en/packages/at.bitfire.devicelocator/) – Last update from 2018, so it might nor work on newer Android versions as intended.
+
+
+## [File Management and Sharing](#file-management-and-sharing)
+Not so good in terms of privacy:
+- [WeTransfer](https://betanews.com/2019/06/21/wetransfer-fail/)
+- [SendAnywhere](https://old.reddit.com/r/androidapps/comments/5seddm/question_is_send_anywhere_safe/)
+
+Privacy oriented alternatives:
+- [Blaze](https://blaze.now.sh/) – A fast, p2p and radically different way to transfer files.
+- [Dat-cp](https://github.com/tom-james-watson/dat-cp) – Copy files between hosts on a network using the peer-to-peer Dat network.
+- [Lufi](https://framagit.org/fiat-tux/hat-softwares/lufi) – Let's Upload that FIle — File sharing software.
+- [OnionShare](https://github.com/micahflee/onionshare) – An open source tool that lets you securely and anonymously share files, host websites, and chat with friends using the Tor network.
+- [Paperless-ng](https://github.com/jonaswinkler/paperless-ng) – A supercharged version of paperless: scan, index and archive all your physical documents.
+- [QRcp](https://github.com/claudiodangelis/qrcp) – Transfer files over WiFi from your computer to your mobile device by scanning a QR code without leaving the terminal.
+- [Send](https://gitlab.com/timvisee/send) – Simple, private file sharing. [Send](https://send.vis.ee/). List of [public instances](https://github.com/timvisee/send-instances/#public-send-instances).
+- [Snapdrop](https://snapdrop.net/) – A Progressive Web App for local file sharing inspired by Apple's Airdrop.
+  - [SnapDrop for Android](https://github.com/fm-sys/snapdrop-android) - Android client for local file sharing via SnapDrop.
+- [Transferfile.io](https://www.transferfile.io/) - Decentralized Alternative to Wetransfer. - **controversial**
+- [Tresorit](https://send.tresorit.com/) – Free, End-to-end encrypted alternative for file sending. Up to 5GB.
+- [Wormhole](https://wormhole.app/) – Simple, private file sharing.
+    - [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) - Get things from one computer to another, safely.
+- [YourTransfer.io](https://www.youtransfer.io/) – The simple but elegant file-sharing solution
+
+
+### [File-Sharing](#file-sharing)
+- [0x0](http://0x0.st/) – File URLs are valid for at least 30 days.
+- [AnonFiles](https://anonfiles.com/) – Quick and easy share files.
+- [Arbore](https://arbo.re/) – A free and open-source file sharing application that enables you to send your pictures, documents, files to your contacts privately and without limits.
+- [Anoxinon Share (50 MB)](https://share.anoxinon.de/) – Clean and simple file-sharing made in Germany.
+- [BorgBase](https://www.borgbase.com/) – Secure encrypted backup hosting service that offers 10 GB free storage forever.
+- [Disroot Upload (2 GB)](https://upload.disroot.org/) – Simple and easy file sharing.
+- [dotfilesync](https://github.com/snvishna/dotfilesync) – Sync your dotfiles into a private GitHub gist.
+- [e2ee-cloud](https://e2ee-cloud.com/) – A self-hosted, end-to-end encryption and cloud sharing software.
+- [federalist](https://github.com/publiusfederalist/federalist) – Access files on the decentralized, unblockable torrent swarm and visit links using Handshake domains. Decentralized internet is here.
+- [fex](https://fex.net/) – A big files sharing service.
+- [FileBin](https://filebin.net/) – 6 Day file storage system.
+- [FreedomBox](https://freedombox.org/) – A private server for non-experts: it lets you install and configure server applications with only a few clicks.
+- [git-annex](https://git-annex.branchable.com/) – Git annex offers robust and flexible file management. Packed with features, future proofing, and many different back-ends to connect to cloud services.
+- [Gotify](https://gotify.net/) – A simple server for sending and receiving messages.
+- [MuWire](https://muwire.com/) – File-sharing over I2P.
+- [NowTransfer (2 GB)](https://nowtransfer.de/) – No tracking, no logging and no advertising.
+- [Oshi](https://oshi.at/) – Anonymous file storage.
+- [Rclone](https://rclone.org/) – Rclone is a command line program to manage files on cloud storage. It is a feature rich alternative to cloud vendors' web storage interfaces and like the tools listed above enables encryption for encrypting files in the cloud.
+    - [RCX](https://github.com/x0b/rcx) – Android GUI for rclone. Manage files across many cloud services in a simple way under one interface.
+    - [Rclone Remount](https://github.com/Magisk-Modules-Repo/com.piyushgarg.rclone) – Remount cloud storage locally during boot via rclone & fusermount directly on your Android powered smart device.
+- [Syncthing](https://syncthing.net/) – Continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes.
+- [Transfer.sh](https://transfer.sh/) – Easy file sharing from the command line.
+- [uMTP-Responder](https://github.com/viveris/uMTP-Responder) – Lightweight Media Transfer Protocol (MTP) responder daemon for GNU/Linux (USB).
+- [Uguu](https://github.com/nokonoko/Uguu) – A simple lightweight temporary file host with support for drop, paste, click and API uploading.
+- [Up1](https://github.com/Upload/Up1) – A Software for file encrypted hosting.
+- [Pomf](https://github.com/pomf/pomf) – A simple lightweight file host with support for drop, paste, click and API uploading.
+- [Protocol for SYnchronous Conferencing (PSYC)](https://about.psyc.eu/PSYC) – A flexible text-based protocol for delivery of data to a flexible amount of recipients or people, by unicast or multicast. It is primarily used for chat conferencing, presence, pubsub and instant messaging, but not limited to that. Existing systems can easily use PSYC, since PSYC hides its complexity from them.
+- [XD](https://xd-torrent.github.io/) – Anonymous file-sharing. Torrent client for I2P.
+- [XTahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) – Distributed file system and Cloud storage system with integrated privacy and security features.
+
+### [Mobile File-Sharing](#mobile-file-sharing)
+- [RDrop](https://rdrop.link/) – A Simple P2P File Transfer Service Web-App. - **controversial**
+- [Sharik](https://github.com/marchellodev/sharik) - Works with Wi-Fi connection or Tethering (via WiFi Hotspot). No internet connection needed. Available for Android, iOS, Linux, MacOS & Windows.
+- [Seeker](https://github.com/jackBonadies/SeekerAndroid) – Android client for the Soulseek peer-to-peer network.
+- [TrebleShot](https://github.com/trebleshot) – Free and open-source software for sharing files with support for browsers, Android & desktop.
 
 
 ## [File Manager](#file-manager)
@@ -2457,6 +2226,18 @@ Privacy oriented alternatives:
 - [lrkFM](https://github.com/lfuelling/lrkFM) – Free and open source file manager for Android with focus on archive extraction (.tar, .tar.gz, .zip, .7z and .rar (but not RARv5)) and creation (.zip).
 - [Material Files](https://github.com/zhanghai/MaterialFiles) – Material Design file manager for Android.
 - [Simple File Manager](https://github.com/SimpleMobileTools/Simple-File-Manager) – Easy app for managing your files without ads, respecting your privacy & security.
+
+
+
+### [Tracking](#tracking)
+- [DejaVu](https://f-droid.org/packages/org.fitchfamily.android.dejavu) – Mobile/cell and WLAN/Wi-Fi based network provider for UnifiedNlp and microG.
+- [Hammond](https://github.com/akhilrex/hammond) – Self-hosted vehicle expense tracking system with multiple users support.
+- [MozillaNlpBackend](https://f-droid.org/packages/org.microg.nlp.backend.ichnaea/) – Location calculation is done online and therefor requires internet connection.
+- [Nextcloud Phonetrack](https://apps.nextcloud.com/apps/phonetrack) – Nextcloud app can track location history with an [Android app](https://gitlab.com/eneiluj/phonetrack-android) ([other apps also supported](https://gitlab.com/eneiluj/phonetrack-oc/-/wikis/userdoc#logging-methods)). Supports caching positions offline and sending them to the server in batches. The first-party app has good battery saving options.
+- [NominatimNlpBackend](https://f-droid.org/packages/org.microg.nlp.backend.nominatim/) – MapQuest’s Nominatim service (based on OpenStreetMap) for geocoding.
+- [OwnTracks](https://owntracks.org/) – Location tracking for displaying the current location only (limited location history functionality).
+- [Traccar](https://www.traccar.org/) – Location tracking software made for dedicated GPS logging devices.
+- [UnifiedNLP](https://f-droid.org/packages/org.microg.nlp) – Most modern ROMs come with support for non-Google geo-location providers. On these systems UnifiedNlp can be installed as a user app to replace the network location provider.
 
 
 ## [Translation](#translation)
@@ -2494,11 +2275,6 @@ Privacy oriented alternatives:
 - [vid2cleantxt](https://github.com/pszemraj/vid2cleantxt) – A command-line tool to easily transcribe speech-based video files into clean text.
 
 
-## [Google Doodle alternatives](#google-doodle-alternatives)
-- [dudle](https://dudle.inf.tu-dresden.de/)
-- [nuudel](https://nuudel.digitalcourage.de/)
-
-
 ## [Android App Management](#android-app-management)
 - [Apk Extractor](https://f-droid.org/app/axp.tool.apkextractor) – Extract APKs from your device, even if installed from the Play Store. - Needs Root access.
 - [AppManager](https://f-droid.org/en/packages/io.github.muntashirakon.AppManager/) – A full-featured open source package manager for Android.
@@ -2531,139 +2307,6 @@ Privacy oriented alternatives:
 - [Remote Keyboard](https://f-droid.org/packages/de.onyxbits.remotekeyboard/) – The app connects your desktop computer’s keyboard via wlan (can be forwarded over USB via ADB) to your android device so that you can control it comfortably.
 - [Simple Keyboard](https://github.com/rkkr/simple-keyboard) – A simple open source keyboard.
 - [WiFiKeyboard](https://f-droid.org/packages/com.volosyukivan/) – Use your computer as a keyboard for your device, via a browser pointed to an address on the same LAN.
-
-
-## [Google Alerts](#google-alerts)
-- [F5 Bot](https://f5bot.com/) – Emails you when your selected keywords are mentioned on Reddit, Hacker News, or Lobsters.
-
-
-## [Google Earth](#google-earth)
-- [GeoMapApp](http://www.geomapapp.org/) – GeoMapApp is a map-based application for browsing, visualizing and analyzing a diverse suite of curated global and regional geoscience data sets.
-- [KDE Marble](https://kde.org/applications/education/org.kde.marble) – Currently only on Linux, but is being ported to other platforms.
-- [WorldWind](https://worldwind.arc.nasa.gov/java/) – NASA WorldWind Software Development Kits (SDKs) for geo-spatial 3D virtual globe visualization via OpenGL/WebGL on Android, Java and JavaScript/HTML5.
-- [ossimPlanet](https://trac.osgeo.org/ossim/wiki/OssimPlanet) – A 3D Geospatial viewer built on top of OpenSceneGraph.
-
-
-## [Google Flutter](#google-flutter)
-- [Apache Cordova](https://github.com/apache/cordova) – It's a major tool for web developers.
-- [Codename One](https://github.com/codenameone/CodenameOne) – Most similar tool to flutter on the market, open source, supports Kotlin and Java.
-- [KMM](https://github.com/JetBrains/kotlin) – You can find the [docs here](https://kotlinlang.org/docs/mobile/home.html).
-- [QT](https://code.qt.io/qt/qt5.git) – Cross platform framework for C++ developers.
-
-
-## [Google Forms](#google-forms)
-- [BlockSurvey](https://blocksurvey.io/) – Enables digital rights (identity and data ownership) to users using Blockstack's blockchain. Users truly own their data with BlockSurvey.
-- [Drupal Webform](https://www.drupal.org/project/webform) – Module for making forms and surveys in Drupal content management system (it is not a standalone app).
-- [EUSurvey](https://ec.europa.eu/eusurvey/) – The European Commission's official survey management tool. Its main purpose is to create official surveys of public opinion and forms for internal communication and staff management, e.g. staff opinion surveys and forms for evaluation or registration.
-- [Form Tools](https://www.formtools.org/) – A powerful, flexible, free and open source PHP/MySQL script you install on your website for managing your forms and data.
-- [Input App](https://inputapp.io/en/) – Mobile survey app and cloud sync for Qgis projects.
-- [LimeSurvey](https://limesurvey.org/) – A free open source survey software, it can be used on the LimeSurvey.org site, or you can install it on your own server if you have one.
-- [Nextcloud Forms](https://apps.nextcloud.com/apps/forms) – If you are using Nextcloud, the Forms extension is a good option for creating simple surveys and questionnaires. Survey info and responses are kept private on your Nextcloud instance.
-- [OhMyForm](https://ohmyform.com/) – A free and open source alternative to commercial form creators like Small Typeform iconTypeform and Small Google Drive.
-- [PHP FormBuilder](https://www.apphp.com/index.php?page=product&pc=PHPFB) – Easy-to-use HTML form builder script that provides simple and flexible way to create HTML forms and also validate different types of fields, using embedded ApPHP DataValidator.
-- [Quill Forms](https://quillforms.com/) – Contact forms and surveys act as lead generation machines and bridge the gap between your audience and products.
-- [SurveyJS](https://surveyjs.io/) – A free and open source solution under MIT license. However, professional full-time software developers support it.
-- [Tripetto](https://tripetto.com/) – No-code tool for building truly conversational, logic-driven forms and surveys that lets you flexibly present these as conversational forms or even chats.
-- [VFront](https://github.com/marciuz/vfront) – A free, open source front-end for MySQL, PostgreSQL and SQLite databases written in PHP and Javascript.
-- [Vue Flow Form](https://www.ditdot.hr/en/vue-flow-form) – A form generator tool for developing custom, conversational forms. It's a free, open-source, and self-hosted solution built with Vue.js under the MIT license, that can be integrated into your app or website.
-- [Webform](https://webform.com/) & [self-hostable](https://www.drupal.org/project/webform) – A free open source form software, available to either self-host or host on Webform.com. The version hosted on Webform.com comes in free and paid versions.
-
-
-## [Google Music](#google-music)
-- [Audinaut](https://github.com/nvllsvm/Audinaut) – An open-source Airsonic client for Android.
-- [MALP](https://gitlab.com/gateship-one/malp/-/blob/master/README.md) – An open-source Android client for MPD. Available on F-Droid.
-- [Shuttle+](https://github.com/timusus/Shuttle) – Open-source local music player for Android. Available on F-Droid or by direct download.
-
-
-## [Google Kepp](#google-kepp)
-- [GitJournal](https://gitjournal.io/) – Your Markdown notes stores in any Git Repo. Available for both Android (Play Store) and iOS.
-- [Joplin](https://joplinapp.org/) – Open-source notes/todo app. Available for Windows, macOS, Linux, Android, and iOS. Also offers a terminal version.
-- [Nextcloud Notes](https://apps.nextcloud.com/apps/notes) – A distraction free notes taking app for Nextcloud. It provides categories for better organization and supports formatting using Markdown syntax.
-- [Notesnook](https://notesnook.com/) – A truly zero-knowledge note taking app, encrypted using XChaChaPoly1305-IETF & Argon2. It is available on Windows, macOS, Linux, Android, iOS, and has browser extensions too. It is not self-hostable and follows a freemium model.
-- [QOwnNotes](https://www.qownnotes.org/) – Open-source file editor with Markdown support. (thanks u/maqp2)
-- [Rnote](https://github.com/flxzt/rnote) – A simple note taking application written in Rust and GTK4.
-- [Standard Notes](https://standardnotes.com/) – Encrypted note storage with loads of features. Offers a web app as well as downloads for most operating systems. Has a paid plan, but the free tier has many useful features as well.
-- [TiddlyWiki](https://tiddlywiki.com/) – An open-source personal note-taking system that can run in the browser as a single HTML file or as a NodeJS application. It can be stored locally on a hard drive or removable drive, self-hosted on one's own server, or use various web-based storage options.
-- [Turtl](https://turtlapp.com/) – Encrypted collaborative notebook with possibility of running your own server.
-
-
-## [Google Classroom](#google-classroom)
-- [Canvas](https://www.instructure.com/canvas) – Paid service by Instructure. Also available as a self-hosted, open-source option.
-- [ILIAS](https://www.ilias.de/en/) – Self-hosted open-source classroom software.
-- [Moodle](https://moodle.org/) – Self-hosted open-source Classroom software for schools. Very powerful.
-
-
-## [Google Sheets](#google-sheets)
-- [Grist](https://github.com/gristlabs/grist-core) – Open core alternative to G Sheets with SQLite storage and Python formulas.
-- [Magic Sheets](https://www.magicsheets.io/) – Machine Learning for Google Sheets. - **controversial**
-
-
-## [Google Sites](#google-sites)
-Not so good in terms of privacy:
-- Google Sites
-- Squarespace
-- Weebly
-
-Privacy oriented alternatives:
-- [NoemieCms](https://framagit.org/framasoft/PrettyNoemieCMS) – French only alternative to Google Sites.
-- [Pico CMS for Nextcloud](https://apps.nextcloud.com/apps/cms_pico) – CMS system for NextCloud.
-
-
-## [Google Safetynet](#google-safetynet)
-
-Faking, spoofing, manipulating category for SafetyNet Attestation and other Android limitations.
-
-- [DisableFlagSecure](https://github.com/LSPosed/DisableFlagSecure/releases/) – Disable FLAG_SECURE on all windows, enabling screenshots in apps that normally wouldn't allow it.
-- [FakeXposed](https://github.com/sanfengAndroid/FakeXposed) – Hide xposed, root, file redirection, etc.
-- [Safetynet-fix](https://github.com/kdrag0n/safetynet-fix) – A universal fix for Google SafetyNet on Android devices with hardware attestation and unlocked bootloaders.
-- [hsu](https://github.com/rmnscnce/hsu) – Magisk module for hiding Magisk and root by entirely disabling and hiding them.
-
-
-## [Google Trends](#google-trends)
-
-There are some open source API's available to Google trends.
-
-- [In Golang](https://github.com/groovili/gogtrends)
-- [In Java](https://github.com/elibus/j-google-trends-api)
-- [In node](https://www.npmjs.com/package/google-trends-api)
-- [In php](http://codingfocus.com/google-trends-api)
-- [In Python](https://github.com/GeneralMills/pytrends)
-- [Java client side](https://github.com/elibus/j-google-trends-client)
-- [Keyword Tool](https://keywordtool.io/google-trends) – Get Great Keywords From Google Trends In Seconds. - **controversial**
-- [pytrends - Pseudo API for Google Trends](https://github.com/GeneralMills/pytrends) – Allows simple interface for automating downloading of reports from Google Trends.
-
-
-## [Google Workspace](#google-workspace)
-
-Most tools are normally paid or freemium only because you need to put lots of time, effort and maintenance in such G-Suite alternatives.
-
-- [Fastmail](https://github.com/fastmail) – Fastmail is considerable a solid alternative for email & calendar. Fastmail is also listed under eMail provider.
-- [Kolab Community](https://kolab.org/) – A secure, scalable, reliable, flexible, full-featured collaboration suite. - **controversial**
-- [Kopano](https://kopano.com/) – Sharing & communication software for business. - **controversial**
-- [Mailfence Collaboration Suite](https://mailfence.com/) – Secure and private collaboration suite that includes emails, contacts, calendars, and documents. Users can create groups to collaborate, chat and share data. - **controversial**
-- [MXRoute](https://mxroute.com/) – Offers lifetime promo but is not FOSS. - **controversial**
-- [Nextcloud Hub](https://nextcloud.com/hub/) – Nextcloud is the most deployed on-premises file share and collaboration platform.
-- [OpenChange](https://github.com/openchange/openchange) – OpenChange aims to provide a portable Open Source implementation of Microsoft Exchange Server and Exchange protocols. - **controversial**
-- [WikiSuite](http://wikisuite.org/) – The most comprehensive and integrated Free / Libre / Open Source enterprise software suite.
-- [Zimbra Collaboration Suite](https://www.zimbra.com/email-server-software/) – An open, secure collaboration tool for email, calendaring, tasks and more. - **controversial**
-
-
-## [Graphic Novels & Comic Books](#graphic-novels--comic-books)
-- [Comic Book Plus](http://comicbookplus.com/) – Comic books in CBR/CBZ. Requires free registration.
-- [Comics Fu](http://comicsfu.com/) – A platform for creating digital comic stores.
-- [comiXology](https://www.comixology.com/) – Sells comics and offers DRM-free backups on select titles.
-- [Dynamite Entertainment](http://dynamite.com/digital/) – Sells DRM-free comics and graphic novels.
-- [Panel Syndicate](http://panelsyndicate.com/) – A pay-what-you want website for comics by artist Marcos Martin and writer Brian K. Vaughan.
-- [Rebellion Publishing](http://www.rebellionstore.com/) – A digital publisher of ebooks, graphic novels, and comic books.
-- [Thrillbent](http://thrillbent.com/shop/) – A digital comics site created by award-winning comics writer Mark Waid and television writer/producer extraordinaire John Rogers.
-
-
-## [Groceries](#groceries)
-- [Grocy](https://grocy.info/) – A web-based self-hosted open source groceries and household management solution for your home. There is also an F-Droid app.
-
-
-### [Mobile Groceries Apps](#mobile-groceries-apps)
-- [Grocery manager](https://grocy.info/) – Manage your groceries on Android.
 
 
 ## [Android App Store](#android-app-store)
@@ -2767,14 +2410,18 @@ You can obtain a [comprehensive aggregator for news feeds here](https://en.wikip
 - [Wire](https://itunes.apple.com/us/app/wire-reader/id1438331258?mt=8) – An RSS reader for iOS that displays articles with their native formatting — or an optimized mobile version for sites that support AMP — and doesn’t require yet another account to sign up for.
 
 
-### [RSS-Bridge](#rss-bridge)
+### [RSS-Bridges](#rss-bridges)
 - [dato.rss](https://www.datorss.com/) – Dato.rss the best RSS search experience you can find.
 - [FeedBridge](https://github.com/dewey/feedbridge) – Provide RSS-Feeds for sites that don't have one.
 - [Feed to Mail Dir](https://github.com/sulami/feed2maildir) – Helps you convert your RSS-feeds to mail, you then can use your email client to receive the feeds.
 - [Insta Feed](https://github.com/falzm/instafeed) – Generate a RSS-Feed from an Instagram user's posts via camera picture.
-- [ratt](https://sr.ht/~ghost08/ratt/) – A tool for converting websites to rss/atom feeds. It uses config files which define the extraction of the feed data by using css selectors, or Lua script.
+- [ratt](https://sr.ht/~ghost08/ratt/) – A tool for converting websites to RSS/Atom feeds. It uses config files which define the extraction of the feed data by using css selectors, or Lua script.
 - [rss-bridge](https://github.com/RSS-Bridge/rss-bridge) – The RSS feed for websites missing it.
 - [Rss2email](https://github.com/rss2email/rss2email) – Forward RSS feeds to your email address.
+
+
+## [Software Energy Consumption Measurement](#software-energy-consumption-measurement)
+- [Tools to Measure Software Energy Consumption from your Computer](https://luiscruz.github.io/2021/07/20/measuring-energy.html)
 
 
 ## [Social Networks and Platforms](#social-networks-and-platforms)
@@ -2782,7 +2429,7 @@ You can obtain a [comprehensive aggregator for news feeds here](https://en.wikip
 In general [social networks are fedpots](https://theintercept.com/2021/09/21/surveillance-social-media-police-microsoft-shadowdragon-kaseware/). It should be noted that alternative clients and font-ends will still share your IP with the service as they make direct requests too, this means the Instance owner still can gather several data from you.
 
 
-## [Alternative Discord clients](#alternative-discord-clients)
+## [Discord clients](#discord-clients)
 
 > Your IP-Address and messages will still be shared and belong to Discord, the worst part is that they are not encrypted.
 
@@ -2939,7 +2586,7 @@ Privacy oriented alternatives:
     - [Yuito](https://apt.izzysoft.de/fdroid/index/apk/net.accelf.yuito) – It can be used with distributed SNS (Social Network Services) like Mastodon, Pleroma, Pixelfed etc., which use the ActivityPub protocol.
 
 
-### [Alternative Frontend Bots](#alternative-frontend-bots)
+### [Alternative Front-end Bots](#alternative-front-end-bots)
 
 - [linkchanbot](https://git.sr.ht/~torresjrjr/linkchanbot/) – A Telegram Bot which sanitizes and substitutes share links with lightweight, privacy respecting proxy frontend alternatives. The Bot supports Twitter, YouTube, Instagram and Reddit.
 
@@ -2961,7 +2608,7 @@ A developer created a nice little tool which is called ["Unfollow Everything"](h
 - [SlimSocial](https://github.com/rignaneseleo/SlimSocial-for-Facebook) – Android, alternative front-end for Facebook, built with Java.
 - [Zom](https://play.google.com/store/apps/details?id=im.zom.messenger) – An extremely easy to use and free open source messenger app. You don’t need to register to use it, just think of a username.
 
-### [Facebook Mobile Clients](#facebook-mobile-clients)
+#### [Facebook Mobile Clients](#facebook-mobile-clients)
 - [Frost](https://github.com/AllanWang/Frost-for-Facebook) – An extensive and functional third party app for Facebook.
 - [Tinfoil for Facebook](https://github.com/velazcod/Tinfoil-Facebook) – Tinfoil for Facebook lets you use the mobile website without having the rest of your web browsing tracked. It requires far fewer permissions than the official app.
 
@@ -3328,6 +2975,37 @@ Keep these options in mind when communicating with your clique. Many of us belon
 - [Onymochat](https://github.com/SamratDuttaOfficial/onymochat) – An end-to-end encrypted, decentralized, anonymous chat application. You can also host your anonymous .onion webpage with Onymochat.
 
 
+## [PDF tools](#PDF-tools)
+### [PDF merging](#pdf-merging)
+- [PDFWrench](https://pdfwrench.com/) – Free PDF merging tool that works without any file upload to ensure privacy.
+
+### [PDF Reader](#pdf-reader)
+- [Document Viewer](https://github.com/SufficientlySecure/document-viewer) – A highly customizable document viewer for Android.
+- [Evince](https://wiki.gnome.org/Apps/Evince) – A document viewer for multiple document formats.
+- [Okular](https://okular.kde.org) – A universal document viewer developed by KDE.
+- [Sioyek](https://github.com/ahrm/sioyek) – Sioyek is a PDF viewer designed for reading research papers and technical books.
+- [Skim](https://skim-app.sourceforge.io) – A PDF reader and note-taker for macOS.
+- [SumatraPDF](https://www.sumatrapdfreader.org) – A multi-format reader for Windows.
+- [zathura](https://pwmt.org/projects/zathura/) – A highly customizable and functional document viewer.
+
+### [Mobile PDF Reader](#mobile-pdf-reader)
+- [Book Reader](https://gitlab.com/axet/android-book-reader) – Android book reader application.
+- [Document Viewer](https://github.com/PrivacyApps/document-viewer) – Document Viewer is a highly customizable document viewer for Android.
+- [KOReader](https://github.com/koreader/koreader) – An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices.
+- [Librera Reader](https://github.com/foobnix/LibreraReader) – Book Reader for Android.
+- [MuPDF](https://mupdf.com) – A lightweight and customizable PDF and XPS viewer.
+- [PDF Viewer Plus](https://github.com/JavaCafe01/PdfViewer) – A simple PDF document viewer for Android.
+
+
+### [PDF Editor](#pdf-editor)
+- [PDF Converter](https://f-droid.org/packages/swati4star.createpdf) – PDF Converter is an easy to use application to convert Images to PDF.
+
+
+### [PDF Document Scanner](#pdf-document-scanner)
+- [Open Note Scanner](https://f-droid.org/packages/com.todobom.opennotescanner/) – With Open Note Scanner you can capture documents, handwritten notes, arts, shopping receipts, etcetera.
+- Termux with pandoc and texlive-bin plugin allows you to scan or convert documents from e.g. markdown to PDF.
+
+
 ## [Teamwork Tools](#teamwork-tools)
 Not so good in terms of privacy:
 - [Discord](https://cybernews.com/privacy/discord-privacy-tips-that-you-should-use/) + [The Dark Side of Discord (And best Solutions and Alternatives!)](https://bitcointv.com/w/bQQi7ewMbuWzdL3EN8Do4K) [#febpot](https://torrentfreak.com/riaa-takes-down-popular-music-piracy-discord-over-adele-30-leak-211122/), see [here](https://discord.com/safety/360044157931-Working-with-law-enforcement) and [here](https://www.forbes.com/sites/thomasbrewster/2019/01/29/discord-the-2-billion-gamers-paradise-coming-to-terms-with-data-thieves-child-groomers-and-fbi-investigators/) + [full of snitches due to cp](https://www.videogameschronicle.com/news/a-prolific-nintendo-leaker-has-been-sentenced-to-three-years-in-prison/) and [here](https://old.reddit.com/r/privacy/comments/rsxeee/you_should_never_use_discord_and_heres_why/)
@@ -3396,6 +3074,38 @@ Privacy oriented alternatives:
 - [ZK](https://github.com/mickael-menu/zk) - A plain text note-taking assistant.
 
 
+## [Notes and Tasks](#notes-and-tasks)
+Not so good in terms of privacy:
+- Google Keep and [Google Keep Exporter](https://github.com/vHanda/google-keep-exporter) – Convert your Google Keep notes into a standard markdown + YAML header format.
+- Evernote
+- Squid
+- Notion
+- OneNote
+- Tasker
+
+Privacy oriented alternatives:
+- [AppFlowy](https://github.com/AppFlowy-IO/appflowy) – AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
+- [Bangle.io](https://bangle.io) – A free alternative to Notion that takes markdown notes saved right in your computer.
+- [Hyperdraft](https://hyperdraft.rosano.ca) – An open-source notes app that works in the browser and syncs with 0data protocols.
+- [TinyList](https://tinylist.app/) – Create and share notes and checklists, without sacrificing your privacy.
+- [Standard Notes](https://standardnotes.org/) – A free, open-source, and completely encrypted notes app.
+- [Notally](https://github.com/OmGodse/Notally) – A beautiful notes app.
+- [Joplin](https://github.com/laurent22/joplin) – Note taking and to-do application with synchronization capabilities.
+- [Nextcloud Notes](https://github.com/nextcloud/notes/) – The Notes app is a distraction free notes taking app for Nextcloud.
+  - [Nextcloud Notes for Android](https://github.com/stefan-niedermann/nextcloud-notes) – An android client for Nextcloud Notes.
+- [Vikunja](https://vikunja.io) – The open-source to-do app to organize your life.
+- [Lomorage](https://lomorage.com/) – Mobile first self-host photo storage solution, and has native iOS / Android application as well as optimization for Raspberry PI and Armbian OS.
+
+
+### [Mobile Notes taking Apps](#mobile-notes-taking-apps)
+- [Carnet (cloud)](https://f-droid.org/en/packages/com.spisoft.quicknote) – Design inspired by Google Keep.
+- [Easer](https://f-droid.org/app/ryey.easer) – An event-driven Android automation app. It knows various events, and you, the user, could tell it what to do on what event (and even combine multiple events!).
+- [LibreTasks](https://f-droid.org/app/libretasks.app) – A fork of Omnidroid App, now maintained and with more features.
+- [Notepad](https://f-droid.org/en/packages/com.farmerbb.notepad/) – A simple, bare-bones, no-frills note taking app.
+- [Standard notes (cloud)](https://f-droid.org/en/packages/com.standardnotes) – Encrypted notes on their server, accessible from any browser.
+- [uNote](https://f-droid.org/en/packages/app.varlorg.unote/) – Lightweight and minimalist notepad.
+
+
 ### [Mobile note taking apps](#mobile-note-taking-apps)
 - [Joplin](https://joplinapp.org/) – An open source note-taking app. Capture your thoughts and securely access them from any device.
 - [Markor](https://f-droid.org/packages/net.gsantner.markor/) – Text editor, notes & toDo. Lightweight. Markdown and todo.txt support.
@@ -3418,7 +3128,7 @@ Privacy oriented alternatives:
 - [Zettel Notes](https://thedoc.eu.org/zettel-notes/) - Android Markdown app with GPG encryption and webdav sync.
 
 
-## [NSFW detection](#nsfw-detection)
+## [NSFW Detection](#nsfw-detection)
 - [The Movie Parser](https://github.com/dynamite-ready/movie-parser) – An app to read a movie file, and indicate which scenes are NSFW, it uses an A.I. to do that. The wrapper can be used in other projects, or you use the single executable and use it as standalone app.
 
 
@@ -3460,10 +3170,6 @@ Privacy oriented alternatives:
 
 ## [Poll Systems](#poll-systems)
 - [Framadate](https://framadate.org/) – An easy-to-use libre Doodle-style event and poll service, provided by France’s largest ethical software organization Framasoft. It costs nothing, it doesn’t track you and you don’t need to register.
-
-
-## [Whiteboard](#whiteboard)
-- [OurBoard](https://www.ourboard.io/) – Free and open source online whiteboard.
 
 
 ## [QR-Code Reader](#qr-code-reader)
@@ -3677,10 +3383,6 @@ Privacy oriented alternatives:
 - [Rudder Server](https://github.com/rudderlabs/rudder-server) – Privacy-focused open-source alternative to Segment, customer data platform.
 
 
-## [Employee Monitoring](#employee-monitoring)
-- [fleet](https://github.com/fleetdm/fleet) – Open source device management, built on osquery.
-
-
 ## [OS and Data Monitoring](#os-and-data-monitoring)
 - ⁭[Netdata](https://github.com/netdata/netdata) – Distributed, real-time monitoring Agent collects thousands of metrics from systems, hardware, containers, and applications with zero configuration. It runs permanently on all your physical/virtual servers, containers, cloud deployments, and edge/IoT devices, and is perfectly safe to install on your systems mid-incident without any preparation.
 - [Uptime-kuma](https://github.com/louislam/uptime-kuma) – A fancy open-source self-hosted monitoring tool.
@@ -3776,44 +3478,12 @@ Services without self-hosting:
 - [spamgourmet](https://www.spamgourmet.com/) – If you give your email address to everyone, you are bound to receive spam emails, and you won't know where they came from. Absolutely free. No registration. 24/7 Support.
 
 
-## [Notes and Tasks](#Notes-and-Tasks)
-Not so good in terms of privacy:
-- Google Keep and [Google Keep Exporter](https://github.com/vHanda/google-keep-exporter) – Convert your Google Keep notes into a standard markdown + YAML header format.
-- Evernote
-- Squid
-- Notion
-- OneNote
-- Tasker
-
-Privacy oriented alternatives:
-- [AppFlowy](https://github.com/AppFlowy-IO/appflowy) – AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
-- [Bangle.io](https://bangle.io) – A free alternative to Notion that takes markdown notes saved right in your computer.
-- [Hyperdraft](https://hyperdraft.rosano.ca) – An open-source notes app that works in the browser and syncs with 0data protocols.
-- [TinyList](https://tinylist.app/) – Create and share notes and checklists, without sacrificing your privacy.
-- [Standard Notes](https://standardnotes.org/) – A free, open-source, and completely encrypted notes app.
-- [Notally](https://github.com/OmGodse/Notally) – A beautiful notes app.
-- [Joplin](https://github.com/laurent22/joplin) – Note taking and to-do application with synchronization capabilities.
-- [Nextcloud Notes](https://github.com/nextcloud/notes/) – The Notes app is a distraction free notes taking app for Nextcloud.
-  - [Nextcloud Notes for Android](https://github.com/stefan-niedermann/nextcloud-notes) – An android client for Nextcloud Notes.
-- [Vikunja](https://vikunja.io) – The open-source to-do app to organize your life.
-- [Lomorage](https://lomorage.com/) – Mobile first self-host photo storage solution, and has native iOS / Android application as well as optimization for Raspberry PI and Armbian OS.
-
-
-### [Mobile Notes taking Apps](#mobile-notes-taking-apps)
-- [Carnet (cloud)](https://f-droid.org/en/packages/com.spisoft.quicknote) – Design inspired by Google Keep.
-- [Easer](https://f-droid.org/app/ryey.easer) – An event-driven Android automation app. It knows various events, and you, the user, could tell it what to do on what event (and even combine multiple events!).
-- [LibreTasks](https://f-droid.org/app/libretasks.app) – A fork of Omnidroid App, now maintained and with more features.
-- [Notepad](https://f-droid.org/en/packages/com.farmerbb.notepad/) – A simple, bare-bones, no-frills note taking app.
-- [Standard notes (cloud)](https://f-droid.org/en/packages/com.standardnotes) – Encrypted notes on their server, accessible from any browser.
-- [uNote](https://f-droid.org/en/packages/app.varlorg.unote/) – Lightweight and minimalist notepad.
-
-
 ## [Flashlight Apps](#flashlight-apps)
 - [Flashy](https://github.com/Crazy-Marvin/Flashy) – Simple & Privacy-Friendly Flashlight App.
 - [Simple Flashlight](https://github.com/SimpleMobileTools/Simple-Flashlight) – A simple modern flashlight with SOS, stroboscope & bright display, has no ads.
 
 
-## [File Searching](#file-searchhing)
+## [File Searching](#file-searching)
 Not so good in terms of privacy:
 - Apple Siri
 - Cortana App
@@ -3842,6 +3512,144 @@ Privacy oriented alternatives:
 - [WiFiKeyShare](https://f-droid.org/app/be.brunoparmentier.wifikeyshare) – Share Wi-Fi passwords with QR codes and NFC tags.
 
 
+## [Google Alerts](#google-alerts)
+- [F5 Bot](https://f5bot.com/) – Emails you when your selected keywords are mentioned on Reddit, Hacker News, or Lobsters.
+
+
+## [Google Doodle alternatives](#google-doodle-alternatives)
+- [dudle](https://dudle.inf.tu-dresden.de/)
+- [nuudel](https://nuudel.digitalcourage.de/)
+
+
+## [Google Earth](#google-earth)
+- [GeoMapApp](http://www.geomapapp.org/) – GeoMapApp is a map-based application for browsing, visualizing and analyzing a diverse suite of curated global and regional geoscience data sets.
+- [KDE Marble](https://kde.org/applications/education/org.kde.marble) – Currently only on Linux, but is being ported to other platforms.
+- [WorldWind](https://worldwind.arc.nasa.gov/java/) – NASA WorldWind Software Development Kits (SDKs) for geo-spatial 3D virtual globe visualization via OpenGL/WebGL on Android, Java and JavaScript/HTML5.
+- [ossimPlanet](https://trac.osgeo.org/ossim/wiki/OssimPlanet) – A 3D Geospatial viewer built on top of OpenSceneGraph.
+
+
+## [Google Flutter](#google-flutter)
+- [Apache Cordova](https://github.com/apache/cordova) – It's a major tool for web developers.
+- [Codename One](https://github.com/codenameone/CodenameOne) – Most similar tool to flutter on the market, open source, supports Kotlin and Java.
+- [KMM](https://github.com/JetBrains/kotlin) – You can find the [docs here](https://kotlinlang.org/docs/mobile/home.html).
+- [QT](https://code.qt.io/qt/qt5.git) – Cross platform framework for C++ developers.
+
+
+## [Google Forms](#google-forms)
+- [BlockSurvey](https://blocksurvey.io/) – Enables digital rights (identity and data ownership) to users using Blockstack's blockchain. Users truly own their data with BlockSurvey.
+- [Drupal Webform](https://www.drupal.org/project/webform) – Module for making forms and surveys in Drupal content management system (it is not a standalone app).
+- [EUSurvey](https://ec.europa.eu/eusurvey/) – The European Commission's official survey management tool. Its main purpose is to create official surveys of public opinion and forms for internal communication and staff management, e.g. staff opinion surveys and forms for evaluation or registration.
+- [Form Tools](https://www.formtools.org/) – A powerful, flexible, free and open source PHP/MySQL script you install on your website for managing your forms and data.
+- [Input App](https://inputapp.io/en/) – Mobile survey app and cloud sync for Qgis projects.
+- [LimeSurvey](https://limesurvey.org/) – A free open source survey software, it can be used on the LimeSurvey.org site, or you can install it on your own server if you have one.
+- [Nextcloud Forms](https://apps.nextcloud.com/apps/forms) – If you are using Nextcloud, the Forms extension is a good option for creating simple surveys and questionnaires. Survey info and responses are kept private on your Nextcloud instance.
+- [OhMyForm](https://ohmyform.com/) – A free and open source alternative to commercial form creators like Small Typeform iconTypeform and Small Google Drive.
+- [PHP FormBuilder](https://www.apphp.com/index.php?page=product&pc=PHPFB) – Easy-to-use HTML form builder script that provides simple and flexible way to create HTML forms and also validate different types of fields, using embedded ApPHP DataValidator.
+- [Quill Forms](https://quillforms.com/) – Contact forms and surveys act as lead generation machines and bridge the gap between your audience and products.
+- [SurveyJS](https://surveyjs.io/) – A free and open source solution under MIT license. However, professional full-time software developers support it.
+- [Tripetto](https://tripetto.com/) – No-code tool for building truly conversational, logic-driven forms and surveys that lets you flexibly present these as conversational forms or even chats.
+- [VFront](https://github.com/marciuz/vfront) – A free, open source front-end for MySQL, PostgreSQL and SQLite databases written in PHP and Javascript.
+- [Vue Flow Form](https://www.ditdot.hr/en/vue-flow-form) – A form generator tool for developing custom, conversational forms. It's a free, open-source, and self-hosted solution built with Vue.js under the MIT license, that can be integrated into your app or website.
+- [Webform](https://webform.com/) & [self-hostable](https://www.drupal.org/project/webform) – A free open source form software, available to either self-host or host on Webform.com. The version hosted on Webform.com comes in free and paid versions.
+
+
+## [Google Music](#google-music)
+- [Audinaut](https://github.com/nvllsvm/Audinaut) – An open-source Airsonic client for Android.
+- [MALP](https://gitlab.com/gateship-one/malp/-/blob/master/README.md) – An open-source Android client for MPD. Available on F-Droid.
+- [Shuttle+](https://github.com/timusus/Shuttle) – Open-source local music player for Android. Available on F-Droid or by direct download.
+
+
+## [Google Kepp](#google-kepp)
+- [GitJournal](https://gitjournal.io/) – Your Markdown notes stores in any Git Repo. Available for both Android (Play Store) and iOS.
+- [Joplin](https://joplinapp.org/) – Open-source notes/todo app. Available for Windows, macOS, Linux, Android, and iOS. Also offers a terminal version.
+- [Nextcloud Notes](https://apps.nextcloud.com/apps/notes) – A distraction free notes taking app for Nextcloud. It provides categories for better organization and supports formatting using Markdown syntax.
+- [Notesnook](https://notesnook.com/) – A truly zero-knowledge note taking app, encrypted using XChaChaPoly1305-IETF & Argon2. It is available on Windows, macOS, Linux, Android, iOS, and has browser extensions too. It is not self-hostable and follows a freemium model.
+- [QOwnNotes](https://www.qownnotes.org/) – Open-source file editor with Markdown support. (thanks u/maqp2)
+- [Rnote](https://github.com/flxzt/rnote) – A simple note taking application written in Rust and GTK4.
+- [Standard Notes](https://standardnotes.com/) – Encrypted note storage with loads of features. Offers a web app as well as downloads for most operating systems. Has a paid plan, but the free tier has many useful features as well.
+- [TiddlyWiki](https://tiddlywiki.com/) – An open-source personal note-taking system that can run in the browser as a single HTML file or as a NodeJS application. It can be stored locally on a hard drive or removable drive, self-hosted on one's own server, or use various web-based storage options.
+- [Turtl](https://turtlapp.com/) – Encrypted collaborative notebook with possibility of running your own server.
+
+
+## [Google Classroom](#google-classroom)
+- [Canvas](https://www.instructure.com/canvas) – Paid service by Instructure. Also available as a self-hosted, open-source option.
+- [ILIAS](https://www.ilias.de/en/) – Self-hosted open-source classroom software.
+- [Moodle](https://moodle.org/) – Self-hosted open-source Classroom software for schools. Very powerful.
+
+
+## [Google Sheets](#google-sheets)
+- [Grist](https://github.com/gristlabs/grist-core) – Open core alternative to G Sheets with SQLite storage and Python formulas.
+- [Magic Sheets](https://www.magicsheets.io/) – Machine Learning for Google Sheets. - **controversial**
+
+
+## [Google Sites](#google-sites)
+Not so good in terms of privacy:
+- Google Sites
+- Squarespace
+- Weebly
+
+Privacy oriented alternatives:
+- [NoemieCms](https://framagit.org/framasoft/PrettyNoemieCMS) – French only alternative to Google Sites.
+- [Pico CMS for Nextcloud](https://apps.nextcloud.com/apps/cms_pico) – CMS system for NextCloud.
+
+
+## [Google Safetynet](#google-safetynet)
+
+Faking, spoofing, manipulating category for SafetyNet Attestation and other Android limitations.
+
+- [DisableFlagSecure](https://github.com/LSPosed/DisableFlagSecure/releases/) – Disable FLAG_SECURE on all windows, enabling screenshots in apps that normally wouldn't allow it.
+- [FakeXposed](https://github.com/sanfengAndroid/FakeXposed) – Hide xposed, root, file redirection, etc.
+- [Safetynet-fix](https://github.com/kdrag0n/safetynet-fix) – A universal fix for Google SafetyNet on Android devices with hardware attestation and unlocked bootloaders.
+- [hsu](https://github.com/rmnscnce/hsu) – Magisk module for hiding Magisk and root by entirely disabling and hiding them.
+
+
+## [Google Trends](#google-trends)
+
+There are some open source API's available to Google trends.
+
+- [In Golang](https://github.com/groovili/gogtrends)
+- [In Java](https://github.com/elibus/j-google-trends-api)
+- [In node](https://www.npmjs.com/package/google-trends-api)
+- [In php](http://codingfocus.com/google-trends-api)
+- [In Python](https://github.com/GeneralMills/pytrends)
+- [Java client side](https://github.com/elibus/j-google-trends-client)
+- [Keyword Tool](https://keywordtool.io/google-trends) – Get Great Keywords From Google Trends In Seconds. - **controversial**
+- [pytrends - Pseudo API for Google Trends](https://github.com/GeneralMills/pytrends) – Allows simple interface for automating downloading of reports from Google Trends.
+
+
+## [Google Workspace](#google-workspace)
+
+Most tools are normally paid or freemium only because you need to put lots of time, effort and maintenance in such G-Suite alternatives.
+
+- [Fastmail](https://github.com/fastmail) – Fastmail is considerable a solid alternative for email & calendar. Fastmail is also listed under eMail provider.
+- [Kolab Community](https://kolab.org/) – A secure, scalable, reliable, flexible, full-featured collaboration suite. - **controversial**
+- [Kopano](https://kopano.com/) – Sharing & communication software for business. - **controversial**
+- [Mailfence Collaboration Suite](https://mailfence.com/) – Secure and private collaboration suite that includes emails, contacts, calendars, and documents. Users can create groups to collaborate, chat and share data. - **controversial**
+- [MXRoute](https://mxroute.com/) – Offers lifetime promo but is not FOSS. - **controversial**
+- [Nextcloud Hub](https://nextcloud.com/hub/) – Nextcloud is the most deployed on-premises file share and collaboration platform.
+- [OpenChange](https://github.com/openchange/openchange) – OpenChange aims to provide a portable Open Source implementation of Microsoft Exchange Server and Exchange protocols. - **controversial**
+- [WikiSuite](http://wikisuite.org/) – The most comprehensive and integrated Free / Libre / Open Source enterprise software suite.
+- [Zimbra Collaboration Suite](https://www.zimbra.com/email-server-software/) – An open, secure collaboration tool for email, calendaring, tasks and more. - **controversial**
+
+
+## [Graphic Novels & Comic Books](#graphic-novels--comic-books)
+- [Comic Book Plus](http://comicbookplus.com/) – Comic books in CBR/CBZ. Requires free registration.
+- [Comics Fu](http://comicsfu.com/) – A platform for creating digital comic stores.
+- [comiXology](https://www.comixology.com/) – Sells comics and offers DRM-free backups on select titles.
+- [Dynamite Entertainment](http://dynamite.com/digital/) – Sells DRM-free comics and graphic novels.
+- [Panel Syndicate](http://panelsyndicate.com/) – A pay-what-you want website for comics by artist Marcos Martin and writer Brian K. Vaughan.
+- [Rebellion Publishing](http://www.rebellionstore.com/) – A digital publisher of ebooks, graphic novels, and comic books.
+- [Thrillbent](http://thrillbent.com/shop/) – A digital comics site created by award-winning comics writer Mark Waid and television writer/producer extraordinaire John Rogers.
+
+
+## [Groceries](#groceries)
+- [Grocy](https://grocy.info/) – A web-based self-hosted open source groceries and household management solution for your home. There is also an F-Droid app.
+
+
+### [Mobile Groceries Apps](#mobile-groceries-apps)
+- [Grocery manager](https://grocy.info/) – Manage your groceries on Android.
+
+
 ## [Governmental Petition Portals](#governmental-petition-portals)
 
 > Some, or most listed alternatives are using Cloudflare or are CL hosted. See below why CL is general not wanted.
@@ -3864,99 +3672,6 @@ Controversial:
 - United Kingdom: [UK Government Petitions](https://petition.parliament.uk/)
 - United States: [Whitehouse Petitions](https://petitions.whitehouse.gov/) / [Ballot Initiatives](https://oag.ca.gov/initiatives)
 
-
-## [FTP Clients](#ftp-clients)
-
-For mobile please check the file manager section, most file manager include such a function.
-
-- [FileZilla](https://filezilla-project.org) – A free FTP solution for both client and server.
-- [Cyberduck](https://cyberduck.io) – A libre server and cloud storage browser for MacOS & Windows.
-- [WinSCP](https://winscp.net) – A popular SFTP client and FTP client for Windows.
-
-
-## [Minecraft](#minecraft)
-- [Minetest](https://www.minetest.net/) – A free open source Minecraft-style game with huge worlds, a variety of different playing modes, online and offline gameplay, multiplayer servers, lots of user-created mods and more.
-
-
-## [Microsoft Exchange](#microsoft-exchange)
-- [Grommunio](https://grommunio.com/) – The most advanced solution in communication and collaboration, a platform for everyone.
-- [Internxt](https://github.com/internxt) – An Open Source Encrypted Cloud Service With Native Linux Client.
-- [Kopano](https://kopano.com/) – From the German-Dutch software manufacturer Kopano, is also AGPLv3-licensed and based on the Zarafa software stack.
-- [Nextcloud](https://nextcloud.com/) – Like in ownCloud or Dropbox, users can access the software suite via their desktops (Windows, Linux, and macOS), web browsers, or native apps (Android and iOS).
-- [ownCloud](https://owncloud.com/) – The core of the client-server software and many community apps are published under the AGPLv3.
-- [OX App Suite](https://www.open-xchange.com/) – The OX App Suite is a modular email, communication, and collaboration platform, mainly designed for telcos, hosting companies, and other providers delivering cloud-based services.
-
-
-## [Media Player](#media-player)
-- [clapper](https://github.com/Rafostar/clapper) – Gnome media player built using GJS with OpenGL rendering.
-- [IINA](https://iina.io) – A modern media player for macOS.
-- [MPC-BE](https://forum.doom9.org/showthread.php?t=165890) – Media Player Classic – BE is a free and open source audio and video player for Windows.
-- [MPlayer](https://mplayerhq.hu/) – Video player that supports a complete and versatile array of video and audio formats.
-- [MPV](https://mpv.io) – A free, open source, and cross-platform cmd based media player.
-    - [mpv-android](https://f-droid.org/en/packages/is.xyz.mpv) – Plays almost any kind of multimedia files on Android.
-    - [Smplayer](https://www.smplayer.info/en/mpv) – Smplayer is a GUI for MPV, you find an entire [list of GUI applications here](https://github.com/mpv-player/mpv/wiki/Applications-using-mpv).
-- [PotPlayer](https://potplayer.daum.net/) – Similar like MPC but with a better skin, audio and video player for Windows.
-- [VLC](https://www.videolan.org/) – Multimedia player for almost every platform.
-
-
-### [DLNA Media Player](#dlna-media-player)
-- [Plain UPnP - UPnP / DLNA server and browser](https://f-droid.org/app/net.mm2d.dmsexplorer) – PlainUPnP (formals DroidUPnP) is an UPnP control point application for Android.
-- [Yaacc](https://f-droid.org/en/packages/de.yaacc/) – The App allows you to play media from UPNP/DLNA devices in your network on your android device or any UPNP/DLNA device in your network.
-
-
-### [IPTV Player and Services](#iptv-player-and-services)
-- [FastCloud](https://github.com/fastogt/fastocloud) – 	Open Source IPTV/Media Service.
-
-
-## [IPFS](#ipfs)
-
-Check which public IPFS gateway are [currently online](https://ipfs.github.io/public-gateway-checker/).
-
-- [ETH.LIMO](https://eth.limo/) – A decentralized alternative to Cloudflare’s often unreliable eth.link service, LIMO functions as a drop-in replacement for eth.link; a Web 2.0 infrastructure stack for resolving Ethereum Name Service (ENS) records and associated IPFS content (Web 3.0).
-- [Fully-searchable Library Genesis on IPFS](https://libgen.fun/dweb.html)
-- [OpenBazaar 2.0 powered by IPFS](https://www.openbazaar.org/)
-- [Radicle](http://www.radicle.xyz/) – A decentralized alternative to GitHub built on IPFS.
-- [Nebula](https://github.com/dennis-tra/nebula-crawler) – An IPFS DHT Crawler.
-- [InterPlanetary File System](https://ipfs.io/) – A decentralized network for storing and sharing data online. Instead of custom URLs, files are automatically addressed based on their content and served by their users.
-
-
-### [Mobile IPTV Player](#mobile-iptv-player)
-- [DMS Explorer](https://github.com/ohmae/DmsExplorer) – This is a kind of DLNA player.
-- [FastoTVLite](https://android.izzysoft.de/repo/apk/com.fastotv.lite) – FastoTVLite is a cross-platform free IPTV/stream player with EPG support.
-- [MediaPlayer](https://github.com/geniusgithub/MediaPlayer/) – MediaPlayer is the DLNA device(DMP), which can be in the search for DMS devices, browse resources and play locally.
-
-
-## [Music Player](#music-player)
-- [Audacious](https://audacious-media-player.org) – An open source audio player.
-- [cmus](https://cmus.github.io/) – A small, fast and powerful console music player for Unix-like operating systems.
-- [DeaDBeeF](https://deadbeef.sourceforge.io) – A multi-platform and modular audio player.
-- [Elisa](https://apps.kde.org/en/elisa) – A simple music player that should be easy to use.
-- [mpg123](https://www.mpg123.de/) – Console based MPEG Audio Player and decoder library.
-- [pianobar](https://6xq.net/pianobar/) – A free/open-source, console-based client for the personalized online radio Pandora.
-- [Reddit Music Player](https://reddit.musicplayer.io/) – Online music player for Reddit. - **controversial**
-- [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) – A music playing application for GNOME.
-- [Strawberry](https://www.strawberrymusicplayer.org) – A music player and music collection organizer.
-
-### [Mobile Music Player Apps](#mobile-music-player-apps)
-- [LOS Eleven](https://f-droid.org/wiki/page/com.ymber.eleven) – The default LineageOS music player.
-- [Metro (Retro Music fork with features unlocked)](https://f-droid.org/en/packages/io.github.muntashirakon.Music/) – Best material design music player for Android.
-- [Music Player GO](https://f-droid.org/en/packages/com.iven.musicplayergo/) – Very simple, nice, privacy-friendly and original local Android Music Player.
-- [Shuttle+](https://f-droid.org/en/packages/com.simplecity.amp_pro/) – An open source, local music player for Android.
-- [TimberX](https://github.com/naman14/TimberX) – Material theme music player that works across all form factors (phones, wear, auto, cast, assistant) and uses latest tools (Kotlin, Architecture components, Room, Databinding).
-    - [Timber](https://f-droid.org/en/packages/it.fossoft.timberfoss/) – This is the pure FOSS fork of the app, where all these non-free dependencies have been removed.
-- [Vanilla Music](https://github.com/vanilla-music/vanilla) – A clean, simple and free music player for Android.
-- [Vinyl Music Player](https://f-droid.org/en/packages/com.poupa.vinylmusicplayer/) – Music player easy to use and customizable (multiple themes including a dark one).
-
-
-### [Music Player Daemon](#music-player-daemon)
-- [clerk](https://github.com/carnager/clerk) – MPD client using rofi or fzf.
-- [fmui](https://github.com/seebye/fmui) – FZF is a mpd user interface.
-- [mpc](https://www.musicpd.org/doc/mpc/html/) – MPC connects to a MPD and controls it according to commands and arguments passed to it.
-- [ncmpcpp](https://rybczak.net/ncmpcpp/) – Feature rich ncurses based MPD client inspired by ncmpc.
-
-
-### [Guitar Tablature Editor](#guitar-tablature-editor)
-- [TuxGuitar](https://sourceforge.net/projects/tuxguitar/) – Is a multitrack guitar tablature editor and player written in Java-SWT, It can open GuitarPro, PowerTab and TablEdit files.
 
 ## [Guides connected to privacy, security or anonymity](#guides-connected-to-privacy-security-or-anonymity)
 
@@ -4162,6 +3877,92 @@ Listed guidance are provided as-is.
 - [µArgus](http://neon.vb.cbs.nl/casc/mu.htm)
 
 
+## [Minecraft](#minecraft)
+- [Minetest](https://www.minetest.net/) – A free open source Minecraft-style game with huge worlds, a variety of different playing modes, online and offline gameplay, multiplayer servers, lots of user-created mods and more.
+
+
+## [Microsoft Exchange](#microsoft-exchange)
+- [Grommunio](https://grommunio.com/) – The most advanced solution in communication and collaboration, a platform for everyone.
+- [Internxt](https://github.com/internxt) – An Open Source Encrypted Cloud Service With Native Linux Client.
+- [Kopano](https://kopano.com/) – From the German-Dutch software manufacturer Kopano, is also AGPLv3-licensed and based on the Zarafa software stack.
+- [Nextcloud](https://nextcloud.com/) – Like in ownCloud or Dropbox, users can access the software suite via their desktops (Windows, Linux, and macOS), web browsers, or native apps (Android and iOS).
+- [ownCloud](https://owncloud.com/) – The core of the client-server software and many community apps are published under the AGPLv3.
+- [OX App Suite](https://www.open-xchange.com/) – The OX App Suite is a modular email, communication, and collaboration platform, mainly designed for telcos, hosting companies, and other providers delivering cloud-based services.
+
+
+## [Media Player](#media-player)
+- [clapper](https://github.com/Rafostar/clapper) – Gnome media player built using GJS with OpenGL rendering.
+- [IINA](https://iina.io) – A modern media player for macOS.
+- [MPC-BE](https://forum.doom9.org/showthread.php?t=165890) – Media Player Classic – BE is a free and open source audio and video player for Windows.
+- [MPlayer](https://mplayerhq.hu/) – Video player that supports a complete and versatile array of video and audio formats.
+- [MPV](https://mpv.io) – A free, open source, and cross-platform cmd based media player.
+    - [mpv-android](https://f-droid.org/en/packages/is.xyz.mpv) – Plays almost any kind of multimedia files on Android.
+    - [Smplayer](https://www.smplayer.info/en/mpv) – Smplayer is a GUI for MPV, you find an entire [list of GUI applications here](https://github.com/mpv-player/mpv/wiki/Applications-using-mpv).
+- [PotPlayer](https://potplayer.daum.net/) – Similar like MPC but with a better skin, audio and video player for Windows.
+- [VLC](https://www.videolan.org/) – Multimedia player for almost every platform.
+
+
+### [DLNA Media Player](#dlna-media-player)
+- [Plain UPnP - UPnP / DLNA server and browser](https://f-droid.org/app/net.mm2d.dmsexplorer) – PlainUPnP (formals DroidUPnP) is an UPnP control point application for Android.
+- [Yaacc](https://f-droid.org/en/packages/de.yaacc/) – The App allows you to play media from UPNP/DLNA devices in your network on your android device or any UPNP/DLNA device in your network.
+
+
+### [IPTV Player and Services](#iptv-player-and-services)
+- [FastCloud](https://github.com/fastogt/fastocloud) – 	Open Source IPTV/Media Service.
+
+
+## [IPFS](#ipfs)
+
+Check which public IPFS gateway are [currently online](https://ipfs.github.io/public-gateway-checker/).
+
+- [ETH.LIMO](https://eth.limo/) – A decentralized alternative to Cloudflare’s often unreliable eth.link service, LIMO functions as a drop-in replacement for eth.link; a Web 2.0 infrastructure stack for resolving Ethereum Name Service (ENS) records and associated IPFS content (Web 3.0).
+- [Fully-searchable Library Genesis on IPFS](https://libgen.fun/dweb.html)
+- [OpenBazaar 2.0 powered by IPFS](https://www.openbazaar.org/)
+- [Radicle](http://www.radicle.xyz/) – A decentralized alternative to GitHub built on IPFS.
+- [Nebula](https://github.com/dennis-tra/nebula-crawler) – An IPFS DHT Crawler.
+- [InterPlanetary File System](https://ipfs.io/) – A decentralized network for storing and sharing data online. Instead of custom URLs, files are automatically addressed based on their content and served by their users.
+
+
+### [Mobile IPTV Player](#mobile-iptv-player)
+- [DMS Explorer](https://github.com/ohmae/DmsExplorer) – This is a kind of DLNA player.
+- [FastoTVLite](https://android.izzysoft.de/repo/apk/com.fastotv.lite) – FastoTVLite is a cross-platform free IPTV/stream player with EPG support.
+- [MediaPlayer](https://github.com/geniusgithub/MediaPlayer/) – MediaPlayer is the DLNA device(DMP), which can be in the search for DMS devices, browse resources and play locally.
+
+
+## [Music Player](#music-player)
+- [Audacious](https://audacious-media-player.org) – An open source audio player.
+- [cmus](https://cmus.github.io/) – A small, fast and powerful console music player for Unix-like operating systems.
+- [DeaDBeeF](https://deadbeef.sourceforge.io) – A multi-platform and modular audio player.
+- [Elisa](https://apps.kde.org/en/elisa) – A simple music player that should be easy to use.
+- [mpg123](https://www.mpg123.de/) – Console based MPEG Audio Player and decoder library.
+- [pianobar](https://6xq.net/pianobar/) – A free/open-source, console-based client for the personalized online radio Pandora.
+- [Reddit Music Player](https://reddit.musicplayer.io/) – Online music player for Reddit. - **controversial**
+- [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) – A music playing application for GNOME.
+- [Strawberry](https://www.strawberrymusicplayer.org) – A music player and music collection organizer.
+
+### [Mobile Music Player Apps](#mobile-music-player-apps)
+- [LOS Eleven](https://f-droid.org/wiki/page/com.ymber.eleven) – The default LineageOS music player.
+- [Metro (Retro Music fork with features unlocked)](https://f-droid.org/en/packages/io.github.muntashirakon.Music/) – Best material design music player for Android.
+- [Music Player GO](https://f-droid.org/en/packages/com.iven.musicplayergo/) – Very simple, nice, privacy-friendly and original local Android Music Player.
+- [Shuttle+](https://f-droid.org/en/packages/com.simplecity.amp_pro/) – An open source, local music player for Android.
+- [TimberX](https://github.com/naman14/TimberX) – Material theme music player that works across all form factors (phones, wear, auto, cast, assistant) and uses latest tools (Kotlin, Architecture components, Room, Databinding).
+    - [Timber](https://f-droid.org/en/packages/it.fossoft.timberfoss/) – This is the pure FOSS fork of the app, where all these non-free dependencies have been removed.
+- [Vanilla Music](https://github.com/vanilla-music/vanilla) – A clean, simple and free music player for Android.
+- [Vinyl Music Player](https://f-droid.org/en/packages/com.poupa.vinylmusicplayer/) – Music player easy to use and customizable (multiple themes including a dark one).
+
+
+### [Music Player Daemon](#music-player-daemon)
+- [clerk](https://github.com/carnager/clerk) – MPD client using rofi or fzf.
+- [fmui](https://github.com/seebye/fmui) – FZF is a mpd user interface.
+- [mpc](https://www.musicpd.org/doc/mpc/html/) – MPC connects to a MPD and controls it according to commands and arguments passed to it.
+- [ncmpcpp](https://rybczak.net/ncmpcpp/) – Feature rich ncurses based MPD client inspired by ncmpc.
+
+
+### [Guitar Tablature Editor](#guitar-tablature-editor)
+- [TuxGuitar](https://sourceforge.net/projects/tuxguitar/) – Is a multitrack guitar tablature editor and player written in Java-SWT, It can open GuitarPro, PowerTab and TablEdit files.
+
+
+
 ### [Create Music with your Browser](#create-music-with-your-browser)
 - [Audiolab](https://thereis.love/audiolab) – Open-source sound generating software.
 
@@ -4192,7 +3993,16 @@ Privacy oriented alternatives:
 
 
 ## [Fitness and Health Resources](#fitness-and-health-resources)
-- [DareBee!](https://darebee.com/ing) – Non-Profit platform that provides workout plans and healthn guidance.
+- [DareBee!](https://darebee.com/ing) – Non-Profit platform that provides workout plans and health guidance.
+
+
+## [FTP Clients](#ftp-clients)
+
+For mobile please check the file manager section, most file manager include such a function.
+
+- [FileZilla](https://filezilla-project.org) – A free FTP solution for both client and server.
+- [Cyberduck](https://cyberduck.io) – A libre server and cloud storage browser for MacOS & Windows.
+- [WinSCP](https://winscp.net) – A popular SFTP client and FTP client for Windows.
 
 
 ## [Amazon shopping alternatives](#amazon-shopping-alternatives)
@@ -4284,25 +4094,6 @@ Privacy oriented alternatives:
 - [Pulse Music](https://f-droid.org/en/packages/com.hardcodecoder.pulsemusic/) – An offline music player app, with modern UI and powerful features that does not depend on Google Play Services.
 
 
-## [Spotify Alternative Clients](#spotify-alternative-clients)
-
- > These clients, although will have less tracking, still DO NOT protect your privacy at all as you will still be streaming from Spotify servers from you own **premium (paid, identified)** account. The only workaround is to use faked accounts in case you use some downloader tools.
-
-- [ncspot](https://github.com/hrkfdn/ncspot) – Cross-platform nurses Spotify client written in Rust, inspired by ncmpc and the likes.
-- [psst](https://github.com/jpochyla/psst) – Fast and multi-platform Spotify client with native GUI.
-- [Spot](https://github.com/xou816/spot) – Native Spotify client built in GTK and Rust.
-- [Spotiqueue](https://github.com/toothbrush/Spotiqueue) – Minimalistic queue-oriented macOS-native client, with Guile Scheme scriptability.
-
-
-### [Spotify Tools](#spotify-tools)
-- [Spoqify](https://spoqify.com/) – Replace 't' with 'q' in a Spotify URL to remove personalization.
-
-
-## [Deezer Alternative clients](#deezer-alternative-clients)
-- [dzr](https://github.com/yne/dzr) – Command line Deezer player for Linux, BSD, Android + Termux.
-- [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) – Multiplatform Music Downloader that supports Spotify, Youtube, Gaana, Jio-Saavn, SoundCloud. - **controversial**
-
-
 ## [Open Source Hardware](#open-source-hardware)
 
 [Open Source Hardware Association](https://www.oshwa.org/) – The Open Source Hardware Association or in short: OSHWA aims to foster technological knowledge and encourage research that is accessible, collaborative and respects user freedom. This is the starting point for your research and to check open source hardware news. Another good overview is a [list of open-source computing hardware](https://en.wikipedia.org/wiki/List_of_open-source_computing_hardware).
@@ -4329,7 +4120,7 @@ Privacy oriented alternatives:
 - [The NEORV32 Processor](https://www.hackster.io/news/open-source-soc-the-neorv32-processor-061f5219c45a) – Open source hardware SoC.
 - [TinyNES](https://www.crowdsupply.com/tall-dog-electronics/tinynes) – NES-compatible open hardware video game console.
 
-### [Hardware Teardowns Websites](#hardware-teardowns-websites)
+### [Hardware Teardown Websites](#hardware-teardown-websites)
 - [Dave Jones aka EEVBlog](https://www.eevblog.com/teardowns/)
 - [Fictiv](https://www.fictiv.com/blog/topics/teardowns)
 - [iFixit](https://www.ifixit.com/Teardown)
@@ -4363,6 +4154,66 @@ Privacy oriented alternatives:
 - There are some hacks for Intel, alias me_cleaner, see [here](https://github.com/corna/me_cleaner/wiki/me_cleaner-status). The Intel Management Engine ('IME' or 'ME') is an out-of-band co-processor integrated in all post-2006 Intel-CPU-based PCs. It has [full network and memory access](https://blog.ptsecurity.com/2017/08/disabling-intel-me.html) and runs proprietary, signed, closed-source software at ring -3, independently of the BIOS, main CPU and platform operating system — a fact which many regard as an unacceptable security risk (particularly given that at least one remotely exploitable security hole has already been reported). For Linux check [this](https://wiki.gentoo.org/wiki/User:Sakaki/Sakaki%27s_EFI_Install_Guide) or the [video guide](https://www.youtube.com/watch?v=MujjuTWpQJk).
 
 
+## [Icon Libraries](#icon-libraries)
+- [3dicons](https://3dicons.co/) – Open-source 3D icon library.
+- [Ant Design Icons, by Ant Financial](https://ant.design/components/icon/) – Ant Design SVG Icons.
+- [Bootstrap Icons](https://icons.getbootstrap.com/) – Official open source SVG icon library for Bootstrap.
+- [Boxicons](https://boxicons.com/) – Boxicons is a simple vector icons set carefully crafted for designers and developers to use in your next project.
+- [CoreUI Icons](https://coreui.io/icons/free/) – Premium designed free icon set with marks in SVG, Webfont and raster formats.
+- [css.gg](https://css.gg/) – Open-source CSS, SVG, and Figma UI Icons available in SVG Sprite, styled-components, NPM & API
+- [Devicon](https://konpa.github.io/devicon/) – A set of icons representing programming languages, designing & development tools. You can use it as a font or directly copy/paste the svg code into your project.
+- [DevUI Icons, by Huawei Cloud](https://github.com/DevCloudFE/devui-icons) – DevUI font icons.
+- [Eva Icons](https://akveo.github.io/eva-icons) – Eva Icons is a pack of more than 480 beautifully crafted Open Source icons for common actions and items.
+- [Feather](https://feathericons.com/) – A collection of simply beautiful open source icons.
+- [feather](https://github.com/feathericons/feather) – Simply beautiful open source icons.
+- [flaticon](https://www.flaticon.com/) – 1M+ vector icons grouped in 30k packs.
+- [Font Awesome](http://fontawesome.io/) – Scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS.
+- [Foundation Icon Fonts 2](http://zurb.com/playground/foundation-icons) – Custom icon sets that are stored in a handy web font and are coded to be more accessible. A couple lines of CSS and the right markup will get you going in no time.
+- [Foundation Icon Fonts 3](http://zurb.com/playground/foundation-icon-fonts-3) – A custom collection of lots of icons.
+- [Glyphicons](http://glyphicons.com/) – Is a library of precisely prepared monochromatic icons and symbols, created with an emphasis to simplicity and easy orientation.
+- [Google Material Design Icons, by Google](https://design.google.com/icons/) – Official Google Material Design Icons.
+- [Govicons](http://govicons.io/) – Gov Icons is a font and CSS toolkit with over 100 government themed icons.
+- [Heroicons](https://github.com/refactoringui/heroicons) – A set of free MIT-licensed high-quality SVG icons for UI development.
+- [Icofont](https://icofont.com/) – 5k free icons to spice up your creative designs.
+- [icoMoon](https://icomoon.io) – 500+ free Icons.
+- [Iconic.app](https://iconic.app/) – Free, “do wtf you want with” pixel-perfect SVG icons.
+- [Iconic](https://useiconic.com/open/) – An open source icon set with 300 marks in SVG, webfont and raster formats.
+- [iconmonstr](http://iconmonstr.com/) – Discover over 3k free simple icons in various collections.
+- [icons](https://github.com/twbs/icons) – Official open source SVG icon library for Bootstrap.
+- [icons8](https://icons8.com/) – 70k Free Flat Icons.
+- [IconSweets2](https://www.designbombs.com/iconsweets2/) – Is a huge set containing over 1k custom designed icons. Icon Sweets 2 will quench your icon thirst for all your iPhone, iPad & Android apps or new web projects.
+- [Ionicons](http://ionicons.com/) – The premium icon font for Ionic Framework.
+- [IconShock](https://www.iconshock.com/freeicons/) – Over 100k free icons, icons are taken from open source projects and then they got optimized.
+- [Jam Icons](https://jam-icons.com/) – Jam icons is a set of icons designed for web projects, illustrations, print projects, etc. Shipped in JavaScript, font & SVG versions.
+- [Marka](http://fian.my.id/marka/) – 36 Beautiful transformable icons.
+- [Octicons](https://octicons.github.com/) – All GitHub's icons.
+- [Pepicons](https://pepicons.com) – Pepicons is a completely original 80s themed set of hand-crafted icons, made in two retro variants: Pop! and Print.
+- [pictonic](https://pictonic.co) – Over 300+ free icons.
+- [Remix Icon](https://remixicon.com/) – Remix Icon is a set of open-source neutral-style system symbols elaborately crafted for designers and developers.
+- [RPG-Awesome](https://nagoshiashumari.github.io/Rpg-Awesome/) – A fantasy themed font and CSS toolkit.
+- [Simple icons](https://github.com/simple-icons/simple-icons) – Over 1000 Free SVG icons for popular brands.
+- [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) – Miniscule SVG versions of website and app logos, under 1KB each.
+- [svg-icon](https://github.com/leungwensen/svg-icon) – An ultimate svg icons collection done right, with over 5k SVG icons out of the box.
+- [teenyicons](https://teenyicons.com/) – Tiny minimal 1px icons designed to fit in the smallest places.
+- [Themify Icons](https://themify.me/themify-icons) – Themify Icons is a complete set of icons for use in web design and apps, consisting of 500+ pixel-perfect, hand-crafted icons that draw inspiration from Apple iOS 7.
+- [TheNounProject](https://thenounproject.com/) – Search over 150k icons designed by creators from around the world.
+- [uiw-icons](https://uiwjs.github.io/icons) – The premium icon font for UIW Framework.
+- [zondicons](http://www.zondicons.com/) – A set of free premium SVG icons for you to use on your digital products.
+
+### [Mobile Icon Libraries](#mobile-icon-libraries)
+- [Ameixa](https://f-droid.org/packages/org.xphnx.ameixa) – Port of TwelF CMTheme for many launchers.
+- [Articons](https://f-droid.org/packages/com.donnnno.arcticons) – A line-based icon pack with over 2100 icons! Originally forked from Frost, but rebuild with consistent sizing and adjustments specifically for lines in mind.
+
+
+### [Icon and SVG Tools](#icon-and-svg-tools)
+- [fontello](http://fontello.com/) – Icon fonts generator.
+- [Orion icon library](https://orioniconlibrary.com/) – Generate icon fonts or download icons in multiple formats.
+- [LibreSprite](https://github.com/LibreSprite/LibreSprite) – Animated sprite editor & pixel art tool.
+- [Penpot](https://github.com/penpot/penpot) – The Open-Source design & prototyping platform.
+- [svg-icon](http://leungwensen.github.io/svg-icon/) – Select as many SVG icons as you need, and download as an SVG symbols sprite file.
+- [svgtofont](https://github.com/jaywcjlove/svgtofont) – Read a set of SVG icons and output a TTF/EOT/WOFF/WOFF2/SVG font.
+
+
 ## [iOS Keyboard](#ios-keyboard)
 - [ToneBoard](https://github.com/bellkev/ToneBoard) – A Chinese keyboard for iOS that helps you remember tones.
 
@@ -4380,7 +4231,21 @@ Privacy oriented alternatives:
 - [NonVisual Desktop Access](https://nvaccess.org/) – NVDA Screen reader for Windows.
 
 
-## [Speedtest.net alternative](#speedtestnet-alternative)
+## [Spotify Alternative Clients](#spotify-alternative-clients)
+
+ > These clients, although will have less tracking, still DO NOT protect your privacy at all as you will still be streaming from Spotify servers from you own **premium (paid, identified)** account. The only workaround is to use faked accounts in case you use some downloader tools.
+
+- [ncspot](https://github.com/hrkfdn/ncspot) – Cross-platform nurses Spotify client written in Rust, inspired by ncmpc and the likes.
+- [psst](https://github.com/jpochyla/psst) – Fast and multi-platform Spotify client with native GUI.
+- [Spot](https://github.com/xou816/spot) – Native Spotify client built in GTK and Rust.
+- [Spotiqueue](https://github.com/toothbrush/Spotiqueue) – Minimalistic queue-oriented macOS-native client, with Guile Scheme scriptability.
+
+
+### [Spotify Tools](#spotify-tools)
+- [Spoqify](https://spoqify.com/) – Replace 't' with 'q' in a Spotify URL to remove personalization.
+
+
+## [Speedtest.net Alternative](#speedtestnet-alternative)
 - [LibreSpeed](https://librespeed.org/) – A simple and libre speed test for your internet connection.
 
 
@@ -4928,7 +4793,7 @@ Privacy oriented alternatives:
 - [Ogon](https://github.com/ogon-project/ogon) – Fully Featured RDP Server for Linux.
 - [Rport](https://oss.rport.io/) – Helps you to manage your remote servers without the hassle of VPNs, chained SSH connections, jump-hosts, or the use of commercial tools like TeamViewer and its clones.
 - [RDesktop](http://www.rdesktop.org/) – An implementation of a client software for Microsoft's proprietary Remote Desktop Protocol (RDP).
-- [screego](https://screego.net/) – Screen sharing for developers.
+- [Screego](https://screego.net/) – Screen sharing for developers.
 
 
 ## [Reverse Proxy](#reverse-proxy)
@@ -4939,6 +4804,45 @@ Privacy oriented alternatives:
 - [Cutter](https://github.com/rizinorg/cutter) – Free and Open Source Reverse Engineering Platform.
 
 
+## [TV Streaming](#tv-streaming)
+- [Zapp](https://f-droid.org/packages/de.christinecoenen.code.zapp/) – Zapp ist Teil von MediathekView und gibt dir einen schnellen Zugang zu vielen deutschen öffentlich-rechtlichen Fernsehsendern. Schaue ARD, ZDF und andere Sender live oder aus der Mediathek.
+- [DroidShows](https://f-droid.org/en/packages/nl.asymmetrics.droidshows/) – TV series browser and tracker.
+
+
+## [Two Factor Authentication (2FA)](#two-factor-authentication-2fa)
+
+[2FA Directory: List of websites and whether or not they support 2FA](https://2fa.directory/). [2FA QR code generator](https://2fa-qr-svelte.vercel.app/) can be of assistance, it can be combined with e.g. Aegis Authenticator.
+
+
+Not so good in terms of privacy:
+- [Authy](https://old.reddit.com/r/privacy/comments/au4eml/i_have_questions_about_authy/)
+- [AuthLite](https://www.authlite.com/) – Affordable Two-Factor Authentication For Active Directory. Propriety software.
+- [Google Authenticator](https://www.zdnet.com/article/using-google-authenticator-heres-why-you-should-get-rid-of-it/)
+- [Microsoft Authenticator](https://www.transmitsecurity.com/blog/microsoft-authenticator-a-false-sense-of-security)
+
+Privacy oriented alternatives:
+- [Aegis Authenticator](https://getaegis.app/) – A free, secure and open source app for Android to manage your 2-step verification tokens. Supports variety of imports from other apps (Google Authenticator, Authy etc.), vault encryption and exporting keys (plaintext or encrypted).
+- [Authorizer](https://github.com/tejado/Authorizer) – A Password Manager for Android with Auto-Type over USB and Bluetooth, OTP and much more.
+- [andOTP](https://github.com/andOTP/andOTP) – One of the oldest and first 2FA app for Android.
+- [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro) – Two-Factor Authentication (2FA) client for Android + Wear OS.
+- [Extended version of Standardnotes + tokenvault extension](https://standardnotes.org/extensions/tokenvault)
+- [FreeOTP+](https://github.com/helloworld1/FreeOTPPlus) – Enhanced fork of FreeOTP-Android providing a feature-rich 2FA authenticator.
+- [OTP Auth (iOS)](https://apps.apple.com/us/app/otp-auth/id659877384) – 2-Factor Auth for Pros.
+- [Raivo OTP](https://github.com/raivo-otp) – A native, lightweight and secure one-time-password (OTP) client built for iOS.
+- [Tofu](https://tofuauth.com/) – Open-source 2FA for iOS.
+
+
+## [Two Factor MITM and auditing](#two-factor-mitm-and-auditing)
+- [SSH-MITM](https://github.com/ssh-mitm/ssh-mitm/) – SSH audits made simple.
+
+
+## [Two Factor Hardware Keys](#two-factor-hardware-keys)
+- [Dicekeys](https://dicekeys.com/) – DiceKeys are the back-up you can rely on to restore your accounts and data.
+- [NitroKey](https://www.nitrokey.com/) – Protects emails, files, hard drives, server certificates and online accounts
+- [OnlyKey](http://onlykey.io/) – OnlyKey is an open source alternative to YubiKey. OnlyKey natively supports: a hardware password manager, multiple two-factor methods (FIDO2, TOTP, and Yubico® OTP), passwordless SSH login, and OpenPGP.
+- [Solokeys](https://solokeys.com/) – The first open-source FIDO2 security key.
+
+
 ### [Text Steganography](#text-steganography)
 - [Nahoft](https://github.com/u4i-admin/Nahoft) – A state-of-the-art encryption app made for Android mobile phones.
 - [Stegcloak](https://stegcloak.surge.sh/) – Hide secrets with invisible characters in plain text securely using passwords ([repo](https://github.com/kurolabs/stegcloak)).
@@ -4946,28 +4850,6 @@ Privacy oriented alternatives:
 ### [File Steganography](#file-steganography)
 - [DissidentX](https://github.com/bramcohen/DissidentX) – Encode files on the web.
 - [Real Steganography with TrueCrypt](http://keyj.emphy.de/real-steganography-with-truecrypt/) – Hiding containers inside MP4 video files.
-
-
-## [Kahoot Alternatives](#kahoot-alternatives)
-- [Particify](https://ars.particify.de/) – Game-based learning platform.
-
-
-## [Keybase Alternatives](#keybase-alternatives)
-
-In May 2020 Keybase was acquired by [Zoom](https://keybase.io/blog/keybase-joins-zoom).
-
-- [Keyoxide](https://keyoxide.org/) – A Keybase alternative, basically a privacy-friendly platform to establish your decentralized identity.
-- [wheretofind.me](https://wheretofind.me/) – An open source identity directory website. It lets you create a small profile with all your social media links. Afterwards, point people to this profile so they can quickly find you on all platforms.
-
-
-## [Key Remapper](#key-remapper)
-- [KMonad](https://github.com/kmonad/kmonad) – An advanced keyboard manager.
-- [Remap keys on Windows without installing anything](https://n8ta.com/projects/windows_key_remapper.html).
-- [Wayremap](https://github.com/acro5piano/wayremap) – Wayremap is a Dynamic key remapper for Wayland desktop environment.
-- [xremap](https://github.com/k0kubun/xremap) – Dynamic key remapper for X11 and Wayland, written in Rust for Linux.
-
-### [Mobile Key Remapper](#mobile-key-remapper)
-- [KeyMapper](https://github.com/keymapperorg/KeyMapper) – Change what the buttons do, the Android app is on Google Play Store and F-Droid.
 
 
 ## [Office Apps](#office-apps)
@@ -5016,24 +4898,6 @@ Privacy oriented alternatives:
 - System fonts – System fonts never leave the user’s device, so they cannot violate privacy and do not use their internet connection.
 
 
-## [Dating Sites](#dating-sites)
-- [Alovoa](https://alovoa.com/) – [Alovoa](https://github.com/Alovoa/alovoa) is an AGPL-licensed dating site with a good privacy policy.
-
-
-## [Dialer Apps](#Dialer-Apps)
-- [Koler](https://github.com/Chooloo/koler) – Just a phone app.
-- [Simple Dialer](https://github.com/SimpleMobileTools/Simple-Dialer) – A handy phone call manager with phonebook, number blocking and multi-SIM support.
-
-
-## [Diagramming Software](#diagramming-software)
-Not so good in terms of privacy:
-- Lucidchart
-- X-Mind
-
-Privacy oriented alternatives:
-- [Diagrams.net](https://www.diagrams.net/) – Security-first diagramming for teams.
-
-
 ## [Recipes](#recipes)
 - [No Nonsense Recipes](https://nononsense.recipes) – An ad-free recipe database with a freemium business model. Browse for free or create an account to save, search, upload your own recipes, leave comments, and more.
 
@@ -5057,20 +4921,6 @@ Privacy oriented alternatives:
 - [KNOPPIX](http://www.knoppix.org/) – Is not focused on a variety of diagnostic and repair tools, unlike the Ultimate Boot CD. Knoppix is an operating system Live CD which happens to have a few tools.
 - [Trinity Rescue Kit](https://trinityhome.org/) – Trinity Rescue Kit or TRK is a free live Linux distribution that aims specifically at recovery and repair operations on Windows machines, but is equally usable for Linux recovery issues.
 - [Ultimate Boot CD (UBCD)](https://www.ultimatebootcd.com/) – Ultimate Boot CD is completely free for the download, or could be obtained for a small fee.
-
-
-## [Developer Tools](#developer-tools)
-- [Alternatives for colors.js and faker.js](https://snyk.io/blog/open-source-maintainer-pulls-the-plug-on-npm-packages-colors-and-faker-now-what/) – [Faker.js alternative](https://pkg.land/package/faker), and [colors.js](https://pkg.land/package/colors).
-- [Andronix](https://andronix.app/) – Run full-fledged Linux Distros right on your Android device without rooting.
-- [Beekeeper Studio](https://www.beekeeperstudio.io) – Open Source SQL Editor and Database Manager with a privacy commitment in their mission statement.
-- [Encoding Tools](https://encoding.tools/) – Encoding Tools is an alternative to CyberChef and Burp Suite Encoder.
-- [RegEx101](https://regex101.com/) – Regular expression tester with syntax highlighting, explanation, cheat sheet for PHP/PCRE, Python, GO, JavaScript, Java. Features a regex quiz & library.
-- [Secure remote DevTools](https://github.com/i5ik/secure-remote-devtools) – Connect to DevTools and debug from anywhere.
-- [Termux](https://f-droid.org/packages/com.termux/) – Simple Android Terminal app.
-- [Webinstall.dev](https://webinstall.dev/) – Install developer tools simply from the command line.
-
-### [Mobile Developer Tools](#mobile-developer-tools)
-- [Mozilla Webmaker](https://foundation.mozilla.org/en/artifacts/webmaker/) – Various web dev tools.
 
 
 ### [Code and Text Editors](#code-and-text-editors)
@@ -5144,30 +4994,6 @@ Privacy oriented alternatives:
 - [Zettlr](https://www.zettlr.com) – A Markdown editor for the 21st century.
 
 
-## [Document Scanners](#document-scanners)
-- [Docus](https://apt.izzysoft.de/fdroid/index/apk/com.bretahajek.docus) – Android application for scanning and managing documents.
-- [Open Note Scanner](https://f-droid.org/app/com.todobom.opennotescanner) – With Open Note Scanner you can capture documents, handwritten notes, arts, shopping receipts, etcetera. It will automatically adjust the image aspect, contrast and save it. It will allow browsing, view and share the scanned documents.
-
-
-## [Download Managers](#download-managers)
-- [Aria2 Download Manager](https://github.com/jk-gan/ADM) – Aria2 Download Manager is a download manager built with electron, react and aria2.
-- [axel](https://github.com/axel-download-accelerator/axel) – Lightweight CLI download accelerator. It supports HTTP, HTTPS, FTP and FTPS protocols.
-- [FireDM](https://github.com/firedm/FireDM) – Python open source (Internet Download Manager) with multi-connections, high speed engine, based on python, LibCurl, and youtube-dl.
-- [GNU Wget2](https://www.gnu.org/software/wget/) – GNU Wget is a free software package for retrieving files using HTTP, HTTPS, FTP and FTPS, the most widely used Internet protocols.
-- [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) – Desktop utility to download images/videos/music/text from various websites.
-- [JDownloader2](http://jdownloader.org/download/index) – JDownloader is a free, open-source download management tool with a huge community of developers that makes downloading as easy.
-- [lftp](https://github.com/lavv17/lftp) – Sophisticated command line file transfer program (ftp, http, sftp, fish, torrent).
-- [Persepolis](https://persepolisdm.github.io) – Boost Downloading Using Libre Software!
-- [XDM Xtreme Download Manager](https://github.com/subhra74/xdm) – Xtreme Download Manager (XDM) is a powerful tool to increase download speeds up to 500%, save streaming videos from YouTube, DailyMotion, Facebook, Vimeo, Google Video and 1000+ other websites, resume broken/dead downloads, schedule and convert downloads.
-- [You-Get](https://you-get.org/) – Tiny command-line utility to download media contents (videos, audios, images) from the Web, in case there is no other handy way to do it.
-
-### [Mobile Download Mangers](#mobile-download-managers)
-- [Aria2App](https://github.com/devgianlu/Aria2App) – An advanced download manager based on aria2 that can handle remote servers too.
-- [Download Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) – Free and Open Source software download manager.
-- [LibreTorrent](https://github.com/proninyaroslav/libretorrent) – Free and Open Source, full-featured torrent client for Android.
-- [Motrix](https://motrix.app) – A full-featured download manager that supports downloading HTTP, FTP, BitTorrent, Magnet, etc.
-
-
 ## [Screensavers](#screensavers)
 - [BOINC](https://boinc.berkeley.edu/) – BOINC was originally developed to manage the SETI@home project.
 - [Electric Sheep](http://www.electricsheep.org/) – Electric Sheep is a distributed computing project for animating and evolving fractal flames, which are in turn distributed to the networked computers, which display them as a screensaver.
@@ -5193,6 +5019,90 @@ Privacy oriented alternatives:
 - [ScreenKap](https://github.com/indritbashkimi/ScreenKap) – A simple screen recorder app for Android. It uses MediaStore or Storage Access Framework API's to access files so it doesn't require the storage permission.
 
 
+## [Search Engines](#search-engines)
+
+List of GitHub repositories and articles with [list of dorks for different search engines](https://github.com/cipher387/Dorks-collections-list). I do not list [App Stores under Search Engines](https://www.indiehackers.com/post/app-stores-are-search-engines-06e1f883a2) because I do not want to confuse the average user and to avoid useless discussion about semantics and content discovery.
+
+Not so good in terms of privacy:
+- [Bing](https://www.makeuseof.com/tag/best-privacy-focused-search-engines/)
+- [Brave Search](https://chef-koch.bearblog.dev/brave-browser-hardening-by-chef-koch/#brave-search-faq)
+- [DuckDuckGo](http://techrights.org/2020/07/02/ddg-privacy-abuser-in-disguise/), please see [here](https://old.reddit.com/r/degoogle/comments/pwf7q0/twitter_censors_email_correspondence_that_appears/hegyiik/).
+- [Google Search](https://en.wikipedia.org/wiki/Privacy_concerns_regarding_Google)
+- [Yahoo Search](https://en.wikipedia.org/wiki/Search_engine_privacy)
+- [Yandex](https://www.dailymail.co.uk/sciencetech/article-7894643/Privacy-concerns-Russias-popular-search-engine-Yandex-uses-facial-recognition.html)
+
+Privacy oriented alternatives:
+- [Andi](https://andisearch.com/) – A new generation anonymous and ad-free search engine it provides relevant results via auto-learning A.I.
+- [Blinde Kuh](https://www.blinde-kuh.de/) – Search engine designed for our kids, made in Germany.
+- [Ekoru](https://ekoru.org/) – Privacy focused search engine that also aims to clean up the oceans.
+- [Entfer](https://entfer.com/) – A new search engine that lets you control the ordering of search results.
+- [Esteroids](https://esteroids.eth.limo/) – A search engine for ENS+IPFS websites.
+- [Gibiru](https://gibiru.com/) – Search Provider since 2009.
+- [Givero](https://www.givero.com/) – Donates a large part of it’s gross revenue to Non-Profit organizations.
+- [Goopt](https://github.com/jokenox/Goopt) – Search Engine for a Procedural Simulation of the Web with GPT-3.
+- [MetaGer](https://metager.org/) – Search engine project from the registered nonprofit organization SUMA E.V. in Germany. There is an .de and .org domain, one is for german and the .org domain is for english results.
+    - [Gigablast](http://gigablast.com/) – A search provider focused on privacy and one of only a handful of search engines in the US that maintains its own index of over a billion pages.
+- [Okeano](https://okeano.com/) – Claims to not store any [identifiable information](https://okeano.com/privacy).
+- [Qdrant](https://qdrant.tech/) – Vector Search Engine.
+- [Personal Search Engine](https://github.com/beenotung/personal-search-engine) – A home-grown search engine for individuals.
+- [Presearch](https://presearch.org) – A decentralized search engine, powered by the community.
+- [The Social Search Engine Find Unique Topics and Make Anonymous Comments](https://thesocialsearchengine.com/) – A crowd-sourced, anonymous social search tool. Pretty unique search engine and the only reason why it is listed.
+
+
+### [Metasearch engines](#metasearch-engines)
+
+Metasearch engines use another search engine's data to produce its own [results from the Internet](https://www.searchenginemap.com/). There's a widespread misconception that meta-search engines are somehow inferior or unworthy.
+
+Be careful if you use public instances, this applies to every self-hosted public instance, and is not an exclusive search engine warning. Similar like with Tor nodes, anyone with bad intentions can set up a “rogue” instance and [potentially log user activity](https://asciimoo.github.io/searx/user/own-instance.html).
+
+
+- [Approach Zero](https://approach0.xyz/search/) – A math-aware search engine.
+- [Ecosia](https://www.ecosia.org/) – A search engine based in Berlin, Germany which uses Bing as upper layer.
+- [Givero](https://www.givero.com/) – Based in Denmark, Givero offers more privacy than Google and combines search with charitable donations.
+- [Hello](https://beta.sayhello.so/) – A conversational search engine powered by transformers. - **controversial**
+- [Infinity Search](https://infinitysearch.co/) – Infinity Search is a privacy metasearch engine that does not log any information about its users. In terms of privacy, it works the same way as [DuckDuckGo](https://codeberg.org/swiso/website/issues/137).
+- [Kiddle](https://www.kiddle.co/) – Safe visual search engine for kids. - **controversial**
+- [MeiliSearch](https://codefibershq.com/blog/hands-on-meilisearch-a-next-generation-search-engine-for-modern-web) – A next generation search engine for modern web.
+- [MusicSrch](https://musicsrch.com/) – Simple Music Search Engine, it includes trackers for statistics. - **controversial**
+- [Mwmbl](https://github.com/mwmbl/mwmbl) – An open source, non-profit search engine implemented in Python.
+- [Oscobo](https://www.oscobo.com/) – A search engine created for the sole purpose of protecting your privacy while you search the web.
+- [Private](https://private.sh/) – The search engine that cryptographically protects your privacy.
+- [Roogle](https://github.com/hkmatsumoto/roogle) – A (Hoogle-like) Rust API search engine.
+- [Rave Book Search Engine](https://ravebooksearch.com/) – Easily find books or audio-books.
+- [RigFoot](https://rigfoot.com/) – A guitar and bass pedal search engine. - **controversial**
+- [SearX](https://searx.me/) – Privacy-respecting metasearch software. - **controversial** Keep in mind that anyone can create an instance an deliver ads, malware etc.
+    - [SearX.be](https://searx.be/) – Example: SearX.be is located in the EU.
+    - [List of searx instances](https://searx.space/) –  Shows different instances, choose one or more to use. Click "..." in address bar to add as search engine.
+    - [SearX.QT](https://notabug.org/CYBERDEViL/searx-qt) – Lightweight desktop application for Searx.
+- [SS](https://ss.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) – Onion based search engine focused on privacy.
+- [Swisscows](https://swisscows.com) – 100% anonymous, child-friendly, own servers in the Swiss alps (no cloud provider), everything is located outside of the EU and US.
+- [Whoogle Search](https://github.com/benbusby/whoogle-search) – A self-hosted, ad-free, privacy-respecting Google metasearch engine.
+- [YaCy](https://yacy.net/) – A free, open source and decentralized search engine.
+
+
+### [Enterprise search engines](#enterprise-search-engines)
+- [Lucene](https://lucene.apache.org/) – A free and open-source search engine software library, originally written in Java by Doug Cutting.
+- [Nutch](https://nutch.apache.org/) – A highly extensible and scalable open source web crawler software project.
+- [Solr](https://solr.apache.org/) – An open-source enterprise-search platform, written in Java. Its major features include full-text search, hit highlighting, faceted search, real-time indexing, dynamic clustering, database integration, NoSQL features and rich document (e.g. Word and PDF) handling.
+- [Xapian](https://xapian.org/) – A free and open-source probabilistic information retrieval library, released under the GNU General Public License (GPL).
+
+
+### [Bittorrent Search Engines](#bittorrent-search-engines)
+- [Cleanbay](https://github.com/Gr3atWh173/cleanbay) – Torrent meta-search engine.
+- [Giga](https://giga.cat/) – Torrent search engine but the database is fetched locally from IPFS.
+- [rats-search](https://github.com/DEgITx/rats-search) – BitTorrent search engine.
+
+
+### [Developer oriented Search engines](#developer-oriented-search-engines)
+- [Nrtsearch](https://engineeringblog.yelp.com/2021/09/nrtsearch-yelps-fast-scalable-and-cost-effective-search-engine.html) – Yelp’s Fast, Scalable and Cost Effective Search Engine
+
+
+### [Exploit and leaks search engines](#exploit-and-leaks-search-engines)
+- [Shodan Search Engine](https://www.shodan.io/) – Search Engine for the Internet of Everything.
+- [Have I Been Pwned](https://haveibeenpwned.com/) – Allows you to search across multiple data breaches to see if your email address or phone number has been compromised.
+- [dnstwister](https://dnstwister.report/) – The anti-phishing domain name search engine and DNS monitoring service.
+
+
 ## [SMS](#sms)
 
 SMS is [not secure](https://www.researchgate.net/publication/310823172_New_Security_Threats_Caused_by_IMS-based_SMS_Service_in_4G_LTE_Networks) by nature.
@@ -5215,34 +5125,27 @@ Major problems with SSH are explained over [here](https://console.dev/articles/s
 - [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) – Client-only.
 
 
-## [Statistics](#Statistics)
+## [Statistics](#statistics)
 - [R Statistics Software](https://www.r-project.org/) – R is a programming language and free software environment for statistical computing and graphics supported by the R Core Team and the R Foundation for Statistical Computing.
 - [QLimeSurvey](https://www.limesurvey.org/) – Formerly known as PHPSurveyor, is a free and open source on-line statistical survey web app written in PHP based on a MySQL, SQLite, PostgreSQL or MSSQL database, distributed under the GNU General Public License.
 
 
-## [Mozilla Pocket alternatives](#mozilla-pocket-alternatives)
-- [Wallabag](https://wallabag.org/en) – A privacy-friendly, libre online service which lets you save articles from the web so you can read them later.
-
-
-## [MAC Address Changer](#mac-address-changer)
-- [BAT script](https://gist.github.com/iJos/d561057f1a00d926a47532396a8c71de) – Randomly change the Mac Address on Windows.
-- [easymacchanger](https://github.com/KALILINUXTRICKSYT/easymacchanger) – Change the network identity of your device.
-- [MAC Address Tool](https://github.com/sietseringers/MACAddressTool) – Windows tool allowing users to change the MAC-address of network adapters through a registry key.
-- [macchanger](https://github.com/sbdchd/macchanger) – A Bash based MAC address changer.
-- [Spoof](https://github.com/feross/spoof) – Easily spoof your MAC address in macOS, Windows & Linux.
-- [SpoofMAC](https://github.com/feross/SpoofMAC) – Change your MAC address for debugging for OS X, Windows, and Linux.
-
-
-## [Proxy Tools](#proxy-tools)
-- [Anxray](https://github.com/XTLS/AnXray) – Another Proxychain Tool With Xray Core.
-- [Lantern](https://getlantern.org/) – Lantern is a centralized and peer-to-peer proxy, which is used as a circumvention tool. The tool detects whether websites are blocked and, if so, allows you to access them via the Lantern servers or the network of Lantern users.
-- [netch](https://github.com/netchx/netch/) – A simple proxy client.
-- [Psiphon](https://psiphon.ca/) – Psiphon is a free and open source circumvention tool that utilizes SSH, VPN and HTTP proxy technology to provide you with uncensored access to the internet.
-- [v2rayN](https://github.com/2dust/v2rayN) – Windows only utility to use various proxies.
-
-### [Mobile Proxy Apps](#mobile-proxy-apps)
-- [Clash for Android](https://github.com/Kr328/ClashForAndroid/) – FOSS proxy application for Android.
-- [SagerNet](https://f-droid.org/en/packages/io.nekohasekai.sagernet/) – The universal proxy toolchain for Android.
+## [Scanning and Pentesting (Network Forensic)](#scanning-and-pentesting-network-forensic)
+- [ACSTIS](https://github.com/tijme/angularjs-csti-scanner) – ACSTIS helps you to scan certain web applications for AngularJS Client-Side Template Injection (sometimes referred to as CSTI, sandbox escape or sandbox bypass). It supports scanning a single request but also crawling the entire web application for the AngularJS CSTI vulnerability.
+- [BruteShark](https://github.com/odedshimon/BruteShark) – A Network Forensic Analysis Tool (NFAT) that performs deep processing and inspection of network traffic (mainly PCAP files, but it also capable of directly live capturing from a network interface).
+- [DroneSploit](https://github.com/dhondta/dronesploit) – A pen-testing console framework dedicated to drones.
+- [Infection Monkey](https://github.com/guardicore/monkey) – A semi automatic pen testing tool for mapping/pen-testing networks. Simulates a human attacker.
+- [Is website Vulnerable](https://github.com/lirantal/is-website-vulnerable) – Finds publicly known security vulnerabilities in a website's front-end JavaScript libraries.
+- [OWASP Testing Checklist](https://www.owasp.org/index.php/Testing_Checklist) – List of some controls to test during a web vulnerability assessment. Markdown version may be found [here](https://github.com/amocrenco/owasp-testing-checklist-v4-markdown/blob/master/README.md).
+- [PTF](https://github.com/trustedsec/ptf) – The Penetration Testers Framework (PTF) is a way for modular support for up-to-date tools.
+- [Pentest Tool LITE, OS tool to analyse page for most common issues](https://pentest-tool-lite.com/) – You can use it as command line utility installed as global package through npm or yarn, or you can use web app.
+- [PhpSploit](https://github.com/nil0x42/phpsploit) – Full-featured C2 framework which silently persists on web server via evil PHP oneliner. Built for stealth persistence, with many privilege-escalation & post-exploitation features.
+- [Recon-ng](https://github.com/lanmaster53/recon-ng) – Recon-ng is a full-featured Web Reconnaissance framework written in Python. Recon-ng has a look and feel similar to the Metasploit Framework.
+- [Spyse](https://spyse.com/) – Spyse is an OSINT search engine that provides fresh data about the entire web. All the data is stored in its own DB for instant access and interconnected with each other for flexible search.
+- [padding-oracle-attacker](https://github.com/KishanBagaria/padding-oracle-attacker) – Padding-oracle-attacker is a CLI tool and library to execute padding oracle attacks (which decrypts data encrypted in CBC mode) easily, with support for concurrent network requests and an elegant UI.
+- [sqlmap](http://sqlmap.org/) – SQLMap is an open source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers. It comes with a powerful detection engine, many niche features for the ultimate penetration tester and a broad range of switches lasting from database fingerprinting, over data fetching from the database, to accessing the underlying file system and executing commands on the operating system via out-of-band connections.
+- [w3af](http://w3af.org/) – W3AF is a Web Application Attack and Audit Framework. The project’s goal is to create a framework to help you secure your web applications by finding and exploiting all web application vulnerabilities.
+- [ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) – The Zed Attack Proxy (ZAP) is an easy to use integrated penetration testing tool for finding vulnerabilities in web applications.
 
 
 ## [Tax Software](#tax-software)
@@ -5308,23 +5211,15 @@ Tor Tools
 - [ToDoList](https://github.com/Webierta/ToDoList) – To Do List does not connect to the network and the data is saved only on your device.
 
 
-## [Scanning and Pentesting (Network Forensic)](#scanning-and-pentesting-network-forensic)
-- [ACSTIS](https://github.com/tijme/angularjs-csti-scanner) – ACSTIS helps you to scan certain web applications for AngularJS Client-Side Template Injection (sometimes referred to as CSTI, sandbox escape or sandbox bypass). It supports scanning a single request but also crawling the entire web application for the AngularJS CSTI vulnerability.
-- [BruteShark](https://github.com/odedshimon/BruteShark) – A Network Forensic Analysis Tool (NFAT) that performs deep processing and inspection of network traffic (mainly PCAP files, but it also capable of directly live capturing from a network interface).
-- [DroneSploit](https://github.com/dhondta/dronesploit) – A pen-testing console framework dedicated to drones.
-- [Infection Monkey](https://github.com/guardicore/monkey) – A semi automatic pen testing tool for mapping/pen-testing networks. Simulates a human attacker.
-- [Is website Vulnerable](https://github.com/lirantal/is-website-vulnerable) – Finds publicly known security vulnerabilities in a website's front-end JavaScript libraries.
-- [OWASP Testing Checklist](https://www.owasp.org/index.php/Testing_Checklist) – List of some controls to test during a web vulnerability assessment. Markdown version may be found [here](https://github.com/amocrenco/owasp-testing-checklist-v4-markdown/blob/master/README.md).
-- [PTF](https://github.com/trustedsec/ptf) – The Penetration Testers Framework (PTF) is a way for modular support for up-to-date tools.
-- [Pentest Tool LITE, OS tool to analyse page for most common issues](https://pentest-tool-lite.com/) – You can use it as command line utility installed as global package through npm or yarn, or you can use web app.
-- [PhpSploit](https://github.com/nil0x42/phpsploit) – Full-featured C2 framework which silently persists on web server via evil PHP oneliner. Built for stealth persistence, with many privilege-escalation & post-exploitation features.
-- [Recon-ng](https://github.com/lanmaster53/recon-ng) – Recon-ng is a full-featured Web Reconnaissance framework written in Python. Recon-ng has a look and feel similar to the Metasploit Framework.
-- [Spyse](https://spyse.com/) – Spyse is an OSINT search engine that provides fresh data about the entire web. All the data is stored in its own DB for instant access and interconnected with each other for flexible search.
-- [padding-oracle-attacker](https://github.com/KishanBagaria/padding-oracle-attacker) – Padding-oracle-attacker is a CLI tool and library to execute padding oracle attacks (which decrypts data encrypted in CBC mode) easily, with support for concurrent network requests and an elegant UI.
-- [sqlmap](http://sqlmap.org/) – SQLMap is an open source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers. It comes with a powerful detection engine, many niche features for the ultimate penetration tester and a broad range of switches lasting from database fingerprinting, over data fetching from the database, to accessing the underlying file system and executing commands on the operating system via out-of-band connections.
-- [w3af](http://w3af.org/) – W3AF is a Web Application Attack and Audit Framework. The project’s goal is to create a framework to help you secure your web applications by finding and exploiting all web application vulnerabilities.
-- [ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) – The Zed Attack Proxy (ZAP) is an easy to use integrated penetration testing tool for finding vulnerabilities in web applications.
+## [UnifiedNLP back-ends for MicroG](#unifiednlp-back-ends-for-microg)
 
+If location (NLP) is not working, download and install [this](https://f-droid.org/app/com.vonglasow.michael.satstat) and enable High Accuracy Location and open SatStat. Wait for it to get your location. Don't close SatStat app instead minimize it and open MicroG Settings > Self-Check. All boxes should be checked.
+
+- [Déjà Vu](https://github.com/n76/DejaVu)
+- [Local GSM Backend](https://github.com/n76/Local-GSM-Backend)
+- [Local WiFi Backend](https://github.com/n76/wifi_backend)
+- [Mozilla](https://mozilla.github.io/ichnaea)
+- [OpenBMap](https://github.com/openbmap/radiocells-nlp-android)
 
 ## [USB ISO tools](#usb-iso-tools)
 - [booty](https://github.com/spfng/booty) – BOOT to any GNU/Linux via network (PXE), CD-ROM (ISO) or USB-stick with using the tmpfs and SquashFS + Overlay FS. The readme is not in english.
@@ -5496,6 +5391,17 @@ Privacy oriented alternatives:
 - [OpenFare](https://github.com/openfare/openfare) – Micropayment funded software.
 - [ProExpense](https://github.com/arduia/ProExpense/) – A simple free finance note to safely record daily expenses.
 
+## [Proxy Tools](#proxy-tools)
+- [Anxray](https://github.com/XTLS/AnXray) – Another Proxychain Tool With Xray Core.
+- [Lantern](https://getlantern.org/) – Lantern is a centralized and peer-to-peer proxy, which is used as a circumvention tool. The tool detects whether websites are blocked and, if so, allows you to access them via the Lantern servers or the network of Lantern users.
+- [netch](https://github.com/netchx/netch/) – A simple proxy client.
+- [Psiphon](https://psiphon.ca/) – Psiphon is a free and open source circumvention tool that utilizes SSH, VPN and HTTP proxy technology to provide you with uncensored access to the internet.
+- [v2rayN](https://github.com/2dust/v2rayN) – Windows only utility to use various proxies.
+
+### [Mobile Proxy Apps](#mobile-proxy-apps)
+- [Clash for Android](https://github.com/Kr328/ClashForAndroid/) – FOSS proxy application for Android.
+- [SagerNet](https://f-droid.org/en/packages/io.nekohasekai.sagernet/) – The universal proxy toolchain for Android.
+
 
 ## [Privacy Policies Analysis Tools](#privacy-policies-analysis-tools)
 - [airsend](https://www.airsend.io/blog/index.php/2021/01/31/privacy-policies-of-top-messaging-apps-facebook-messenger-whatsapp-wechat-signal-telegram-airsend/) – Privacy Policies of Top Messaging Apps reviewed.
@@ -5543,25 +5449,6 @@ Privacy oriented alternatives:
 - [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)
 - [The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data](https://www.amazon.com/Art-Invisibility-Worlds-Teaches-Brother/dp/0316380504?crid=1JRRTVHWTK72I&keywords=data+security&qid=1536656236&sprefix=data+security%2Caps%2C258&sr=8-2&ref=sr_1_2)
 - [The Complexity of Differential Privacy](http://privacytools.seas.harvard.edu/files/privacytools/files/complexityprivacy_1.pdf)
-
-
-### [DRM-Free Book Stores](#drm-free-book-stores)
-- [Beam Book Store](http://www.beam-ebooks.de/) – Sells DRM-free books in German. Some books are distributed with a buyer-unique watermark, although this watermark does not limit book usage.
-- [Book View Café](http://bookviewcafe.com/bookstore/) – Sells ebooks without DRM or an EULA
-- [The Bundle of Holding](https://bundleofholding.com/) – Is a DRM-free bookselling site that sells time-limited, DRM-free offers of tabletop roleplaying game rulebook .PDFs and RPG-related ebooks.
-- [Chicago Shorts](http://press.uchicago.edu/ucp/books/series/CHISH.html) – DRM-free ebooks, passages and short stories selected by the University of Chicago.
-- [Closed Circle](http://www.closed-circle.net/) – Small DRM-free ebook store, direct from the authors themselves. Specializing in fantasy.
-- [Delphi Classics](http://delphiclassics.com/) – sells copies of classic texts edited and formatted as ebooks. All epub files are - DRM-free, but not the .mobi files.
-- [Ediciones Babylon](http://www.edicionesbabylon.es/) – Spanish books and ebooks free of DRM.
-- [Editions Fleurus](http://www.fleuruseditions.com/) – A French publishing house with over 1000 titles available.
-- [Elegant Solutions Software and Publishing Company](http://esspc-ebooks.com/) – eBooks in a few portable formats.
-- [The Fifth Imperium](http://ebooks.thefifthimperium.com/) – CD-ROM images, mostly the images are of the free CD-ROMs included with some Baen Books. Baen Books allows the CD-ROMs to be copied and distributed for free. Every CD-ROM contains several complete novels in HTML format, and some have extras, like MP3 readings. All CD-ROMs also contain artwork for the CD-ROM itself.
-- [Girlebooks](http://girlebooks.com/) – A resource for classic and contemporary ebooks by female writers.
-- [Humble Bundle (Books)](https://www.humblebundle.com/books/) – Sells collections of DRM-free ebooks, with two bundles available at any point in time.
-- [Immatériel.fr](http://www.immateriel.fr/) – A French distributor of ebooks that indicates DRM-free titles with smiley faces.
-- [Lektu](https://lektu.com/) – A Spanish-language DRM-free ebook store. In addition to books, it has audiobooks, ecomics, and music.
-- [U.S. Government Bookstore](http://bookstore.gpo.gov/ebooks) – Offers both print and DRM-free digital publications from across the entire US federal government, ranging from art and travel to business, education, and history.
-- [Weightless Books](http://weightlessbooks.com/) – An independent DRM-free ebooksite devoted to ebooks of all sorts.
 
 
 ## [Terminal emulators](#terminal-emulators)
@@ -5790,6 +5677,116 @@ Privacy oriented alternatives:
 - [BoogDroid for Bugzilla](https://f-droid.org/packages/me.johnmh.boogdroid) – Browse Bugzilla Issue Tracker.
 
 
+## [Video Conferencing](#video-conferencing)
+Not so good in terms of privacy:
+- Discord
+- Google Meet
+- Instagram
+- Microsoft Teams
+- Skype
+- WhatsApp
+- ZOOM
+
+Privacy oriented alternatives:
+- [BigBlueButton](https://bigbluebutton.org/) – A web conferencing system designed for online learning.
+- [Freenet](https://freenetproject.org/index.html) – A peer-to-peer platform for censorship-resistant communication.
+- [Jami (formely Ring)](https://jami.net/) – Distributed universal and secure Free Software for multimedia communications.
+- [Jitsi Meet](https://meet.jit.si/) – More secure, more flexible, and completely free video conferencing. It does not need any account or installation. You find an [instances list over here](https://jitsi.github.io/handbook/docs/community/community-instances). Jitsi itself [currently does not support OMEMO](https://github.com/jitsi/jitsi/issues/199#issuecomment-170175764).
+    - [Brave Talk](https://brave.com/talk/) – Based on Jitsi integrated into Brave Browser.
+- [kMeet](https://github.com/Infomaniak/android-infomaniak-meet) – Free and secure videoconferencing solution for Android and iOS.
+- [Mumla (client for Mumble)](https://mumla-app.gitlab.io/) – Third-party Android client for Mumble.
+- [MiroTalk](https://github.com/miroslavpejic85/mirotalk) – Video up to 4k and 60 FPS WebRTC P2P open source and self-hosted.
+- [PeerCalls](https://peercalls.com/) – Group peer to peer video calls for everyone written in Go and TypeScript.
+- [Pyrite](https://garage44.org/posts/pyrite/pyrite-conferencing.html) – Open source video conferencing.
+- [Zoom](https://sfu.mirotalk.org/) – Google meet Open Source alternative for smart working.
+
+
+## [Video Streaming Platforms](#video-streaming-platforms)
+Not so good in terms of privacy:
+- Amazon Prime Video
+- Disney+
+- Netflix
+- Plex
+
+### [Video and Audio Streaming](#video-and-audio-streaming)
+- [Jellyfin](https://jellyfin.org/) – The volunteer-built media solution that puts you in control of your media. Stream to any device from your own server, with no strings attached.
+- [librefm](https://libre.fm/) – A music community website that aims to provide a Free Software replacement for last.fm.
+- [Owncast](https://owncast.online) – A self-hosted live video and web chat server.
+- [Stremio](https://www.stremio.com/) – A modern media center that's a one-stop solution for your video entertainment.
+
+### [Mobile Streaming](#mobile-streaming)
+- [CloudStream-3](https://github.com/LagradOst/CloudStream-3) – Android app for streaming and downloading Movies, TV-Series and Anime.
+- [Findroid](https://github.com/jarnedemeulemeester/findroid) – Third-party native Jellyfin Android app.
+- [Serenity](https://github.com/YajanaRao/Serenity) – A React Native Music Player for Android and IOS.
+
+
+## [Video encoders](#video-encoders)
+- [Avidemux](http://www.avidemux.org/) – A free and open-source software application for non-linear video editing and transcoding multimedia files.
+- [HandBrake](https://handbrake.fr/) – A free and open-source transcoder for digital video files.
+- [FFmpeg](https://apps.kde.org/en/spectacle) – A free and open-source software project consisting of a suite of libraries and programs for handling video, audio, and other multimedia files and streams.
+
+
+## [Video editors](#video-editors)
+- [AviSynth](http://www.avisynth.nl/) – A frameserver program for Microsoft Windows developed by Ben Rudiak-Gould, Edwin van Eggelen, Klaus Post, Richard Berg, Ian Brabham and others.
+- [Avidemux](http://www.avidemux.org/) – A free and open-source software application for non-linear video editing and transcoding multimedia files.
+- [Cinelerra](http://heroinewarrior.com/cinelerra.php) – A video editing and composition program (an NLE, Non-Linear Editor) designed for Linux.
+- [DVD Flick](http://www.dvdflick.net/) – An open source DVD authoring application for Windows developed by Dennis Meuwissen and released under the GNU General Public License.
+- [Flowblade](https://jliljebl.github.io/flowblade/) – A free and open-source video editing software for Linux.
+- [Kdenlive](https://kdenlive.org) – An open source and feature-rich video editor.
+- [LiVES](http://lives-video.com/) – A free video editing software and VJ tool, released under the GNU General Public License version 3 or later.
+- [LosslessCut](https://www.shotcut.org) – A free, platform independent Video editing software, which supports numerous audio, video and container formats.
+- [Natron](http://natrongithub.github.io/) – A free and open-source node-based compositing application.
+- [Olive](https://www.olivevideoeditor.org) – A free non-linear video editor for Windows, macOS, and Linux.
+- [OpenShot](https://www.openshot.org) – A simple and powerful video editing program.
+- [Pitivi](http://pitivi.org/) – Pitivi (originally spelled PiTiVi) is a free and open-source non-linear video editor for Linux, developed by various contributors from free software community and the GNOME project, with support also available from Collabora.
+- [Shotcut](https://www.shotcut.org) – A free, open source, cross-platform video editor.
+- [VideoLAN Movie Creator](https://www.vlmc.org) – VLMC (standing for VideoLAN Movie Creator) is a cross-platform, non-linear, video editing software application based on the VLC Media Player.
+- [VirtualDub](http://www.virtualdub.org/) – VirtualDub is a free and open-source video capture and video processing utility for Microsoft Windows written by Avery Lee. It is designed to process linear video streams, including filtering and recompression. It uses AVI container format to store captured video.
+    - [VirtualDubMod](http://virtualdubmod.sourceforge.net/) – An open-source video capture and processing tool for Microsoft Windows, based on Avery Lee's VirtualDub.
+
+
+## [Video transcoders](#video-transcoders)
+- [Shutter Encode](https://www.shutterencoder.com) – A converter designed by video editors.
+- [VidCoder](https://vidcoder.net) – A Windows front-end for Handbrake.
+- [WinFF](https://www.biggmatt.com/p/winff.html), [FFQueue](https://ffqueue.bruchhaus.dk), [StaxRip](https://github.com/staxrip/staxrip), [QWinFF](https://qwinff.github.io) and many other front-ends for FFmpe.g. Keep in mind that every single [font-end violates the copyright](https://ffmpe.g.org/shame.html).
+
+
+## [WebDAV](#webdav)
+- [Cyberduck](https://cyberduck.io/) - Libre server and cloud storage browser with WebDAV support that supports Windows and MacOS. - **controversial**
+- [Duplicacy](https://duplicacy.com/) - Support for WebDAV as a backup target, it works for Windows, Mac and Linux. - **controversial**
+- [Duplicati](https://github.com/duplicati/duplicati) - WebDAV as a backup target, currently for Windows, Mac and Linux.
+- [FileZilla Pro](https://filezillapro.com/how-to-connect-to-webdav/) - File-transfer tool that supports many protocols, including WebDAV, it works with Windows, Mac and Linux. - **controversial**
+- [Mountain Duck](https://mountainduck.io/) - WebDAV as a disk, that supports Windows and MacOS. - **controversial**
+- [WinSCP](https://winscp.net/eng/docs/webdav) - SFTP Windows client that also supports WebDAV.
+- [davfs2](https://savannah.nongnu.org/projects/davfs2) - Allows mounting a WebDAV server as a local filesystem, for Linux only.
+
+### [Mobile WebDAV](#mobile-webdav)
+- [Total Commander](https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander) - File manager that includes a WebDAV plugin which you optionally need to activate. - **controversial**
+- [WebDAV Navigator](https://play.google.com/store/apps/details?id=com.schimera.webdavnav) - WebDAV client for Android devices. - **controversial**
+
+
+## [Webgrabber](#webgrabber)
+- [cURL](https://www.librelogos.org/) – A computer software project providing a library (libcurl) and command-line tool (curl) for transferring data using various network protocols. The name stands for "Client URL", which was first released in 1996.
+- [HTTrack](https://www.httrack.com/) – A free and open-source Web crawler and offline browser, developed by Xavier Roche and licensed under the GNU General Public License Version 3.
+- [Wget](https://www.gnu.org/software/wget/) – A computer program that retrieves content from web servers. It is part of the GNU Project.
+
+
+## [Webcam Apps](webcam-apps)
+- [Cheese](https://apps.gnome.org/app/org.gnome.Cheese/) – GNOME webcam application.
+- [Guvcview](http://guvcview.sourceforge.net/) – Linux webcam application.
+
+
+## [Web3](#web3)
+
+Some notes regarding the Web3.
+
+- [Web3 is not decentralized](https://blog.wesleyac.com/posts/web3-centralized), the Venture Capitalists and their Limited Partners do. It is [not about decentralization](https://invisibleup.com/articles/38/).
+- It will never escape their [incentives](https://www.usenix.org/publications/loginonline/web3-fraud).
+- It’s [ultimately a centralized entity with a different label](https://www.stephendiehl.com/blog/web3-bullshit.html).
+- [Crypto push](https://medium.com/@rossstalker_5939/web3-is-not-decentralisation-its-a-ploy-to-put-crypto-bros-in-charge-c791752e2bb6) and a term uses in marketing.
+- Internet itself has no versions numbers, it constantly evolves and changes + adopts new + removes obsolete protocols and tech.
+
+
 ## [Wallpapers](#wallpapers)
 Not so good in terms of privacy:
 - 500px
@@ -5832,6 +5829,11 @@ You find an introduction into the hardware wallet market [here](https://99bitcoi
 
 - [Ledger](https://www.ledger.com/) – Ledger Nano S, Ledger Nano X are good for starters and advance users.
 - [Trezor One and Trezor Model T](https://trezor.io/) – Trezor Wallet is basically an online website that coupled with your Trezor Bridge, a background application which facilitates the connection between the device and your browser. is used to manage your device and their wallets.
+
+
+## [Whiteboard](#whiteboard)
+- [OurBoard](https://www.ourboard.io/) – Free and open source online whiteboard.
+
 
 ## [Weather Tools](#weather-tools)
 - [Sol for iOS](https://github.com/comyar/Sol) – Displays weather information so you can plan your day accordingly. Check the weather in your current location or any city around the world.
