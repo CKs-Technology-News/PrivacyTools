@@ -41,6 +41,94 @@ See [here](https://support.google.com/googleplay/android-developer/answer/604824
 - [Timetagger](https://timetagger.app/) – Open source time tracking application.
 
 
+## [Amazon shopping alternatives](#amazon-shopping-alternatives)
+Not so good in terms of privacy:
+- [Amazon](https://www.theatlantic.com/technology/archive/2019/01/amazon-made-online-commerce-bewildering/580660/), see [here](https://www.reuters.com/business/retail-consumer/amazon-hit-with-886-million-eu-data-privacy-fine-2021-07-30/)
+
+Privacy oriented alternatives:
+- [Wibbets](https://wibbets.com/) – The privacy guaranteed online shopping website Amazon alternative. - **controversial**
+
+
+## [Amazon Book Store](#amazon-book-store)
+Not so good in terms of privacy:
+- Goodreads
+- Google Play Books
+
+Privacy oriented alternatives:
+- [Better World Books](https://www.betterworldbooks.com/) – Better World Books is an online bookshop which tries to take a more ethical approach, by donating one book to charity for every book it sells.
+- [BookWyrm](https://github.com/bookwyrm-social/bookwyrm) – It's a fediverse [decentral](https://docs.joinbookwyrm.com/instances.html) alternative for Amazon's Goodreads.
+- [booqsi](https://www.booqsi.com/) – A more social, Amazon-free alternative to Goodreads.
+- [buch7.de](https://www.buch7.de/) – German platform to get free books.
+- [OpenStax](https://openstax.org/) – Free and Flexible Textbooks-
+- [Hive](https://www.hive.co.uk/) – Delivery is free within the UK, and a bit extra overseas.
+- [Inventaire](https://inventaire.io/) – A libre volunteer-run book lending site where you can make friends and create collaborative libraries together. You can make lists of books you want to lend to friends, and browse other friends’ lists.
+- [inventaire](https://inventaire.io/welcome?__nojs) – This is the space where the community shares knowledge about inventaire and books.
+- [Kobo](https://www.kobo.com/) – The site doesn’t include any official way to separate the DRM from DRM-free titles, but you can search for [DRM-free eBooks through our unofficial Kobo search page](https://switching.software/tools/kobo-search/).
+- [Libreture](https://www.libreture.com/) – Libreture is a Goodreads-style site which lets you store and organise your DRM-free eBooks online, browse DRM-free bookshops, discover new titles and share reading lists.
+- [Open Library](https://openlibrary.org/) – Open Library is a Goodreads-style site where you can share reading lists, track your own book collection, borrow and download eBooks, and contribute to a catalogue of all books ever published.
+- Local Bookshops
+- Public Domain eBooks such as [Project Gutenberg](https://www.gutenberg.org/), [Internet Archive Books](https://archive.org/details/texts), [Feedbooks Public Domain](http://www.feedbooks.com/publicdomain), [Standard eBooks](https://standardebooks.org/), [StandardeBooks](https://standardebooks.org/), [Faded Page](https://www.fadedpage.com/) and [Wikisource](https://en.wikisource.org/).
+- [Z-Library](https://z-lib.org/) – Z-Library. The world's largest ebook library.
+- Public Libraries
+
+
+## [Audible](#audible)
+- [LibriVox](https://librivox.org/) – A DRM-free collection of audiobooks that are provided at no charge. The books are read by volunteers and published under the public domain.
+- [Libro.fm](https://libro.fm/) – Offers DRM-free audiobooks while also supporting local bookstores. Their membership option is only available in the US and Canada though.
+
+
+### [Audio Platforms for Music Streaming](#audio-platforms-for-music-streaming)
+Not so good in terms of privacy:
+- [Audius Music](https://audius.co/) – A streaming platform built for all musicians, not just those signed to labels. Basically they’re a soundcloud/spotify platform based in a blockchain protocol in terms of monetization, that’s it. Only their client which is Another React app and protocol, Ethereum are open source (Apache License 2.0) the rest is the same. This is nothing but another privative/centralized music platform with DRM. The website contains 4, is proprietary and has 9 page privacy policy.
+- Apple Music
+- Google Music/YT Music
+- iTunes, Amazon Music
+- [SoundCloud](https://soundcloud.com/pages/privacy)
+- [Last.fm](https://www.eff.org/deeplinks/2009/02/last-fm-and-the-diabolical-power-of-data-mining)
+- [Spotify](https://thehustle.co/spotify-turns-emotions-into-data/), [open letter](https://spotifyopenletter.wordpress.com/2022/01/10/an-open-letter-to-spotify/)
+
+
+Privacy oriented alternatives:
+- [Ampache](http://ampache.org/) – A web based audio streaming application and file manager allowing you to access your music from anywhere, using almost any internet enabled device.
+- [Audius Music](https://audius.co/) – A streaming platform built for all musicians, not just those signed to labels. Build a fanbase, share your works in progress, and then publish your completed tracks for all the world to hear.
+- [Brew.fm](https://www.brew.fm/) – An alliance of artists who remix and edit each other's tracks.
+- [Bandcamp](https://bandcamp.com/) – Discover amazing new music and directly support the artists who make it.
+- [Euterpe](https://github.com/ironsmile/euterpe) – Self-hosted music streaming server notes with RESTful API and Web interface. Think of it as your very own Spotify!
+- [Funkwhale](https://funkwhale.audio/) – A social platform to enjoy and share music (SoundCloud alternative).
+- [Headset](https://headsetapp.co/) – Headset is a desktop application that turns YouTube into a world class music streaming service.
+- [Jamendo](https://www.jamendo.com/) – A community of free, legal and unlimited music published under Creative Commons licenses. Share your music, download your favorite artists!
+- [Koel](https://koel.dev/) – A personal music streaming server that works. The mobile app is a paid product.
+- [Kuku FM](https://kukufm.com/) – Discover best Audio books, Podcasts, FM Radio, Talk shows, Stories in India. Listen content in English, Hindi, Marathi etc.
+- [Madsonic](http://www.madsonic.org/) – A web-based media library and media streamer with jukebox functionality. Based on Java technology, Madsonic runs on most platforms, including Windows, MacOS, OSX, Linux and Unix variants.
+- [Maloja](https://github.com/krateng/maloja) – Simple self-hosted music scrobble database to create personal listening statistics. No recommendations, no social network, no nonsense.
+- [Mopidy](https://mopidy.com/) – Plays music from local disk, Spotify, SoundCloud, TuneIn, and more. You can edit the playlist from any phone, tablet, or computer using a variety of MPD and web clients.
+- [Music Player Daemon](https://www.musicpd.org/) – A "flexible, powerful, server-side application for playing music".
+- [Navidrome](https://navidrome.org/) – Lightweight, fast and self-contained personal music streamer.
+- [Nextcloud Music](https://apps.nextcloud.com/apps/music)
+- [Nuclear](https://nuclear.js.org/) – Modern music player focused on streaming from free sources.
+- [Olivia](https://github.com/keshavbhatt/olivia) – Elegant music player for Linux.
+- [Openwhyd](https://openwhyd.org/) – Collect and share all the music you love from any source but reunited in the same place.
+- [Radio4000](https://radio4000.com/) – Lets you discover user curated radios from around the world, manage your online music library, and share it anonymously with everyone. All free and open source.
+- [Resonate](https://resonate.is/) – The community-owned music network.
+- [Subsonic](https://www.subsonic.org/pages/index.jsp) – Your complete, personal music streamer.
+- [Tribler](https://www.tribler.org/) – Open-source peer-to-peer file sharing that provides a "Youtube"-like streaming experience. Tribler uses Tor-like onion routing to protect the privacy of its users.
+- [Zoff](https://zoff.me/) – Collaborate on a live music and video playlist with your friends. It's perfect for parties with integrated chrome-casting, or when you want quick access to your favorite playlist.
+
+### [Mobile Music Streaming Apps](#mobile-music-streaming-apps)
+- [Foobnix](http://www.foobnix.com/) – Audio player for Linux, Windows and Android.
+- [Joox](https://www.joox.com/) – A music streaming platform allowing you to download and stream popular song.
+- [muffon](https://github.com/staniel359/muffon) – muffon is a desktop music browser / streaming service that retrieves info and audio/video from Last.FM, Discogs, VK, YouTube, Deezer, Yandex Music, Odnoklassniki, Spotify, SoundCloud, Bandcamp and Genius.
+
+### [Self-Hosted Mobile Music Streaming Apps](#self-hosted-mobile-music-streaming-apps)
+- [Ampache](http://ampache.org/) – Open-source and self-hosted web based media manager and media server. API available to allow usage on various platforms. On-the-fly transcoding available. Supports both music and video.
+- [BlackHole](https://github.com/Sangwan5688/BlackHole) – A Music Player App made with Flutter.
+- [Funkwhale](https://funkwhale.audio/) – Self-hosted, decentralized music service. Provide your own audio.
+- [KooZic](https://koozic.net/) – KooZic is an open-source music streaming service that you install on your server! Based on Odoo.
+- [Maloja](https://github.com/krateng/maloja) – Simple self-hosted music scrobble database to create personal listening statistics. No recommendations, no social network, no nonsense.
+- [Nuclear](https://nuclear.js.org/) – A music streaming program which pulls from multiple free sources. - **controversial**
+- [Pulse Music](https://f-droid.org/en/packages/com.hardcodecoder.pulsemusic/) – An offline music player app, with modern UI and powerful features that does not depend on Google Play Services.
+
+
 ## [Amazon AWS](#amazon-aws)
 - [M3O](https://github.com/m3o/m3o) – Open source AWS alternative.
 
@@ -466,6 +554,269 @@ There is a huge list for Audio VSTs for Linux over [here](https://audioonlinux.b
 ## [Bookmark Tools](#bookmark-tools)
 - [Axomark](https://axomark.xyz/) – Anonymous Social Bookmarks.
 
+
+## [Browsers - A general starter](#browsers-a-general-starter)
+
+Please check the [Browser + WebView Comparison Table](https://divestos.org/index.php?page=browsers) before you use something. In general I do not list any clown forks who offers no or less benefits because you can do it yourself without depending on a third-party project (in most cases) or in other words the community doesn't really need two practically identical packages that accomplish the same thing. [iOS has limited Browser choice](https://css-tricks.com/ios-browser-choice/).
+
+Not so good in terms of privacy:
+- 360 Secure Browser is [proprietary](https://en.wikipedia.org/wiki/360_Secure_Browser)
+- [Cốc Cốc](https://en.wikipedia.org/wiki/C%E1%BB%91c_C%E1%BB%91c)
+- [Comodo Dragon](https://en.wikipedia.org/wiki/Comodo_Group)
+- Epic Browser is proprietary, same like Cent Browser
+- [Microsoft Edge](https://www.scss.tcd.ie/Doug.Leith/pubs/browser_privacy.pdf) while others [claim this is not accurate](https://www.thurrott.com/cloud/web-browsers/microsoft-edge/233847/academic-study-about-browsers-is-wrong-about-microsoft-edge).
+- [Slimjet](https://archive.today/F0GJJ) alias SlimBrowser ([Proprietary](https://borncity.com/win/2018/03/27/slimjet-browser-beware-of-bing-search-engine/))
+- [Advanced Chrome](https://browser.taokaizen.com/)
+- [Aviator](https://www.zdnet.com/article/avoid-aviator-browser-if-you-care-about-security-and-privacy-google-warns/)
+- [Boat](https://forum.xda-developers.com/t/boat-browser.3821682/)
+- [Dolphin Browser](https://en.wikipedia.org/wiki/Dolphin_Browser#Privacy_concerns)
+- Epic ([Proprietary](https://yro.slashdot.org/story/13/09/06/1411215/epic-a-privacy-focused-web-browser))
+- GNU IceCat (Outdated since 2019) only [preview releases](https://en.wikipedia.org/wiki/GNU_IceCat) getting updated frequently.
+- [Google Chrome](https://notochrome.org/)
+- [Inox archived](https://github.com/gcarq/inox-patchset)
+- [LibreWolf](https://librewolf.net/), similar like Ungoogled it is nothing but a hobby project. You can tweak vanilla Firefox version yourself and get a learning effect without depending on yet another third-party fork. The claim the project leaders made that this is independent from Mozilla is pure nonsense, they use Firefox as upstream and there is no independent development aside from changing some configuration related stuff and other gimmicks. Independence is not, I fork xyz and do some changes on my own. Independence would be to actually work on the entire Browser yourself, which is not the case.
+- [Maxthon](https://www.maxthon.com/), its closed source and its main goal seems to be features not privacy + not frequently updated.
+- [Opera](https://old.reddit.com/r/operabrowser/comments/i4hxjl/opera_privacy_and_concerns/) (Norway/China / Opera (company), Otello Corporation, Golden Brick Capital/Qihoo 360) which [comes with extensions you cannot uninstall](https://forums.opera.com/topic/46587/amazon-promotion-extension).
+- Samsung Internet (South Korea)
+- SRWare Iron ([Proprietary](https://archive.today/Bz7Xu) – Versioning system is not clear: [no source code of the latest version available since 2011](https://www.srware.net/forum/viewtopic.php?t=2134) or [other proprietary browser](https://en.wikipedia.org/wiki/Chromium_%28web_browser%29#Browsers_based_on_Chromium) with claims to be better in privacy than Google Chrome.
+- [Superbird](https://www.wilderssecurity.com/threads/superbird-browser.351741/#post-2265802)
+- [UC Browser](https://www.zdnet.com/article/millions-of-android-users-beware-alibabas-uc-browser-can-be-used-to-deliver-malware/)
+- [Vivaldi](https://baronhk.wordpress.com/2021/10/15/somethings-rotten-in-the-state-of-denmark-or-rather-norway-my-post-about-whether-vivaldi-is-a-gpl-violation-was-quietly-knifed-by-the-mods-of-r-ublockorigin-bonus-dont-strip-the-gpl-of-or/) / Iceland ([Chromium's modified code is still open source](https://help.vivaldi.com/article/is-vivaldi-open-source/))
+
+
+### [Browser Profile Backup Solutions](#browser-profile-backup-solutions)
+
+You can manually backup your profile or use some tools. Keep in mind that script based solutions can quickly corrupt your profile because the Browser might not be fully closed when you run the script.
+
+- [Hekasoft Backup & Restore](https://www.hekasoft.com/hekasoft-backup-restore/) – All-in-one Windows solution to manage your browser data and settings across various Browsers. - **controversial**
+- [Simple Backup for Firefox](https://www.sordum.org/12298/simple-firefox-backup-v1-2/) – Small Windows Tool to quickly backup your Firefox Profile. - **controversial**
+
+
+### [Desktop Browser](#desktop-browser)
+
+Please keep in mind that projects like Ungoogled Chromium are hobby projects and cannot nor will ever compete against professional projects such as Brave Browser, simply because more manpower is involved in Brave's development. The only reason Ungoogled Browser is listed here is because some people do not like Brave Browser because they eg. do not use any crypto Wallet features (among other reasons).
+
+
+Browsers are typically used as gateways to a lot of things and not only Browsing, because you can hear audio, play videos, use PWAs, edit code, flash ROMs with it among other things, the term Browser is also heavily aged and outdated, since the program is so heavily altered these days that it more acts like all-in-one tool. It should be noted that using an questionable web browser that is not actively developed or maintained only by a single developer or a small group can be dangerous. Sticking with a mainstream browsers like Chrome/Chromium, Brave, Firefox is better for various reasons.
+
+
+- [Brave Browser](https://brave.com/) – Open Source, independent browser based on Chromium/Chrome.
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/) – Open Source, independent browser. It needs some [hardening](https://bearblog.dev/dashboard/posts/8952) to archive better privacy. If you want you can host your own [sync-server](https://github.com/mozilla-services/syncserver).
+    - [Wolvic](https://wolvic.com/) – Firefox Reality (Firefox for VR) being [spun out](https://github.com/Igalia/wolvic) as “Wolvic”.
+    - [FireDragon](https://aur.archlinux.org/packages/firedragon) – Librewolf fork build using custom branding, settings & KDE patches by OpenSUSE. It gets listed because it actually made it into some Distros and Stores.
+- [Fluent Svelte Browser](https://github.com/tropix126/fluent-svelte) – Based on Swift Browser, Chromium and WebView2. - **controversial**
+- [GNOME Web](https://wiki.gnome.org/Apps/Web/) – GNOME Web (codename: Epiphany) is a GNOME web browser based on the WebKit rendering engine.
+- [Konqueror](https://konqueror.org/) – KDE's default browser.
+- [Ungoogled Chromium](https://ungoogled-software.github.io/) - **controversial**
+    - [Woolyss](https://chromium.woolyss.com/) – Info website and provides links to various user builds. - **controversial**
+    - [Eleston](https://github.com/Eloston/ungoogled-chromium) providing pre-compiled binaries. - **controversial**
+    - [Thorium](https://github.com/Alex313031/Thorium) Chromium fork designed for performance and security. - **controversial**
+    - [Chromium browser for Fedora Linux with video acceleration patches](https://github.com/biswasab/chromium_vaapi_fed/blob/master/README.md).
+- [Tor Browser](https://www.torproject.org/) combined [with uBlock](https://www.esat.kuleuven.be/cosic/publications/thesis-407.pdf) – Firefox ESR hardened Browser which allows Tor (Onion) connections.
+
+
+### [Flash Browser](#flash-browser)
+
+Adobe Flash is dead, and has several security implications, however, some might want to quickly Browse oldschool websites and looking for a Browser based solution instead of blindly downloading and executing unknown code on their machine.
+
+- [FlashBrowser](https://github.com/radubirsan/FlashBrowser) – A small browser capable of viewing/displaying pages with embedded flash content.
+
+
+### [Peer-to-Peer Browser](#peer-to-peer-browser)
+- [Beaker Browser](https://beakerbrowser.com/) – An experimental peer-to-peer Web browser.
+- [Ceno](https://censorship.no/en/about.html) – A P2P mobile browser to fight censorship. - **controversial**
+- [Decenter Browser](https://decentr.net/) – Blockchain based Browser approach.
+- [Stealth](https://github.com/tholian-network/stealth) – Secure, Peer-to-Peer, Private and automatable Web Browser/Scraper/Proxy.
+
+### [IPFS Browsers](#ipfs-browsers)
+- [Thor Browser](https://f-droid.org/de/packages/threads.thor/) – Native IPFS and IPNS browser which based on WebKit API.
+
+
+### [Text based Browser](#text-based-browser)
+- [bow.sh](https://www.brow.sh/) – A fully-modern text-based browser. It renders anything that a modern browser can; HTML5, CSS3, JS, video and even WebGL.
+- [Dooble](https://textbrowser.github.io/dooble/) – Dooble Web Browser, clean and easy.
+- [Molasses](https://github.com/jjsimpso/molasses) – A multi-tabbed browser for the "slow" internet, including Gopher and Gemini.
+
+
+## [Browser Fingerprinting](#browser-fingerprinting)
+
+### [Canvas Fingerprinting](#canvas-fingerprinting)
+- [AdTechMadness](https://adtechmadness.wordpress.com/2019/03/19/overview-of-googles-picasso/) – "Overview of Google’s Picasso".
+- [Antoinevastel](https://github.com/antoinevastel/picasso-like-canvas-fingerprinting) – "Picasso based canvas fingerprinting".
+- [Dali.js](https://github.com/onsitejs/dali.js) – Dali.js, Picasso-like device attestation payload.
+- [FingerprintJS](https://fingerprintjs.com/blog/canvas-fingerprinting/) – "How Does Canvas Fingerprinting Work?".
+- [Google Research](https://research.google/pubs/pub45581/) – Picasso: Lightweight Device Class Fingerprinting for Web Clients.
+
+
+### [Fingerprinting measurement](#fingerprinting-measurement)
+- [Am I Unique](https://amiunique.org/stats) – Basic information a user's browser configuration and how trackable it is.
+- [BrowserLeaks](https://browserleaks.com/canvas) – Gallery of testing tools that show what browser data can be leaked.
+- [Cookie-Editor](https://chrome.google.com/webstore/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm?hl=en) – Extension to quickly create, edit and delete cookies without leaving your tab.
+- [DeviceInfo](https://www.deviceinfo.me) – Web browser security testing, privacy testing, and troubleshooting tool.
+- [EFF CoverYourTracks](https://coveryourtracks.eff.org/kcarter?aat=1) – EFF project that allows you to understand how easy it is to identify and track your browser.
+- [HUMAN Security](https://www.humansecurity.com/blog/the-cybercrime-starter-kit-inside-anti-detection-browsers) – "Inside Anti-Detection Browsers and Account Takeovers".
+- [Privacy Analyzer](https://privacy.net/analyzer/) – Tool lists information that any website, advertisement, and widget can collect from your web browser.
+- [User-Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg) – Spoofs & Mimics User-Agent strings.
+
+
+### [Other Fingerprinting](#other-fingerprinting)
+- [FingerprintJS](https://fingerprintjs.com/blog/incognito-mode-detection/) – "Incognito Mode Detection: Detecting Visitors Who Browse in Private Mode".
+- [Jesse Li](https://blog.jse.li/posts/chrome-76-incognito-filesystem-timing/) – "Detecting incognito mode in Chrome 76 with a timing attack".
+
+
+### [Passive Fingerprinting](#passive-fingerprinting)
+- [nmap](https://nmap.org/book/man-os-detection.html) – Nmap Reference Guide on OS Detection.
+- [p0f](https://lcamtuf.coredump.cx/p0f3/) – Passive fingerprinting of TCP/IP communications.
+
+
+### [TLS Fingerprinting](#tls-fingerprinting)
+- [Salesforce Blog](https://engineering.salesforce.com/tls-fingerprinting-with-ja3-and-ja3s-247362855967) – Information regarding "TLS Fingerprinting with JA3 and JA3S".
+- [ja3](https://github.com/salesforce/ja3) – A method for creating SSL/TLS client fingerprints for threat intelligence.
+- [ja3er](https://ja3er.com/) – A project about collecting and sharing JA3 hashes.
+- [JARM](https://github.com/salesforce/jarm) – An active Transport Layer Security (TLS) server fingerprinting tool.
+
+
+### [Remote Fingerprinting](#remote-fingerprinting)
+- [Drawn ApartM](https://orenlab.sise.bgu.ac.il/p/DrawnApart) – Identification Technique Based on Remote GPU Fingerprinting.
+
+
+### [Redirect News, Search, and Weather Results to Your Default Browser](#redirect-news-search-and-weather-results-to-your-default-browser)
+- [MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) – A Tool to Redirect News, Search, and Weather Results to Your Default Browser.
+- [EdgeDeflector](https://github.com/da2x/EdgeDeflector) – A tiny helper application to force Windows 10 to use your preferred web browser instead of ignoring the setting to promote Microsoft Edge. Only runs for a microsecond when needed.
+
+### [Android & iOS Browser](#android--ios-browser)
+- [Brave Browser](https://brave.com/) – In case you use Brave Browser on Desktop, then keep it for mobile too.
+- [Bromite](https://www.bromite.org/) – Android version which includes some hardening and additional tweaks and changes.
+- [Ungoogled Chromium](https://ungoogled-software.github.io/) – Ungoogled-Chromium-Android is the Android version of Ungoogled-Chromium. - **controversial**
+- [Fennec F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) – A privacy-focused version of Firefox Android available on F-Droid. Fennec itself has telemetry but you can easily [opt-out](https://old.reddit.com/r/privacy/comments/pxlijb/is_fennec_actually_private/).
+- [Firefox](https://www.mozilla.org/en-US/firefox/mobile/) – Android/iOS – Mozilla is evaluating Firefox usage by changing the [default search engine to Bing](https://www.techspot.com/news/91395-mozilla-evaluating-firefox-usage-changing-default-search-engine.html).
+    - [Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos/) – Privacy hardened fork of Firefox for Android, with proprietary blobs removed.
+    - [Iceraven](https://github.com/fork-maintainers/iceraven-browser) – A web browser for Android, based on Mozilla's Fenix version of Firefox.
+- [iCab Mobile (Web Browser)](https://apps.apple.com/us/app/icab-mobile-web-browser/id308111628) - The default settings are not optimal but it is overall a considerable good Browser choice for iOS.
+- [Lynket](https://github.com/arunkumar9t2/lynket-browser) – Lynket utilizes Chrome Custom Tab API to create a customized browsing experience while adding innovative features like background loading with floating bubbles, article mode and multitasking using Android's recent menu. - **controversial**
+- [Lightning Browser](https://github.com/anthonycr/Lightning-Browser) – A lightweight Android browser with modern navigation (Price: Free (Pro version $1.50 on Google Play or free on F-Droid)).
+- [Orion Browser](https://browser.kagi.com/) – For iOS and macOS. - **controversial**
+- [Privacy Browser](https://www.stoutner.com/privacy-browser/) – Android only with some nice features. - **controversial**
+- [Tor Browser](https://www.torproject.org/) – Tor Browser for Android and iOS.
+- [SnowHaze](https://snowhaze.com/en/index.html) – Claims to be an privacy-oriented Browser.
+- [SmartCookieWeb](https://github.com/CookieJarApps/SmartCookieWeb) – A lightweight, basic and secure web browser that uses less than 8MB of space. - **controversial**
+- [Via Browser](https://github.com/tuyafeng/Via) – Via Browser is a powerful browser based on WebView.
+
+
+### [Web Browser Tools](#web-browser-tools)
+- [Visited](https://github.com/yuis-ice/visited) - Locally collect browsing history over Browsers.
+
+
+### [Web Browser Extensions](#web-browser-extensions)
+The list is not a "best practice" recommendation list for extensions/addons you shall install. The list is random without any logic behind.
+
+Before someone wrongly interpret this as "he uses those listed extensions himself", this is not the case. If you look for someone else suggestions, I suggest to take a look at [privacy-fighter](https://github.com/jotyGill/privacy-fighter).
+
+
+- [Behave!](https://github.com/mindedsecurity/behave) – A monitoring browser extension for pages acting as "bad boi".
+- [Bias Monitor!](https://github.com/Alex0Blackwell/bias-monitor) – A Chrome Extension that promotes politically diverse news reading with Artificial Intelligence.
+- [Canvas Blocker (Fingerprint protect)](https://add0n.com/canvas-fingerprint-blocker.html) – A Firefox extension to protect from being fingerprinted, which is not needed with Brave Browser or Tor Browser.
+- [Checkmarks](https://github.com/tanwald/checkmarks) – Firefox web-extension that checks bookmarks and loads favicons.
+- [Chrome extension source viewer](https://github.com/Rob--W/crxviewer) – Add-on or web app to view the source code of Chrome, Firefox, Opera 15 extensions and zip files.
+- [Clickbait Remover extension for YouTube](https://github.com/pietervanheijningen/clickbait-remover-for-youtube) – Replaces thumbnails and modifies titles of videos on YouTube.com
+- [Copy Guard](https://github.com/roedesh/copyguard) – A browser extension to prevent copy hijacking.
+- [Country Flags & IP Whois](https://addons.mozilla.org/en-US/firefox/addon/country-flags-ip-whois/) – Displays country flag of website's server location, Whois and Geo info on a browser addressbar icon.
+- [Dark Background and Light Text](https://github.com/m-khvoinitsky/dark-background-light-text-extension) – Firefox add-on that turns every page colors into "light text on dark background".
+- [Enhancer for YouTube™](https://www.mrfdev.com/enhancer-for-youtube) – Take control of YouTube and boost your user experience!
+- [Feedbro](https://nodetics.com/feedbro) – Advanced Feed Reader - Read news & blogs or any RSS/Atom/RDF source.
+- [FastForward](https://github.com/FastForwardTeam/FastForward) – Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
+- [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers) – Alternative to above mentioned solution, optional, depends on your own preference.
+- [Image Search Options Customizable Image](http://saucenao.com/) – Search right click context options.
+- [IPvFoo](https://github.com/pmarks-net/ipvfoo) – Display the server IP address, with a real-time summary of IPv4, IPv6, and HTTPS information across all page elements.
+- [JavaScript Restrictor](https://polcak.github.io/jsrestrictor/) – JavaScript Restrictor controls the APIs provided by the browser. The goal is to improve the privacy and security of the user running the extension.
+- [JShelter](https://jshelter.org/) – Browser extension to mitigate potential threats from JavaScript.
+- [Kee - Password Manager](https://www.kee.pm/) – Kee adds private, secure and easy password management features which save time and keep your private data more secure.
+- [Keyboard Privacy](https://paul.reviews/behavioral-profiling-the-password-you-cant-change/) – Not needed with Brave Browser or Tor Browser or in case you use some sort of anti-keylogger AVs/software.
+- [Language Switch by Manuel Reimer](https://addons.mozilla.org/en-US/firefox/addon/languageswitch/) – Allows to change the language identifier sent to web-servers to whatever language you need.
+- [LibreJS](https://www.gnu.org/software/librejs/) – Allows to change the language identifier sent to web-servers to whatever language you need. GNU LibreJS aims to address the JavaScript problem described in Richard Stallman's article The JavaScript Trap.
+- [LibRedirect](https://github.com/libredirect/libredirect) – A web extension that redirects YouTube, Twitter, Instagram... requests to alternative privacy friendly frontends and backends.
+- [Tab Session Manager](https://github.com/sienori/Tab-Session-Manager) – A simple session manager. You can quickly save your current browser state and reload it whenever necessary.
+- [Old Reddit Redirect](https://github.com/tom-james-watson/old-reddit-redirect) – Ensure Reddit always loads the old design.
+- [Prevent CSS Exfil attack](https://github.com/mlgualtieri/CSS-Exfil-Protection) – Not needed with Tor Browser.
+- [Privacy-Oriented Origin Policy](https://addons.mozilla.org/en-US/firefox/addon/privacy-oriented-origin-policy) – Prevent Firefox from sending Origin headers when they are least likely to be necessary, to protect your privacy.
+- [RadiTube](https://extension.raditube.com/) – A browser extension to view the metadata of removed YouTube videos, the **extension is not FOSS**.
+- [Reddit Enhancement Suite](https://redditenhancementsuite.com/) – A suite of modules that enhance your Reddit browsing experience.
+- [Redirector](https://github.com/einaregilsson/Redirector) – Browser extension (Firefox, Chrome, Opera, Edge) to redirect URLs based on regex patterns, like a client side mod_rewrite.
+- [Referer Control](https://chrome.google.com/webstore/detail/referer-control/hnkcfpcejkafcihlgbojoidoihckciin) – Control the HTTP Referer on a per-site basis.
+- [Request Control](https://addons.mozilla.org/en-US/firefox/addon/requestcontrol/?utm_content=addons-manager-reviews-link&utm_medium=firefox-browser&utm_source=firefox-browser) – An extension for controlling requests.
+- [Scrt.link - Share a secret!](https://scrt.link/) – Securely share sensitive information online.
+- [Shodan](https://addons.mozilla.org/en-US/firefox/addon/shodan_io/?utm_content=addons-manager-reviews-link&utm_medium=firefox-browser&utm_source=firefox-browser) – The Shodan plugin tells you where the website is hosted (country, city), who owns the IP and what other services/ ports are open.
+- [SoundFixer](https://github.com/unrelentingtech/soundfixer) – Lets you fix annoying sound problems in YouTube videos and such. Like audio in one channel only, too quiet or too loud.
+- [Snowflake](https://snowflake.torproject.org/) – Allows you to circumvent Tor censorship over WebRTC. When using the extension, your browser becomes a temporary proxy to the Tor network.
+- [SponsorBlock for YouTube - Skip Sponsorships](https://sponsor.ajay.app/) – Skip sponsorships, subscription begging and more on YouTube videos. Report sponsors on videos you watch to save others' time.
+- [Tab Stash](https://josh-berry.github.io/tab-stash/) – A no-fuss way to save and restore batches of tabs as bookmarks.
+- [Tabji](https://tabji.link/) – A privacy-first lightweight alternative to The Great Suspender.
+- [Temporary Containers](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers) – Open tabs, websites, and links in automatically managed disposable containers. Containers isolate data websites store (cookies, storage, and more) from each other, enhancing your privacy and security while you browse.
+- [Tomato Clock](https://github.com/samueljun/tomato-clock) – A simple browser extension for managing your productivity.
+- [Trace by AbsoluteDouble](https://absolutedouble.co.uk/trace/) – An advanced extension that can protect many different types of browser fingerprinting such as Canvas/Audio/WebGL Fingerprinting. Trace also offers URL cleaning and header editing features such as the tracking cookie eater and Google header remover.
+- [uBlock Origin](https://github.com/gorhill/uBlock) – Not needed with Brave Browser or any other browser with integrated ad-block.
+- [uBO-Scope](https://github.com/gorhill/uBO-Scope) – A tool to measure your 3rd-party exposure score for web sites you visit.
+- [User-Agent Switcher by Alexander Schlarb](https://addons.mozilla.org/en-US/firefox/addon/uaswitcher/) – Easily override the browser's User-Agent string.
+- [WebWormhole](https://webwormhole.io/) – WebWormhole lets you send files from one place to another.
+- [uBlacklist](https://github.com/iorate/uBlacklist) – Blocks specific sites from appearing in Google search results.
+- [zwBlocker](https://github.com/aido179/zwBlocker) – WAN extension that helps [spot zero-width characters.](https://medium.com/@aidobreen/hidden-text-fingerprints-and-how-to-avoid-them-d0103edd2ce4)
+
+
+### [Web Browser Extensions you do NOT need](#web-browser-extensions-you-do-not-need)
+
+Every custom extension and configuration you change makes your browser unique in its own way. See e.g. [amiunique](https://amiunique.org/).
+
+You do not need them if you have above listed extensions/add-ons installed or in case you use an up-2-date hardened browser. Additional infos/comments are labeled next to the extensions/add-on.
+
+- Catblock
+- [ChromeGalvanizer](https://github.com/mandatoryprogrammer/ChromeGalvanizer) – Harden your browser against extension backdoors and exploits.
+- [ClearURLs](https://gitlab.com/KevinRoebert/ClearUrls) – Can be archived via uBO. ClearURLs includes some other useful features like eTag "blocking" but in hardened Browsers this is not needed or can be archived without the need to depend on third-party extensions.
+- [Display sites quality](https://en.wikipedia.org/wiki/WOT_Services) – Questionable benefit because the database is often not up-2-date or does not exist for page x.
+- [Emulate locally CDNs](https://git.synz.io/Synzvato/decentraleyes) – Questionable gain of privacy, no proof or evidence. Implemented solutions are often outdated compared to real CDNs wo often update their stuff multiple times a day.
+- [Prevent WebRTC IP leak](https://chrome.google.com/webstore/detail/webrtc-leak-shield/bppamachkoflopbagkdoflbgfjflfnfl) – Above listed browsers do not leak WebRTC or can be manually configured as per needs.
+- [Unblock websites with a browser VPN/proxy](https://browsec.com/) – Optional, better use Tor/VPN instead of proxies.
+- Cloud Firewall
+- Cookie AutoDelete
+- DDG Privacy Essentials
+- Disconnect
+- [Don't touch my tabs! (rel=noopener)](https://addons.mozilla.org/en-US/firefox/addon/dont-touch-my-tabs/) – [Fixed within Mozilla Firefox source code](https://mathiasbynens.github.io/rel-noopener/) and removed from AMO.
+- Google search link fix (also Yandex).
+- HTTPS Everywhere is [deprecated](https://lemmy.ml/post/82533).
+- HTTPZ – Replaced with Auto HTTPS mode in almost every Browser.
+- I don't care about cookies / minerBlock – Most of those lists can be adopted in uBlock via a filter-list subscription.
+- Link Cleaner
+- Privacy Badger - Privacy Badger sends the Global Privacy Control signal to opt you out of data sharing and selling, and the Do Not Track signal to tell companies not to track you, which makes you more unique without any real benefit since DnT is optional. If you want similar add-on use [Adguards StealthMode](https://github.com/AdguardTeam/StealthMode). PB itself had also long time problems with [Google Analytics](https://github.com/EFForg/privacybadger/issues/574#issuecomment-510036366).
+- [Privacy Possum](https://libredd.it/9lanyg) - I am absolute no fan of such extensions, the chance that you discover new trackers is low because filter-lists usually getting updated regularly and monitored by the community. Even if there are new trackers the community would quickly add this to uBlock filter-lists which makes the entire purpose of locally ad-blocking learning obsolete.
+- Redirect AMP to HTML
+- Skip Redirect
+- TrackMeNot
+
+### [Web Browser Benchmark](#web-browser-benchmark)
+- [ARES-6](https://browserbench.org/ARES-6/) – Various tests using the newest web standards and features.
+- [Basemark](https://web.basemark.com/) – Various tests using the newest web standards and features.
+- [JetStream](https://browserbench.org/JetStream/) – JavaScript benchmark developed by Apple.
+- [Kraken](https://krakenbenchmark.mozilla.org/) – JavaScript benchmark developed by Mozilla.
+- [MotionMark](https://browserbench.org/MotionMark/) – Graphics benchmark developed by the WebKit team.
+- [Octane](https://chromium.github.io/octane/) – JavaScript benchmark developed by Google.
+- [Speedometer](https://browserbench.org/Speedometer/) – Performance benchmark that repeats the same actions using DOM APIs.
+- [WebXPRT](https://www.principledtechnologies.com/benchmarkxprt/webxprt/) – HTML5 and JavaScript test developed by benchmark maker Principled Technologies.
+
+
+### [Browser Syncing](#browser-syncing)
+- [xBrowserSync](https://www.xbrowsersync.org/) – Browser syncing as it should be: secure, anonymous and free.
+- [EteSync](https://www.etesync.com/) – Secure, end-to-end encrypted, and privacy respecting sync for your contacts, calendars, tasks and notes.
+- [Floccus](https://floccus.org/) – Sync your bookmarks privately across browsers.
+
+
+### [WebView alternatives](#webview-alternatives)
+- [Bromite WebView](https://www.bromite.org/system_web_view) – A version of Android System WebView with support for ad blocking and enhanced privacy.
+    - [WebView Switcher](https://github.com/Magisk-Modules-Repo/bromitewebview) – A tool for installing Bromite WebView on Android 10 (and higher).
+
+
+### [Browser Referrer Hider Tools](#browser-referrer-hider-tools)
+- [href.li](https://href.li/) – Hide your referrer and create an anonymous link that will hide the HTTP Referer header.
+
+
 ## [Book Resources](#book-resources)
 ### [Dev Books](#dev-books)
 - [40k HN comments mentioning books, extracted using deep learning](https://hacker-recommended-books.vercel.app/category/0/all-time/page/0/0).
@@ -827,6 +1178,17 @@ Privacy oriented alternatives:
 Multi functional app to find duplicates, empty folders, similar images etc.
 
 
+## [Collaboration platforms](#collaboration-platforms)
+- [Kanboard](https://kanboard.org) – A free and open source Kanban project management software.
+- [My Personal Kanban](https://greggigon.github.io/my-personal-kanban/) – Offline webapp.
+- [Nextcloud Deck](https://apps.nextcloud.com/apps/deck) – Useful when you already have Nextcloud.
+- [Nullboard](https://github.com/apankrat/nullboard) – Offline webapp.
+- [Taiga](https://www.taiga.io) – An agile, free and open source project management tool.
+- [TaskBoard](https://taskboard.matthewross.me/) – Works on almost any web host (only needs PHP5 w/SQLite etc.
+- [Twake](https://twake.app) – A complete and secure collaboration platform.
+- [Wekan](https://wekan.github.io) – An open-source and collaborative kanban board application.
+
+
 ## [Chromebook hardware alternatives](#chromebook-hardware-alternatives)
 - [KDE Slimbook 14](https://slimbook.es/en/store/slimbook-kde/kde-slimbook-14-comprar)
 - [MNT Reform](https://mntre.com/)
@@ -1151,6 +1513,177 @@ You can find an open-source home cloud that allows you to run Docker application
 - [Xnee](http://www.sandklef.com/xnee) – Record and replay tests.
 
 
+## [eCommerce platforms](#ecommerce-platforms)
+- [eMarket Online Store](https://github.com/musicman3/eMarket) – It is a free online store engine. Make the best online shop with us.
+- [Medusa](https://github.com/medusajs/medusa) – An open-source ecommerce platform in 1 minute.
+- [Rudder Server](https://github.com/rudderlabs/rudder-server) – Privacy-focused open-source alternative to Segment, customer data platform.
+
+
+## [eMail Clients](#email-clients)
+### [Desktop eMail Clients](#desktop-email-clients)
+- [aerc](https://aerc-mail.org/) – Is an email client that runs in your terminal.
+- [alot](https://github.com/pazz/alot) – Terminal-based Mail User Agent.
+- [Alpine](http://alpine.x10host.com/alpine/) – Fast, easy-to-use and Apache-licensed email client based on Pine.
+- [Claws Mail](https://www.claws-mail.org) – An open source email client (and news reader) for Windows and Linux.
+- [Evolution](https://wiki.gnome.org/Apps/Evolution) – A Linux application that provides mail, calendar and address book.
+- [Geary](https://wiki.gnome.org/Apps/Geary) – An email application built around conversations, for Linux.
+- [Himalaya](https://github.com/soywod/himalaya) – A CLI email client written in Rust. The aim of Himalaya is to extract the email logic into a simple (yet solid) CLI API that can be used directly from the terminal, from scripts, from UIs… Possibilities are endless!
+- [iRedMail](https://github.com/iredmail/iRedMail) – Full-featured, open source mail server solution for mainstream Linux/BSD distributions.
+- [Kolab Now](https://kolabnow.com/) – Online service providing personal Kolab Groupware on desired level.
+- [Mailfence](https://mailfence.com/) – Secure and private email-suite.
+- [mu/mu4e](https://www.djcbsoftware.nl/code/mu/mu4e.html) – Maildir indexer/searcher + emacs mail client and guile bindings.
+- [Mutt](http://mutt.org/) – Small but very powerful text-based mail client.
+- [NeoMutt](https://neomutt.org/) – Command line mail reader (or MUA). It's a fork of Mutt with added features.
+- [Notmuchmail](https://notmuchmail.org/) – A fast mail indexer built on top of xapian.
+- [S-nail](https://www.sdaoden.eu/code.html#s-mailx) – S-nail provides a simple and friendly environment for sending and receiving mail.
+- [Thunderbird](https://www.thunderbird.net) – A free customizable open source email client.
+    - [Allow HTML Temp](https://addons.thunderbird.net/thunderbird/addon/allow-html-temp/) – Allows to have HTML temporarily enabled (and displayed) in the currently selected message by only one click. When switching to another message, it'll be shown automatically again in plain text or simple html mode (according to your settings).
+    - [MetaClean](https://addons.thunderbird.net/en-US/thunderbird/addon/metaclean-for-thunderbird/) – Removes metadata and hidden data in email attachments preventing the leakage of confidential information that occurs in this type of communication and avoiding possible economic and reputational damages derived from the malicious use of metadata. The add-on is controversial because it uploads every attachment into a Cloud, however an AV usually does the same to check against a reputation database.
+    - [pgpgeek](https://github.com/pgpgeek/pgpgeek) – Quick & easy PGP encryption / decryption tool using openPGP.js
+    - [Octopus](https://sequoia-pgp.org/blog/2021/12/13/202112-octopus/) – Alternative OpenPGP Back End for Thunderbird.
+    - [Betterbird](https://www.betterbird.eu/) – A fork of Mozilla Thunderbird with some extra candy in it, you still need to install essential add-ons and tweak the configuration.
+
+### [CLI based eMail Clients](#cli-based-email-clients)
+- [Himalaya](https://github.com/soywod/himalaya) – A CLI based Email Client.
+
+### [Mobile eMail Clients](#mobile-email-clients)
+- [K-9 Mail](https://k9mail.app/) – Open Source Email App for Android.
+- [Ltt.rs - Simple and maintainable Android e-mail client](https://f-droid.org/de/packages/de.tutao.tutanota/) – Proof of concept e-mail (JMAP) client (pronounced \"Letters\"). Makes heavy use of Android Jetpack to be more maintainable than some of the other Android e-mail clients.
+- [p≡p](https://www.pep.security) – Free and open source email client for Android and iOS.
+- [SimpleEmail](https://f-droid.org/de/packages/org.dystopia.email/) – A Free Software, nominalistic and privacy-friendly email app.
+- [Tutanota](https://f-droid.org/de/packages/de.tutao.tutanota/) – Encrypted email app.
+
+### [eMail Encryption](#email-encryption)
+- [Encrypted emails based on Signal protocol with post-quantum algorithms](https://eprint.iacr.org/2021/875) – Research completed, project planned.
+- [Enigmail](https://www.enigmail.net) – Encrypt/decrypt and digitally sign your emails in Thunderbird, Postbox and Interlink.
+- [GnuPG](https://www.gnupg.org) – Encrypt and sign your data and communications.
+- [GPG Suite](https://gpgtools.org) – An open source GnuPG front-end for macOS.
+- [GPG4Win](https://www.gpg4win.org) – An open source GnuPG front-end for Windows.
+- [Hemmelig.app](https://github.com/HemmeligOrg/Hemmelig.app) – This application is to be used to share encrypted secrets cross organizations, or as private persons. Hemmelig truly cares about your privacy, and will do everything to stay that way. I hope you enjoy the product.
+- [Mailvelope](https://www.mailvelope.com) – A browser extension to securely encrypt your emails with PGP using webmail providers, made in Germany.
+
+
+### [Disposable eMail Providers](#disposable-email-providers)
+
+> None of them will actually work for Twitter, Gmail, etc. because they use a blacklist and basically blacklist all public providers. The moment I would post some Russian providers who currently work the moment they would add them to their blacklist. Self-host or search for some Russian providers yourself but do not leak them to the public.
+
+
+- [33 Mail](https://www.33mail.com/) – Create a new e-mail address whenever you need one. You need to register yourself to use their service.
+- [10 Minute Mail](https://10minutemail.com/) – Free and anonymous temporary email.
+- [dispostable](https://www.dispostable.com/) – Just pick a random email address.
+- [erine.email](https://erine.email) – Unlimited disposable email addresses to avoid spam.
+- [eMail Fake](https://emailfake.com/) – Fake Email Generator with your name.
+- [eMail Deck](https://www.emailondeck.com/) – Free & fast, temp emails in 2 easy steps.
+- [eMaildrop](https://www.emaildrop.io/) – Free mailer with privacy in mind.
+- [FakeMail](https://www.fakemail.net/) – Temp mailer with privacy in mind.
+- [Guerrilla Mail](https://www.guerrillamail.com/) – Disposable Temporary E-Mail Address.
+- [inboxkitten](https://inboxkitten.com) – Open source disposable email.
+- [Maildrop](https://maildrop.cc) – Free and open source disposable e-mail addresses service.
+- [Mailinator](https://mailinator.com) – Email and SMS Workflow Testing.
+- [Mailnesia](https://mailnesia.com/) – Disposable email at its best.
+- [Mailsac](https://mailsac.com) – Open source disposable email hosting.
+- [Moaktmail](https://www.moakt.com/) – Privacy respecting eMail service.
+- [Mint eMail](https://www.mintemail.com/) – A no-click disposable email system.
+- [nada](https://getnada.com/) – Free and paid plans.
+- [Temp Mail](https://temp-mail.to/) – Free, easy to use and reliable temporary email address.
+- [Temp-Mail](https://temp-mail.org) – Free and paid service, also has mobile apps.
+- [tmpmail](https://github.com/sdushantha/tmpmail) – A temporary email right from your terminal written in POSIX sh.
+- [Tempr.email](https://tempr.email/en/) – A service for temporary email addresses (temp mail) with a large range of functions.
+- [YopMail](https://www.yopmail.com/en/) – YOPmail’s free, quick and feature rich service guards you against spam.
+
+
+### [Email Alias Services (Anonymous Forwarding)](#email-alias-services-anonymous-forwarding)
+With email aliases, you can finally create a different identity for each website. Defend against spams, phishing and data breach.
+
+Services with self-hosting options:
+- [Simplelogin](https://github.com/simple-login/app)
+- [Anonaddy](https://github.com/anonaddy/anonaddy)
+
+Services without self-hosting:
+- [AnnonAddy](https://anonaddy.com/) – Reliable service.
+- [Firefox Relay](https://relay.firefox.com) – Create aliases that forward to your real inbox. Allows 5 aliases.
+- [forwardemail](https://forwardemail.net/) – Create unlimited email addresses for free using your custom domain. Plus get catch-all, wildcard, and disposable aliases – all for free!
+- [improvmx](https://improvmx.com/) – Set up email forwarding in seconds and start receiving and sending emails with your domain name.
+- [MailMask](https://github.com/HSchuette/mailmask) – Create forwarding addresses for free, without an account.
+- [spamgourmet](https://www.spamgourmet.com/) – If you give your email address to everyone, you are bound to receive spam emails, and you won't know where they came from. Absolutely free. No registration. 24/7 Support.
+
+
+## [eMail Services](#email-services)
+
+Comparison of different eMail services, please check [this](https://digdeeper.neocities.org/ghost/email.html). And regarding security and emails check [this](https://lushka.al/truth-about-email). [Self-host your own Email server](https://www.c0ffee.net/blog/mail-server-guide).
+
+Not so good in terms of privacy:
+- [Gmail](https://www.theguardian.com/technology/2021/may/09/how-private-is-your-gmail-and-should-you-switch) – [Google does not use mail content to target ads, and does not sell mail content to third parties](https://www.blog.google/technology/safety-security/ensuring-your-security-and-privacy-within-gmail/). But [third-parties can get access on request](https://github.com/Lissy93/personal-security-checklist/blob/master/5_Privacy_Respecting_Software.md#encrypted-email).
+- Outlook / [Office 365](https://www.robin-data.io/en/data-protection-academy/news/data-protection-of-microsoft-office-365-in-the-criticism)
+- [Yandex Mail](https://mako.cc/copyrighteous/google-has-most-of-my-email-because-it-has-all-of-yours) – See [here](https://www.dailymail.co.uk/sciencetech/article-7894643/Privacy-concerns-Russias-popular-search-engine-Yandex-uses-facial-recognition.html).
+- [Yahoo! Mail](https://www.theverge.com/2018/8/28/17793964/how-to-opt-out-yahoo-mail-email-data-scanning-advertising)
+
+I will split the list in free-mailer and paid providers. Free mailer tend to use ads based systems to survive and are controversial because that might come with privacy implications.
+
+Privacy oriented alternatives:
+- [33Mail](https://33mail.com/) – Email alias service, including anonymous replies and custom domains.
+- [Anonymize.com Email](https://anonymize.com/) – Paid secure email service provided by Epik.com.
+- [Cock.li](https://cock.li/) – Yeah it's mail with cocks.
+- [Confidesk](https://confidesk.com/) – High class encryption, maximum security. No third party access, nobody can read your mail, only you. Privacy as it should be.
+- [Cypht](https://cypht.org/) – The driving force behind Cypht development is to provide combined views for multiple accounts, but it's also a standard E-mail client that lets you browse and manage IMAP folders and send outbound messages with SMTP.
+- [Disroot](https://disroot.org) – An online services provider based in the Netherlands.
+    - [Dismail](https://dismail.de/info.html#email) – You might need to contact the support via Jabber first.
+- [Espiv](https://espiv.net/en/) – A collective dedicated to providing private and secure email and hosting services for individuals and organisations committed to political and social justice.
+- [Ethical Mail](https://www.ethicalmail.org.au) – A carbon neutral email service hosted in Australia and run by a not-for-profit organization. The service is funded by its users without tracking or advertising. It uses free software components and all improvements are contributed back to the community. Email is accessible through the website or any standard email app.
+- [Fastmail](https://fastmail.com/) – Paid email provider, located in Australia and US.
+- [Inbox](https://www.inbox.lv/) – Free service, ads based system to survive. Ad-blocker detection.
+- [Kolab Now](https://kolabnow.com/) – A Swiss email provider with lots of extra services aimed at business people, including a calendar, file sharing, tasks and more. There’s a free trial, after which you pay a fee to continue using the service.
+- [Lavabit](https://lavabit.com/) – Lavabit is an open-source encrypted web-mail service, founded in 2004.
+- [Mail2World](https://www.mail2world.com/) – Personalized email service that's as unique as you are.
+- [Mailbox](https://mailbox.org) – Similar to Posteo both in feature set as well as privacy, security and ethics.
+- [Migadu](https://www.migadu.com/) – Migadu is an independent email hosting from Switzerland.
+- [Paranoid Mail](https://paranoid.email/) – GPG encrypted mail provider.
+- [Posteo](https://posteo.de) – Ad-free and anonymous email service based in Germany.
+- [RiseUp](https://riseup.net/en/about-us) – Online communication tools for people and groups working on libratory social change.
+- [Runbox](https://runbox.com/) – Privacy focused eMail provider.
+- [seznam](https://registrace.seznam.cz/) – Similar like Inbox, ads based free mailer.
+- [Soverin](https://soverin.net/) – Located in the Netherlands and offers privacy-oriented email including custom domain name and optional web page too.
+- [Systemli](https://www.systemli.org/en/service/mail.html) – Mailboxes without ads or analysis of your emails.
+- [StartMail](https://www.startmail.com) – A private email service developed by the creators of StartPage.
+- [Thexyz](https://www.thexyz.com/) – A Canadian company offering privacy-conscious business email. Premium web-mail costs around USD $2.95 per month.
+- [Tutanota](https://tutanota.com/) – Secure email for everybody and open source. The provider [accepts Bitcoin or Monero](https://digitalgoods.proxysto.re/), see [here](https://tutanota.com/faq/#cryptocurrency). Tutanota doesn't allow the use of third-party email clients and there are [no plans to pull emails from external eMail accounts using the IMAP protocol](https://github.com/tutao/tutanota/issues/544#issuecomment-670473647). This means [eMail import is currently not possible](https://github.com/tutao/tutanota/issues/630).
+- [Ubikom](https://github.com/regnull/ubikom) – Decentralized E2EE email service.
+- [VFEmail](https://vfemail.net/) – Since 2001, VFEmail has provided businesses and end-users a quick and convenient way to ensure their own security when it comes to email.
+- [Webmail](https://www.webmail.co.za/register.php) – Free email service.
+- [Wasc](https://wasc.me/) – A German, anti-tracking mail service. Clean interface, trackers blocked, obfuscated addresses.
+
+
+### [Onion eMail services](#onion-email-services)
+- [DanWin1210](https://danwin1210.de/new-domain.php) – XMPP, eMail and more.
+- [Elude](https://elude.in/) – Easy to use service.
+- [OnionMail](https://en.onionmail.info/) – An anonymous and encrypted mail server made to run on the TOR network without losing the ability to communicate with the Internet.
+
+
+### [Self-hosting eMail services](#self-hosting-email-services)
+- [IMAP API is now EmailEngine.app](https://emailengine.app/) – Self-hosted application to access your users' IMAP and SMTP accounts via a REST API. Send and receive emails on behalf of your users with ease.
+- [LIV (Live Inbox View)](https://github.com/derek-zhou/liv) – A webmail front-end for your personal email server.
+- [Mail-in-a-Box](https://mailinabox.email) – An easy-to-deploy mail server in a box.
+- [Mailcow](https://mailcow.email) – An advanced mail server perfect for those with a bit more Linux experience.
+- [MailinaBox](https://mailinabox.email/) – Self-hosted eMail made easy.
+- [Modoboa](https://modoboa.org/) – Open-source email server.
+- [RainLoop](https://www.rainloop.net) – A simple, modern & fast web-based email client.
+- [Roundcube](https://roundcube.net) – A web-based IMAP email client.
+- [SOGo](https://www.sogo.nu/) – Share your calendars, address books and mails in your community with a completely free and open source solution.
+
+### [Mail Server](#mail-server)
+- [AnsiMail](https://github.com/AnsiMail/AnsiMail) – Security focused mailserver based on OpenSMTPD/OpenBSD using ansible.
+- [Maddy](https://github.com/foxcpp/maddy) – Composable all-in-one mail server in Go.
+- [Mailpopbox](https://github.com/rsesek/mailpopbox) – Single-user wildcard mail server with arbitrary reply addressing.
+- [Mailu](https://mailu.io/) – A simple yet full-featured mail server as a set of Docker images. It is free software (both as in free beer and as in free speech), open to suggestions and external contributions.
+- [NixOS Mailserver](https://github.com/r-raymond/nixos-mailserver) – A Complete and Simple NixOS Mailserver.
+- [iRedMail](https://www.iredmail.org/) – Free, Open Source Mail Server Solution.
+- [WildDuck](https://github.com/nodemailer/wildduck#wildduck-mail-server) – No spof scalable and API driven email server.
+
+### [Alternative eMail networks](#alternative-email-networks)
+- [mnm is not mail](https://github.com/networkimprov/mnm-hammer) – The mnm project enables a new email network: a sane, simple protocol, a client, and a server. It’s designed for everyone.
+- [TMTP](https://mnmnotmail.org/) – A safer, better, decentralized email network. The client and server are open source, subject to the terms of the Mozilla Public License, v2.0.
+
+
 ## [Encryption (File/FDE)](#encryption-filefde)
 
 The general rule is that encryption is meaningless unless proven, integrating just encryption into a random product means nothing because [Security is only as strong as the weakest link](https://www.youtube.com/watch?v=PEaIadLDLIA).
@@ -1341,6 +1874,26 @@ Electron Framework is in general more [heavy on resources](https://blog.logrocke
 - [TruthOrFiction.com](https://www.truthorfiction.com/) – Truth or Fiction is one of the best fact-checking sites where you can get information on fake news and viral content you may come across online or by email.
 
 
+## [Flashlight Apps](#flashlight-apps)
+- [Flashy](https://github.com/Crazy-Marvin/Flashy) – Simple & Privacy-Friendly Flashlight App.
+- [Simple Flashlight](https://github.com/SimpleMobileTools/Simple-Flashlight) – A simple modern flashlight with SOS, stroboscope & bright display, has no ads.
+
+
+## [File Searching](#file-searching)
+Not so good in terms of privacy:
+- Apple Siri
+- Cortana App
+- MS integrated search trough Cortana app
+
+Privacy oriented alternatives:
+- [czkawka](https://github.com/qarmin/czkawka) – Multifunctional app to find duplicates, empty folders, similar images etc.
+- [Drill](https://github.com/gldev/Drill) – Search files without indexing, but clever crawling.
+- [Cerebro app](https://cerebroapp.com/) – Open-source productivity booster with a brain.
+- [Fast File Finder](https://blog.kowalczyk.info/software/fast-file-finder-for-windows/) – Windows is a tool for quickly finding files by name. - **controversial**
+- [FSearch](https://github.com/cboxdoerfer/fsearch) – A fast file search utility, inspired by Everything Search Engine. It's written in C and based on GTK3 and designed for Linux.
+- [Everything](https://www.voidtools.com/) – Search engine that locates files and folders by filename instantly for Windows.
+
+
 ## [File Systems](#file-systems)
 - [XOpenAFS](http://www.openafs.org/) – Distributed file system supporting a very wide variety of operating systems.
 - [XCephFS](https://ceph.io/) – Distributed file system included in the Ceph storage platform.
@@ -1518,89 +2071,769 @@ Some of the listed apps are not traditional firewalls. I decided included them a
 - [sql_firewall](https://github.com/uptimejp/sql_firewall) – SQL Firewall Extension for PostgreSQL.
 
 
-### [Network-wide ad & tracker blocking DNS servers](#network-wide-ad--tracker-blocking-DNS-servers)
-I do not list the original Pihole project in this section since I think AdGuard Home does overall a better job.
-
-- [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) – Network-wide ads & trackers blocking DNS server.
-- [DNSCrypt](https://github.com/dnscrypt) – A flexible DNS proxy, with support for encrypted DNS protocols.
-- [Donutdns](https://github.com/shoenig/donutdns) – A Simpler Alternative to PiHole.
-- [Unbound](https://www.nlnetlabs.nl/projects/unbound/about/) – Unbound is a validating, recursive, caching DNS resolver.
-- [YogaDNS](http://yogadns.com/) – Automatically intercepts Windows DNS requests at the system level and allows you to process them over user-defined DNS servers using modern protocols and flexible rules.
+## [Gaming Preservation](#gaming-preservation)
+- [GitHub Game Off 2021's top rated games + source ](https://github.blog/2022-01-13-top-entries-from-game-off-2021/) – List of gaming and gaming SDK repositories.
+- [List of FOSS Games on GitHub](https://github.com/michelpereira/awesome-games) – Big list of game, game engines and SDKs hosted on GitHub.
+- [Video Game Preservation](https://github.com/orgs/videogamepreservation/repositories) – List of gaming and gaming SDK repositories.
 
 
-## [Mobile Network-wide Inspection Apps](#mobile-network-wide-inspection-apps)
-- [PCAPdroid](https://github.com/emanuele-f/PCAPdroid) – No-root network monitor and traffic dump tool for Android devices. You can get it [on F-Droid](https://f-droid.org/packages/com.emanuelef.remote_capture) for the OS part [mitmproxy](https://mitmproxy.org/) might come in handy.
+## [Game Emulation](#game-emulation)
+- [86Box](https://github.com/86Box/86Box) – Emulator of x86-based machines based on PCem.
+- [DuckStation](https://github.com/stenzek/duckstation) – PlayStation 1, aka. PSX Emulator.
+- [dosemu2](https://github.com/dosemu2/dosemu2) – Run DOS programs under Linux.
+- [GameHub](https://tkashkin.tk/projects/gamehub/) – A unified library for all your games.
+- [itch.io](https://itch.io) – An online game marketplace and community.
+- [Ludo](https://ludo.libretro.com) – A minimalist front-end for emulators.
+- [Lutris](https://lutris.net) – An open source gaming platform for Linux.
+- [OpenEmu](https://openemu.org) – An open source project to bring game emulation to macOS.
+- [Pegasus](https://pegasus-frontend.org) – A cross platform front-end for launching emulators and managing your game collection.
+- [Playnite](https://playnite.link/) – An open source video game library manager.
+- [PlayOnLinux](https://www.playonlinux.com) – A tool to help Linux, MacOS users run games and programs for Windows.
+- [PlayStation 2 Emulator in a Web Browser](https://playjs.purei.org/) – Open Source PlayStation 2 Emulator in a Web Browser.
+- [RetroArch](https://retroarch.com) – A front-end for emulators, game engines and media players.
+- [vAmiga](https://github.com/dirkwhoffmann/vAmiga/) – macOS Amiga emulator.
+- [Winetricks](https://github.com/Winetricks/winetricks) – An easy way to work around problems in Wine.
+
+### [Mobile Game Emulators](#mobile-game-emulators)
+- [Delta](https://github.com/rileytestut/Delta) – Delta is an iOS application that allows you to emulate and play video games for several classic video game systems, including Game Boy Advance, Nintendo 64, and Nintendo DS.
+- [Lemuroid](https://github.com/Swordfish90/Lemuroid) - An open-source emulation project for Android based on Libretro. Its main goal is ease of use, good Android integration and a great user experience. It has an extensive list of built-in emulators.
+
+### [Game Platforms](#game-platforms)
+- [Good Old Games (GOG)](https://www.gog.com/) – A Steam-like video games platform without any Digital Rights Management: games you buy are yours forever, no one can take them away from you.
+- [Humble Store](https://www.humblebundle.com/store/search?sort=bestselling&drm=download) – The charity initiative Humble Bundle also has an online store that sells both DRM and DRM-free games (the link below goes to their DRM-free section).
+- [Itch.io](https://itch.io/) – Sells games without DRM, so you can buy games and keep them forever.
 
 
-## [Malware analysis](#malware-analysis)
-- [Pifmana](https://gitlab.com/luisfm/pifmana-pipeline-for-malware-analysis) – Pipeline for Malware Analysis.
+## [Generate fake web browsing and mitigate tracking](#Generate-fake-web-browsing-and-mitigate-tracking)
+- [PartyLoud](https://github.com/davideolgiati/PartyLoud) – A simple tool to generate fake web browsing and mitigate tracking.
 
 
-## [macOS malware analysis](#macOS-malware-analysis)
-
-Tools and utilities mentioned in [The Art of Mac Malware by Patrick Wardle](https://taomm.org/vol1/analysis.html).
-
-- ClamAV’s sigtool.
-- DTrace.
-- The base64 utility to decode Base64 data.
-- The codesign utility to check and display code signatures
-- The defaults utility to view the contents of a property list (plist) file.
-- The file utility to determine the file type, e.g. text or code.
-- The find utility to view all of the files contained within an application bundle.
-- The fs_usage utility to monitor system calls file system activity in real-time
-- The hdiutil utility to mount Apple Disk Images (.dmg) and extract the contents.
-- The hexdump utility to display the hexadecimal dump of a given file.
-- The lldb default debugger in Xcode on macOS.
-- The md5 and shasum utilities to generate the hash of the binary.
-- The nettop, netstat and lsof utilities to monitor network sockets and connections.
-- The nm utility to display the symbol table of object, library, or executable file.
-- The osadecompile utility to display compiled AppleScripts.
-- The otool utility to view contents of a file or libraries linked to executables.
-- The pkgutil utility to view information about installer packages (.pkg or .mpkg).
-- The plutil utility to view the contents of a property list (plist) file.
-- The spctl utility to assess how the system will handle a given file, e.g. install and execute.
-- The strings utility to extract strings from a binary.
-- [ASDisasm](https://github.com/Jinmo/applescript-disassemblere) – To disassemble run-only AppleScripts.
-- [Apparency](https://mothersruin.com/software/Apparency/) – To view the results of macOS security checks against a given app.
-- [Crescendo](https://github.com/SuprHackerSteve/Crescendo) – To view events in real-time.
-- [Dylib Hijack Scanner](https://objective-see.com/products/dhs.html) – To find applications susceptible to dylib hijacking.
-- [ESFPlayground](https://themittenmac.com/the-esf-playground/) – To view events from the Apple Endpoint Security Framework (ESF).
-- [FLOSS](https://github.com/fireeye/flare-floss) – To automatically deobfuscate strings from binaries.
-- [FSmonitor](https://fsmonitor.com/) – To monitor all changes to the file system.
-- [FileMonitor](https://objective-see.com/products/utilities.html#FileMonitor) – To view file events, such as creation, modification, deletion.
-- [Hopper](https://www.hopperapp.com/), [IDA Pro](https://www.hex-rays.com/ida-pro/) and [IDA Free](https://www.hex-rays.com/ida-free/l), or [Ghidra](https://ghidra-sre.org/) to disassemble, decompile and debug binaries.
-- [JTool2](http://newosxbook.com/tools/jtool.html) – To view contents of a file or libraries linked to executables.
-- [KnockKnock](https://objective-see.com/products/knockknock.html) – To identify persistently installed software.
-- [MachOView](https://sourceforge.net/projects/machoview/) – To visualize the contents of a Mach-O file, allows in-place editing of binaries.
-- [Netiquette](https://objective-see.com/products/netiquette.html) – To monitor network sockets and connections.
-- [ProcInfo](https://github.com/objective-see/ProcInfo) – To monitor process creations and terminations (deprecated?).
-- [ProcessMonitor](https://objective-see.com/products/utilities.html#ProcessMonitor) – Monitor process creations and terminations.
-- [Suspicious Package](https://mothersruin.com/software/SuspiciousPackage2/) – To open a macOS Installer package and see what's inside.
-- [TaskExplorer](https://objective-see.com/products/taskexplorer.html) – To visually explore all running processes.
-- [TrueTree](https://github.com/themittenmac/TrueTree) – To display a process tree for current running processes.
-- [UPX](https://upx.github.io/) – To unpack UPX’d files.
-- [WhatsYourSign](https://objective-see.com/products/whatsyoursign.html) – To view any file's cryptographic signing information.
-- [Wireshark](https://www.wireshark.org/) and the tcpdump utility to capture and analyze network traffic, the tool works on various platforms.
-- [aevt_decompile](https://github.com/SentineLabs/aevt_decompile) – To decompile AppleScripts.
-- [asar](https://medium.com/how-to-electron/how-to-get-source-code-of-any-electron-application-cbb5c7726c37) or [npx](https://www.npmjs.com/package/npx) to get the source code of an Electron app.
-- [class-dump](http://stevenygard.com/projects/class-dump/) – To extract class information from a Mach-O file.
-- [cleancss.com/perl-beautify/](https://www.cleancss.com/perl-beautify/) – To clean up messy, minified, or obfuscated Perl.
-- [decompiler.com](https://www.decompiler.com/) – To decompile binaries back to source code.
-- [fsmon](https://github.com/nowsecure/fsmon) – To monitor system calls file system activity in real-time.
-- [oletools](http://www.decalage.info/python/oletools) – To analyze Microsoft OLE2 files, such as Office documents or Outlook messages.
-- [olevba](https://github.com/decalage2/oletools/wiki/olevba) – A script to parse Office documents to detect VBA Macros.
+## [GPS, WiFi sensor and network status](#gps-wifi-sensor-and-network-status)
+- [FasterGPS](https://f-droid.org/app/org.fastergps) – You can select a NTP Server matching your region to speed up the process of getting a GPS fix.
+- [GPS Test](https://f-droid.org/app/com.android.gpstest.osmdroid) – An app for testing GPS and GNSS capabilities of a device.
+- [Kotori](https://gitlab.com/isseigx/kotori) – A lightweight, open source speedometer app for Android using GPS.
+- [Nearby](https://github.com/wisespace-io/nearby) – Scans all nearby wifi networks and the devices connected to each network for Indoor positioning.
+- [SatStat](https://f-droid.org/en/packages/com.vonglasow.michael.satstat/) – A diagnostic tool that displays data reported by sensors in the phone.
+- [Sky Map](https://github.com/sky-map-team/stardroid) – Point your phone at the sky, and Sky Map will show the stars, planets,
+- [WiFiKeyShare](https://f-droid.org/app/be.brunoparmentier.wifikeyshare) – Share Wi-Fi passwords with QR codes and NFC tags.
 
 
-## [MongoDB alternatives](#mongodb-alternatives)
-- [FerretDB](https://github.com/FerretDB/FerretDB) – A truly open-source MongoDB alternative.
+## [Google Alerts](#google-alerts)
+- [F5 Bot](https://f5bot.com/) – Emails you when your selected keywords are mentioned on Reddit, Hacker News, or Lobsters.
 
 
-## [Marine Autopilot](#marine-autopilot)
-- [Pypilot](https://pypilot.org/) – An open source marine autopilot.
+## [Google Doodle alternatives](#google-doodle-alternatives)
+- [dudle](https://dudle.inf.tu-dresden.de/)
+- [nuudel](https://nuudel.digitalcourage.de/)
 
 
-## [Monitor Website changes](#monitor-website-changes)
-- [Change Detection](https://f-droid.org/en/packages/com.bernaferrari.changedetection/) – Automatically track website changes in background.
+## [Google Earth](#google-earth)
+- [GeoMapApp](http://www.geomapapp.org/) – GeoMapApp is a map-based application for browsing, visualizing and analyzing a diverse suite of curated global and regional geoscience data sets.
+- [KDE Marble](https://kde.org/applications/education/org.kde.marble) – Currently only on Linux, but is being ported to other platforms.
+- [WorldWind](https://worldwind.arc.nasa.gov/java/) – NASA WorldWind Software Development Kits (SDKs) for geo-spatial 3D virtual globe visualization via OpenGL/WebGL on Android, Java and JavaScript/HTML5.
+- [ossimPlanet](https://trac.osgeo.org/ossim/wiki/OssimPlanet) – A 3D Geospatial viewer built on top of OpenSceneGraph.
+
+
+## [Google Flutter](#google-flutter)
+- [Apache Cordova](https://github.com/apache/cordova) – It's a major tool for web developers.
+- [Codename One](https://github.com/codenameone/CodenameOne) – Most similar tool to flutter on the market, open source, supports Kotlin and Java.
+- [KMM](https://github.com/JetBrains/kotlin) – You can find the [docs here](https://kotlinlang.org/docs/mobile/home.html).
+- [QT](https://code.qt.io/qt/qt5.git) – Cross platform framework for C++ developers.
+
+
+## [Google Forms](#google-forms)
+- [BlockSurvey](https://blocksurvey.io/) – Enables digital rights (identity and data ownership) to users using Blockstack's blockchain. Users truly own their data with BlockSurvey.
+- [Drupal Webform](https://www.drupal.org/project/webform) – Module for making forms and surveys in Drupal content management system (it is not a standalone app).
+- [EUSurvey](https://ec.europa.eu/eusurvey/) – The European Commission's official survey management tool. Its main purpose is to create official surveys of public opinion and forms for internal communication and staff management, e.g. staff opinion surveys and forms for evaluation or registration.
+- [Form Tools](https://www.formtools.org/) – A powerful, flexible, free and open source PHP/MySQL script you install on your website for managing your forms and data.
+- [Input App](https://inputapp.io/en/) – Mobile survey app and cloud sync for Qgis projects.
+- [LimeSurvey](https://limesurvey.org/) – A free open source survey software, it can be used on the LimeSurvey.org site, or you can install it on your own server if you have one.
+- [Nextcloud Forms](https://apps.nextcloud.com/apps/forms) – If you are using Nextcloud, the Forms extension is a good option for creating simple surveys and questionnaires. Survey info and responses are kept private on your Nextcloud instance.
+- [OhMyForm](https://ohmyform.com/) – A free and open source alternative to commercial form creators like Small Typeform iconTypeform and Small Google Drive.
+- [PHP FormBuilder](https://www.apphp.com/index.php?page=product&pc=PHPFB) – Easy-to-use HTML form builder script that provides simple and flexible way to create HTML forms and also validate different types of fields, using embedded ApPHP DataValidator.
+- [Quill Forms](https://quillforms.com/) – Contact forms and surveys act as lead generation machines and bridge the gap between your audience and products.
+- [SurveyJS](https://surveyjs.io/) – A free and open source solution under MIT license. However, professional full-time software developers support it.
+- [Tripetto](https://tripetto.com/) – No-code tool for building truly conversational, logic-driven forms and surveys that lets you flexibly present these as conversational forms or even chats.
+- [VFront](https://github.com/marciuz/vfront) – A free, open source front-end for MySQL, PostgreSQL and SQLite databases written in PHP and Javascript.
+- [Vue Flow Form](https://www.ditdot.hr/en/vue-flow-form) – A form generator tool for developing custom, conversational forms. It's a free, open-source, and self-hosted solution built with Vue.js under the MIT license, that can be integrated into your app or website.
+- [Webform](https://webform.com/) & [self-hostable](https://www.drupal.org/project/webform) – A free open source form software, available to either self-host or host on Webform.com. The version hosted on Webform.com comes in free and paid versions.
+
+
+## [Google Music](#google-music)
+- [Audinaut](https://github.com/nvllsvm/Audinaut) – An open-source Airsonic client for Android.
+- [MALP](https://gitlab.com/gateship-one/malp/-/blob/master/README.md) – An open-source Android client for MPD. Available on F-Droid.
+- [Shuttle+](https://github.com/timusus/Shuttle) – Open-source local music player for Android. Available on F-Droid or by direct download.
+
+
+## [Google Kepp](#google-kepp)
+- [GitJournal](https://gitjournal.io/) – Your Markdown notes stores in any Git Repo. Available for both Android (Play Store) and iOS.
+- [Joplin](https://joplinapp.org/) – Open-source notes/todo app. Available for Windows, macOS, Linux, Android, and iOS. Also offers a terminal version.
+- [Nextcloud Notes](https://apps.nextcloud.com/apps/notes) – A distraction free notes taking app for Nextcloud. It provides categories for better organization and supports formatting using Markdown syntax.
+- [Notesnook](https://notesnook.com/) – A truly zero-knowledge note taking app, encrypted using XChaChaPoly1305-IETF & Argon2. It is available on Windows, macOS, Linux, Android, iOS, and has browser extensions too. It is not self-hostable and follows a freemium model.
+- [QOwnNotes](https://www.qownnotes.org/) – Open-source file editor with Markdown support. (thanks u/maqp2)
+- [Rnote](https://github.com/flxzt/rnote) – A simple note taking application written in Rust and GTK4.
+- [Standard Notes](https://standardnotes.com/) – Encrypted note storage with loads of features. Offers a web app as well as downloads for most operating systems. Has a paid plan, but the free tier has many useful features as well.
+- [TiddlyWiki](https://tiddlywiki.com/) – An open-source personal note-taking system that can run in the browser as a single HTML file or as a NodeJS application. It can be stored locally on a hard drive or removable drive, self-hosted on one's own server, or use various web-based storage options.
+- [Turtl](https://turtlapp.com/) – Encrypted collaborative notebook with possibility of running your own server.
+
+
+## [Google Classroom](#google-classroom)
+- [Canvas](https://www.instructure.com/canvas) – Paid service by Instructure. Also available as a self-hosted, open-source option.
+- [ILIAS](https://www.ilias.de/en/) – Self-hosted open-source classroom software.
+- [Moodle](https://moodle.org/) – Self-hosted open-source Classroom software for schools. Very powerful.
+
+
+## [Google Sheets](#google-sheets)
+- [Grist](https://github.com/gristlabs/grist-core) – Open core alternative to G Sheets with SQLite storage and Python formulas.
+- [Magic Sheets](https://www.magicsheets.io/) – Machine Learning for Google Sheets. - **controversial**
+
+
+## [Google Sites](#google-sites)
+Not so good in terms of privacy:
+- Google Sites
+- Squarespace
+- Weebly
+
+Privacy oriented alternatives:
+- [NoemieCms](https://framagit.org/framasoft/PrettyNoemieCMS) – French only alternative to Google Sites.
+- [Pico CMS for Nextcloud](https://apps.nextcloud.com/apps/cms_pico) – CMS system for NextCloud.
+
+
+## [Google Safetynet](#google-safetynet)
+
+Faking, spoofing, manipulating category for SafetyNet Attestation and other Android limitations.
+
+- [DisableFlagSecure](https://github.com/LSPosed/DisableFlagSecure/releases/) – Disable FLAG_SECURE on all windows, enabling screenshots in apps that normally wouldn't allow it.
+- [FakeXposed](https://github.com/sanfengAndroid/FakeXposed) – Hide xposed, root, file redirection, etc.
+- [Safetynet-fix](https://github.com/kdrag0n/safetynet-fix) – A universal fix for Google SafetyNet on Android devices with hardware attestation and unlocked bootloaders.
+- [hsu](https://github.com/rmnscnce/hsu) – Magisk module for hiding Magisk and root by entirely disabling and hiding them.
+
+
+## [Google Trends](#google-trends)
+
+There are some open source API's available to Google trends.
+
+- [In Golang](https://github.com/groovili/gogtrends)
+- [In Java](https://github.com/elibus/j-google-trends-api)
+- [In node](https://www.npmjs.com/package/google-trends-api)
+- [In php](http://codingfocus.com/google-trends-api)
+- [In Python](https://github.com/GeneralMills/pytrends)
+- [Java client side](https://github.com/elibus/j-google-trends-client)
+- [Keyword Tool](https://keywordtool.io/google-trends) – Get Great Keywords From Google Trends In Seconds. - **controversial**
+- [pytrends - Pseudo API for Google Trends](https://github.com/GeneralMills/pytrends) – Allows simple interface for automating downloading of reports from Google Trends.
+
+
+## [Google Workspace](#google-workspace)
+
+Most tools are normally paid or freemium only because you need to put lots of time, effort and maintenance in such G-Suite alternatives.
+
+- [Fastmail](https://github.com/fastmail) – Fastmail is considerable a solid alternative for email & calendar. Fastmail is also listed under eMail provider.
+- [Kolab Community](https://kolab.org/) – A secure, scalable, reliable, flexible, full-featured collaboration suite. - **controversial**
+- [Kopano](https://kopano.com/) – Sharing & communication software for business. - **controversial**
+- [Mailfence Collaboration Suite](https://mailfence.com/) – Secure and private collaboration suite that includes emails, contacts, calendars, and documents. Users can create groups to collaborate, chat and share data. - **controversial**
+- [MXRoute](https://mxroute.com/) – Offers lifetime promo but is not FOSS. - **controversial**
+- [Nextcloud Hub](https://nextcloud.com/hub/) – Nextcloud is the most deployed on-premises file share and collaboration platform.
+- [OpenChange](https://github.com/openchange/openchange) – OpenChange aims to provide a portable Open Source implementation of Microsoft Exchange Server and Exchange protocols. - **controversial**
+- [WikiSuite](http://wikisuite.org/) – The most comprehensive and integrated Free / Libre / Open Source enterprise software suite.
+- [Zimbra Collaboration Suite](https://www.zimbra.com/email-server-software/) – An open, secure collaboration tool for email, calendaring, tasks and more. - **controversial**
+
+
+## [Graphic Novels & Comic Books](#graphic-novels--comic-books)
+- [Comic Book Plus](http://comicbookplus.com/) – Comic books in CBR/CBZ. Requires free registration.
+- [Comics Fu](http://comicsfu.com/) – A platform for creating digital comic stores.
+- [comiXology](https://www.comixology.com/) – Sells comics and offers DRM-free backups on select titles.
+- [Dynamite Entertainment](http://dynamite.com/digital/) – Sells DRM-free comics and graphic novels.
+- [Panel Syndicate](http://panelsyndicate.com/) – A pay-what-you want website for comics by artist Marcos Martin and writer Brian K. Vaughan.
+- [Rebellion Publishing](http://www.rebellionstore.com/) – A digital publisher of ebooks, graphic novels, and comic books.
+- [Thrillbent](http://thrillbent.com/shop/) – A digital comics site created by award-winning comics writer Mark Waid and television writer/producer extraordinaire John Rogers.
+
+
+## [Groceries](#groceries)
+- [Grocy](https://grocy.info/) – A web-based self-hosted open source groceries and household management solution for your home. There is also an F-Droid app.
+
+
+### [Mobile Groceries Apps](#mobile-groceries-apps)
+- [Grocery manager](https://grocy.info/) – Manage your groceries on Android.
+
+
+## [Governmental Petition Portals](#governmental-petition-portals)
+
+> Some, or most listed alternatives are using Cloudflare or are CL hosted. See below why CL is general not wanted.
+
+Some common sites that are FOSS:
+- [gopetition.com](https://gopetition.com/)
+- [openpetition.de](https://openpetition.de/)
+- [openpetition.org](https://openpetition.org/)
+- [petitions.net](https://petitions.net/)
+- [thepetitionsite.com](https://thepetitionsite.com/)
+
+Controversial:
+- Brazil: [Ideia Legislativa](https://www12.senado.leg.br/ecidadania/principalideia)
+- European Union: [European Citizens’ Initiative](https://ec.europa.eu/citizens-initiative)
+- Finland: [Kansalaisaloite](https://www.kansalaisaloite.fi/) / [Kuntalaisaloite](https://www.kuntalaisaloite.fi/)
+- Germany: [Deutscher Bundestag Petitionen](https://epetitionen.bundestag.de/)
+- Ireland: [Oireachtas Online Petitions](https://petitions.oireachtas.ie/)
+- Scotland: [Scottish Parliament Petitions](https://www.parliament.scot/gettinginvolved/petitions/)
+- Ukraine: [Presidential Petition](https://petition.president.gov.ua/) / [Government Petition](https://petition.kmu.gov.ua/) / [Parliamentary Petition](https://itd.rada.gov.ua/petitions/)
+- United Kingdom: [UK Government Petitions](https://petition.parliament.uk/)
+- United States: [Whitehouse Petitions](https://petitions.whitehouse.gov/) / [Ballot Initiatives](https://oag.ca.gov/initiatives)
+
+
+## [Guides connected to privacy, security or anonymity](#guides-connected-to-privacy-security-or-anonymity)
+
+Please keep in mind that some guides might be a bit older, however some still have meaning and you possible can learn from them in an historic context to see how certain stuff evolved, or stay the same. In general guidance are only as good as the author did the research on the given topic, which means that some things can be universally applied to specific threads and other guidance are specific to one or a few given examples.
+
+
+I usually only unlist stuff that is entirely incorrect or even dangerous to follow because security practical constantly evolves in both ways, positive ways and negative ways, which means new attacks emerge and new counter measurements also getting released because of the new threats.
+
+
+Listed guidance are provided as-is.
+
+
+### ["Best practice" Guides](#best-practice-guides)
+- [5 Best Practices for Securing SSH](https://goteleport.com/blog/5-ssh-best-practices/)
+- [A cookbook with the best practices for working with Kubernetes](https://github.com/diegolnasc/kubernetes-best-practices)
+- [A collection of best practices to consider when building user interfaces](https://lawsofux.com/)
+- [ANSSI - Configuration recommendations of a GNU/Linux system](https://www.ssi.gouv.fr/en/guide/configuration-recommendations-of-a-gnulinux-system/)
+- [ANSSI Best Practices](https://www.ssi.gouv.fr/en/best-practices/)
+- [Applied Crypto Hardening – Reference on how to configure the most common services’ crypto settings (TLS/SSL, PGP, SSH and other cryptographic tools)](https://bettercrypto.org/)
+- [auditd - Best Practice Auditd Configuration](https://github.com/Neo23x0/auditd)
+- [Beginner guide: How to secure your self-hosted services](https://old.reddit.com/r/selfhosted/comments/pufhs0/beginner_guide_how_to_secure_your_selfhosted/)
+- [Best Practices for Anti-Money Laundering Compliance 2019 – 2020](https://www.americangaming.org/wp-content/uploads/2019/12/AGA-AML-Best-Practices_12-9.pdf)
+- [Best Practices for Azure Container Registry](https://docs.microsoft.com/en-us/azure/container-registry/container-registry-best-practices)
+- [Best Practices for Letting Go of a Remote Team Member](https://www.infoq.com/articles/letting-go-remote/)
+- [Best practices for ML lifecycle stages](https://dev.to/cloudtech/best-practices-for-ml-lifecycle-stages-4g9b)
+- [Best Practices to optimize query costs in BigQuery](https://metriql.com/blog/2021/09/30/best-practices-to-optimize-the-query-costs-in-BigQuery)
+- [Best practices for writing faster SQL queries](https://guides.tinybird.co/guide/best-practices-faster-sql-queries)
+- [Best practices for adopting and designing IPv6-based networks on AWS](https://d1.awsstatic.com/whitepapers/IPv6-on-AWS.pdf)
+- [CIS Benchmark for Red Hat Linux](https://www.cisecurity.org/benchmark/red_hat_linux/)
+- [Container Security Best Practices](https://sysdig.com/blog/container-security-best-practices/)
+- [Create your own Git server using Raspberry Pi and GitLab](https://medium.com/@kevalpatel2106/create-your-own-git-server-using-raspberry-pi-and-gitlab-f64475901a66)
+- [Database Security Best Practices in 2022](https://backendless.com/database-security-best-practices/)
+- [Defective Sign & Encrypt in S/MIME, PKCS#7, MOSS, PEM, PGP, and XML](https://theworld.com/~dtd/sign_encrypt/sign_encrypt7.html)
+- [Digital Security for Filmmakers](https://digitalsecurity.film/)
+- [DISA STIGs – Red Hat Enterprise Linux 7 (2019)](https://public.cyber.mil/stigs/downloads/?_dl_facet_stigs=unix-linux)
+- [Endpoint Isolation with the Windows Firewall, talk from Ignite 2016](https://medium.com/@cryps1s/endpoint-isolation-with-the-windows-firewall-462a795f4cfb) based on Jessica Payne’s [Demystifying the Windows Firewall](https://channel9.msdn.com/Events/Ignite/New-Zealand-2016/M377)
+- [Enforcing best practice on self-serve infrastructure with Terraform](https://tech.loveholidays.com/enforcing-best-practice-on-self-serve-infrastructure-with-terraform-atlantis-and-policy-as-code-911f4f8c3e00)
+- [ERNW – IPv6 Hardening Guide for Windows Servers](https://www.ernw.de/download/ERNW_Guide_to_Configure_Securely_Windows_Servers_For_IPv6_v1_0.pdf)
+- [FDA: Best Practices for Communicating Cybersecurity Vulnerabilities to Patients](https://www.fda.gov/about-fda/cdrh-patient-science-and-engagement-program/best-practices-communicating-cybersecurity-vulnerabilities-patients)
+- [FIRST Best Practice Guide Library](https://www.first.org/resources/guides/)
+- [Git Commit Good Practice](https://wiki.openstack.org/wiki/GitCommitMessages)
+- [Guide for GitLab and I2P self-hosting](https://geti2p.net/en/docs/applications/git-bundle)
+- [Guidance on Software Development and Open Source Software ](https://dodcio.defense.gov/Portals/0/Documents/Library/SoftwareDev-OpenSource.pdf)
+- [Guide to DRM-Free Living: Literature](https://www.defectivebydesign.org/guide/ebooks)
+- [Hashes and ETags: Best Practices](https://cloud.google.com/storage/docs/hashes-etags)
+- [Install a self-hosted Git server with Gitea on a VPS](https://golb.hplar.ch/2018/06/self-hosted-git-server.html)
+- [Linux workstation security checklist](https://github.com/lfit/itpol/blob/master/linux-workstation-security.md)
+- [Microsoft – How to detect, enable and disable SMBv1, SMBv2, and SMBv3 in Windows and Windows Server](https://support.microsoft.com/en-gb/help/2696547/detect-enable-disable-smbv1-smbv2-smbv3-in-windows-and-windows-server)
+- [Microsoft recommended block rules](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules) – List of applications or files that can be used by an attacker to circumvent application whitelisting policies.
+- [Mozilla Guidelines to Secure SSH](https://infosec.mozilla.org/guidelines/openssh)
+- [Netherlands NCSC – IT Security Guidelines for Transport Layer Security (TLS) (2019)](https://www.ncsc.nl/english/current-topics/factsheets/it-security-guidelines-for-transport-layer-security-tls.html)
+- [NIST SP 800-41 Rev 1 – Guidelines on Firewalls and Firewall Policy (2009)](https://www.nist.gov/publications/guidelines-firewalls-and-firewall-policy)
+- [NIST SP800-52 Rev 2 (2nd draft) – Guidelines for the Selection, Configuration, and Use of Transport Layer Security (TLS) Implementations (2018)](https://csrc.nist.gov/publications/detail/sp/800-52/rev-2/draft)
+- [nixCraft – How to set up a firewall using FirewallD on RHEL 8](https://www.cyberciti.biz/faq/configure-set-up-a-firewall-using-firewalld-on-rhel-8/)
+- [NSA – A Guide to Border Gateway Protocol (BGP) Best Practices](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/ctr-guide-to-border-gateway-protocol-best-practices.pdf?v=1)
+- [NSA – AppLocker Guidance](https://github.com/nsacyber/AppLocker-Guidance) – Configuration guidance for implementing application whitelisting with AppLocker.
+- [NSA – BitLocker Guidance](https://github.com/nsacyber/BitLocker-Guidance) – Configuration guidance for implementing disk encryption with BitLocker.
+- [NSA – Event Forwarding Guidance](https://github.com/nsacyber/Event-Forwarding-Guidance) – Configuration guidance for implementing collection of security relevant Windows Event Log events by using Windows Event Forwarding.
+- [NSA – Pass the Hash Guidance](https://github.com/nsacyber/Pass-the-Hash-Guidance) – Configuration guidance for implementing Pass-the-Hash mitigation's (Archived).
+- [Please don't use Discord for FOSS projects](https://drewdevault.com/2021/12/28/Dont-use-Discord-for-FOSS.html)
+- [Privacy Settings for major softwares](https://github.com/the-weird-aquarian/privacy-settings)
+- [Protect Yourself: Commercial Surveillance Tools](https://www.dni.gov/files/NCSC/documents/SafeguardingOurFuture/FINAL_Jan-7-2022_Protect_Yourself_Commercial_Surveillance_Tools.pdf)
+- [Push Notification Best Practices You Should Follow in 2021](https://www.moengage.com/learn/push-notification-best-practices/)
+- [Red Hat – A Guide to Securing Red Hat Enterprise Linux 7](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html-single/security_guide/index)
+- [RFC 7540 Appendix A TLS 1.2 Cipher Suite Black List](https://tools.ietf.org/html/rfc7540#appendix-A)
+- [Sandbox Best Practices Cheatsheet in 2022](https://twitter.com/hackinarticles/status/1488781720564363265)
+- [Security Checklist – Checklist of resources designed to improve your online privacy and security.](https://securitycheckli.st/)
+- [Security Guidance for 5G Cloud Infrastructures. Part II: Securely Isolate Network Resources (2021)](https://www.cisa.gov/sites/default/files/publications/Security_Guidance_For_5G_Cloud_Infrastructures_Part_II_Updated_508_Compliant.pdf)
+- [Small Mailserver Best Current Practice](https://bridge.grumpy-troll.org/2020/07/small-mailserver-bcp/)
+- [Software Development and Open Source Software (In the DoD)](https://dodcio.defense.gov/portals/0/documents/library/softwaredev-opensource.pdf)
+- [SSL/TLS Recommender](https://blog.cloudflare.com/ssl-tls-recommender/)
+- [TeamViewer Security Best Practices](https://old.reddit.com/r/teamviewer/comments/4ktys8/teamviewer_security_best_practices/)
+- [trimstray - Linux Hardening Checklist](https://github.com/trimstray/linux-hardening-checklist) - Most important hardening rules for GNU/Linux systems which is a summarized version of The Practical Linux Hardening Guide.
+- [Top 10 Best Practices for Azure Security in 2021 (YT Video)](https://www.youtube.com/watch?v=Etv4jH-zHrM)
+- [trimstray – IPTables Essentials: Common Firewall Rules and Commands](https://github.com/trimstray/iptables-essentials)
+- [Windows Defense in Depth Strategies](https://docs.google.com/document/d/1_43UroB0zY4-R2E2r_nH4ndYpDmXAY8g0oTp8yWlwBk/edit?usp=sharing)
+- [Your home router sucks! Replace it with pfSense!](https://davidilie.com/blog/replace-your-home-router-with-pfsense)
+- [WebGPU Best Practices](https://toji.github.io/webgpu-best-practices/)
+- [When to self-host critical application components](https://fusionauth.io/blog/2021/08/05/when-to-self-host/)
+- [Zero Trust Architecture by NIST](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207.pdf)
+
+
+### [Anti-censorship Guides and Tools](#anti-censorship-guides-and-tools)
+- [Apple censorship App Check Website](https://applecensorship.com/)
+- [A closer look at the Great Firewall of China – Tor Blog](https://blog.torproject.org/blog/closer-look-great-firewall-china)
+- [Analyzing China's Blocking of Unpublished Tor Bridges](https://www.usenix.org/conference/foci18/presentation/dunna)
+- [Building Permanent and Censorship-Resistant Blog with Ethereum ENS and IPFS](https://pawelurbanek.com/ipfs-ethereum-blog)
+- [Course info – ECEN 5003: Censorship Circumvention](https://ericw.us/trow/ecen5003/)
+- [Format-Transforming Encryption](https://kpdyer.com/publications/ccs2013-fte.pdf)
+- [How the Great Firewall of China is Blocking Tor](https://www.usenix.org/system/files/conference/foci12/foci12-final2.pdf)
+- [How to bypass Egypt's WireGuard ban](https://www.ntkernel.com/how-to-bypass-egypts-wireguard-ban/)
+- [Learning more about the GFW's active probing system](https://blog.torproject.org/blog/learning-more-about-gfws-active-probing-system)
+- [My Experience With the Great Firewall of China](http://blog.zorinaq.com/my-experience-with-the-great-firewall-of-china/)
+- [ScrambleSuit](http://arxiv.org/pdf/1305.3199.pdf)
+- [Selected Research Papers in Internet Censorship](https://censorbib.nymity.ch/)
+- [stegotorus](http://freehaven.net/anonbib/cache/ccs2012-stegotorus.pdf)
+- [Towards a Censorship Analyser for Tor](http://www.cs.kau.se/philwint/pdf/foci2013.pdf)
+
+
+### [Opsec Guides](#opsec-guides)
+- [Account and mobile security](https://www.kicksecure.com/wiki/Account_and_Mobile_Security)
+- [Digital minimalism, developing a simple threat model](https://github.com/privacyguides/privacyguides.org/discussions/468)
+- [Linux hardening guide](https://madaidans-insecurities.github.io/guides/linux-hardening.html)
+- [Opsec 101](https://opsec101.org/)
+- [Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist)
+- [Privacy and security advice](https://madaidans-insecurities.github.io/index.html)
+- [Your Security Plan](https://ssd.eff.org/en/module/your-security-plan)
+
+
+### [Security Guides](#security-guides)
+- [.NET Runtime Security Mitigations](https://github.com/dotnet/designs/blob/main/accepted/2021/runtime-security-mitigations.md)
+- [A Guide to Decentralized Science](https://future.a16z.com/what-is-decentralized-science-aka-desci/)
+- [A stick figure guide to the Advanced Encryption Standard (AES) (2009)](http://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html)
+- [Adding E2E Encryption for Proxied Data](https://blog.px.dev/e2e-encryption/)
+- [ANSSI – Hardware security requirements for x86 platforms](https://www.ssi.gouv.fr/en/guide/hardware-security-requirements-for-x86-platforms/) – Recommendations for security features and configuration options applying to hardware devices (CPU, BIOS, UEFI, etc) (Nov 2019).
+- [Apples Personal Safety User Guide](https://support.apple.com/guide/personal-safety/welcome/web)
+- [asecure.cloud – Build a Secure Cloud](https://asecure.cloud/) – A free repository of customizable AWS security configurations and best practices.
+- [Australian Cyber Security Center Publications](https://www.cyber.gov.au/publications)
+- [Basic and practical security tips for Linux by Jesse Smith](https://distrowatch.com/weekly.php?issue=20220124#qa)
+- [Beginner's Guide to Social Media Verification](https://www.bellingcat.com/resources/2021/11/01/a-beginners-guide-to-social-media-verification/)
+- [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/)
+- [CISA Compiles Free Cybersecurity Services and Tools for Network Defenders](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/18/cisa-compiles-free-cybersecurity-services-and-tools-network)
+- [CUPS Server Security](https://www.cups.org/doc/security.html)
+- [Cyber security in the public cloud](https://www.infoworld.com/article/3634111/cyber-security-in-the-public-cloud.html) – A brief guide to the network, infrastructure, data, and application security capabilities AWS, Microsoft Azure, and Google Cloud provide to prevent cyber-attacks and protect your cloud-based resources and workloads.
+- [Cyber Security Trends of 2021](https://deduce.today/blog/posts/1-cybersecurity-trends-2021)
+- [Detecting Rootkits in Windows and Linux](https://deer-run.com/users/hal/DetectingRootkits.pdf)
+- [DISA DoD Cloud Computing Security](https://iase.disa.mil/cloud_security/Pages/index.aspx)
+- [Encryption with Gnu Privacy Guard](http://digital-era.net/encryption-with-gnu-privacy-guard-gpg/)
+- [EU Digital Markets Act and Digital Services Act Explained](https://www.europarl.europa.eu/news/en/headlines/society/20211209STO19124/eu-digital-markets-act-and-digital-services-act-explained)
+- [FIPS Compliant Crypto in Golang](https://kupczynski.info/2019/12/15/fips-golang.html)
+- [GitHub Advisory Database for CVEs](https://github.com/advisories)
+- [Guide to De-Google and privacy on android](https://turtlecute33.github.io/privacy.github.io/index_eng.html)
+- [Hands-on tutorials to learn about software supply chain security](https://github.com/step-security/supply-chain-goat)
+- [How do you spot fake Chinese USB hard drives?](http://blog.gsmarena.com/how-do-you-spot-fake-chinese-usb-hard-drives-well-you-take-them-apart/)
+- [How to find and remove spyware from your phone](https://www.zdnet.com/article/how-to-find-and-remove-spyware-from-your-phone/)
+- [How to get the best out of your Yubikey with GPG](https://calbryant.uk/blog/how-to-get-the-best-out-of-your-yubikey-with-gpg/)
+- [How you can auto-renew and forget about TLS certificates with cert-manager](https://ikarus.sg/deploy-cert-manager-tls/)
+- [HTTP vs. HTTPS: What's the Difference and Why Should You Care?](https://www.entrepreneur.com/article/281633)
+- [Linux NFS-HOWTO – Security and NFS](https://www.tldp.org/HOWTO/NFS-HOWTO/security.html) – Overview of NFS security issues and some mitigation.
+- [Lissy93's Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist)
+- [NSA Cybersecurity Resources for Cybersecurity Professionals](https://www.nsa.gov/what-we-do/cybersecurity/) and [NSA Cybersecurity publications](https://nsacyber.github.io/publications.html)
+- [NSA Info Sheet: Cloud Security Basics (August 2018)](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-cloud-security-basics.pdf?v=1)
+- [NSA Security Configuration Guidance](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-configuration/index.cfm?PAGE=1&itemsQty=ALL)
+- [OpenSCAP Security Policies](https://www.open-scap.org/security-policies/)
+- [OWASP Mobile Security Testing Guide](https://owasp.org/www-project-mobile-security-testing-guide/)
+- [Reasonable Security Checklist for Personal Information](https://oipc.novascotia.ca/sites/default/files/publications/Reasonable%20Security%20Checklist%20for%20Personal%20Information%20(22%20Sept%2015)_0.pdf)
+- [Security Headers: Scan your site](https://securityheaders.com/)
+- [Security in a Box](https://securityinabox.org/en/) – Tutorials on how to stay private online and install privacy-preserving apps.
+- [Setup your SSH security key in less than two minutes](https://www.youtube.com/watch?v=NpHRqmYvzuk)
+- [systemd service sandboxing and security hardening 101](https://www.ctrl.blog/entry/systemd-service-hardening.html)
+- [The Crypto Paper](https://github.com/cryptoseb/CryptoPaper)
+- [The DevOps: A Concise Understanding to the DevOps Philosophy and Science](https://www.osti.gov/biblio/1785164)
+- [Tips to build a Content Security Policy (CSP) without breaking your site](https://blog.rapidsec.com/10-tips-to-build-a-content-security-policy-csp-without-breaking-your-site/)
+- [US DoD DISA Security Technical Implementation Guides (STIGs) and Security Requirements Guides (SRGs)](https://public.cyber.mil/stigs/)
+- [Using a Yubikey for GPG and SSH](https://0day.work/using-a-yubikey-for-gpg-and-ssh/)
+- [Using GPG to Encrypt Your Data](https://www.nas.nasa.gov/hecc/support/kb/using-gpg-to-encrypt-your-data_242.html)
+- [Zebra Crossing](https://github.com/narwhalacademy/zebra-crossing) – An easy-to-use digital safety checklist.
+
+
+### [IoT Security](#iot-security)
+- [Cyber Security Baseline for Consumer Internet of Things Device](https://github.com/MiSecurity/Cyber-Security-Baseline-for-Consumer-Internet-of-Things/blob/main/resources/pdf/Cyber%20Security%20Baseline%20for%20Consumer%20Internet%20of%20Things%20Device.pdf)
+
+
+### [iOS specific Privacy Guides](#ios-specific-privacy-guides)
+- [Apple iOS 15 Privacy Guide](https://inteltechniques.com/ios15.html)
+- [Securing Mobile: Settings](https://thenewoil.org/mobile-settings.html)
+- [iOS privacy and security checklist](https://security.utexas.edu/handheld-hardening-checklists/ios)
+- [iOS-Privacy-Guide](https://github.com/paulaime/iOS-Privacy-Guide)
+
+
+### [Privacy Guides](#privacy-guides)
+- [A Guide to Using RSS to Replace Social Media](https://lukesmith.xyz/blog/a-guide-to-using-rss-to-replace-social-media)
+- [Android Privacy Guide – Take Control Of Your Data](https://gitlab.com/Attedz/AndroidPrivacyGuide)
+- [Big Ass Data Broker Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List)
+- [Compute Freely - Is a website designed to be approachable and friendly for people curious about free and open source operating systems and Linux distributions.](https://computefreely.org/)
+- [Cookie Status - Tracking protection mechanisms comparison and overview](https://www.cookiestatus.com/)
+- [Crank up the volume on that Pixies album: Time to exercise your Raspberry Pi with an... alternative browser](https://www.theregister.com/2021/09/20/flow_redux/)
+- [Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World](https://www.amazon.com/Data-Goliath-Battles-Collect-Control/dp/039335217X?crid=1JRRTVHWTK72I&keywords=data+security&qid=1536656236&sprefix=data+security%2Caps%2C258&sr=8-6)
+- [Decentralized Thoughts](https://decentralizedthoughts.github.io/)
+- [Device Privacy Tips](https://spreadprivacy.com/tag/device-privacy-tips/)
+- [Differential Privacy: A Primer for a Non-technical Audience](https://privacytools.seas.harvard.edu/files/privacytools/files/pedagogical-document-dp_new.pdf)
+- [DuckDuckGo's privacy newsletter](https://duckduckgo.com/newsletter)
+- [EFF: Surveillance Self-Defense](https://ssd.eff.org)
+- [EPIC – Online Guide to Practical Privacy Tools](https://www.epic.org/privacy/tools.html)
+- [eMail security and privacy](https://blog.mailfence.com/email-security-and-privacy/)
+- [Encrypted Email 101: How to Encrypt Your Emails and Protect Your Company Data](https://halborn.com/encrypted-email-101/)
+- [Everything You Need to Know About Password Managers](https://outline.com/NC69FD)
+- [Firefox: Privacy Related "about:config" Tweaks](https://www.privacytools.io/browsers/#about_config)
+- [Four Methods to Create a Secure Password You'll Actually Remember](https://outline.com/XuMTFA)
+- [Freedom Privacy over Internet (FPoI) – How to maintain freedom and privacy using technology and Internet](https://fpoi.gitlab.io/fpoi/download.html)
+- [Google Tag Manager (Server-Side Tagging), la nouvelle arme anti adblock?](https://www.pixeldetracking.com/fr/google-tag-manager-server-side-tagging)
+- [Guide to building the android source](https://source.android.com/setup/build/building)
+- [Guide to privacy settings for Google, Facebook, Windows 10, Android, Firefox, Brave, Signal and more](https://github.com/the-weird-aquarian/privacy-settings)
+- [Hacks4Pancakes – Thwart my OSINT Efforts while Binging TV!](https://tisiphone.net/2017/01/25/thwart-my-osint-efforts-while-binging-tv/)
+- [How to Replace Gmail](https://sami.eljabali.org/how-to-replace-gmail/)
+- [How to create a strong password (and remember it)](https://outline.com/dqfuqL)
+- [How to delete remembered passwords](http://www.wikihow.com/Delete-Remembered-Passwords)
+- [How to disable Telemetry and Data Collection in Windows 10](https://winaero.com/blog/how-to-disable-telemetry-and-data-collection-in-windows-10/)
+- [How to get companies to delete your personal data that they are hoarding](https://web.archive.org/web/20210926205849/https://www.washingtonpost.com/technology/2021/09/26/ask-company-delete-personal-data/)
+- [How to permanently delete a Facebook account](https://deletefacebook.com/)
+- [How to permanently delete a Facebook account](https://www.wikihow.com/Permanently-Delete-a-Facebook-Account)
+- [IntelTechniques – Personal Data Removal Workbook & Credit Freeze Guide](https://inteltechniques.com/data/workbook.pdf)
+- [Internet Privacy Guide – Keeping Your Data Safe Online](https://hackernoon.com/internet-privacy-guide-keeping-your-data-safe-online-be3d823f05f5)
+- [Keystroke tracking, screenshots, and facial recognition: The boss may be watching long after the pandemic ends](https://web.archive.org/web/20210924155252/https://www.washingtonpost.com/technology/2021/09/24/remote-work-from-home-surveillance/)
+- [Lectures on Data Security – Modern Cryptology in Theory and Practice](https://www.springer.com/us/book/9783540657576)
+- [List of best privacy practices provided by SpiderOAK](https://spideroak.com/infosec/)
+- [Location history: How your location is tracked and how you can limit sharing it](https://blog.mozilla.org/en/internet-culture/mozilla-explains/location-history/)
+- [MacOS privacy guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)
+- [Manage Windows 10 Telemetry and Data Collection settings](https://www.thewindowsclub.com/windows-10-telemetry)
+- [Mobile privacy: a better practice guide for mobile app developers](https://www.oaic.gov.au/resources/agencies-and-organisations/guides/guide-for-mobile-app-developers.pdf)
+- [Mozilla’s Privacy Not Included buyer’s guide](https://foundation.mozilla.org/en/privacynotincluded/)
+- [Multi-factor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication)
+- [New tool reveals ultimate owners of companies](https://www.skoltech.ru/en/2021/09/new-tool-reveals-ultimate-owners-of-companies/)
+- [OWASP User Privacy Protection Cheat Sheet](https://www.owasp.org/index.php/User_Privacy_Protection_Cheat_Sheet)
+- [Open source, experimental, and tiny tools roundup](https://tinytools.directory/)
+- [Opting Out of TurnItIn](https://shkspr.mobi/blog/2021/09/opting-out-of-turnitin/)
+- [Permanent Record by Edward Snowden](https://amzn.to/30wxxXi)
+- [Practical Privacy: A Guide for Everyone](https://auth0.com/blog/practical-privacy-a-guide-for-everyone/)
+- [Privacy Crash Course](https://spreadprivacy.com/tag/privacy-newsletter/)
+- [Privacy Rights Clearinghouse – Online Privacy: Using the Internet Safely](https://www.privacyrights.org/consumer-guides/online-privacy-using-internet-safely)
+- [Privacy by Design by Nishant Bhajaria](https://www.manning.com/books/privacy-by-design)
+- [Pro Privacy: Encryption for Privacy Guide](https://proprivacy.com/guides/the-ultimate-privacy-guide)
+- [Public Information Opt-Out Guide](https://the.osint.ninja/optoutdoc)
+- [Reddit privacy Wiki](https://old.reddit.com/r/privacy/wiki/index)
+- [Reflections on Apple's iCloud Private Relay: Does it Really Improve Privacy?](https://gfw.report/blog/private_relay_privacy/en/)
+- [Remove bloatware from Android without root](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/)
+- [Sandworm Book by Andy Greenberg](https://amzn.to/2FVByeJ)
+- [Search Encrypt – Beginner’s Guide to Internet Safety & Privacy](https://choosetoencrypt.com/privacy/complete-beginners-guide-to-internet-safety-privacy/)
+- [Secured.fyi](https://secured.fyi/) – A ranking of paid and free services based on security and privacy attributes.
+- [Securing Personal Information: A Self-Assessment Tool for Organizations](https://www.oipc.bc.ca/guidance-documents/1439)
+- [Security in-a-box – Keep your digital communication private](https://securityinabox.org/en/guide/secure-communication/)
+- [Set Up a Home Server](https://www.wired.com/2010/02/set-up-a-home-server/)
+- [Spread Privacy – The Official DuckDuckGo Blog](https://spreadprivacy.com/)
+- [Stay Safe Online – Managing Your Privacy](https://staysafeonline.org/stay-safe-online/managing-your-privacy/)
+- [Switching.software](https://switching.software/) – Is a collection of ethical, easy-to-use and privacy-conscious alternatives to well-known software.
+- [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)
+- [The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data](https://www.amazon.com/Art-Invisibility-Worlds-Teaches-Brother/dp/0316380504?crid=1JRRTVHWTK72I&keywords=data+security&qid=1536656236&sprefix=data+security%2Caps%2C258&sr=8-2)
+- [The Beginner’s Guide To Online Privacy](https://medium.freecodecamp.org/the-beginners-guide-to-online-privacy-7149b33c4a3e)
+- [The Complexity of Differential Privacy](http://privacytools.seas.harvard.edu/files/privacytools/files/complexityprivacy_1.pdf)
+- [The Definitive Guide To Privacy Online](https://www.privacymonitor.com/articles/privacy-guide/)
+- [The New Oil](https://thenewoil.xyz/)
+- [The ProtonMail guide to taking control of your online privacy](https://protonmail.com/blog/internet-privacy/) – You can't export all your emails without a paid plan.
+- [The Ultimate Guide to Smartphone Privacy](https://medium.com/geekculture/the-ultimate-guide-to-smartphone-privacy-d31d5e275069)
+- [The what, why, and when of multi-factor authentication](https://outline.com/8gL8ZG)
+- [They Track You: A website to raise awareness of online privacy](https://theytrackyou.com/)
+- [Think Like the Internet – or How to Fight Facebook, and Win](https://blogg.forteller.net/2011/think-internet/)
+- [Tor, Practical Privacy, and Censorship Resistance](https://www.boramalper.org/blog/tor-practical-privacy-and-censorship-resistance/)
+- [Troy Hunt – Going dark: online privacy and anonymity for normal people](https://www.troyhunt.com/going-dark-online-privacy-and-anonymity-for-normal-people/)
+- [US-CERT – Privacy Tips](https://www.us-cert.gov/ncas/tips#privacy)
+- [Ultrasonic beacons: A silent threat to your privacy](https://nordvpn.com/blog/ultrasonic-beacons-privacy-threatening-sound-of-silence/)
+- [Web Hosting Geeks – A Beginner’s Guide to Online Privacy](https://webhostinggeeks.com/guides/privacy/)
+- [Web browser privacy: What do browsers say when they phone home?](https://www.scss.tcd.ie/Doug.Leith/publications.php?PME_sys_qf2=Web%20Browser%20Privacy)
+- [What Police Get When They Get Your Phone](https://www.eff.org/deeplinks/2021/11/podcast-episode-what-police-get-when-they-get-your-phone/)
+- [What are 5-eyes, 9-eyes, and 14-eyes?](https://restoreprivacy.com/5-eyes-9-eyes-14-eyes/)
+- [What is GDPR and how will it affect you?](https://outline.com/exmSpf)
+- [World Privacy Forum – Top Ten Opt Outs](https://www.worldprivacyforum.org/2015/08/consumer-tips-top-ten-opt-outs/)
+
+
+### [Hardening Guides](#hardening-guides)
+- [ACSC - Hardening Microsoft Windows 10 (Workstation)](https://www.cyber.gov.au/publications/hardening-microsoft-windows-10-build-1709)
+- [Apache Config - Apache Security Hardening Guide](https://www.apachecon.eu/)
+- [Applied Crypto Hardening: bettercrypto.org](https://bettercrypto.org/) - TLS/SSL, PGP, SSH and other cryptographic tools.
+- [Awesome Windows Domain Hardening](https://github.com/PaulSec/awesome-windows-domain-hardening)
+- [Browser and Client-Side Hardening](https://wehackpurple.com/pushing-left-like-a-boss%e2%80%8a-%e2%80%8apart-5-3%e2%80%8a-%e2%80%8abrowser-and-client-side-hardening/)
+- [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/)
+- [ERNW - IPv6 Hardening Guide for Linux Servers](https://www.ernw.de/download/ERNW_Guide_to_Securely_Configure_Linux_Servers_For_IPv6_v1_0.pdf), [OS-X](https://www.ernw.de/download/ERNW_Hardening_IPv6_MacOS-X_v1_0.pdf) and [Windows Servers](https://www.ernw.de/download/ERNW_Guide_to_Configure_Securely_Windows_Servers_For_IPv6_v1_0.pdf)
+- [GeekFlare - Apache Web Server Hardening and Security Guide](https://geekflare.com/apache-web-server-hardening-security/)
+- [Harden the World](http://hardentheworld.org/) - A collection of hardening guidelines for devices, applications and OSs.
+- [Hardening Network Devices: Service Security Recommendations (2020)](https://media.defense.gov/2020/Aug/18/2002479461/-1/-1/0/HARDENING_NETWORK_DEVICES.PDF)
+- [Hardening Firefox - September 2021 Update](https://brainfucksec.github.io/hardening-firefox-sep-2021-update)
+- [Hardening OpenLDAP on Linux with AppArmor and systemd](http://www.openldap.org/conf/odd-tuebingen-2018/Michael1.pdf)
+- [Jetty hardening (2015)](https://virgo47.wordpress.com/2015/02/07/jetty-hardening/)
+- [LDAP: Hardening Server Security (so administrators can sleep at night)](https://ff1959.wordpress.com/2013/07/31/ldap-hardening-server-security-so-administrators-can-sleep-at-night/)
+- [Linux Audit - OpenSSH security and hardening](https://linux-audit.com/audit-and-harden-your-ssh-configuration/)
+- [Lisenet - CentOS 7 Server Hardening Guide (2017)](https://www.lisenet.com/2017/centos-7-server-hardening-guide/)
+- [macOS Hardening Guide – (C) 2016 Jonathan Levin, NewOSXbook.com [pdf]](http://newosxbook.com/files/moxii3/AppendixA.pdf)
+- [nixCraft - 40 Linux Server Hardening Security Tips (2019 edition)](https://www.cyberciti.biz/tips/linux-security.html)
+- [NSA, CISA Release Guidance on Selecting and Hardening Remote Access VPNs](https://media.defense.gov/2021/Sep/28/2002863184/-1/-1/0/CSI_SELECTING-HARDENING-REMOTE-ACCESS-VPNS-20210928.PDF)
+- [Positron Security SSH Hardening Guides (2017)](https://www.sshaudit.com/hardening_guides.html)
+- [pyllyukko user.js](https://github.com/pyllyukko/user.js) – Firefox configuration hardening.
+- [Short, Gentle Intro to NSA's Kubernetes Hardening Guide](https://www.cloudnatively.com/kubernetes-hardening-guide/)
+- [Smartphone Hardening Guide](https://github.com/aronmolnar/smartphone-hardening-guide)
+- [Some settings to harden Mastodon against scraping](https://ondergrond.org/@dumpsterqueer/107236320924946579)
+- [SUSE Linux Enterprise Server 12 Security and Hardening Guide](https://www.suse.com/documentation/sles-12/book_hardening/data/book_hardening.html)
+- [Ubuntu wiki - Security Hardening Features](https://wiki.ubuntu.com/Security/Features)
+- [Windows 10 Hardening](https://github.com/aghorler/Windows-10-Hardening) - A collective resource of settings modifications (mostly opt-outs) that attempt to make Windows 10 as private and as secure as possible.
+- [Windows 11 Security Book](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMyFE)
+
+
+### [Anonymity Guides](#anonymity-guides)
+- [ARX – Open Source Data Anonymization Software](https://github.com/arx-deidentifier/arx)
+- [Amnesia](https://amnesia.openaire.eu/)
+- [Anonymizer](https://github.com/DivanteLtd/anonymizer)
+- [Cornell Anonymization Toolkit](https://sourceforge.net/projects/anony-toolkit/)
+- [Open Anonymizer](https://sourceforge.net/projects/openanonymizer/)
+- [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/guide.html)
+- [UTD Anonymization Toolbox](http://cs.utdallas.edu/dspl/cgi-bin/toolbox/index.php)
+- [anonymize-it](https://github.com/elastic/anonymize-it)
+- [sdcMicro](https://github.com/sdcTools/sdcMicro)
+- [µArgus](http://neon.vb.cbs.nl/casc/mu.htm)
+
+
+## [Intel Management Engine & AMD Platform Security Processor](#intel-management-engine--amd-platform-security-processor)
+
+> me_cleaner does not disable ME altogether, it just removes some "suspicious" parts. Majority of code still remains there. Same with AMD PSP. You can't remove all of it as your CPU will not even boot. PSP disable is supposed to disable some additional parts.
+
+- AMD boards starting with B550 ([?](https://forums.tomshardware.com/threads/boards-that-disable-amd-psp.3416341/)) contain a setting to [disable AMD PSP](https://sandrokeil.github.io/yubikey-full-disk-encryption-secure-boot-uefi/security/disable-amd-psp.html).
+- There are some hacks for Intel, alias me_cleaner, see [here](https://github.com/corna/me_cleaner/wiki/me_cleaner-status). The Intel Management Engine ('IME' or 'ME') is an out-of-band co-processor integrated in all post-2006 Intel-CPU-based PCs. It has [full network and memory access](https://blog.ptsecurity.com/2017/08/disabling-intel-me.html) and runs proprietary, signed, closed-source software at ring -3, independently of the BIOS, main CPU and platform operating system — a fact which many regard as an unacceptable security risk (particularly given that at least one remotely exploitable security hole has already been reported). For Linux check [this](https://wiki.gentoo.org/wiki/User:Sakaki/Sakaki%27s_EFI_Install_Guide) or the [video guide](https://www.youtube.com/watch?v=MujjuTWpQJk).
+
+
+## [Icon Libraries](#icon-libraries)
+- [3dicons](https://3dicons.co/) – Open-source 3D icon library.
+- [Ant Design Icons, by Ant Financial](https://ant.design/components/icon/) – Ant Design SVG Icons.
+- [Bootstrap Icons](https://icons.getbootstrap.com/) – Official open source SVG icon library for Bootstrap.
+- [Boxicons](https://boxicons.com/) – Boxicons is a simple vector icons set carefully crafted for designers and developers to use in your next project.
+- [CoreUI Icons](https://coreui.io/icons/free/) – Premium designed free icon set with marks in SVG, Webfont and raster formats.
+- [css.gg](https://css.gg/) – Open-source CSS, SVG, and Figma UI Icons available in SVG Sprite, styled-components, NPM & API
+- [Devicon](https://konpa.github.io/devicon/) – A set of icons representing programming languages, designing & development tools. You can use it as a font or directly copy/paste the svg code into your project.
+- [DevUI Icons, by Huawei Cloud](https://github.com/DevCloudFE/devui-icons) – DevUI font icons.
+- [Eva Icons](https://akveo.github.io/eva-icons) – Eva Icons is a pack of more than 480 beautifully crafted Open Source icons for common actions and items.
+- [Feather](https://feathericons.com/) – A collection of simply beautiful open source icons.
+- [feather](https://github.com/feathericons/feather) – Simply beautiful open source icons.
+- [flaticon](https://www.flaticon.com/) – 1M+ vector icons grouped in 30k packs.
+- [Font Awesome](http://fontawesome.io/) – Scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS.
+- [Foundation Icon Fonts 2](http://zurb.com/playground/foundation-icons) – Custom icon sets that are stored in a handy web font and are coded to be more accessible. A couple lines of CSS and the right markup will get you going in no time.
+- [Foundation Icon Fonts 3](http://zurb.com/playground/foundation-icon-fonts-3) – A custom collection of lots of icons.
+- [Glyphicons](http://glyphicons.com/) – Is a library of precisely prepared monochromatic icons and symbols, created with an emphasis to simplicity and easy orientation.
+- [Google Material Design Icons, by Google](https://design.google.com/icons/) – Official Google Material Design Icons.
+- [Govicons](http://govicons.io/) – Gov Icons is a font and CSS toolkit with over 100 government themed icons.
+- [Heroicons](https://github.com/refactoringui/heroicons) – A set of free MIT-licensed high-quality SVG icons for UI development.
+- [Icofont](https://icofont.com/) – 5k free icons to spice up your creative designs.
+- [icoMoon](https://icomoon.io) – 500+ free Icons.
+- [Iconic.app](https://iconic.app/) – Free, “do wtf you want with” pixel-perfect SVG icons.
+- [Iconic](https://useiconic.com/open/) – An open source icon set with 300 marks in SVG, webfont and raster formats.
+- [iconmonstr](http://iconmonstr.com/) – Discover over 3k free simple icons in various collections.
+- [icons](https://github.com/twbs/icons) – Official open source SVG icon library for Bootstrap.
+- [icons8](https://icons8.com/) – 70k Free Flat Icons.
+- [IconSweets2](https://www.designbombs.com/iconsweets2/) – Is a huge set containing over 1k custom designed icons. Icon Sweets 2 will quench your icon thirst for all your iPhone, iPad & Android apps or new web projects.
+- [Ionicons](http://ionicons.com/) – The premium icon font for Ionic Framework.
+- [IconShock](https://www.iconshock.com/freeicons/) – Over 100k free icons, icons are taken from open source projects and then they got optimized.
+- [Jam Icons](https://jam-icons.com/) – Jam icons is a set of icons designed for web projects, illustrations, print projects, etc. Shipped in JavaScript, font & SVG versions.
+- [Marka](http://fian.my.id/marka/) – 36 Beautiful transformable icons.
+- [Octicons](https://octicons.github.com/) – All GitHub's icons.
+- [Pepicons](https://pepicons.com) – Pepicons is a completely original 80s themed set of hand-crafted icons, made in two retro variants: Pop! and Print.
+- [pictonic](https://pictonic.co) – Over 300+ free icons.
+- [Remix Icon](https://remixicon.com/) – Remix Icon is a set of open-source neutral-style system symbols elaborately crafted for designers and developers.
+- [RPG-Awesome](https://nagoshiashumari.github.io/Rpg-Awesome/) – A fantasy themed font and CSS toolkit.
+- [Simple icons](https://github.com/simple-icons/simple-icons) – Over 1000 Free SVG icons for popular brands.
+- [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) – Miniscule SVG versions of website and app logos, under 1KB each.
+- [svg-icon](https://github.com/leungwensen/svg-icon) – An ultimate svg icons collection done right, with over 5k SVG icons out of the box.
+- [teenyicons](https://teenyicons.com/) – Tiny minimal 1px icons designed to fit in the smallest places.
+- [Themify Icons](https://themify.me/themify-icons) – Themify Icons is a complete set of icons for use in web design and apps, consisting of 500+ pixel-perfect, hand-crafted icons that draw inspiration from Apple iOS 7.
+- [TheNounProject](https://thenounproject.com/) – Search over 150k icons designed by creators from around the world.
+- [uiw-icons](https://uiwjs.github.io/icons) – The premium icon font for UIW Framework.
+- [zondicons](http://www.zondicons.com/) – A set of free premium SVG icons for you to use on your digital products.
+
+### [Mobile Icon Libraries](#mobile-icon-libraries)
+- [Ameixa](https://f-droid.org/packages/org.xphnx.ameixa) – Port of TwelF CMTheme for many launchers.
+- [Articons](https://f-droid.org/packages/com.donnnno.arcticons) – A line-based icon pack with over 2100 icons! Originally forked from Frost, but rebuild with consistent sizing and adjustments specifically for lines in mind.
+
+
+### [Icon and SVG Tools](#icon-and-svg-tools)
+- [fontello](http://fontello.com/) – Icon fonts generator.
+- [Orion icon library](https://orioniconlibrary.com/) – Generate icon fonts or download icons in multiple formats.
+- [LibreSprite](https://github.com/LibreSprite/LibreSprite) – Animated sprite editor & pixel art tool.
+- [Penpot](https://github.com/penpot/penpot) – The Open-Source design & prototyping platform.
+- [svg-icon](http://leungwensen.github.io/svg-icon/) – Select as many SVG icons as you need, and download as an SVG symbols sprite file.
+- [svgtofont](https://github.com/jaywcjlove/svgtofont) – Read a set of SVG icons and output a TTF/EOT/WOFF/WOFF2/SVG font.
+
+
+## [Imgur & Photobucket](#imgur--photobucket)
+Not so good in terms of privacy:
+- [Imgur Acquired by Medialab (owners of WorldStarHipHop, Amino, Genius, Kik)](https://imgur.com/gallery/We6yCM2)
+- DirectPic
+- Photobucket
+- Pinterest
+
+Privacy oriented alternatives:
+- [IMGZ.org](https://imgz.org/) – IMGZ is paid-only. It's [no-hassle](https://imgz.org/blog/2021/03/04/yeah-right/), one-click, super easy image uploads, and it's cheap. So cheap, the only way to pay will be yearly, because it's too cheap to pay monthly. **The tool is not FOSS but listed in case you look for an alternative to get supported/sponsored.**
+- [Imgin](https://imgin.voidnet.tech/) – A minimalist read-only Imgur proxy.
+- [Lutim](https://entraide.chatons.org/en/) – Let’s Upload That IMage is a privacy-friendly and libre photo sharing service. You can set your image to be deleted at first view or after a specified time.
+- [Picc.io](https://picc.io/) – Pinterest/Imgur alternative anonymous image selfie sharing. Each image you upload has a built image sharing widget to share images on social media. FOSS is planned.
+- [Rimgo](https://codeberg.org/3np/rimgu) – Self-hosted free and ad/trackless front end for Imgur.
+
+
+## [Individual Authors and Books](#individual-authors-and-books)
+- [An Anarchist FAQ](http://anarchism.pageabode.com/afaq/index.html) – A comprehensive introduction into the philosophy of anti-authoritarianism and anarchism. Licensed under the GNU FDL.
+- [Anna Galore](http://anna-galore.com/) – A french writer who offers most of her novels and short stories entirely DRM-free.
+- [Blake Crouch](http://www.blakecrouch.com/) – A suspense writer who has made it to the top ten Kindle bestseller list.
+- [Craphound](http://craphound.com/) – Author's site. Fiction and non-fiction by Cory Doctorow.
+- [Diane Duane](http://www.dianeduane.com/) – Wrote the 'So You Want to be a Wizard' series and sells copies of not only the original published version but also a new updated version which is only available at her site.
+- [Green Comet](http://greencomet.org/downloads/) – A novel of love and adventure on an inhabited comet, and its sequel, Parasite Puppeteers, are available to download in various formats, including ePub and OGG under the free culture CC-BY-SA license.
+- [IPv6-Handbuch](http://greencomet.org/downloads) – Is a small German ebook shop selling books on IPv6.
+- [J.A. Konrath](http://www.jakonrath.com/) – An author of detective novels and suspense novels.
+- [Kanika G](https://kanikag.com/) – Self-publishes DRM-free children's books.
+- [Libreleft Books](http://libreleft.com/estore/) – Publishes Laurel L. Russwurm's free culture licensed mystery novels.
+- [Philippe Aigrain](http://paigrain.debatpublic.net/?page_id=11) – An internet activist involved with La Quadrature du Net.
+- [Lessig.org](http://www.lessig.org/) – Lawrence Lessig's author page, whereat his eBooks may be freely downloaded.
+- [Rory Price](https://roryprice.net/2020/05/01/opt-out/) – Has written a DRM-free novel with software freedom as a major theme.
+- [Simon Hayes](http://www.spacejock.com.au/) – Writes the popular comedic space opera ‘Hal Spacejock’ and the 'Hal Junior' series.
+- [Stories for My Little Sister](http://www.storiesformylittlesister.com/) – Free original kids' books written and illustrated by a team of two sisters. These are available for children of all ages.
+- [Sustainable Energy](http://www.withouthotair.com/download.html) – Without the Hot Air by David MacKay -- A readable discussion (with actual metrics!) of our options for energy development.
+- [Thomas A. Knight](http://thomasaknight.com/) – An independent, self-publishing author of fantasy novels, all available for purchase DRM Free.
+- [Thomas Galvin](https://thomas-galvin.com/) – Is self-described as being "an author who spends far too much time thinking about vampires" and you can find his works on his website.
+
+
+### [Indie and open source game engines](#indie-and-open-source-game-engines)
+- [Adventure Game Studio](https://www.adventuregamestudio.co.uk) - Free engine for making point & click adventure games.
+- [Amulet](http://www.amulet.xyz/) - A free Lua-based audio/visual toolkit suitable for small games and experimentation, with online editor.
+- [DOME](https://domeengine.com/) - A framework for making 2D games using the Wren programming language.
+- [DuckEngine](https://github.com/ksplatdev/DuckEngine) - A 2D Game Engine for the web.
+- [Godot](https://godotengine.org/) - Perhaps the most complete and well documented open source engine, for 2d and 3d.
+- [HaxeFlixel](http://haxeflixel.com/) - Cross-platform development, open source
+- [Heaps](https://heaps.io/) - A free and open source cross platform graphics engine written in Haxe.
+- [LITIENGINE](https://github.com/gurkenlabs/litiengine) - A free and open source Java 2D Game Engine.
+- [luxe](https://luxeengine.com/) - In development: a 2d-focused engine, code in Wren.
+- [LÖVR](https://lovr.org/)- An open source framework for rapidly building VR experiences in Lua.
+- [nCine](https://ncine.github.io/) - An open source cross-platform 2D game engine with an emphasis on performance.
+- [Phaser.io](http://phaser.io/) - Desktop and mobile HTML5 game framework, using JavaScript.
+- [Pixelbox.js](https://pixwlk.itch.io/pixelbox) - Combination editor and a simple JavaScript library.
+- [Pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python.
+- [Ren'Py](https://www.renpy.org/) - Free, open source cross-platform Visual Novel development engine.
+- [Starling](https://gamua.com/starling/) - A Cross Platform Game Engine.
+- [Superpowers](http://superpowers-html5.com/index.en.html) - HTML5 2d + 3d engine, coding in Typescript.
+- [XREngine](https://github.com/XRFoundation/XREngine) - Open-source WebGL Metaverse Engine.
+
+
+## [Internet Speed Testing](#internet-speed-testing)
+- [LibreSpeed](https://github.com/librespeed/speedtest-android) - Check your Internet speed via mobile app.
+
+
+## [IPFS](#ipfs)
+
+Check which public IPFS gateway are [currently online](https://ipfs.github.io/public-gateway-checker/).
+
+- [ETH.LIMO](https://eth.limo/) – A decentralized alternative to Cloudflare’s often unreliable eth.link service, LIMO functions as a drop-in replacement for eth.link; a Web 2.0 infrastructure stack for resolving Ethereum Name Service (ENS) records and associated IPFS content (Web 3.0).
+- [Fully-searchable Library Genesis on IPFS](https://libgen.fun/dweb.html)
+- [InterPlanetary File System](https://ipfs.io/) – A decentralized network for storing and sharing data online. Instead of custom URLs, files are automatically addressed based on their content and served by their users.
+- [Nebula](https://github.com/dennis-tra/nebula-crawler) – An IPFS DHT Crawler.
+- [OpenBazaar 2.0 powered by IPFS](https://www.openbazaar.org/)
+- [Radicle](http://www.radicle.xyz/) – A decentralized alternative to GitHub built on IPFS.
+
+
+## [Instant Messaging](#instant-messaging)
+
+**Please check out [this website](https://www.securemessagingapps.com/) for comparisons**. Threema provides their own [chart](https://threema.ch/en/messenger-comparison). The most complete chart is [this one](https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU/).
+
+
+[FBI document shows what data can be obtained from encrypted messaging apps](https://therecord.media/fbi-document-shows-what-data-can-be-obtained-from-encrypted-messaging-apps/), this is controversial but gives an solid overview.
+
+Not so good in terms of privacy:
+- Clubhouse, because [lawyers say you could get sued](https://businessradiox.com/podcast/one-minute-interviews/brian-inkster/).
+- [Facebook](https://www.datatilsynet.no/en/news/2021/norwegian-data-protection-authority-choose-not-to-use-facebook/) Messenger
+- Google Hangouts / Chat – Owned by Google [#fedpot](https://www.yahoo.com/now/government-secretly-orders-google-track-151000879.html)
+- Instagram DM - Owned by Facebook
+- Skype / Skype for Business – Owned by Microsoft
+- Wickr – Owned by Amazon [#fedpot](https://www.vice.com/en/article/y3dawk/wickr-cia-funding-inqtel)
+- [WhatsApp](https://www.forbes.com/sites/thomasbrewster/2022/01/17/whatsapp-ordered-to-spy-on-chinese-phones-by-america-no-explanation-given/) – Owned by Facebook + [#fedpot](https://www.rollingstone.com/politics/politics-features/whatsapp-imessage-facebook-apple-fbi-privacy-1261816/)
+- [Zoom](https://arstechnica.com/tech-policy/2020/11/zoom-lied-to-users-about-end-to-end-encryption-for-years-ftc-says/) #fedpot + [ad-banners](https://blog.zoom.us/zoom-continued-access-for-basic-users-with-advertising-program/)
+- Systems that rely on Intel SGX for private discovery e.g. used by Signal.
+- Systems that rely on Servers to resolve username to public key e.g. used by Wickr.
+- Systems that rely on Servers to trust with your own IP address e.g. Wickr, Telegram and Signal.
+- Systems that rely on Servers used to authenticate other unknown users e.g. used in Telegram.
+
+
+### [P2P based Messaging](#p2p-based-messaging)
+No servers involved. Everything goes directly from one peer to the other peer. No point of failure or control. The features are reduced because of the lack of server, messaging can be slower.
+
+Peer-to-peer communications reveal one's IP address to each other, so using a reliable VPN, proxy, or TOR is advised. Briar is an exception to this rule, as it uses either Bluetooth range or the local network it's connected to; else all traffic goes through TOR. Ones without servers are ideal, such as: Jami, Tox, Ricochet, Status, Scuttlebot and PSYC-2. Some are still in development and may be prone to bugs.
+
+Keep these options in mind when communicating with your clique. Many of us belong to private groups on Telegram which are presumably free from moderator surveillance (or at least interference), but ultimately we should transition to a more durable platform that will be unable to censor our messages. Try a few out and see what works for you and your crew.
+
+- [Anonymous Messenger](https://anonymousmessenger.ly/) – A peer to peer private anonymous and secure messenger that works over tor. It's also free and [open source](https://git.anonymousmessenger.ly/dx/AnonymousMessenger) software which gives users the freedom of changing it and redistributing it under the terms of the GNU General Public License v3.
+- [Ekiga](http://www.ekiga.org/) – Ekiga (formerly known as GnomeMeeting) is an open source SoftPhone, Video Conferencing and Instant Messenger application over the Internet.
+- [Tinfoil Chat](https://github.com/maqp/tfc) – Onion-routed, endpoint secure messaging system.
+- [Tox](https://tox.chat/) – Tox is easy-to-use software that connects you with friends and family without anyone else listening in. - **controversial** due to the [donation scandal](https://lwn.net/Articles/651003/).
+  - [aTox](https://github.com/evilcorpltd/aTox) – Reasonable Tox client for Android.
+  - [Toxic](https://github.com/JFreegman/toxic) – A Tox-based instant messaging and video chat client.
+- [Berty](https://berty.tech/) – The privacy-first messaging app that works with or without internet access, cellular data or trust in the network.
+- [Conversations](https://f-droid.org/en/packages/eu.siacs.conversations/) – Easy to use, reliable, battery friendly. With built-in support for images, group chats and e2e encryption.
+- [Siskin](https://siskin.im/) – Lightweight & powerful XMPP client for iPhone and iPad.
+- [Surge](https://github.com/rule110-io/surge) – A p2p file-sharing app designed to utilize blockchain technologies to enable 100% anonymous file transfers. Surge is end-to-end encrypted, decentralized and open source.
+- [Onymochat](https://github.com/SamratDuttaOfficial/onymochat) – An end-to-end encrypted, decentralized, anonymous chat application. You can also host your anonymous .onion webpage with Onymochat.
+
+
+### [Instant Messaging Decentralized](#instant-messaging-decentralized)
+
+No single point of control or failure. A decentralized network operated by different servers from different volunteers around the globe. You choose where your data stays or you can self-host your own server. Somewhat more complex protocols (because of federation between servers) and some extra metadata is added to the messages (without compromising privacy).
+
+- [CoyIM](https://coy.im/) – A new XMPP chat client that is safe and secure by default: no settings to change, no plugins to install, no computer configuration to change. You can also sandbox coy vis [firejail](https://github.com/coyim/coyim/issues/108#issuecomment-770347702).
+- [Jabber / XMPP (Protocol)](https://xmpp.org/) – The universal and open messaging standard. Tried and tested. Independent. Privacy-focused. E2E encrypted.
+- [Delta Chat](https://delta.chat/) – Chat over encrypted email. eMail itself is not secure, however most countries block other option, so this is more for those who cannot use alternatives,
+- [Kontalk](https://kontalk.org/) – A new way of communicating.
+- [MiroTalk](https://github.com/miroslavpejic85/mirotalksfu) – An alternative to Zoom and Teams.
+- [SimpleX](https://github.com/simplex-chat/simplex-chat) – Decentralized chat with a focus on users’ privacy - doesn't use global user identities.
+- [Status IM](https://status.im/) – Status uses an open-source, peer-to-peer protocol, and end-to-end encryption to protect your messages from third parties. Keep your private messages private with Status.
+- [Scuttlebot](https://scuttlebot.io/) – An open source peer-to-peer log store used as a database, identity provider and messaging system. It features global replication, file-syncronization, and end-to-end encryption.
+- [Xx Messenger](https://xx.network/messenger/) – xx network does not distribute, offer, solicit sales of, or sell any xx coins in any state or jurisdiction, they provide an [iOS](https://apps.apple.com/app/xx-messenger/id1593670957) and [Android](https://play.google.com/store/apps/details?id=io.xxlabs.messenger) app. Their tech [whitepaper is here](https://xx.network/wp-content/uploads/2021/10/xx-whitepaper-v2.0.pdf), among their [FAQ](https://xx.network/faq/).
+
+
+### [Instant Messaging Centralized](#instant-messaging-centralized)
+
+Instant messaging guidance for beginners:
+- [Matrix vs. XMPP - What are XMPP and Matrix and what makes them special?](https://lukesmith.xyz/articles/matrix-vs-xmpp) + [comparison](https://blog.lewman.com/internet-messaging-versus-congested-network.html)
+- [securechatguide.org](https://securechatguide.com) & [securemessagingapps.com](https://securemessagingapps.com)
+- [Wikipedia: Comparison of IM clients](https://en.wikipedia.org/wiki/Comparison_of_instant_messaging_clients#Secure_messengers)
+- [EFF Guide to IMS](https://eff.org/secure-messaging-scorecard)
+- [InfoSec Guide](https://infosec-handbook.eu/blog/xmpp-aitm/)
+
+
+The service is in charge of running the servers that allow users to communicate. Single point of failure and control, but still 100% safe and trustworthy if the protocols and code are open and audited.
+
+Leaked FBI Docs Suggest Telegram Safer than WhatsApp, Threema and others, see picture and source below.
+
+![Image credit: therollingstone](https://i.ibb.co/dBJ8HYt/21114562-1-2.png)
+
+
+Source for this is claim is [here](https://www.rollingstone.com/politics/politics-features/whatsapp-imessage-facebook-apple-fbi-privacy-1261816/). For people saying Telegram isn't mentioned in the source article, click on the source document. It does cover various apps including Telegram. The document as PDF is hosted [here](https://propertyofthepeople.org/document-detail/?doc-id=21114562).
+
+
+- [Linphone](https://www.linphone.org/) – An open source SIP phone for voice/video calls and instant messaging, and is available for mobile and desktop environments (iOS, Android, GNU/Linux, macOS, Windows). - **controversial**
+- [Oversec](https://f-droid.org/packages/io.oversec.one/) – Privacy for All Apps! Encrypt and Disguise Messages in All Your Apps. This is not an IM application but listed here as "helper" application to add an encryption layer for those who are not encrypted.
+- [Ricochet](https://ricochet.im/) – Anonymous instant messaging (Desktop only!).
+- [Threema](https://threema.ch/en) – The messenger that puts security and privacy first. Pay once, chat forever. No collection of user data. Open Source client. [Crypto review 2021](https://soatok.blog/2021/11/05/threema-three-strikes-youre-out/) by Soatok.
+    - [OpenMittsu](https://www.openmittsu.de/) – A cross-platform open source implementation and desktop client for the Threema Messenger App.
+- [Status](https://status.im/) – Status is a secure messaging app, crypto wallet, and Web3 browser built with state of the art technology.
+
+
+## [iOS Keyboard](#ios-keyboard)
+- [ToneBoard](https://github.com/bellkev/ToneBoard) – A Chinese keyboard for iOS that helps you remember tones.
+
+
+## [iOS Shell replacement](#ios-shell-replacements)
+- [ish](https://github.com/ish-app/ish) – Simple Linux Shell for iOS.
+
+
+## [Kahoot Alternatives](#kahoot-alternatives)
+- [Particify](https://ars.particify.de/) – Game-based learning platform.
+
+
+## [Keybase Alternatives](#keybase-alternatives)
+
+In May 2020 Keybase was acquired by [Zoom](https://keybase.io/blog/keybase-joins-zoom).
+
+- [Keyoxide](https://keyoxide.org/) – A Keybase alternative, basically a privacy-friendly platform to establish your decentralized identity.
+- [wheretofind.me](https://wheretofind.me/) – An open source identity directory website. It lets you create a small profile with all your social media links. Afterwards, point people to this profile so they can quickly find you on all platforms.
+
+
+## [Key Remapper](#key-remapper)
+- [KMonad](https://github.com/kmonad/kmonad) – An advanced keyboard manager.
+- [Remap keys on Windows without installing anything](https://n8ta.com/projects/windows_key_remapper.html).
+- [Wayremap](https://github.com/acro5piano/wayremap) – Wayremap is a Dynamic key remapper for Wayland desktop environment.
+- [xremap](https://github.com/k0kubun/xremap) – Dynamic key remapper for X11 and Wayland, written in Rust for Linux.
+
+### [Mobile Key Remapper](#mobile-key-remapper)
+- [KeyMapper](https://github.com/keymapperorg/KeyMapper) – Change what the buttons do, the Android app is on Google Play Store and F-Droid.
 
 
 ## [Life360 Alternatives](#Life360-alternatives)
@@ -1708,266 +2941,79 @@ There are some Windows apps but this is depending on BIOS/firmware because the [
 - [Librelogos.org](https://www.librelogos.org/) – Free logos for open source projects and NGOs.
 
 
-## [Browsers - A general starter](#browsers-a-general-starter)
-
-Please check the [Browser + WebView Comparison Table](https://divestos.org/index.php?page=browsers) before you use something. In general I do not list any clown forks who offers no or less benefits because you can do it yourself without depending on a third-party project (in most cases) or in other words the community doesn't really need two practically identical packages that accomplish the same thing. [iOS has limited Browser choice](https://css-tricks.com/ios-browser-choice/).
-
-Not so good in terms of privacy:
-- 360 Secure Browser is [proprietary](https://en.wikipedia.org/wiki/360_Secure_Browser)
-- [Cốc Cốc](https://en.wikipedia.org/wiki/C%E1%BB%91c_C%E1%BB%91c)
-- [Comodo Dragon](https://en.wikipedia.org/wiki/Comodo_Group)
-- Epic Browser is proprietary, same like Cent Browser
-- [Microsoft Edge](https://www.scss.tcd.ie/Doug.Leith/pubs/browser_privacy.pdf) while others [claim this is not accurate](https://www.thurrott.com/cloud/web-browsers/microsoft-edge/233847/academic-study-about-browsers-is-wrong-about-microsoft-edge).
-- [Slimjet](https://archive.today/F0GJJ) alias SlimBrowser ([Proprietary](https://borncity.com/win/2018/03/27/slimjet-browser-beware-of-bing-search-engine/))
-- [Advanced Chrome](https://browser.taokaizen.com/)
-- [Aviator](https://www.zdnet.com/article/avoid-aviator-browser-if-you-care-about-security-and-privacy-google-warns/)
-- [Boat](https://forum.xda-developers.com/t/boat-browser.3821682/)
-- [Dolphin Browser](https://en.wikipedia.org/wiki/Dolphin_Browser#Privacy_concerns)
-- Epic ([Proprietary](https://yro.slashdot.org/story/13/09/06/1411215/epic-a-privacy-focused-web-browser))
-- GNU IceCat (Outdated since 2019) only [preview releases](https://en.wikipedia.org/wiki/GNU_IceCat) getting updated frequently.
-- [Google Chrome](https://notochrome.org/)
-- [Inox archived](https://github.com/gcarq/inox-patchset)
-- [LibreWolf](https://librewolf.net/), similar like Ungoogled it is nothing but a hobby project. You can tweak vanilla Firefox version yourself and get a learning effect without depending on yet another third-party fork. The claim the project leaders made that this is independent from Mozilla is pure nonsense, they use Firefox as upstream and there is no independent development aside from changing some configuration related stuff and other gimmicks. Independence is not, I fork xyz and do some changes on my own. Independence would be to actually work on the entire Browser yourself, which is not the case.
-- [Maxthon](https://www.maxthon.com/), its closed source and its main goal seems to be features not privacy + not frequently updated.
-- [Opera](https://old.reddit.com/r/operabrowser/comments/i4hxjl/opera_privacy_and_concerns/) (Norway/China / Opera (company), Otello Corporation, Golden Brick Capital/Qihoo 360) which [comes with extensions you cannot uninstall](https://forums.opera.com/topic/46587/amazon-promotion-extension).
-- Samsung Internet (South Korea)
-- SRWare Iron ([Proprietary](https://archive.today/Bz7Xu) – Versioning system is not clear: [no source code of the latest version available since 2011](https://www.srware.net/forum/viewtopic.php?t=2134) or [other proprietary browser](https://en.wikipedia.org/wiki/Chromium_%28web_browser%29#Browsers_based_on_Chromium) with claims to be better in privacy than Google Chrome.
-- [Superbird](https://www.wilderssecurity.com/threads/superbird-browser.351741/#post-2265802)
-- [UC Browser](https://www.zdnet.com/article/millions-of-android-users-beware-alibabas-uc-browser-can-be-used-to-deliver-malware/)
-- [Vivaldi](https://baronhk.wordpress.com/2021/10/15/somethings-rotten-in-the-state-of-denmark-or-rather-norway-my-post-about-whether-vivaldi-is-a-gpl-violation-was-quietly-knifed-by-the-mods-of-r-ublockorigin-bonus-dont-strip-the-gpl-of-or/) / Iceland ([Chromium's modified code is still open source](https://help.vivaldi.com/article/is-vivaldi-open-source/))
+## [Mobile Network-wide Inspection Apps](#mobile-network-wide-inspection-apps)
+- [PCAPdroid](https://github.com/emanuele-f/PCAPdroid) – No-root network monitor and traffic dump tool for Android devices. You can get it [on F-Droid](https://f-droid.org/packages/com.emanuelef.remote_capture) for the OS part [mitmproxy](https://mitmproxy.org/) might come in handy.
 
 
-### [Browser Profile Backup Solutions](#browser-profile-backup-solutions)
-
-You can manually backup your profile or use some tools. Keep in mind that script based solutions can quickly corrupt your profile because the Browser might not be fully closed when you run the script.
-
-- [Hekasoft Backup & Restore](https://www.hekasoft.com/hekasoft-backup-restore/) – All-in-one Windows solution to manage your browser data and settings across various Browsers. - **controversial**
-- [Simple Backup for Firefox](https://www.sordum.org/12298/simple-firefox-backup-v1-2/) – Small Windows Tool to quickly backup your Firefox Profile. - **controversial**
+## [Malware analysis](#malware-analysis)
+- [Pifmana](https://gitlab.com/luisfm/pifmana-pipeline-for-malware-analysis) – Pipeline for Malware Analysis.
 
 
-### [Desktop Browser](#desktop-browser)
+## [macOS malware analysis](#macOS-malware-analysis)
 
-Please keep in mind that projects like Ungoogled Chromium are hobby projects and cannot nor will ever compete against professional projects such as Brave Browser, simply because more manpower is involved in Brave's development. The only reason Ungoogled Browser is listed here is because some people do not like Brave Browser because they eg. do not use any crypto Wallet features (among other reasons).
+Tools and utilities mentioned in [The Art of Mac Malware by Patrick Wardle](https://taomm.org/vol1/analysis.html).
 
-
-Browsers are typically used as gateways to a lot of things and not only Browsing, because you can hear audio, play videos, use PWAs, edit code, flash ROMs with it among other things, the term Browser is also heavily aged and outdated, since the program is so heavily altered these days that it more acts like all-in-one tool. It should be noted that using an questionable web browser that is not actively developed or maintained only by a single developer or a small group can be dangerous. Sticking with a mainstream browsers like Chrome/Chromium, Brave, Firefox is better for various reasons.
-
-
-- [Brave Browser](https://brave.com/) – Open Source, independent browser based on Chromium/Chrome.
-- [Firefox](https://www.mozilla.org/en-US/firefox/new/) – Open Source, independent browser. It needs some [hardening](https://bearblog.dev/dashboard/posts/8952) to archive better privacy. If you want you can host your own [sync-server](https://github.com/mozilla-services/syncserver).
-    - [Wolvic](https://wolvic.com/) – Firefox Reality (Firefox for VR) being [spun out](https://github.com/Igalia/wolvic) as “Wolvic”.
-    - [FireDragon](https://aur.archlinux.org/packages/firedragon) – Librewolf fork build using custom branding, settings & KDE patches by OpenSUSE. It gets listed because it actually made it into some Distros and Stores.
-- [Fluent Svelte Browser](https://github.com/tropix126/fluent-svelte) – Based on Swift Browser, Chromium and WebView2. - **controversial**
-- [GNOME Web](https://wiki.gnome.org/Apps/Web/) – GNOME Web (codename: Epiphany) is a GNOME web browser based on the WebKit rendering engine.
-- [Konqueror](https://konqueror.org/) – KDE's default browser.
-- [Ungoogled Chromium](https://ungoogled-software.github.io/) - **controversial**
-    - [Woolyss](https://chromium.woolyss.com/) – Info website and provides links to various user builds. - **controversial**
-    - [Eleston](https://github.com/Eloston/ungoogled-chromium) providing pre-compiled binaries. - **controversial**
-    - [Thorium](https://github.com/Alex313031/Thorium) Chromium fork designed for performance and security. - **controversial**
-    - [Chromium browser for Fedora Linux with video acceleration patches](https://github.com/biswasab/chromium_vaapi_fed/blob/master/README.md).
-- [Tor Browser](https://www.torproject.org/) combined [with uBlock](https://www.esat.kuleuven.be/cosic/publications/thesis-407.pdf) – Firefox ESR hardened Browser which allows Tor (Onion) connections.
-
-
-### [Flash Browser](#flash-browser)
-
-Adobe Flash is dead, and has several security implications, however, some might want to quickly Browse oldschool websites and looking for a Browser based solution instead of blindly downloading and executing unknown code on their machine.
-
-- [FlashBrowser](https://github.com/radubirsan/FlashBrowser) – A small browser capable of viewing/displaying pages with embedded flash content.
-
-
-### [Peer-to-Peer Browser](#peer-to-peer-browser)
-- [Beaker Browser](https://beakerbrowser.com/) – An experimental peer-to-peer Web browser.
-- [Ceno](https://censorship.no/en/about.html) – A P2P mobile browser to fight censorship. - **controversial**
-- [Decenter Browser](https://decentr.net/) – Blockchain based Browser approach.
-- [Stealth](https://github.com/tholian-network/stealth) – Secure, Peer-to-Peer, Private and automatable Web Browser/Scraper/Proxy.
-
-### [IPFS Browsers](#ipfs-browsers)
-- [Thor Browser](https://f-droid.org/de/packages/threads.thor/) – Native IPFS and IPNS browser which based on WebKit API.
-
-
-### [Text based Browser](#text-based-browser)
-- [bow.sh](https://www.brow.sh/) – A fully-modern text-based browser. It renders anything that a modern browser can; HTML5, CSS3, JS, video and even WebGL.
-- [Dooble](https://textbrowser.github.io/dooble/) – Dooble Web Browser, clean and easy.
-- [Molasses](https://github.com/jjsimpso/molasses) – A multi-tabbed browser for the "slow" internet, including Gopher and Gemini.
-
-
-## [Browser Fingerprinting](#browser-fingerprinting)
-
-### [Canvas Fingerprinting](#canvas-fingerprinting)
-- [AdTechMadness](https://adtechmadness.wordpress.com/2019/03/19/overview-of-googles-picasso/) – "Overview of Google’s Picasso".
-- [Antoinevastel](https://github.com/antoinevastel/picasso-like-canvas-fingerprinting) – "Picasso based canvas fingerprinting".
-- [Dali.js](https://github.com/onsitejs/dali.js) – Dali.js, Picasso-like device attestation payload.
-- [FingerprintJS](https://fingerprintjs.com/blog/canvas-fingerprinting/) – "How Does Canvas Fingerprinting Work?".
-- [Google Research](https://research.google/pubs/pub45581/) – Picasso: Lightweight Device Class Fingerprinting for Web Clients.
-
-
-### [Fingerprinting measurement](#fingerprinting-measurement)
-- [Am I Unique](https://amiunique.org/stats) – Basic information a user's browser configuration and how trackable it is.
-- [BrowserLeaks](https://browserleaks.com/canvas) – Gallery of testing tools that show what browser data can be leaked.
-- [Cookie-Editor](https://chrome.google.com/webstore/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm?hl=en) – Extension to quickly create, edit and delete cookies without leaving your tab.
-- [DeviceInfo](https://www.deviceinfo.me) – Web browser security testing, privacy testing, and troubleshooting tool.
-- [EFF CoverYourTracks](https://coveryourtracks.eff.org/kcarter?aat=1) – EFF project that allows you to understand how easy it is to identify and track your browser.
-- [HUMAN Security](https://www.humansecurity.com/blog/the-cybercrime-starter-kit-inside-anti-detection-browsers) – "Inside Anti-Detection Browsers and Account Takeovers".
-- [Privacy Analyzer](https://privacy.net/analyzer/) – Tool lists information that any website, advertisement, and widget can collect from your web browser.
-- [User-Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg) – Spoofs & Mimics User-Agent strings.
+- ClamAV’s sigtool.
+- DTrace.
+- The base64 utility to decode Base64 data.
+- The codesign utility to check and display code signatures
+- The defaults utility to view the contents of a property list (plist) file.
+- The file utility to determine the file type, e.g. text or code.
+- The find utility to view all of the files contained within an application bundle.
+- The fs_usage utility to monitor system calls file system activity in real-time
+- The hdiutil utility to mount Apple Disk Images (.dmg) and extract the contents.
+- The hexdump utility to display the hexadecimal dump of a given file.
+- The lldb default debugger in Xcode on macOS.
+- The md5 and shasum utilities to generate the hash of the binary.
+- The nettop, netstat and lsof utilities to monitor network sockets and connections.
+- The nm utility to display the symbol table of object, library, or executable file.
+- The osadecompile utility to display compiled AppleScripts.
+- The otool utility to view contents of a file or libraries linked to executables.
+- The pkgutil utility to view information about installer packages (.pkg or .mpkg).
+- The plutil utility to view the contents of a property list (plist) file.
+- The spctl utility to assess how the system will handle a given file, e.g. install and execute.
+- The strings utility to extract strings from a binary.
+- [ASDisasm](https://github.com/Jinmo/applescript-disassemblere) – To disassemble run-only AppleScripts.
+- [Apparency](https://mothersruin.com/software/Apparency/) – To view the results of macOS security checks against a given app.
+- [Crescendo](https://github.com/SuprHackerSteve/Crescendo) – To view events in real-time.
+- [Dylib Hijack Scanner](https://objective-see.com/products/dhs.html) – To find applications susceptible to dylib hijacking.
+- [ESFPlayground](https://themittenmac.com/the-esf-playground/) – To view events from the Apple Endpoint Security Framework (ESF).
+- [FLOSS](https://github.com/fireeye/flare-floss) – To automatically deobfuscate strings from binaries.
+- [FSmonitor](https://fsmonitor.com/) – To monitor all changes to the file system.
+- [FileMonitor](https://objective-see.com/products/utilities.html#FileMonitor) – To view file events, such as creation, modification, deletion.
+- [Hopper](https://www.hopperapp.com/), [IDA Pro](https://www.hex-rays.com/ida-pro/) and [IDA Free](https://www.hex-rays.com/ida-free/l), or [Ghidra](https://ghidra-sre.org/) to disassemble, decompile and debug binaries.
+- [JTool2](http://newosxbook.com/tools/jtool.html) – To view contents of a file or libraries linked to executables.
+- [KnockKnock](https://objective-see.com/products/knockknock.html) – To identify persistently installed software.
+- [MachOView](https://sourceforge.net/projects/machoview/) – To visualize the contents of a Mach-O file, allows in-place editing of binaries.
+- [Netiquette](https://objective-see.com/products/netiquette.html) – To monitor network sockets and connections.
+- [ProcInfo](https://github.com/objective-see/ProcInfo) – To monitor process creations and terminations (deprecated?).
+- [ProcessMonitor](https://objective-see.com/products/utilities.html#ProcessMonitor) – Monitor process creations and terminations.
+- [Suspicious Package](https://mothersruin.com/software/SuspiciousPackage2/) – To open a macOS Installer package and see what's inside.
+- [TaskExplorer](https://objective-see.com/products/taskexplorer.html) – To visually explore all running processes.
+- [TrueTree](https://github.com/themittenmac/TrueTree) – To display a process tree for current running processes.
+- [UPX](https://upx.github.io/) – To unpack UPX’d files.
+- [WhatsYourSign](https://objective-see.com/products/whatsyoursign.html) – To view any file's cryptographic signing information.
+- [Wireshark](https://www.wireshark.org/) and the tcpdump utility to capture and analyze network traffic, the tool works on various platforms.
+- [aevt_decompile](https://github.com/SentineLabs/aevt_decompile) – To decompile AppleScripts.
+- [asar](https://medium.com/how-to-electron/how-to-get-source-code-of-any-electron-application-cbb5c7726c37) or [npx](https://www.npmjs.com/package/npx) to get the source code of an Electron app.
+- [class-dump](http://stevenygard.com/projects/class-dump/) – To extract class information from a Mach-O file.
+- [cleancss.com/perl-beautify/](https://www.cleancss.com/perl-beautify/) – To clean up messy, minified, or obfuscated Perl.
+- [decompiler.com](https://www.decompiler.com/) – To decompile binaries back to source code.
+- [fsmon](https://github.com/nowsecure/fsmon) – To monitor system calls file system activity in real-time.
+- [oletools](http://www.decalage.info/python/oletools) – To analyze Microsoft OLE2 files, such as Office documents or Outlook messages.
+- [olevba](https://github.com/decalage2/oletools/wiki/olevba) – A script to parse Office documents to detect VBA Macros.
 
 
-### [Other Fingerprinting](#other-fingerprinting)
-- [FingerprintJS](https://fingerprintjs.com/blog/incognito-mode-detection/) – "Incognito Mode Detection: Detecting Visitors Who Browse in Private Mode".
-- [Jesse Li](https://blog.jse.li/posts/chrome-76-incognito-filesystem-timing/) – "Detecting incognito mode in Chrome 76 with a timing attack".
+## [MongoDB alternatives](#mongodb-alternatives)
+- [FerretDB](https://github.com/FerretDB/FerretDB) – A truly open-source MongoDB alternative.
 
 
-### [Passive Fingerprinting](#passive-fingerprinting)
-- [nmap](https://nmap.org/book/man-os-detection.html) – Nmap Reference Guide on OS Detection.
-- [p0f](https://lcamtuf.coredump.cx/p0f3/) – Passive fingerprinting of TCP/IP communications.
+## [Marine Autopilot](#marine-autopilot)
+- [Pypilot](https://pypilot.org/) – An open source marine autopilot.
 
 
-### [TLS Fingerprinting](#tls-fingerprinting)
-- [Salesforce Blog](https://engineering.salesforce.com/tls-fingerprinting-with-ja3-and-ja3s-247362855967) – Information regarding "TLS Fingerprinting with JA3 and JA3S".
-- [ja3](https://github.com/salesforce/ja3) – A method for creating SSL/TLS client fingerprints for threat intelligence.
-- [ja3er](https://ja3er.com/) – A project about collecting and sharing JA3 hashes.
-- [JARM](https://github.com/salesforce/jarm) – An active Transport Layer Security (TLS) server fingerprinting tool.
-
-
-### [Remote Fingerprinting](#remote-fingerprinting)
-- [Drawn ApartM](https://orenlab.sise.bgu.ac.il/p/DrawnApart) – Identification Technique Based on Remote GPU Fingerprinting.
-
-
-### [Redirect News, Search, and Weather Results to Your Default Browser](#redirect-news-search-and-weather-results-to-your-default-browser)
-- [MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) – A Tool to Redirect News, Search, and Weather Results to Your Default Browser.
-- [EdgeDeflector](https://github.com/da2x/EdgeDeflector) – A tiny helper application to force Windows 10 to use your preferred web browser instead of ignoring the setting to promote Microsoft Edge. Only runs for a microsecond when needed.
-
-### [Android & iOS Browser](#android--ios-browser)
-- [Brave Browser](https://brave.com/) – In case you use Brave Browser on Desktop, then keep it for mobile too.
-- [Bromite](https://www.bromite.org/) – Android version which includes some hardening and additional tweaks and changes.
-- [Ungoogled Chromium](https://ungoogled-software.github.io/) – Ungoogled-Chromium-Android is the Android version of Ungoogled-Chromium. - **controversial**
-- [Fennec F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) – A privacy-focused version of Firefox Android available on F-Droid. Fennec itself has telemetry but you can easily [opt-out](https://old.reddit.com/r/privacy/comments/pxlijb/is_fennec_actually_private/).
-- [Firefox](https://www.mozilla.org/en-US/firefox/mobile/) – Android/iOS – Mozilla is evaluating Firefox usage by changing the [default search engine to Bing](https://www.techspot.com/news/91395-mozilla-evaluating-firefox-usage-changing-default-search-engine.html).
-    - [Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos/) – Privacy hardened fork of Firefox for Android, with proprietary blobs removed.
-    - [Iceraven](https://github.com/fork-maintainers/iceraven-browser) – A web browser for Android, based on Mozilla's Fenix version of Firefox.
-- [iCab Mobile (Web Browser)](https://apps.apple.com/us/app/icab-mobile-web-browser/id308111628) - The default settings are not optimal but it is overall a considerable good Browser choice for iOS.
-- [Lynket](https://github.com/arunkumar9t2/lynket-browser) – Lynket utilizes Chrome Custom Tab API to create a customized browsing experience while adding innovative features like background loading with floating bubbles, article mode and multitasking using Android's recent menu. - **controversial**
-- [Lightning Browser](https://github.com/anthonycr/Lightning-Browser) – A lightweight Android browser with modern navigation (Price: Free (Pro version $1.50 on Google Play or free on F-Droid)).
-- [Orion Browser](https://browser.kagi.com/) – For iOS and macOS. - **controversial**
-- [Privacy Browser](https://www.stoutner.com/privacy-browser/) – Android only with some nice features. - **controversial**
-- [Tor Browser](https://www.torproject.org/) – Tor Browser for Android and iOS.
-- [SnowHaze](https://snowhaze.com/en/index.html) – Claims to be an privacy-oriented Browser.
-- [SmartCookieWeb](https://github.com/CookieJarApps/SmartCookieWeb) – A lightweight, basic and secure web browser that uses less than 8MB of space. - **controversial**
-- [Via Browser](https://github.com/tuyafeng/Via) – Via Browser is a powerful browser based on WebView.
-
-
-### [Web Browser Tools](#web-browser-tools)
-- [Visited](https://github.com/yuis-ice/visited) - Locally collect browsing history over Browsers.
-
-
-### [Web Browser Extensions](#web-browser-extensions)
-The list is not a "best practice" recommendation list for extensions/addons you shall install. The list is random without any logic behind.
-
-Before someone wrongly interpret this as "he uses those listed extensions himself", this is not the case. If you look for someone else suggestions, I suggest to take a look at [privacy-fighter](https://github.com/jotyGill/privacy-fighter).
-
-
-- [Behave!](https://github.com/mindedsecurity/behave) – A monitoring browser extension for pages acting as "bad boi".
-- [Bias Monitor!](https://github.com/Alex0Blackwell/bias-monitor) – A Chrome Extension that promotes politically diverse news reading with Artificial Intelligence.
-- [Canvas Blocker (Fingerprint protect)](https://add0n.com/canvas-fingerprint-blocker.html) – A Firefox extension to protect from being fingerprinted, which is not needed with Brave Browser or Tor Browser.
-- [Checkmarks](https://github.com/tanwald/checkmarks) – Firefox web-extension that checks bookmarks and loads favicons.
-- [Chrome extension source viewer](https://github.com/Rob--W/crxviewer) – Add-on or web app to view the source code of Chrome, Firefox, Opera 15 extensions and zip files.
-- [Clickbait Remover extension for YouTube](https://github.com/pietervanheijningen/clickbait-remover-for-youtube) – Replaces thumbnails and modifies titles of videos on YouTube.com
-- [Copy Guard](https://github.com/roedesh/copyguard) – A browser extension to prevent copy hijacking.
-- [Country Flags & IP Whois](https://addons.mozilla.org/en-US/firefox/addon/country-flags-ip-whois/) – Displays country flag of website's server location, Whois and Geo info on a browser addressbar icon.
-- [Dark Background and Light Text](https://github.com/m-khvoinitsky/dark-background-light-text-extension) – Firefox add-on that turns every page colors into "light text on dark background".
-- [Enhancer for YouTube™](https://www.mrfdev.com/enhancer-for-youtube) – Take control of YouTube and boost your user experience!
-- [Feedbro](https://nodetics.com/feedbro) – Advanced Feed Reader - Read news & blogs or any RSS/Atom/RDF source.
-- [FastForward](https://github.com/FastForwardTeam/FastForward) – Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
-- [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers) – Alternative to above mentioned solution, optional, depends on your own preference.
-- [Image Search Options Customizable Image](http://saucenao.com/) – Search right click context options.
-- [IPvFoo](https://github.com/pmarks-net/ipvfoo) – Display the server IP address, with a real-time summary of IPv4, IPv6, and HTTPS information across all page elements.
-- [JavaScript Restrictor](https://polcak.github.io/jsrestrictor/) – JavaScript Restrictor controls the APIs provided by the browser. The goal is to improve the privacy and security of the user running the extension.
-- [JShelter](https://jshelter.org/) – Browser extension to mitigate potential threats from JavaScript.
-- [Kee - Password Manager](https://www.kee.pm/) – Kee adds private, secure and easy password management features which save time and keep your private data more secure.
-- [Keyboard Privacy](https://paul.reviews/behavioral-profiling-the-password-you-cant-change/) – Not needed with Brave Browser or Tor Browser or in case you use some sort of anti-keylogger AVs/software.
-- [Language Switch by Manuel Reimer](https://addons.mozilla.org/en-US/firefox/addon/languageswitch/) – Allows to change the language identifier sent to web-servers to whatever language you need.
-- [LibreJS](https://www.gnu.org/software/librejs/) – Allows to change the language identifier sent to web-servers to whatever language you need. GNU LibreJS aims to address the JavaScript problem described in Richard Stallman's article The JavaScript Trap.
-- [LibRedirect](https://github.com/libredirect/libredirect) – A web extension that redirects YouTube, Twitter, Instagram... requests to alternative privacy friendly frontends and backends.
-- [Tab Session Manager](https://github.com/sienori/Tab-Session-Manager) – A simple session manager. You can quickly save your current browser state and reload it whenever necessary.
-- [Old Reddit Redirect](https://github.com/tom-james-watson/old-reddit-redirect) – Ensure Reddit always loads the old design.
-- [Prevent CSS Exfil attack](https://github.com/mlgualtieri/CSS-Exfil-Protection) – Not needed with Tor Browser.
-- [Privacy-Oriented Origin Policy](https://addons.mozilla.org/en-US/firefox/addon/privacy-oriented-origin-policy) – Prevent Firefox from sending Origin headers when they are least likely to be necessary, to protect your privacy.
-- [RadiTube](https://extension.raditube.com/) – A browser extension to view the metadata of removed YouTube videos, the **extension is not FOSS**.
-- [Reddit Enhancement Suite](https://redditenhancementsuite.com/) – A suite of modules that enhance your Reddit browsing experience.
-- [Redirector](https://github.com/einaregilsson/Redirector) – Browser extension (Firefox, Chrome, Opera, Edge) to redirect URLs based on regex patterns, like a client side mod_rewrite.
-- [Referer Control](https://chrome.google.com/webstore/detail/referer-control/hnkcfpcejkafcihlgbojoidoihckciin) – Control the HTTP Referer on a per-site basis.
-- [Request Control](https://addons.mozilla.org/en-US/firefox/addon/requestcontrol/?utm_content=addons-manager-reviews-link&utm_medium=firefox-browser&utm_source=firefox-browser) – An extension for controlling requests.
-- [Scrt.link - Share a secret!](https://scrt.link/) – Securely share sensitive information online.
-- [Shodan](https://addons.mozilla.org/en-US/firefox/addon/shodan_io/?utm_content=addons-manager-reviews-link&utm_medium=firefox-browser&utm_source=firefox-browser) – The Shodan plugin tells you where the website is hosted (country, city), who owns the IP and what other services/ ports are open.
-- [SoundFixer](https://github.com/unrelentingtech/soundfixer) – Lets you fix annoying sound problems in YouTube videos and such. Like audio in one channel only, too quiet or too loud.
-- [Snowflake](https://snowflake.torproject.org/) – Allows you to circumvent Tor censorship over WebRTC. When using the extension, your browser becomes a temporary proxy to the Tor network.
-- [SponsorBlock for YouTube - Skip Sponsorships](https://sponsor.ajay.app/) – Skip sponsorships, subscription begging and more on YouTube videos. Report sponsors on videos you watch to save others' time.
-- [Tab Stash](https://josh-berry.github.io/tab-stash/) – A no-fuss way to save and restore batches of tabs as bookmarks.
-- [Tabji](https://tabji.link/) – A privacy-first lightweight alternative to The Great Suspender.
-- [Temporary Containers](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers) – Open tabs, websites, and links in automatically managed disposable containers. Containers isolate data websites store (cookies, storage, and more) from each other, enhancing your privacy and security while you browse.
-- [Tomato Clock](https://github.com/samueljun/tomato-clock) – A simple browser extension for managing your productivity.
-- [Trace by AbsoluteDouble](https://absolutedouble.co.uk/trace/) – An advanced extension that can protect many different types of browser fingerprinting such as Canvas/Audio/WebGL Fingerprinting. Trace also offers URL cleaning and header editing features such as the tracking cookie eater and Google header remover.
-- [uBlock Origin](https://github.com/gorhill/uBlock) – Not needed with Brave Browser or any other browser with integrated ad-block.
-- [uBO-Scope](https://github.com/gorhill/uBO-Scope) – A tool to measure your 3rd-party exposure score for web sites you visit.
-- [User-Agent Switcher by Alexander Schlarb](https://addons.mozilla.org/en-US/firefox/addon/uaswitcher/) – Easily override the browser's User-Agent string.
-- [WebWormhole](https://webwormhole.io/) – WebWormhole lets you send files from one place to another.
-- [uBlacklist](https://github.com/iorate/uBlacklist) – Blocks specific sites from appearing in Google search results.
-- [zwBlocker](https://github.com/aido179/zwBlocker) – WAN extension that helps [spot zero-width characters.](https://medium.com/@aidobreen/hidden-text-fingerprints-and-how-to-avoid-them-d0103edd2ce4)
-
-
-### [Web Browser Extensions you do NOT need](#web-browser-extensions-you-do-not-need)
-
-Every custom extension and configuration you change makes your browser unique in its own way. See e.g. [amiunique](https://amiunique.org/).
-
-You do not need them if you have above listed extensions/add-ons installed or in case you use an up-2-date hardened browser. Additional infos/comments are labeled next to the extensions/add-on.
-
-- Catblock
-- [ChromeGalvanizer](https://github.com/mandatoryprogrammer/ChromeGalvanizer) – Harden your browser against extension backdoors and exploits.
-- [ClearURLs](https://gitlab.com/KevinRoebert/ClearUrls) – Can be archived via uBO. ClearURLs includes some other useful features like eTag "blocking" but in hardened Browsers this is not needed or can be archived without the need to depend on third-party extensions.
-- [Display sites quality](https://en.wikipedia.org/wiki/WOT_Services) – Questionable benefit because the database is often not up-2-date or does not exist for page x.
-- [Emulate locally CDNs](https://git.synz.io/Synzvato/decentraleyes) – Questionable gain of privacy, no proof or evidence. Implemented solutions are often outdated compared to real CDNs wo often update their stuff multiple times a day.
-- [Prevent WebRTC IP leak](https://chrome.google.com/webstore/detail/webrtc-leak-shield/bppamachkoflopbagkdoflbgfjflfnfl) – Above listed browsers do not leak WebRTC or can be manually configured as per needs.
-- [Unblock websites with a browser VPN/proxy](https://browsec.com/) – Optional, better use Tor/VPN instead of proxies.
-- Cloud Firewall
-- Cookie AutoDelete
-- DDG Privacy Essentials
-- Disconnect
-- [Don't touch my tabs! (rel=noopener)](https://addons.mozilla.org/en-US/firefox/addon/dont-touch-my-tabs/) – [Fixed within Mozilla Firefox source code](https://mathiasbynens.github.io/rel-noopener/) and removed from AMO.
-- Google search link fix (also Yandex) – No one should use Google nor Yandex Search.
-- HTTPS Everywhere is [deprecated](https://lemmy.ml/post/82533).
-- HTTPZ – Replaced with Auto HTTPS mode in almost every Browser.
-- I don't care about cookies / minerBlock – Most of those lists can be adopted in uBlock via a filter-list subscription.
-- Link Cleaner
-- Privacy Badger - Privacy Badger sends the Global Privacy Control signal to opt you out of data sharing and selling, and the Do Not Track signal to tell companies not to track you, which makes you more unique without any real benefit since DnT is optional. If you want similar add-on use [Adguards StealthMode](https://github.com/AdguardTeam/StealthMode). PB itself had also long time problems with [Google Analytics](https://github.com/EFForg/privacybadger/issues/574#issuecomment-510036366).
-- [Privacy Possum](https://libredd.it/9lanyg) - I am absolute no fan of such extensions, the chance that you discover new trackers is low because filter-lists usually getting updated regularly and monitored by the community. Even if there are new trackers the community would quickly add this to uBlock filter-lists which makes the entire purpose of locally ad-blocking learning obsolete.
-- Redirect AMP to HTML
-- Skip Redirect
-- TrackMeNot
-
-### [Web Browser Benchmark](#web-browser-benchmark)
-- [ARES-6](https://browserbench.org/ARES-6/) – Various tests using the newest web standards and features.
-- [Basemark](https://web.basemark.com/) – Various tests using the newest web standards and features.
-- [JetStream](https://browserbench.org/JetStream/) – JavaScript benchmark developed by Apple.
-- [Kraken](https://krakenbenchmark.mozilla.org/) – JavaScript benchmark developed by Mozilla.
-- [MotionMark](https://browserbench.org/MotionMark/) – Graphics benchmark developed by the WebKit team.
-- [Octane](https://chromium.github.io/octane/) – JavaScript benchmark developed by Google.
-- [Speedometer](https://browserbench.org/Speedometer/) – Performance benchmark that repeats the same actions using DOM APIs.
-- [WebXPRT](https://www.principledtechnologies.com/benchmarkxprt/webxprt/) – HTML5 and JavaScript test developed by benchmark maker Principled Technologies.
-
-
-### [Browser Syncing](#browser-syncing)
-- [xBrowserSync](https://www.xbrowsersync.org/) – Browser syncing as it should be: secure, anonymous and free.
-- [EteSync](https://www.etesync.com/) – Secure, end-to-end encrypted, and privacy respecting sync for your contacts, calendars, tasks and notes.
-- [Floccus](https://floccus.org/) – Sync your bookmarks privately across browsers.
-
-
-### [WebView alternatives](#webview-alternatives)
-- [Bromite WebView](https://www.bromite.org/system_web_view) – A version of Android System WebView with support for ad blocking and enhanced privacy.
-    - [WebView Switcher](https://github.com/Magisk-Modules-Repo/bromitewebview) – A tool for installing Bromite WebView on Android 10 (and higher).
-
-
-### [Browser Referrer Hider Tools](#browser-referrer-hider-tools)
-- [href.li](https://href.li/) – Hide your referrer and create an anonymous link that will hide the HTTP Referer header.
+## [Monitor Website changes](#monitor-website-changes)
+- [Change Detection](https://f-droid.org/en/packages/com.bernaferrari.changedetection/) – Automatically track website changes in background.
 
 
 ## [News Pages](#news-pages)
@@ -1992,6 +3038,115 @@ You do not need them if you have above listed extensions/add-ons installed or in
 - [GNU Mailman](https://list.org/) – Mailman is free software for managing electronic mail discussion and e-newsletter lists. Mailman is integrated with the web, making it easy for users to manage their accounts and for list owners to administer their lists. Mailman supports built-in archiving, automatic bounce processing, content filtering, digest delivery, spam filters, and more.
 - [Groups.io](https://groups.io/) – A privacy focused email list system that does not track you, nor your members. It is not open source. Data is hosted on one central server but the server is encrypted. It has modern email group features such as a wiki, integrations, and RSS import support.
 - [Sympa](https://www.sympa.org/) – An open-source mailing list manager. It provides advanced features with a rich and secure web interface.
+
+
+### [Network-wide ad & tracker blocking DNS servers](#network-wide-ad--tracker-blocking-DNS-servers)
+
+We do not list the original Pi-Hole project in this section since I think AdGuard Home does overall a better job.
+
+- [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) – Network-wide ads & trackers blocking DNS server.
+- [DNSCrypt](https://github.com/dnscrypt) – A flexible DNS proxy, with support for encrypted DNS protocols.
+- [Donutdns](https://github.com/shoenig/donutdns) – A Simpler Alternative to Pi-Hole.
+- [Unbound](https://www.nlnetlabs.nl/projects/unbound/about/) – Unbound is a validating, recursive, caching DNS resolver.
+- [YogaDNS](http://yogadns.com/) – Automatically intercepts Windows DNS requests at the system level and allows you to process them over user-defined DNS servers using modern protocols and flexible rules.
+
+
+## [Oculus Quest](#oculus-quest)
+- [Oculess](https://github.com/basti564/Oculess) – Removes account requirements and telemetry from Oculus Quest devices.
+
+
+## [Open Source Hardware](#open-source-hardware)
+
+[Open Source Hardware Association](https://www.oshwa.org/) – The Open Source Hardware Association or in short: OSHWA aims to foster technological knowledge and encourage research that is accessible, collaborative and respects user freedom. This is the starting point for your research and to check open source hardware news. Another good overview is a [list of open-source computing hardware](https://en.wikipedia.org/wiki/List_of_open-source_computing_hardware).
+
+
+[Free Hardware and Free Hardware Designs](https://www.gnu.org/philosophy/free-hardware-designs.en.html) explained. You find an [Certified Open Source Hardware Projects list here](https://certification.oshwa.org/list.html).
+
+
+- [Beechat Network Systems Ltd.](https://github.com/BeechatNetworkSystemsLtd/BeechatCrank/) – A human-powered, open-hardware, fully-waterproof, electricity generator. The project was born out of the need to power electronics in all off-grid scenarios.
+- [Firefly](https://firefly.city/) – An open-source $5 DIY hardware wallet.
+- [Freedeck](https://github.com/FreeYourStream/freedeck-hardware) – Open-Source Stream Deck.
+- [FOSSi](https://www.fossi-foundation.org/) – Free and Open Source Silicon (FOSSi) are components and systems that are inside silicon devices (‘chips’)..
+- [Glia](https://glia.org/) – High-quality low-cost open source medical hardware.
+- [Liberouter (2014)](https://ieeexplore.ieee.org/document/6814739) – Towards autonomous neighborhood networking.
+- [LibreCellular](https://librecellular.org/) – Aims to make it easier to create 4G cellular networks with open source software and low cost software-defined radio (SDR) hardware.
+- [Mouse](https://github.com/biomurph/Mouse) – Repository for Open Source Mouse Firmware and Hardware.
+- [OpenRex](https://www.imx6rex.com/open-rex/) – Open Source Hardware Project.
+- [Turris Omnia](https://www.imx6rex.com/open-rex/) – A router from the Czech Republic using open source firmware built on top of OpenWRT.
+- [Pid.codes](https://pid.codes/) – Free USB IDs to open-source hardware.
+- [PUMA](https://github.com/TadPath/PUMA) - World's First Open Source 3D Printed Microscope with an Augmented Reality Heads Up Display.
+- [RISC-V ISA](https://tuxphones.com/sipeed-rv64-first-risc-v-rv64-phone-linux-2022-2023/) – The Sipeed Maix Amigo kit from 2020 was among the first RISC-V PDAs.
+- [SLIMBOOK](https://slimbook.es/en/) – Born in 2015 with the idea of ​​being the best brand in the computer market with GNU / Linux (although it is also verified the absolute compatibility with Microsoft Windows).
+- [Space](https://github.com/orbitalindex/awesome-space) – Repository of open source space-related software and hardware.
+- [The NEORV32 Processor](https://www.hackster.io/news/open-source-soc-the-neorv32-processor-061f5219c45a) – Open source hardware SoC.
+- [TinyNES](https://www.crowdsupply.com/tall-dog-electronics/tinynes) – NES compatible open hardware video game console.
+
+
+## [OSINT Tools](#osint-tools)
+- [airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) – App at Linux systems to audit wireless networks.
+- [Capa](https://github.com/fireeye/capa) – Quickly check what execution files can really do.
+- [cgit](https://git.cgsecurity.org/cgit/) – Collection of data recovery tools.
+- [email2phonenumber](https://github.com/martinvigo/email2phonenumber) – A OSINT tool to obtain a target's phone number just by having his email address.
+- [fluxion](https://github.com/FluxionNetwork/fluxion) – A WiFi attack proof tool.
+- [Gitleaks](https://github.com/zricethezav/gitleaks) – Check for privacy data leaked from git repositories.
+- [LinkScope](https://github.com/AccentuSoft/LinkScope_Client) – LinkScope allows you to perform online investigations by representing information as discrete pieces of data, called Entities.
+- [No-BlackM](https://github.com/DataSC3/No-BlackM) – Telegram Bot to search for telephone numbers.
+- [Sherlock Project](https://github.com/rileytestut/Delta) – Hunt down social media accounts by username across social networks.
+- [Snoop](https://github.com/snooppr/snoop/blob/master/README.en.md) – One of the most promising OSINT tools to search for nicknames
+- [tangalanga](https://github.com/elcuervo/tangalanga) – Zoom conference scanner and hacking tool.
+- [trape](https://github.com/jofpin/trape) – Tool to track and execute intelligent social engineering attacks in real time.
+
+
+## [OS and Data Monitoring](#os-and-data-monitoring)
+- ⁭[Netdata](https://github.com/netdata/netdata) – Distributed, real-time monitoring Agent collects thousands of metrics from systems, hardware, containers, and applications with zero configuration. It runs permanently on all your physical/virtual servers, containers, cloud deployments, and edge/IoT devices, and is perfectly safe to install on your systems mid-incident without any preparation.
+- [Uptime-kuma](https://github.com/louislam/uptime-kuma) – A fancy open-source self-hosted monitoring tool.
+- [AppActivityViewer](https://github.com/JannikArndt/AppActivityViewer) – iOS 15 App Activity Record Viewer.
+
+
+## [Open Source privacy-friendly firmware replacement for Robot Vacuums (ie Roombas)](#open-source-privacy-friendly-firmware-replacement-for-robot-vacuums-ie-roombas)
+- [Valetudo](https://github.com/Hypfer/Valetudo) – Cloud-free control web-interface for vacuum robots.
+
+
+## [Open Source Games](#open-source-games)
+- [List of open source Games](https://github.com/bobeff/open-source-games/) – List of open source games as well as some reference to other lists and material.
+- [Minetest](https://www.minetest.net/) – A free open source Minecraft-style game with huge worlds, a variety of different playing modes, online and offline gameplay, multiplayer servers, lots of user-created mods and more.
+- [Open source games list (OSGL)](https://trilarion.github.io/opensourcegames/) – Contains information about 1342 open source games and 310 game engines/tools.
+- [Open Source Games](https://libregamewiki.org/List_of_games) – There are some good FOSS Games available as open source [projects](https://gitlab.com/Ashpex/Linux_Games).
+
+
+## [PDF tools](#PDF-tools)
+### [PDF merging](#pdf-merging)
+- [PDFWrench](https://pdfwrench.com/) – Free PDF merging tool that works without any file upload to ensure privacy.
+
+### [PDF Reader](#pdf-reader)
+- [Document Viewer](https://github.com/SufficientlySecure/document-viewer) – A highly customizable document viewer for Android.
+- [Evince](https://wiki.gnome.org/Apps/Evince) – A document viewer for multiple document formats.
+- [Okular](https://okular.kde.org) – A universal document viewer developed by KDE.
+- [Sioyek](https://github.com/ahrm/sioyek) – Sioyek is a PDF viewer designed for reading research papers and technical books.
+- [Skim](https://skim-app.sourceforge.io) – A PDF reader and note-taker for macOS.
+- [SumatraPDF](https://www.sumatrapdfreader.org) – A multi-format reader for Windows.
+- [zathura](https://pwmt.org/projects/zathura/) – A highly customizable and functional document viewer.
+
+### [Mobile PDF Reader](#mobile-pdf-reader)
+- [Book Reader](https://gitlab.com/axet/android-book-reader) – Android book reader application.
+- [Document Viewer](https://github.com/PrivacyApps/document-viewer) – Document Viewer is a highly customizable document viewer for Android.
+- [KOReader](https://github.com/koreader/koreader) – An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices.
+- [Librera Reader](https://github.com/foobnix/LibreraReader) – Book Reader for Android.
+- [MuPDF](https://mupdf.com) – A lightweight and customizable PDF and XPS viewer.
+- [PDF Viewer Plus](https://github.com/JavaCafe01/PdfViewer) – A simple PDF document viewer for Android.
+
+
+### [PDF Editor](#pdf-editor)
+- [PDF Converter](https://f-droid.org/packages/swati4star.createpdf) – PDF Converter is an easy to use application to convert Images to PDF.
+
+
+### [PDF Document Scanner](#pdf-document-scanner)
+- [Open Note Scanner](https://f-droid.org/packages/com.todobom.opennotescanner/) – With Open Note Scanner you can capture documents, handwritten notes, arts, shopping receipts, etcetera.
+- Termux with pandoc and texlive-bin plugin allows you to scan or convert documents from e.g. markdown to PDF.
+
+
+## [Poll Systems](#poll-systems)
+- [Framadate](https://framadate.org/) – An easy-to-use libre Doodle-style event and poll service, provided by France’s largest ethical software organization Framasoft. It costs nothing, it doesn’t track you and you don’t need to register.
 
 
 ## [Payment systems](#payment-systems)
@@ -2374,6 +3529,11 @@ it out and the results can be viewed in a browser.
 - [PGF/TikZ](https://github.com/pgf-tikz/pgf) – PGF/TikZ is a pair of languages for producing vector graphics (e.g., technical illustrations and drawings) from a geometric/algebraic description, with standard features including the drawing of points, lines, arrows, paths, circles, ellipses and polygons.
 - [View Your Mind (VYM)](https://sourceforge.net/projects/vym/) – View Your Mind (VYM) is a cross-platform concept mapping software.
 - [Visual Understanding Environment](http://vue.tufts.edu/) – The Visual Understanding Environment (VUE) is a free, open-source concept mapping application written in Java. The application is developed by the Academic Technology group at Tufts University. VUE is licensed under the Educational Community License. VUE 3.0, the latest release, was funded under a grant from the Andrew W. Mellon Foundation.
+
+
+## [Mesh networking](#mesh-networking)
+- [ormesh](https://github.com/cmars/ormesh) – Helps you to connect services through the Tor Network.
+- [Meshenger](https://f-droid.org/en/packages/d.d.meshenger/) – Allows voice and video calls without any server or Internet access.
 
 
 ## [Maps and Navigation](#maps-and-navigation)
@@ -2932,25 +4092,6 @@ Privacy oriented alternatives:
 - [streamlink-twitch-gui](https://github.com/streamlink/streamlink-twitch-gui) – A multi platform Twitch.tv browser for Streamlink. Another alternative is to [use MPV](https://benad.me/blog/2018/05/08/watching-youtube-and-twitch-with-mpv/) + the [chat plugin](https://github.com/CrendKing/mpv-twitch-chat/).
 - [Twire](https://github.com/twireapp/Twire) – An open source, ad free Twitch browser and stream player for Android.
 
-### [P2P](#p2p)
-No servers involved. Everything goes directly from one peer to the other peer. No point of failure or control. The features are reduced because of the lack of server, messaging can be slower.
-
-Peer-to-peer communications reveal one's IP address to each other, so using a reliable VPN, proxy, or TOR is advised. Briar is an exception to this rule, as it uses either Bluetooth range or the local network it's connected to; else all traffic goes through TOR. Ones without servers are ideal, such as: Jami, Tox, Ricochet, Status, Scuttlebot and PSYC-2. Some are still in development and may be prone to bugs.
-
-Keep these options in mind when communicating with your clique. Many of us belong to private groups on Telegram which are presumably free from moderator surveillance (or at least interference), but ultimately we should transition to a more durable platform that will be unable to censor our messages. Try a few out and see what works for you and your crew.
-
-- [Anonymous Messenger](https://anonymousmessenger.ly/) – A peer to peer private anonymous and secure messenger that works over tor. It's also free and [open source](https://git.anonymousmessenger.ly/dx/AnonymousMessenger) software which gives users the freedom of changing it and redistributing it under the terms of the GNU General Public License v3.
-- [Ekiga](http://www.ekiga.org/) – Ekiga (formerly known as GnomeMeeting) is an open source SoftPhone, Video Conferencing and Instant Messenger application over the Internet.
-- [Tinfoil Chat](https://github.com/maqp/tfc) – Onion-routed, endpoint secure messaging system.
-- [Tox](https://tox.chat/) – Tox is easy-to-use software that connects you with friends and family without anyone else listening in. - **controversial** due to the [donation scandal](https://lwn.net/Articles/651003/).
-  - [aTox](https://github.com/evilcorpltd/aTox) – Reasonable Tox client for Android.
-  - [Toxic](https://github.com/JFreegman/toxic) – A Tox-based instant messaging and video chat client.
-- [Berty](https://berty.tech/) – The privacy-first messaging app that works with or without internet access, cellular data or trust in the network.
-- [Conversations](https://f-droid.org/en/packages/eu.siacs.conversations/) – Easy to use, reliable, battery friendly. With built-in support for images, group chats and e2e encryption.
-- [Siskin](https://siskin.im/) – Lightweight & powerful XMPP client for iPhone and iPad.
-- [Surge](https://github.com/rule110-io/surge) – A p2p file-sharing app designed to utilize blockchain technologies to enable 100% anonymous file transfers. Surge is end-to-end encrypted, decentralized and open source.
-- [Onymochat](https://github.com/SamratDuttaOfficial/onymochat) – An end-to-end encrypted, decentralized, anonymous chat application. You can also host your anonymous .onion webpage with Onymochat.
-
 
 ## [Pin Brute-Force Protection](#pin-brute-force-protection)
 - [Wrong PIN Shutdown](https://f-droid.org/packages/org.nuntius35.wrongpinshutdown/) – This simple app monitors the number of failed login attempts. If a certain number of attempts is exceeded, the device is automatically shut down.
@@ -2988,49 +4129,6 @@ Privacy oriented alternatives:
 - [Seashore](https://github.com/robaho/seashore) – An open source image editor for macOS.
 - [Tldraw](https://www.tldraw.com/sponsorware) – An open-source SVG-rendered drawing tool.
 - [Wireflow](https://wireflow.co) – An online and open source tool for creating beautiful user flow prototypes.
-
-
-## [Teamwork Tools](#teamwork-tools)
-Not so good in terms of privacy:
-- [Discord](https://cybernews.com/privacy/discord-privacy-tips-that-you-should-use/) + [The Dark Side of Discord (And best Solutions and Alternatives!)](https://bitcointv.com/w/bQQi7ewMbuWzdL3EN8Do4K) [#febpot](https://torrentfreak.com/riaa-takes-down-popular-music-piracy-discord-over-adele-30-leak-211122/), see [here](https://discord.com/safety/360044157931-Working-with-law-enforcement) and [here](https://www.forbes.com/sites/thomasbrewster/2019/01/29/discord-the-2-billion-gamers-paradise-coming-to-terms-with-data-thieves-child-groomers-and-fbi-investigators/) + [full of snitches due to cp](https://www.videogameschronicle.com/news/a-prolific-nintendo-leaker-has-been-sentenced-to-three-years-in-prison/) and [here](https://old.reddit.com/r/privacy/comments/rsxeee/you_should_never_use_discord_and_heres_why/)
-- [Google Hangouts](https://medium.com/pawa-it/beware-of-sharing-sensitive-images-via-google-hangouts-a7d22569751a)
-- [Microsoft Teams](https://www.zdnet.com/article/i-looked-at-all-the-ways-microsoft-teams-tracks-users-and-my-head-is-spinning/)
-- [Slack](https://www.vox.com/recode/2020/1/24/21079275/slack-private-messages-privacy-law-enforcement-lawsuit) + [metadata leakage](https://jub0bs.com/posts/2021-10-12-xsleak-stack/)
-
-Privacy oriented alternatives:
-- [Dino](https://dino.im) – A modern and open source Jabber/XMPP chat client for the desktop.
-- [Mattermost](https://mattermost.com/) – Open-source Slack alternative.
-- [Meething](https://github.com/meething) – Decentralized Real-Time Communications (dWebRTC).
-- [Mumble](https://www.mumble.info/) – Open Source, Low Latency, High Quality Voice Chat, you can [bridge audio between Mumble and Discord](https://github.com/Stieneee/mumble-discord-bridge).
-- [Nextcloud Talk](https://nextcloud.com/talk/) – Keep conversations private with Nextcloud Talk.
-- [Portway](https://getportway.com/) – Collaborative content hub
-- [Revolt](https://revolt.chat/) – User-first chat platform built with modern web technologies. FOSS and self-hostable, it also can bridge with Discord and Matrix and they have E2EE planned. Self-hosting DMs is not, yet, possible.
-- [RocketChat](https://rocket.chat/) – Control your communication, manage your data, and have your own collaboration platform to improve team productivity.
-- [Semaphor](https://spideroak.com/) – Encrypted, decentralized authority team chat and file sharing.
-- [Talk](https://github.com/vasanthv/talk) – Group video call for the web. No signups needed and no useless downloads are required.
-- [TOR Fonep2p](https://torfone.org/) – Secure and anonymous VoIP tool.
-- [Twake](https://twake.app/) – Work in a team faster, it covers all of your organizational needs through a single platform.
-- [Zulip](https://zulip.com/) – Chat for distributed teams.
-
-### [Mobile Team Working Apps](#mobile-team-working-apps)
-- [Dragonfire](https://github.com/DragonComputer/Dragonfire/) – Open source voice assistant project for Ubuntu based Linux distributions. Dragonfire uses Mozilla DeepSpeech to understand your voice commands and Festival Speech Synthesis System to handle text-to-speech tasks.
-- [Just search](https://f-droid.org/app/co.pxhouse.sas) – Simple internet search shortcut.
-- [Saiy](https://github.com/brandall76/Saiy-PS/) – Fully customizable open source voice assistant.
-
-
-## [Text sharing](#text-sharing)
-- [AnonPaste](https://anonpaste.org/) – Forked from private bin, and features the option set pastes to never expire.
-- [0bin](https://0bin.net/) – 0bin is a client-side-encrypted alternative pastebin. You can store code, text and images online for a set period of time and share with the world.
-- [CryptoContainer](https://github.com/Alex014/CryptoContainer) – Encrypted messaging system inside container.
-- [NoPaste](https://github.com/bokub/nopaste) – An open-source website similar to Pastebin where you can store any piece of code, and generate links for easy sharing.
-- [pastor](https://gitlab.com/cocainefarm/pastor) – The pastebin that hopefully doesn't suck.
-- [PrivateBin](https://privatebin.info/directory/) – Minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted and decrypted in the browser using 256 bits AES.
-- [publicnote](https://publicnote.com/) – Enter any title above to access a note. No account required.
-- [VeryBin](https://www.verybin.com/) – An anonymous and encrypted online pastebin using 256-bit AES.
-- [writefreely](https://writefreely.org/) – An open source platform for building a writing space on the web.
-
-### [Disposable Text sharing](#disposable-text-sharing)
-- [Secrets.io](https://www.secrets.so/) – Securely send & receive secrets using a [disposable link](https://www.indiehackers.com/post/securely-send-receive-secrets-using-a-disposable-link-2a64894949).
 
 
 ## [NFT](#nft)
@@ -3151,49 +4249,8 @@ Privacy oriented alternatives:
 - [Mask attack](https://hashcat.net/wiki/doku.php?id=mask_attack) – Mask attacks can be used to filter passwords based on specific words, numbers within a specified range, the user's preferred special characters, or any other password features the hacker is confident in.
 - [Rainbowcrack](http://project-rainbowcrack.com/) – A computer program that creates a rainbow table that can be used to crack a password. RainbowCrack differs from "conventional" brute force crackers in that it uses huge pre-computed tables called rainbow tables to reduce the time required to crack a password significantly.
 
-
-## [PDF tools](#PDF-tools)
-### [PDF merging](#pdf-merging)
-- [PDFWrench](https://pdfwrench.com/) – Free PDF merging tool that works without any file upload to ensure privacy.
-
-### [PDF Reader](#pdf-reader)
-- [Document Viewer](https://github.com/SufficientlySecure/document-viewer) – A highly customizable document viewer for Android.
-- [Evince](https://wiki.gnome.org/Apps/Evince) – A document viewer for multiple document formats.
-- [Okular](https://okular.kde.org) – A universal document viewer developed by KDE.
-- [Sioyek](https://github.com/ahrm/sioyek) – Sioyek is a PDF viewer designed for reading research papers and technical books.
-- [Skim](https://skim-app.sourceforge.io) – A PDF reader and note-taker for macOS.
-- [SumatraPDF](https://www.sumatrapdfreader.org) – A multi-format reader for Windows.
-- [zathura](https://pwmt.org/projects/zathura/) – A highly customizable and functional document viewer.
-
-### [Mobile PDF Reader](#mobile-pdf-reader)
-- [Book Reader](https://gitlab.com/axet/android-book-reader) – Android book reader application.
-- [Document Viewer](https://github.com/PrivacyApps/document-viewer) – Document Viewer is a highly customizable document viewer for Android.
-- [KOReader](https://github.com/koreader/koreader) – An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices.
-- [Librera Reader](https://github.com/foobnix/LibreraReader) – Book Reader for Android.
-- [MuPDF](https://mupdf.com) – A lightweight and customizable PDF and XPS viewer.
-- [PDF Viewer Plus](https://github.com/JavaCafe01/PdfViewer) – A simple PDF document viewer for Android.
-
-
-### [PDF Editor](#pdf-editor)
-- [PDF Converter](https://f-droid.org/packages/swati4star.createpdf) – PDF Converter is an easy to use application to convert Images to PDF.
-
-
-### [PDF Document Scanner](#pdf-document-scanner)
-- [Open Note Scanner](https://f-droid.org/packages/com.todobom.opennotescanner/) – With Open Note Scanner you can capture documents, handwritten notes, arts, shopping receipts, etcetera.
-- Termux with pandoc and texlive-bin plugin allows you to scan or convert documents from e.g. markdown to PDF.
-
-
-## [Poll Systems](#poll-systems)
-- [Framadate](https://framadate.org/) – An easy-to-use libre Doodle-style event and poll service, provided by France’s largest ethical software organization Framasoft. It costs nothing, it doesn’t track you and you don’t need to register.
-
-
 ## [QR-Code Reader](#qr-code-reader)
 - [obsqr](https://f-droid.org/app/trikita.obsqr) – Fastest and most lightweight qr code reader.
-
-
-## [Mesh networking](#mesh-networking)
-- [ormesh](https://github.com/cmars/ormesh) – Helps you to connect services through Tor Network.
-- [Meshenger](https://f-droid.org/en/packages/d.d.meshenger/) – Allows voice and video calls without any server or Internet access.
 
 
 ## [Office Apps](#office-apps)
@@ -3325,85 +4382,6 @@ Some Distros, mobile as well as desktop using Google Fonts, however there is no 
 - [LuneOS](https://webos-ports.org/wiki/Main_Page) – OS for Smartphones, Tablets, SBCs.
 
 
-## [Oculus Quest](#oculus-quest)
-- [Oculess](https://github.com/basti564/Oculess) – Removes account requirements and telemetry from Oculus Quest devices.
-
-
-## [eMail Services](#email-services)
-Comparison of different services, check [this](https://digdeeper.neocities.org/ghost/email.html). And regarding security and emails check [this](https://lushka.al/truth-about-email). [Self-host your own Email server](https://www.c0ffee.net/blog/mail-server-guide).
-
-Not so good in terms of privacy:
-- [Gmail](https://www.theguardian.com/technology/2021/may/09/how-private-is-your-gmail-and-should-you-switch) – [Google does not use mail content to target ads, and does not sell mail content to third parties](https://www.blog.google/technology/safety-security/ensuring-your-security-and-privacy-within-gmail/). But [third-parties can get access on request](https://github.com/Lissy93/personal-security-checklist/blob/master/5_Privacy_Respecting_Software.md#encrypted-email).
-- Outlook / [Office 365](https://www.robin-data.io/en/data-protection-academy/news/data-protection-of-microsoft-office-365-in-the-criticism)
-- [Yandex Mail](https://mako.cc/copyrighteous/google-has-most-of-my-email-because-it-has-all-of-yours) – See [here](https://www.dailymail.co.uk/sciencetech/article-7894643/Privacy-concerns-Russias-popular-search-engine-Yandex-uses-facial-recognition.html).
-- [Yahoo! Mail](https://www.theverge.com/2018/8/28/17793964/how-to-opt-out-yahoo-mail-email-data-scanning-advertising)
-
-I will split the list in free-mailer and paid providers. Free mailer tend to use ads based systems to survive and are controversial because that might come with privacy implications.
-
-Privacy oriented alternatives:
-- [33Mail](https://33mail.com/) – Email alias service, including anonymous replies and custom domains.
-- [Anonymize.com Email](https://anonymize.com/) – Paid secure email service provided by Epik.com.
-- [Cock.li](https://cock.li/) – Yeah it's mail with cocks.
-- [Confidesk](https://confidesk.com/) – High class encryption, maximum security. No third party access, nobody can read your mail, only you. Privacy as it should be.
-- [Cypht](https://cypht.org/) – The driving force behind Cypht development is to provide combined views for multiple accounts, but it's also a standard E-mail client that lets you browse and manage IMAP folders and send outbound messages with SMTP.
-- [Disroot](https://disroot.org) – An online services provider based in the Netherlands.
-    - [Dismail](https://dismail.de/info.html#email) – You might need to contact the support via Jabber first.
-- [Espiv](https://espiv.net/en/) – A collective dedicated to providing private and secure email and hosting services for individuals and organisations committed to political and social justice.
-- [Ethical Mail](https://www.ethicalmail.org.au) – A carbon neutral email service hosted in Australia and run by a not-for-profit organization. The service is funded by its users without tracking or advertising. It uses free software components and all improvements are contributed back to the community. Email is accessible through the website or any standard email app.
-- [Fastmail](https://fastmail.com/) – Paid email provider, located in Australia and US.
-- [Inbox](https://www.inbox.lv/) – Free service, ads based system to survive. Ad-blocker detection.
-- [Kolab Now](https://kolabnow.com/) – A Swiss email provider with lots of extra services aimed at business people, including a calendar, file sharing, tasks and more. There’s a free trial, after which you pay a fee to continue using the service.
-- [Lavabit](https://lavabit.com/) – Lavabit is an open-source encrypted web-mail service, founded in 2004.
-- [Mail2World](https://www.mail2world.com/) – Personalized email service that's as unique as you are.
-- [Mailbox](https://mailbox.org) – Similar to Posteo both in feature set as well as privacy, security and ethics.
-- [Migadu](https://www.migadu.com/) – Migadu is an independent email hosting from Switzerland.
-- [Paranoid Mail](https://paranoid.email/) – GPG encrypted mail provider.
-- [Posteo](https://posteo.de) – Ad-free and anonymous email service based in Germany.
-- [RiseUp](https://riseup.net/en/about-us) – Online communication tools for people and groups working on libratory social change.
-- [Runbox](https://runbox.com/) – Privacy focused eMail provider.
-- [seznam](https://registrace.seznam.cz/) – Similar like Inbox, ads based free mailer.
-- [Soverin](https://soverin.net/) – Located in the Netherlands and offers privacy-oriented email including custom domain name and optional web page too.
-- [Systemli](https://www.systemli.org/en/service/mail.html) – Mailboxes without ads or analysis of your emails.
-- [StartMail](https://www.startmail.com) – A private email service developed by the creators of StartPage.
-- [Thexyz](https://www.thexyz.com/) – A Canadian company offering privacy-conscious business email. Premium web-mail costs around USD $2.95 per month.
-- [Tutanota](https://tutanota.com/) – Secure email for everybody and open source. The provider [accepts Bitcoin or Monero](https://digitalgoods.proxysto.re/), see [here](https://tutanota.com/faq/#cryptocurrency). Tutanota doesn't allow the use of third-party email clients and there are [no plans to pull emails from external eMail accounts using the IMAP protocol](https://github.com/tutao/tutanota/issues/544#issuecomment-670473647). This means [eMail import is currently not possible](https://github.com/tutao/tutanota/issues/630).
-- [Ubikom](https://github.com/regnull/ubikom) – Decentralized E2EE email service.
-- [VFEmail](https://vfemail.net/) – Since 2001, VFEmail has provided businesses and end-users a quick and convenient way to ensure their own security when it comes to email.
-- [Webmail](https://www.webmail.co.za/register.php) – Free email service.
-- [Wasc](https://wasc.me/) – A German, anti-tracking mail service. Clean interface, trackers blocked, obfuscated addresses.
-
-
-### [Onion eMail services](#onion-email-services)
-- [DanWin1210](https://danwin1210.de/new-domain.php) – XMPP, eMail and more.
-- [Elude](https://elude.in/) – Easy to use service.
-- [OnionMail](https://en.onionmail.info/) – An anonymous and encrypted mail server made to run on the TOR network without losing the ability to communicate with the Internet.
-
-
-### [Self-hosting eMail services](#self-hosting-email-services)
-- [IMAP API is now EmailEngine.app](https://emailengine.app/) – Self-hosted application to access your users' IMAP and SMTP accounts via a REST API. Send and receive emails on behalf of your users with ease.
-- [LIV (Live Inbox View)](https://github.com/derek-zhou/liv) – A webmail front-end for your personal email server.
-- [Mail-in-a-Box](https://mailinabox.email) – An easy-to-deploy mail server in a box.
-- [Mailcow](https://mailcow.email) – An advanced mail server perfect for those with a bit more Linux experience.
-- [MailinaBox](https://mailinabox.email/) – Self-hosted eMail made easy.
-- [Modoboa](https://modoboa.org/) – Open-source email server.
-- [RainLoop](https://www.rainloop.net) – A simple, modern & fast web-based email client.
-- [Roundcube](https://roundcube.net) – A web-based IMAP email client.
-- [SOGo](https://www.sogo.nu/) – Share your calendars, address books and mails in your community with a completely free and open source solution.
-
-### [Mail Server](#mail-server)
-- [AnsiMail](https://github.com/AnsiMail/AnsiMail) – Security focused mailserver based on OpenSMTPD/OpenBSD using ansible.
-- [Maddy](https://github.com/foxcpp/maddy) – Composable all-in-one mail server in Go.
-- [Mailpopbox](https://github.com/rsesek/mailpopbox) – Single-user wildcard mail server with arbitrary reply addressing.
-- [Mailu](https://mailu.io/) – A simple yet full-featured mail server as a set of Docker images. It is free software (both as in free beer and as in free speech), open to suggestions and external contributions.
-- [NixOS Mailserver](https://github.com/r-raymond/nixos-mailserver) – A Complete and Simple NixOS Mailserver.
-- [iRedMail](https://www.iredmail.org/) – Free, Open Source Mail Server Solution.
-- [WildDuck](https://github.com/nodemailer/wildduck#wildduck-mail-server) – No spof scalable and API driven email server.
-
-### [Alternative eMail networks](#alternative-email-networks)
-- [mnm is not mail](https://github.com/networkimprov/mnm-hammer) – The mnm project enables a new email network: a sane, simple protocol, a client, and a server. It’s designed for everyone.
-- [TMTP](https://mnmnotmail.org/) – A safer, better, decentralized email network. The client and server are open source, subject to the terms of the Mozilla Public License, v2.0.
-
-
 ## [Songs regarding Open Source](#songs-regarding-open-source)
 - [Open Source Maintainer's Song](https://www.youtube.com/watch?v=cn22xJezOSw)
 
@@ -3419,544 +4397,6 @@ Privacy oriented alternatives:
 - [sfxr](http://www.drpetter.se/project_sfxr.html) - The original sound generator these are based on.
 
 
-## [eCommerce platforms](#ecommerce-platforms)
-- [eMarket Online Store](https://github.com/musicman3/eMarket) – It is a free online store engine. Make the best online shop with us.
-- [Medusa](https://github.com/medusajs/medusa) – An open-source ecommerce platform in 1 minute.
-- [Rudder Server](https://github.com/rudderlabs/rudder-server) – Privacy-focused open-source alternative to Segment, customer data platform.
-
-
-## [OS and Data Monitoring](#os-and-data-monitoring)
-- ⁭[Netdata](https://github.com/netdata/netdata) – Distributed, real-time monitoring Agent collects thousands of metrics from systems, hardware, containers, and applications with zero configuration. It runs permanently on all your physical/virtual servers, containers, cloud deployments, and edge/IoT devices, and is perfectly safe to install on your systems mid-incident without any preparation.
-- [Uptime-kuma](https://github.com/louislam/uptime-kuma) – A fancy open-source self-hosted monitoring tool.
-- [AppActivityViewer](https://github.com/JannikArndt/AppActivityViewer) – iOS 15 App Activity Record Viewer.
-
-
-## [eMail Clients](#email-clients)
-### [Desktop eMail Clients](#desktop-email-clients)
-- [aerc](https://aerc-mail.org/) – Is an email client that runs in your terminal.
-- [alot](https://github.com/pazz/alot) – Terminal-based Mail User Agent.
-- [Alpine](http://alpine.x10host.com/alpine/) – Fast, easy-to-use and Apache-licensed email client based on Pine.
-- [Claws Mail](https://www.claws-mail.org) – An open source email client (and news reader) for Windows and Linux.
-- [Evolution](https://wiki.gnome.org/Apps/Evolution) – A Linux application that provides mail, calendar and address book.
-- [Geary](https://wiki.gnome.org/Apps/Geary) – An email application built around conversations, for Linux.
-- [Himalaya](https://github.com/soywod/himalaya) – A CLI email client written in Rust. The aim of Himalaya is to extract the email logic into a simple (yet solid) CLI API that can be used directly from the terminal, from scripts, from UIs… Possibilities are endless!
-- [iRedMail](https://github.com/iredmail/iRedMail) – Full-featured, open source mail server solution for mainstream Linux/BSD distributions.
-- [Kolab Now](https://kolabnow.com/) – Online service providing personal Kolab Groupware on desired level.
-- [Mailfence](https://mailfence.com/) – Secure and private email-suite.
-- [mu/mu4e](https://www.djcbsoftware.nl/code/mu/mu4e.html) – Maildir indexer/searcher + emacs mail client and guile bindings.
-- [Mutt](http://mutt.org/) – Small but very powerful text-based mail client.
-- [NeoMutt](https://neomutt.org/) – Command line mail reader (or MUA). It's a fork of Mutt with added features.
-- [Notmuchmail](https://notmuchmail.org/) – A fast mail indexer built on top of xapian.
-- [S-nail](https://www.sdaoden.eu/code.html#s-mailx) – S-nail provides a simple and friendly environment for sending and receiving mail.
-- [Thunderbird](https://www.thunderbird.net) – A free customizable open source email client.
-    - [Allow HTML Temp](https://addons.thunderbird.net/thunderbird/addon/allow-html-temp/) – Allows to have HTML temporarily enabled (and displayed) in the currently selected message by only one click. When switching to another message, it'll be shown automatically again in plain text or simple html mode (according to your settings).
-    - [MetaClean](https://addons.thunderbird.net/en-US/thunderbird/addon/metaclean-for-thunderbird/) – Removes metadata and hidden data in email attachments preventing the leakage of confidential information that occurs in this type of communication and avoiding possible economic and reputational damages derived from the malicious use of metadata. The add-on is controversial because it uploads every attachment into a Cloud, however an AV usually does the same to check against a reputation database.
-    - [pgpgeek](https://github.com/pgpgeek/pgpgeek) – Quick & easy PGP encryption / decryption tool using openPGP.js
-    - [Octopus](https://sequoia-pgp.org/blog/2021/12/13/202112-octopus/) – Alternative OpenPGP Back End for Thunderbird.
-    - [Betterbird](https://www.betterbird.eu/) – A fork of Mozilla Thunderbird with some extra candy in it, you still need to install essential add-ons and tweak the configuration.
-
-### [CLI based eMail Clients](#cli-based-email-clients)
-- [Himalaya](https://github.com/soywod/himalaya) – A CLI based Email Client.
-
-### [Mobile eMail Clients](#mobile-email-clients)
-- [K-9 Mail](https://k9mail.app/) – Open Source Email App for Android.
-- [Ltt.rs - Simple and maintainable Android e-mail client](https://f-droid.org/de/packages/de.tutao.tutanota/) – Proof of concept e-mail (JMAP) client (pronounced \"Letters\"). Makes heavy use of Android Jetpack to be more maintainable than some of the other Android e-mail clients.
-- [p≡p](https://www.pep.security) – Free and open source email client for Android and iOS.
-- [SimpleEmail](https://f-droid.org/de/packages/org.dystopia.email/) – A Free Software, nominalistic and privacy-friendly email app.
-- [Tutanota](https://f-droid.org/de/packages/de.tutao.tutanota/) – Encrypted email app.
-
-### [eMail Encryption](#email-encryption)
-- [Encrypted emails based on Signal protocol with post-quantum algorithms](https://eprint.iacr.org/2021/875) – Research completed, project planned.
-- [Enigmail](https://www.enigmail.net) – Encrypt/decrypt and digitally sign your emails in Thunderbird, Postbox and Interlink.
-- [GnuPG](https://www.gnupg.org) – Encrypt and sign your data and communications.
-- [GPG Suite](https://gpgtools.org) – An open source GnuPG front-end for macOS.
-- [GPG4Win](https://www.gpg4win.org) – An open source GnuPG front-end for Windows.
-- [Hemmelig.app](https://github.com/HemmeligOrg/Hemmelig.app) – This application is to be used to share encrypted secrets cross organizations, or as private persons. Hemmelig truly cares about your privacy, and will do everything to stay that way. I hope you enjoy the product.
-- [Mailvelope](https://www.mailvelope.com) – A browser extension to securely encrypt your emails with PGP using webmail providers, made in Germany.
-
-
-### [Disposable eMail Providers](#disposable-email-providers)
-
-> None of them will actually work for Twitter, Gmail, etc. because they use a blacklist and basically blacklist all public providers. The moment I would post some Russian providers who currently work the moment they would add them to their blacklist. Self-host or search for some Russian providers yourself but do not leak them to the public.
-
-
-- [33 Mail](https://www.33mail.com/) – Create a new e-mail address whenever you need one. You need to register yourself to use their service.
-- [10 Minute Mail](https://10minutemail.com/) – Free and anonymous temporary email.
-- [dispostable](https://www.dispostable.com/) – Just pick a random email address.
-- [erine.email](https://erine.email) – Unlimited disposable email addresses to avoid spam.
-- [eMail Fake](https://emailfake.com/) – Fake Email Generator with your name.
-- [eMail Deck](https://www.emailondeck.com/) – Free & fast, temp emails in 2 easy steps.
-- [eMaildrop](https://www.emaildrop.io/) – Free mailer with privacy in mind.
-- [FakeMail](https://www.fakemail.net/) – Temp mailer with privacy in mind.
-- [Guerrilla Mail](https://www.guerrillamail.com/) – Disposable Temporary E-Mail Address.
-- [inboxkitten](https://inboxkitten.com) – Open source disposable email.
-- [Maildrop](https://maildrop.cc) – Free and open source disposable e-mail addresses service.
-- [Mailinator](https://mailinator.com) – Email and SMS Workflow Testing.
-- [Mailnesia](https://mailnesia.com/) – Disposable email at its best.
-- [Mailsac](https://mailsac.com) – Open source disposable email hosting.
-- [Moaktmail](https://www.moakt.com/) – Privacy respecting eMail service.
-- [Mint eMail](https://www.mintemail.com/) – A no-click disposable email system.
-- [nada](https://getnada.com/) – Free and paid plans.
-- [Temp Mail](https://temp-mail.to/) – Free, easy to use and reliable temporary email address.
-- [Temp-Mail](https://temp-mail.org) – Free and paid service, also has mobile apps.
-- [tmpmail](https://github.com/sdushantha/tmpmail) – A temporary email right from your terminal written in POSIX sh.
-- [Tempr.email](https://tempr.email/en/) – A service for temporary email addresses (temp mail) with a large range of functions.
-- [YopMail](https://www.yopmail.com/en/) – YOPmail’s free, quick and feature rich service guards you against spam.
-
-
-### [Email Alias Services (Anonymous Forwarding)](#email-alias-services-anonymous-forwarding)
-With email aliases, you can finally create a different identity for each website. Defend against spams, phishing and data breach.
-
-Services with self-hosting options:
-- [Simplelogin](https://github.com/simple-login/app)
-- [Anonaddy](https://github.com/anonaddy/anonaddy)
-
-Services without self-hosting:
-- [AnnonAddy](https://anonaddy.com/) – Reliable service.
-- [Firefox Relay](https://relay.firefox.com) – Create aliases that forward to your real inbox. Allows 5 aliases.
-- [forwardemail](https://forwardemail.net/) – Create unlimited email addresses for free using your custom domain. Plus get catch-all, wildcard, and disposable aliases – all for free!
-- [improvmx](https://improvmx.com/) – Set up email forwarding in seconds and start receiving and sending emails with your domain name.
-- [MailMask](https://github.com/HSchuette/mailmask) – Create forwarding addresses for free, without an account.
-- [spamgourmet](https://www.spamgourmet.com/) – If you give your email address to everyone, you are bound to receive spam emails, and you won't know where they came from. Absolutely free. No registration. 24/7 Support.
-
-
-## [Flashlight Apps](#flashlight-apps)
-- [Flashy](https://github.com/Crazy-Marvin/Flashy) – Simple & Privacy-Friendly Flashlight App.
-- [Simple Flashlight](https://github.com/SimpleMobileTools/Simple-Flashlight) – A simple modern flashlight with SOS, stroboscope & bright display, has no ads.
-
-
-## [File Searching](#file-searching)
-Not so good in terms of privacy:
-- Apple Siri
-- Cortana App
-- MS integrated search trough Cortana app
-
-Privacy oriented alternatives:
-- [czkawka](https://github.com/qarmin/czkawka) – Multifunctional app to find duplicates, empty folders, similar images etc.
-- [Drill](https://github.com/gldev/Drill) – Search files without indexing, but clever crawling.
-- [Cerebro app](https://cerebroapp.com/) – Open-source productivity booster with a brain.
-- [Fast File Finder](https://blog.kowalczyk.info/software/fast-file-finder-for-windows/) – Windows is a tool for quickly finding files by name. - **controversial**
-- [FSearch](https://github.com/cboxdoerfer/fsearch) – A fast file search utility, inspired by Everything Search Engine. It's written in C and based on GTK3 and designed for Linux.
-- [Everything](https://www.voidtools.com/) – Search engine that locates files and folders by filename instantly for Windows.
-
-
-## [Gaming Preservation](#gaming-preservation)
-- [GitHub Game Off 2021's top rated games + source ](https://github.blog/2022-01-13-top-entries-from-game-off-2021/) – List of gaming and gaming SDK repositories.
-- [List of FOSS Games on GitHub](https://github.com/michelpereira/awesome-games) – Big list of game, game engines and SDKs hosted on GitHub.
-- [Video Game Preservation](https://github.com/orgs/videogamepreservation/repositories) – List of gaming and gaming SDK repositories.
-
-
-## [Game Emulation](#game-emulation)
-- [86Box](https://github.com/86Box/86Box) – Emulator of x86-based machines based on PCem.
-- [DuckStation](https://github.com/stenzek/duckstation) – PlayStation 1, aka. PSX Emulator.
-- [dosemu2](https://github.com/dosemu2/dosemu2) – Run DOS programs under Linux.
-- [GameHub](https://tkashkin.tk/projects/gamehub/) – A unified library for all your games.
-- [itch.io](https://itch.io) – An online game marketplace and community.
-- [Ludo](https://ludo.libretro.com) – A minimalist front-end for emulators.
-- [Lutris](https://lutris.net) – An open source gaming platform for Linux.
-- [OpenEmu](https://openemu.org) – An open source project to bring game emulation to macOS.
-- [Pegasus](https://pegasus-frontend.org) – A cross platform front-end for launching emulators and managing your game collection.
-- [Playnite](https://playnite.link/) – An open source video game library manager.
-- [PlayOnLinux](https://www.playonlinux.com) – A tool to help Linux, MacOS users run games and programs for Windows.
-- [PlayStation 2 Emulator in a Web Browser](https://playjs.purei.org/) – Open Source PlayStation 2 Emulator in a Web Browser.
-- [RetroArch](https://retroarch.com) – A front-end for emulators, game engines and media players.
-- [vAmiga](https://github.com/dirkwhoffmann/vAmiga/) – macOS Amiga emulator.
-- [Winetricks](https://github.com/Winetricks/winetricks) – An easy way to work around problems in Wine.
-
-
-### [Mobile Game Emulators](#mobile-game-emulators)
-- [Delta](https://github.com/rileytestut/Delta) – Delta is an iOS application that allows you to emulate and play video games for several classic video game systems, including Game Boy Advance, Nintendo 64, and Nintendo DS.
-- [Lemuroid](https://github.com/Swordfish90/Lemuroid) - An open-source emulation project for Android based on Libretro. Its main goal is ease of use, good Android integration and a great user experience. It has an extensive list of built-in emulators.
-
-### [Game Platforms](#game-platforms)
-- [Good Old Games (GOG)](https://www.gog.com/) – A Steam-like video games platform without any Digital Rights Management: games you buy are yours forever, no one can take them away from you.
-- [Humble Store](https://www.humblebundle.com/store/search?sort=bestselling&drm=download) – The charity initiative Humble Bundle also has an online store that sells both DRM and DRM-free games (the link below goes to their DRM-free section).
-- [Itch.io](https://itch.io/) – Sells games without DRM, so you can buy games and keep them forever.
-
-
-## [Generate fake web browsing and mitigate tracking](#Generate-fake-web-browsing-and-mitigate-tracking)
-- [PartyLoud](https://github.com/davideolgiati/PartyLoud) – A simple tool to generate fake web browsing and mitigate tracking.
-
-
-## [GPS, WiFi sensor and network status](#gps-wifi-sensor-and-network-status)
-- [FasterGPS](https://f-droid.org/app/org.fastergps) – You can select a NTP Server matching your region to speed up the process of getting a GPS fix.
-- [GPS Test](https://f-droid.org/app/com.android.gpstest.osmdroid) – An app for testing GPS and GNSS capabilities of a device.
-- [Kotori](https://gitlab.com/isseigx/kotori) – A lightweight, open source speedometer app for Android using GPS.
-- [Nearby](https://github.com/wisespace-io/nearby) – Scans all nearby wifi networks and the devices connected to each network for Indoor positioning.
-- [SatStat](https://f-droid.org/en/packages/com.vonglasow.michael.satstat/) – A diagnostic tool that displays data reported by sensors in the phone.
-- [Sky Map](https://github.com/sky-map-team/stardroid) – Point your phone at the sky, and Sky Map will show the stars, planets,
-- [WiFiKeyShare](https://f-droid.org/app/be.brunoparmentier.wifikeyshare) – Share Wi-Fi passwords with QR codes and NFC tags.
-
-
-## [Google Alerts](#google-alerts)
-- [F5 Bot](https://f5bot.com/) – Emails you when your selected keywords are mentioned on Reddit, Hacker News, or Lobsters.
-
-
-## [Google Doodle alternatives](#google-doodle-alternatives)
-- [dudle](https://dudle.inf.tu-dresden.de/)
-- [nuudel](https://nuudel.digitalcourage.de/)
-
-
-## [Google Earth](#google-earth)
-- [GeoMapApp](http://www.geomapapp.org/) – GeoMapApp is a map-based application for browsing, visualizing and analyzing a diverse suite of curated global and regional geoscience data sets.
-- [KDE Marble](https://kde.org/applications/education/org.kde.marble) – Currently only on Linux, but is being ported to other platforms.
-- [WorldWind](https://worldwind.arc.nasa.gov/java/) – NASA WorldWind Software Development Kits (SDKs) for geo-spatial 3D virtual globe visualization via OpenGL/WebGL on Android, Java and JavaScript/HTML5.
-- [ossimPlanet](https://trac.osgeo.org/ossim/wiki/OssimPlanet) – A 3D Geospatial viewer built on top of OpenSceneGraph.
-
-
-## [Google Flutter](#google-flutter)
-- [Apache Cordova](https://github.com/apache/cordova) – It's a major tool for web developers.
-- [Codename One](https://github.com/codenameone/CodenameOne) – Most similar tool to flutter on the market, open source, supports Kotlin and Java.
-- [KMM](https://github.com/JetBrains/kotlin) – You can find the [docs here](https://kotlinlang.org/docs/mobile/home.html).
-- [QT](https://code.qt.io/qt/qt5.git) – Cross platform framework for C++ developers.
-
-
-## [Google Forms](#google-forms)
-- [BlockSurvey](https://blocksurvey.io/) – Enables digital rights (identity and data ownership) to users using Blockstack's blockchain. Users truly own their data with BlockSurvey.
-- [Drupal Webform](https://www.drupal.org/project/webform) – Module for making forms and surveys in Drupal content management system (it is not a standalone app).
-- [EUSurvey](https://ec.europa.eu/eusurvey/) – The European Commission's official survey management tool. Its main purpose is to create official surveys of public opinion and forms for internal communication and staff management, e.g. staff opinion surveys and forms for evaluation or registration.
-- [Form Tools](https://www.formtools.org/) – A powerful, flexible, free and open source PHP/MySQL script you install on your website for managing your forms and data.
-- [Input App](https://inputapp.io/en/) – Mobile survey app and cloud sync for Qgis projects.
-- [LimeSurvey](https://limesurvey.org/) – A free open source survey software, it can be used on the LimeSurvey.org site, or you can install it on your own server if you have one.
-- [Nextcloud Forms](https://apps.nextcloud.com/apps/forms) – If you are using Nextcloud, the Forms extension is a good option for creating simple surveys and questionnaires. Survey info and responses are kept private on your Nextcloud instance.
-- [OhMyForm](https://ohmyform.com/) – A free and open source alternative to commercial form creators like Small Typeform iconTypeform and Small Google Drive.
-- [PHP FormBuilder](https://www.apphp.com/index.php?page=product&pc=PHPFB) – Easy-to-use HTML form builder script that provides simple and flexible way to create HTML forms and also validate different types of fields, using embedded ApPHP DataValidator.
-- [Quill Forms](https://quillforms.com/) – Contact forms and surveys act as lead generation machines and bridge the gap between your audience and products.
-- [SurveyJS](https://surveyjs.io/) – A free and open source solution under MIT license. However, professional full-time software developers support it.
-- [Tripetto](https://tripetto.com/) – No-code tool for building truly conversational, logic-driven forms and surveys that lets you flexibly present these as conversational forms or even chats.
-- [VFront](https://github.com/marciuz/vfront) – A free, open source front-end for MySQL, PostgreSQL and SQLite databases written in PHP and Javascript.
-- [Vue Flow Form](https://www.ditdot.hr/en/vue-flow-form) – A form generator tool for developing custom, conversational forms. It's a free, open-source, and self-hosted solution built with Vue.js under the MIT license, that can be integrated into your app or website.
-- [Webform](https://webform.com/) & [self-hostable](https://www.drupal.org/project/webform) – A free open source form software, available to either self-host or host on Webform.com. The version hosted on Webform.com comes in free and paid versions.
-
-
-## [Google Music](#google-music)
-- [Audinaut](https://github.com/nvllsvm/Audinaut) – An open-source Airsonic client for Android.
-- [MALP](https://gitlab.com/gateship-one/malp/-/blob/master/README.md) – An open-source Android client for MPD. Available on F-Droid.
-- [Shuttle+](https://github.com/timusus/Shuttle) – Open-source local music player for Android. Available on F-Droid or by direct download.
-
-
-## [Google Kepp](#google-kepp)
-- [GitJournal](https://gitjournal.io/) – Your Markdown notes stores in any Git Repo. Available for both Android (Play Store) and iOS.
-- [Joplin](https://joplinapp.org/) – Open-source notes/todo app. Available for Windows, macOS, Linux, Android, and iOS. Also offers a terminal version.
-- [Nextcloud Notes](https://apps.nextcloud.com/apps/notes) – A distraction free notes taking app for Nextcloud. It provides categories for better organization and supports formatting using Markdown syntax.
-- [Notesnook](https://notesnook.com/) – A truly zero-knowledge note taking app, encrypted using XChaChaPoly1305-IETF & Argon2. It is available on Windows, macOS, Linux, Android, iOS, and has browser extensions too. It is not self-hostable and follows a freemium model.
-- [QOwnNotes](https://www.qownnotes.org/) – Open-source file editor with Markdown support. (thanks u/maqp2)
-- [Rnote](https://github.com/flxzt/rnote) – A simple note taking application written in Rust and GTK4.
-- [Standard Notes](https://standardnotes.com/) – Encrypted note storage with loads of features. Offers a web app as well as downloads for most operating systems. Has a paid plan, but the free tier has many useful features as well.
-- [TiddlyWiki](https://tiddlywiki.com/) – An open-source personal note-taking system that can run in the browser as a single HTML file or as a NodeJS application. It can be stored locally on a hard drive or removable drive, self-hosted on one's own server, or use various web-based storage options.
-- [Turtl](https://turtlapp.com/) – Encrypted collaborative notebook with possibility of running your own server.
-
-
-## [Google Classroom](#google-classroom)
-- [Canvas](https://www.instructure.com/canvas) – Paid service by Instructure. Also available as a self-hosted, open-source option.
-- [ILIAS](https://www.ilias.de/en/) – Self-hosted open-source classroom software.
-- [Moodle](https://moodle.org/) – Self-hosted open-source Classroom software for schools. Very powerful.
-
-
-## [Google Sheets](#google-sheets)
-- [Grist](https://github.com/gristlabs/grist-core) – Open core alternative to G Sheets with SQLite storage and Python formulas.
-- [Magic Sheets](https://www.magicsheets.io/) – Machine Learning for Google Sheets. - **controversial**
-
-
-## [Google Sites](#google-sites)
-Not so good in terms of privacy:
-- Google Sites
-- Squarespace
-- Weebly
-
-Privacy oriented alternatives:
-- [NoemieCms](https://framagit.org/framasoft/PrettyNoemieCMS) – French only alternative to Google Sites.
-- [Pico CMS for Nextcloud](https://apps.nextcloud.com/apps/cms_pico) – CMS system for NextCloud.
-
-
-## [Google Safetynet](#google-safetynet)
-
-Faking, spoofing, manipulating category for SafetyNet Attestation and other Android limitations.
-
-- [DisableFlagSecure](https://github.com/LSPosed/DisableFlagSecure/releases/) – Disable FLAG_SECURE on all windows, enabling screenshots in apps that normally wouldn't allow it.
-- [FakeXposed](https://github.com/sanfengAndroid/FakeXposed) – Hide xposed, root, file redirection, etc.
-- [Safetynet-fix](https://github.com/kdrag0n/safetynet-fix) – A universal fix for Google SafetyNet on Android devices with hardware attestation and unlocked bootloaders.
-- [hsu](https://github.com/rmnscnce/hsu) – Magisk module for hiding Magisk and root by entirely disabling and hiding them.
-
-
-## [Google Trends](#google-trends)
-
-There are some open source API's available to Google trends.
-
-- [In Golang](https://github.com/groovili/gogtrends)
-- [In Java](https://github.com/elibus/j-google-trends-api)
-- [In node](https://www.npmjs.com/package/google-trends-api)
-- [In php](http://codingfocus.com/google-trends-api)
-- [In Python](https://github.com/GeneralMills/pytrends)
-- [Java client side](https://github.com/elibus/j-google-trends-client)
-- [Keyword Tool](https://keywordtool.io/google-trends) – Get Great Keywords From Google Trends In Seconds. - **controversial**
-- [pytrends - Pseudo API for Google Trends](https://github.com/GeneralMills/pytrends) – Allows simple interface for automating downloading of reports from Google Trends.
-
-
-## [Google Workspace](#google-workspace)
-
-Most tools are normally paid or freemium only because you need to put lots of time, effort and maintenance in such G-Suite alternatives.
-
-- [Fastmail](https://github.com/fastmail) – Fastmail is considerable a solid alternative for email & calendar. Fastmail is also listed under eMail provider.
-- [Kolab Community](https://kolab.org/) – A secure, scalable, reliable, flexible, full-featured collaboration suite. - **controversial**
-- [Kopano](https://kopano.com/) – Sharing & communication software for business. - **controversial**
-- [Mailfence Collaboration Suite](https://mailfence.com/) – Secure and private collaboration suite that includes emails, contacts, calendars, and documents. Users can create groups to collaborate, chat and share data. - **controversial**
-- [MXRoute](https://mxroute.com/) – Offers lifetime promo but is not FOSS. - **controversial**
-- [Nextcloud Hub](https://nextcloud.com/hub/) – Nextcloud is the most deployed on-premises file share and collaboration platform.
-- [OpenChange](https://github.com/openchange/openchange) – OpenChange aims to provide a portable Open Source implementation of Microsoft Exchange Server and Exchange protocols. - **controversial**
-- [WikiSuite](http://wikisuite.org/) – The most comprehensive and integrated Free / Libre / Open Source enterprise software suite.
-- [Zimbra Collaboration Suite](https://www.zimbra.com/email-server-software/) – An open, secure collaboration tool for email, calendaring, tasks and more. - **controversial**
-
-
-## [Graphic Novels & Comic Books](#graphic-novels--comic-books)
-- [Comic Book Plus](http://comicbookplus.com/) – Comic books in CBR/CBZ. Requires free registration.
-- [Comics Fu](http://comicsfu.com/) – A platform for creating digital comic stores.
-- [comiXology](https://www.comixology.com/) – Sells comics and offers DRM-free backups on select titles.
-- [Dynamite Entertainment](http://dynamite.com/digital/) – Sells DRM-free comics and graphic novels.
-- [Panel Syndicate](http://panelsyndicate.com/) – A pay-what-you want website for comics by artist Marcos Martin and writer Brian K. Vaughan.
-- [Rebellion Publishing](http://www.rebellionstore.com/) – A digital publisher of ebooks, graphic novels, and comic books.
-- [Thrillbent](http://thrillbent.com/shop/) – A digital comics site created by award-winning comics writer Mark Waid and television writer/producer extraordinaire John Rogers.
-
-
-## [Groceries](#groceries)
-- [Grocy](https://grocy.info/) – A web-based self-hosted open source groceries and household management solution for your home. There is also an F-Droid app.
-
-
-### [Mobile Groceries Apps](#mobile-groceries-apps)
-- [Grocery manager](https://grocy.info/) – Manage your groceries on Android.
-
-
-## [Governmental Petition Portals](#governmental-petition-portals)
-
-> Some, or most listed alternatives are using Cloudflare or are CL hosted. See below why CL is general not wanted.
-
-Some common sites that are FOSS:
-- [gopetition.com](https://gopetition.com/)
-- [openpetition.de](https://openpetition.de/)
-- [openpetition.org](https://openpetition.org/)
-- [petitions.net](https://petitions.net/)
-- [thepetitionsite.com](https://thepetitionsite.com/)
-
-Controversial:
-- Brazil: [Ideia Legislativa](https://www12.senado.leg.br/ecidadania/principalideia)
-- European Union: [European Citizens’ Initiative](https://ec.europa.eu/citizens-initiative)
-- Finland: [Kansalaisaloite](https://www.kansalaisaloite.fi/) / [Kuntalaisaloite](https://www.kuntalaisaloite.fi/)
-- Germany: [Deutscher Bundestag Petitionen](https://epetitionen.bundestag.de/)
-- Ireland: [Oireachtas Online Petitions](https://petitions.oireachtas.ie/)
-- Scotland: [Scottish Parliament Petitions](https://www.parliament.scot/gettinginvolved/petitions/)
-- Ukraine: [Presidential Petition](https://petition.president.gov.ua/) / [Government Petition](https://petition.kmu.gov.ua/) / [Parliamentary Petition](https://itd.rada.gov.ua/petitions/)
-- United Kingdom: [UK Government Petitions](https://petition.parliament.uk/)
-- United States: [Whitehouse Petitions](https://petitions.whitehouse.gov/) / [Ballot Initiatives](https://oag.ca.gov/initiatives)
-
-
-## [Guides connected to privacy, security or anonymity](#guides-connected-to-privacy-security-or-anonymity)
-
-Please keep in mind that some guides might be a bit older, however some still have meaning and you possible can learn from them in an historic context to see how certain stuff evolved, or stay the same. In general guidance are only as good as the author did the research on the given topic, which means that some things can be universally applied to specific threads and other guidance are specific to one or a few given examples.
-
-
-I usually only unlist stuff that is entirely incorrect or even dangerous to follow because security practical constantly evolves in both ways, positive ways and negative ways, which means new attacks emerge and new counter measurements also getting released because of the new threats.
-
-
-Listed guidance are provided as-is.
-
-
-### [Security Guides](#security-guides)
-- [.NET Runtime Security Mitigations](https://github.com/dotnet/designs/blob/main/accepted/2021/runtime-security-mitigations.md)
-- [A Guide to Decentralized Science](https://future.a16z.com/what-is-decentralized-science-aka-desci/)
-- [A stick figure guide to the Advanced Encryption Standard (AES) (2009)](http://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html)
-- [Adding E2E Encryption for Proxied Data](https://blog.px.dev/e2e-encryption/)
-- [ANSSI – Hardware security requirements for x86 platforms](https://www.ssi.gouv.fr/en/guide/hardware-security-requirements-for-x86-platforms/) – Recommendations for security features and configuration options applying to hardware devices (CPU, BIOS, UEFI, etc) (Nov 2019).
-- [Apples Personal Safety User Guide](https://support.apple.com/guide/personal-safety/welcome/web)
-- [asecure.cloud – Build a Secure Cloud](https://asecure.cloud/) – A free repository of customizable AWS security configurations and best practices.
-- [Australian Cyber Security Center Publications](https://www.cyber.gov.au/publications)
-- [Basic and practical security tips for Linux by Jesse Smith](https://distrowatch.com/weekly.php?issue=20220124#qa)
-- [Beginner's Guide to Social Media Verification](https://www.bellingcat.com/resources/2021/11/01/a-beginners-guide-to-social-media-verification/)
-- [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/)
-- [CISA Compiles Free Cybersecurity Services and Tools for Network Defenders](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/18/cisa-compiles-free-cybersecurity-services-and-tools-network)
-- [CUPS Server Security](https://www.cups.org/doc/security.html)
-- [Cyber security in the public cloud](https://www.infoworld.com/article/3634111/cyber-security-in-the-public-cloud.html) – A brief guide to the network, infrastructure, data, and application security capabilities AWS, Microsoft Azure, and Google Cloud provide to prevent cyber-attacks and protect your cloud-based resources and workloads.
-- [Cyber Security Trends of 2021](https://deduce.today/blog/posts/1-cybersecurity-trends-2021)
-- [Detecting Rootkits in Windows and Linux](https://deer-run.com/users/hal/DetectingRootkits.pdf)
-- [DISA DoD Cloud Computing Security](https://iase.disa.mil/cloud_security/Pages/index.aspx)
-- [Encryption with Gnu Privacy Guard](http://digital-era.net/encryption-with-gnu-privacy-guard-gpg/)
-- [EU Digital Markets Act and Digital Services Act Explained](https://www.europarl.europa.eu/news/en/headlines/society/20211209STO19124/eu-digital-markets-act-and-digital-services-act-explained)
-- [FIPS Compliant Crypto in Golang](https://kupczynski.info/2019/12/15/fips-golang.html)
-- [GitHub Advisory Database for CVEs](https://github.com/advisories)
-- [Guide to De-Google and privacy on android](https://turtlecute33.github.io/privacy.github.io/index_eng.html)
-- [Hands-on tutorials to learn about software supply chain security](https://github.com/step-security/supply-chain-goat)
-- [How do you spot fake Chinese USB hard drives?](http://blog.gsmarena.com/how-do-you-spot-fake-chinese-usb-hard-drives-well-you-take-them-apart/)
-- [How to find and remove spyware from your phone](https://www.zdnet.com/article/how-to-find-and-remove-spyware-from-your-phone/)
-- [How to get the best out of your Yubikey with GPG](https://calbryant.uk/blog/how-to-get-the-best-out-of-your-yubikey-with-gpg/)
-- [How you can auto-renew and forget about TLS certificates with cert-manager](https://ikarus.sg/deploy-cert-manager-tls/)
-- [HTTP vs. HTTPS: What's the Difference and Why Should You Care?](https://www.entrepreneur.com/article/281633)
-- [Linux NFS-HOWTO – Security and NFS](https://www.tldp.org/HOWTO/NFS-HOWTO/security.html) – Overview of NFS security issues and some mitigation.
-- [Lissy93's Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist)
-- [NSA Cybersecurity Resources for Cybersecurity Professionals](https://www.nsa.gov/what-we-do/cybersecurity/) and [NSA Cybersecurity publications](https://nsacyber.github.io/publications.html)
-- [NSA Info Sheet: Cloud Security Basics (August 2018)](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-cloud-security-basics.pdf?v=1)
-- [NSA Security Configuration Guidance](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-configuration/index.cfm?PAGE=1&itemsQty=ALL)
-- [OpenSCAP Security Policies](https://www.open-scap.org/security-policies/)
-- [OWASP Mobile Security Testing Guide](https://owasp.org/www-project-mobile-security-testing-guide/)
-- [Reasonable Security Checklist for Personal Information](https://oipc.novascotia.ca/sites/default/files/publications/Reasonable%20Security%20Checklist%20for%20Personal%20Information%20(22%20Sept%2015)_0.pdf)
-- [Security Headers: Scan your site](https://securityheaders.com/)
-- [Security in a Box](https://securityinabox.org/en/) – Tutorials on how to stay private online and install privacy-preserving apps.
-- [Setup your SSH security key in less than two minutes](https://www.youtube.com/watch?v=NpHRqmYvzuk)
-- [systemd service sandboxing and security hardening 101](https://www.ctrl.blog/entry/systemd-service-hardening.html)
-- [The Crypto Paper](https://github.com/cryptoseb/CryptoPaper)
-- [The DevOps: A Concise Understanding to the DevOps Philosophy and Science](https://www.osti.gov/biblio/1785164)
-- [Tips to build a Content Security Policy (CSP) without breaking your site](https://blog.rapidsec.com/10-tips-to-build-a-content-security-policy-csp-without-breaking-your-site/)
-- [US DoD DISA Security Technical Implementation Guides (STIGs) and Security Requirements Guides (SRGs)](https://public.cyber.mil/stigs/)
-- [Using a Yubikey for GPG and SSH](https://0day.work/using-a-yubikey-for-gpg-and-ssh/)
-- [Using GPG to Encrypt Your Data](https://www.nas.nasa.gov/hecc/support/kb/using-gpg-to-encrypt-your-data_242.html)
-- [Zebra Crossing](https://github.com/narwhalacademy/zebra-crossing) – An easy-to-use digital safety checklist.
-
-
-### [IoT Security](#iot-security)
-- [Cyber Security Baseline for Consumer Internet of Things Device](https://github.com/MiSecurity/Cyber-Security-Baseline-for-Consumer-Internet-of-Things/blob/main/resources/pdf/Cyber%20Security%20Baseline%20for%20Consumer%20Internet%20of%20Things%20Device.pdf)
-
-
-### [iOS specific Privacy Guides](#ios-specific-privacy-guides)
-- [Apple iOS 15 Privacy Guide](https://inteltechniques.com/ios15.html)
-- [Securing Mobile: Settings](https://thenewoil.org/mobile-settings.html)
-- [iOS privacy and security checklist](https://security.utexas.edu/handheld-hardening-checklists/ios)
-- [iOS-Privacy-Guide](https://github.com/paulaime/iOS-Privacy-Guide)
-
-
-### [Privacy Guides](#privacy-guides)
-- [A Guide to Using RSS to Replace Social Media](https://lukesmith.xyz/blog/a-guide-to-using-rss-to-replace-social-media)
-- [Android Privacy Guide – Take Control Of Your Data](https://gitlab.com/Attedz/AndroidPrivacyGuide)
-- [Big Ass Data Broker Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List)
-- [Compute Freely - Is a website designed to be approachable and friendly for people curious about free and open source operating systems and Linux distributions.](https://computefreely.org/)
-- [Cookie Status - Tracking protection mechanisms comparison and overview](https://www.cookiestatus.com/)
-- [Crank up the volume on that Pixies album: Time to exercise your Raspberry Pi with an... alternative browser](https://www.theregister.com/2021/09/20/flow_redux/)
-- [Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World](https://www.amazon.com/Data-Goliath-Battles-Collect-Control/dp/039335217X?crid=1JRRTVHWTK72I&keywords=data+security&qid=1536656236&sprefix=data+security%2Caps%2C258&sr=8-6)
-- [Decentralized Thoughts](https://decentralizedthoughts.github.io/)
-- [Device Privacy Tips](https://spreadprivacy.com/tag/device-privacy-tips/)
-- [Differential Privacy: A Primer for a Non-technical Audience](https://privacytools.seas.harvard.edu/files/privacytools/files/pedagogical-document-dp_new.pdf)
-- [DuckDuckGo's privacy newsletter](https://duckduckgo.com/newsletter)
-- [EFF: Surveillance Self-Defense](https://ssd.eff.org)
-- [EPIC – Online Guide to Practical Privacy Tools](https://www.epic.org/privacy/tools.html)
-- [eMail security and privacy](https://blog.mailfence.com/email-security-and-privacy/)
-- [Encrypted Email 101: How to Encrypt Your Emails and Protect Your Company Data](https://halborn.com/encrypted-email-101/)
-- [Everything You Need to Know About Password Managers](https://outline.com/NC69FD)
-- [Firefox: Privacy Related "about:config" Tweaks](https://www.privacytools.io/browsers/#about_config)
-- [Four Methods to Create a Secure Password You'll Actually Remember](https://outline.com/XuMTFA)
-- [Freedom Privacy over Internet (FPoI) – How to maintain freedom and privacy using technology and Internet](https://fpoi.gitlab.io/fpoi/download.html)
-- [Google Tag Manager (Server-Side Tagging), la nouvelle arme anti adblock?](https://www.pixeldetracking.com/fr/google-tag-manager-server-side-tagging)
-- [Guide to building the android source](https://source.android.com/setup/build/building)
-- [Guide to privacy settings for Google, Facebook, Windows 10, Android, Firefox, Brave, Signal and more](https://github.com/the-weird-aquarian/privacy-settings)
-- [Hacks4Pancakes – Thwart my OSINT Efforts while Binging TV!](https://tisiphone.net/2017/01/25/thwart-my-osint-efforts-while-binging-tv/)
-- [How to Replace Gmail](https://sami.eljabali.org/how-to-replace-gmail/)
-- [How to create a strong password (and remember it)](https://outline.com/dqfuqL)
-- [How to delete remembered passwords](http://www.wikihow.com/Delete-Remembered-Passwords)
-- [How to disable Telemetry and Data Collection in Windows 10](https://winaero.com/blog/how-to-disable-telemetry-and-data-collection-in-windows-10/)
-- [How to get companies to delete your personal data that they are hoarding](https://web.archive.org/web/20210926205849/https://www.washingtonpost.com/technology/2021/09/26/ask-company-delete-personal-data/)
-- [How to permanently delete a Facebook account](https://deletefacebook.com/)
-- [How to permanently delete a Facebook account](https://www.wikihow.com/Permanently-Delete-a-Facebook-Account)
-- [IntelTechniques – Personal Data Removal Workbook & Credit Freeze Guide](https://inteltechniques.com/data/workbook.pdf)
-- [Internet Privacy Guide – Keeping Your Data Safe Online](https://hackernoon.com/internet-privacy-guide-keeping-your-data-safe-online-be3d823f05f5)
-- [Keystroke tracking, screenshots, and facial recognition: The boss may be watching long after the pandemic ends](https://web.archive.org/web/20210924155252/https://www.washingtonpost.com/technology/2021/09/24/remote-work-from-home-surveillance/)
-- [Lectures on Data Security – Modern Cryptology in Theory and Practice](https://www.springer.com/us/book/9783540657576)
-- [List of best privacy practices provided by SpiderOAK](https://spideroak.com/infosec/)
-- [Location history: How your location is tracked and how you can limit sharing it](https://blog.mozilla.org/en/internet-culture/mozilla-explains/location-history/)
-- [MacOS privacy guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)
-- [Manage Windows 10 Telemetry and Data Collection settings](https://www.thewindowsclub.com/windows-10-telemetry)
-- [Mobile privacy: a better practice guide for mobile app developers](https://www.oaic.gov.au/resources/agencies-and-organisations/guides/guide-for-mobile-app-developers.pdf)
-- [Mozilla’s Privacy Not Included buyer’s guide](https://foundation.mozilla.org/en/privacynotincluded/)
-- [Multi-factor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication)
-- [New tool reveals ultimate owners of companies](https://www.skoltech.ru/en/2021/09/new-tool-reveals-ultimate-owners-of-companies/)
-- [OWASP User Privacy Protection Cheat Sheet](https://www.owasp.org/index.php/User_Privacy_Protection_Cheat_Sheet)
-- [Open source, experimental, and tiny tools roundup](https://tinytools.directory/)
-- [Opting Out of TurnItIn](https://shkspr.mobi/blog/2021/09/opting-out-of-turnitin/)
-- [Permanent Record by Edward Snowden](https://amzn.to/30wxxXi)
-- [Practical Privacy: A Guide for Everyone](https://auth0.com/blog/practical-privacy-a-guide-for-everyone/)
-- [Privacy Crash Course](https://spreadprivacy.com/tag/privacy-newsletter/)
-- [Privacy Rights Clearinghouse – Online Privacy: Using the Internet Safely](https://www.privacyrights.org/consumer-guides/online-privacy-using-internet-safely)
-- [Privacy by Design by Nishant Bhajaria](https://www.manning.com/books/privacy-by-design)
-- [Pro Privacy: Encryption for Privacy Guide](https://proprivacy.com/guides/the-ultimate-privacy-guide)
-- [Public Information Opt-Out Guide](https://the.osint.ninja/optoutdoc)
-- [Reddit privacy Wiki](https://old.reddit.com/r/privacy/wiki/index)
-- [Reflections on Apple's iCloud Private Relay: Does it Really Improve Privacy?](https://gfw.report/blog/private_relay_privacy/en/)
-- [Remove bloatware from Android without root](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/)
-- [Sandworm Book by Andy Greenberg](https://amzn.to/2FVByeJ)
-- [Search Encrypt – Beginner’s Guide to Internet Safety & Privacy](https://choosetoencrypt.com/privacy/complete-beginners-guide-to-internet-safety-privacy/)
-- [Secured.fyi](https://secured.fyi/) – A ranking of paid and free services based on security and privacy attributes.
-- [Securing Personal Information: A Self-Assessment Tool for Organizations](https://www.oipc.bc.ca/guidance-documents/1439)
-- [Security in-a-box – Keep your digital communication private](https://securityinabox.org/en/guide/secure-communication/)
-- [Set Up a Home Server](https://www.wired.com/2010/02/set-up-a-home-server/)
-- [Spread Privacy – The Official DuckDuckGo Blog](https://spreadprivacy.com/)
-- [Stay Safe Online – Managing Your Privacy](https://staysafeonline.org/stay-safe-online/managing-your-privacy/)
-- [Switching.software](https://switching.software/) – Is a collection of ethical, easy-to-use and privacy-conscious alternatives to well-known software.
-- [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)
-- [The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data](https://www.amazon.com/Art-Invisibility-Worlds-Teaches-Brother/dp/0316380504?crid=1JRRTVHWTK72I&keywords=data+security&qid=1536656236&sprefix=data+security%2Caps%2C258&sr=8-2)
-- [The Beginner’s Guide To Online Privacy](https://medium.freecodecamp.org/the-beginners-guide-to-online-privacy-7149b33c4a3e)
-- [The Complexity of Differential Privacy](http://privacytools.seas.harvard.edu/files/privacytools/files/complexityprivacy_1.pdf)
-- [The Definitive Guide To Privacy Online](https://www.privacymonitor.com/articles/privacy-guide/)
-- [The New Oil](https://thenewoil.xyz/)
-- [The ProtonMail guide to taking control of your online privacy](https://protonmail.com/blog/internet-privacy/) – You can't export all your emails without a paid plan.
-- [The Ultimate Guide to Smartphone Privacy](https://medium.com/geekculture/the-ultimate-guide-to-smartphone-privacy-d31d5e275069)
-- [The what, why, and when of multi-factor authentication](https://outline.com/8gL8ZG)
-- [They Track You: A website to raise awareness of online privacy](https://theytrackyou.com/)
-- [Think Like the Internet – or How to Fight Facebook, and Win](https://blogg.forteller.net/2011/think-internet/)
-- [Tor, Practical Privacy, and Censorship Resistance](https://www.boramalper.org/blog/tor-practical-privacy-and-censorship-resistance/)
-- [Troy Hunt – Going dark: online privacy and anonymity for normal people](https://www.troyhunt.com/going-dark-online-privacy-and-anonymity-for-normal-people/)
-- [US-CERT – Privacy Tips](https://www.us-cert.gov/ncas/tips#privacy)
-- [Ultrasonic beacons: A silent threat to your privacy](https://nordvpn.com/blog/ultrasonic-beacons-privacy-threatening-sound-of-silence/)
-- [Web Hosting Geeks – A Beginner’s Guide to Online Privacy](https://webhostinggeeks.com/guides/privacy/)
-- [Web browser privacy: What do browsers say when they phone home?](https://www.scss.tcd.ie/Doug.Leith/publications.php?PME_sys_qf2=Web%20Browser%20Privacy)
-- [What Police Get When They Get Your Phone](https://www.eff.org/deeplinks/2021/11/podcast-episode-what-police-get-when-they-get-your-phone/)
-- [What are 5-eyes, 9-eyes, and 14-eyes?](https://restoreprivacy.com/5-eyes-9-eyes-14-eyes/)
-- [What is GDPR and how will it affect you?](https://outline.com/exmSpf)
-- [World Privacy Forum – Top Ten Opt Outs](https://www.worldprivacyforum.org/2015/08/consumer-tips-top-ten-opt-outs/)
-
-
-### [Hardening Guides](#hardening-guides)
-- [ACSC - Hardening Microsoft Windows 10 (Workstation)](https://www.cyber.gov.au/publications/hardening-microsoft-windows-10-build-1709)
-- [Apache Config - Apache Security Hardening Guide](https://www.apachecon.eu/)
-- [Applied Crypto Hardening: bettercrypto.org](https://bettercrypto.org/) - TLS/SSL, PGP, SSH and other cryptographic tools.
-- [Awesome Windows Domain Hardening](https://github.com/PaulSec/awesome-windows-domain-hardening)
-- [Browser and Client-Side Hardening](https://wehackpurple.com/pushing-left-like-a-boss%e2%80%8a-%e2%80%8apart-5-3%e2%80%8a-%e2%80%8abrowser-and-client-side-hardening/)
-- [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/)
-- [ERNW - IPv6 Hardening Guide for Linux Servers](https://www.ernw.de/download/ERNW_Guide_to_Securely_Configure_Linux_Servers_For_IPv6_v1_0.pdf), [OS-X](https://www.ernw.de/download/ERNW_Hardening_IPv6_MacOS-X_v1_0.pdf) and [Windows Servers](https://www.ernw.de/download/ERNW_Guide_to_Configure_Securely_Windows_Servers_For_IPv6_v1_0.pdf)
-- [GeekFlare - Apache Web Server Hardening and Security Guide](https://geekflare.com/apache-web-server-hardening-security/)
-- [Harden the World](http://hardentheworld.org/) - A collection of hardening guidelines for devices, applications and OSs.
-- [Hardening Network Devices: Service Security Recommendations (2020)](https://media.defense.gov/2020/Aug/18/2002479461/-1/-1/0/HARDENING_NETWORK_DEVICES.PDF)
-- [Hardening Firefox - September 2021 Update](https://brainfucksec.github.io/hardening-firefox-sep-2021-update)
-- [Hardening OpenLDAP on Linux with AppArmor and systemd](http://www.openldap.org/conf/odd-tuebingen-2018/Michael1.pdf)
-- [Jetty hardening (2015)](https://virgo47.wordpress.com/2015/02/07/jetty-hardening/)
-- [LDAP: Hardening Server Security (so administrators can sleep at night)](https://ff1959.wordpress.com/2013/07/31/ldap-hardening-server-security-so-administrators-can-sleep-at-night/)
-- [Linux Audit - OpenSSH security and hardening](https://linux-audit.com/audit-and-harden-your-ssh-configuration/)
-- [Lisenet - CentOS 7 Server Hardening Guide (2017)](https://www.lisenet.com/2017/centos-7-server-hardening-guide/)
-- [macOS Hardening Guide – (C) 2016 Jonathan Levin, NewOSXbook.com [pdf]](http://newosxbook.com/files/moxii3/AppendixA.pdf)
-- [nixCraft - 40 Linux Server Hardening Security Tips (2019 edition)](https://www.cyberciti.biz/tips/linux-security.html)
-- [NSA, CISA Release Guidance on Selecting and Hardening Remote Access VPNs](https://media.defense.gov/2021/Sep/28/2002863184/-1/-1/0/CSI_SELECTING-HARDENING-REMOTE-ACCESS-VPNS-20210928.PDF)
-- [Positron Security SSH Hardening Guides (2017)](https://www.sshaudit.com/hardening_guides.html)
-- [pyllyukko user.js](https://github.com/pyllyukko/user.js) – Firefox configuration hardening.
-- [Short, Gentle Intro to NSA's Kubernetes Hardening Guide](https://www.cloudnatively.com/kubernetes-hardening-guide/)
-- [Smartphone Hardening Guide](https://github.com/aronmolnar/smartphone-hardening-guide)
-- [Some settings to harden Mastodon against scraping](https://ondergrond.org/@dumpsterqueer/107236320924946579)
-- [SUSE Linux Enterprise Server 12 Security and Hardening Guide](https://www.suse.com/documentation/sles-12/book_hardening/data/book_hardening.html)
-- [Ubuntu wiki - Security Hardening Features](https://wiki.ubuntu.com/Security/Features)
-- [Windows 10 Hardening](https://github.com/aghorler/Windows-10-Hardening) - A collective resource of settings modifications (mostly opt-outs) that attempt to make Windows 10 as private and as secure as possible.
-- [Windows 11 Security Book](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMyFE)
-
-
-### [Anonymity Guides](#anonymity-guides)
-- [ARX – Open Source Data Anonymization Software](https://github.com/arx-deidentifier/arx)
-- [Amnesia](https://amnesia.openaire.eu/)
-- [Anonymizer](https://github.com/DivanteLtd/anonymizer)
-- [Cornell Anonymization Toolkit](https://sourceforge.net/projects/anony-toolkit/)
-- [Open Anonymizer](https://sourceforge.net/projects/openanonymizer/)
-- [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/guide.html)
-- [UTD Anonymization Toolbox](http://cs.utdallas.edu/dspl/cgi-bin/toolbox/index.php)
-- [anonymize-it](https://github.com/elastic/anonymize-it)
-- [sdcMicro](https://github.com/sdcTools/sdcMicro)
-- [µArgus](http://neon.vb.cbs.nl/casc/mu.htm)
-
-
-## [Minecraft](#minecraft)
-- [Minetest](https://www.minetest.net/) – A free open source Minecraft-style game with huge worlds, a variety of different playing modes, online and offline gameplay, multiplayer servers, lots of user-created mods and more.
-
-
 ## [Microsoft Exchange](#microsoft-exchange)
 - [Grommunio](https://grommunio.com/) – The most advanced solution in communication and collaboration, a platform for everyone.
 - [Internxt](https://github.com/internxt) – An Open Source Encrypted Cloud Service With Native Linux Client.
@@ -3964,6 +4404,24 @@ Listed guidance are provided as-is.
 - [Nextcloud](https://nextcloud.com/) – Like in ownCloud or Dropbox, users can access the software suite via their desktops (Windows, Linux, and macOS), web browsers, or native apps (Android and iOS).
 - [ownCloud](https://owncloud.com/) – The core of the client-server software and many community apps are published under the AGPLv3.
 - [OX App Suite](https://www.open-xchange.com/) – The OX App Suite is a modular email, communication, and collaboration platform, mainly designed for telcos, hosting companies, and other providers delivering cloud-based services.
+
+## [Metadata Removal](#metadata-removal)
+- [BleachBit](https://www.bleachbit.org/) – Alternative for CCleaner that is FOSS and can also remove leftovers, metadata etc.
+- [Dangerzone](https://dangerzone.rocks/) – Take potentially dangerous PDFs, office documents, or #images and convert them to safe PDFs.
+- [Exiv2](https://www.exiv2.org/) – Exiv2 is a Cross-platform C++ library and a command line utility to manage image metadata
+- [ExifCleaner](https://exifcleaner.com) – A free desktop app to clean image metadata.
+- [mat2](https://0xacab.org/jvoisin/mat2) – A metadata removal tool, supporting a wide range of commonly used file formats.
+- [Metadata Cleaner](https://gitlab.com/rmnvgr/metadata-cleaner) – Python GTK application to view and clean metadata in files, using mat2.
+- [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif) – An Android app to remove exif data from pictures before sharing them.
+
+### [Mobile Metadata Removal Apps](#mobile-metadata-removal-apps)
+- [DetoxDroid](https://github.com/flxapps/DetoxDroid) – This app follows a different approach by stripping away all the attention-grabbing and manipulative features of other apps. DetoxDroid does not require you to choose a time and place when you want to "detox", or punish you if you fail.
+- [Exif-Remove](https://github.com/roothaxor/Exif-Remove) – Remove exif data from all digital pictures in current directory by typing exif.
+- [ImagePipe](https://codeberg.org/Starfish/Imagepipe) – Reduces image size and removes exif-tags when sharing images on Android devices.
+- [MAT](https://github.com/jubalh/MAT) – Metadata Anonymization Toolkit.
+- [Pocket Paint](https://github.com/Catrobat/Paintroid) – The standard image manipulation app for Catroid.
+- [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif) – Remove Exif data from pictures before sharing them.
+- [scrambledeggsif](https://f-droid.org/packages/com.jarsilio.android.scrambledeggsif/) – Delete meta data from image files on mobile.
 
 
 ## [Media Player](#media-player)
@@ -3985,19 +4443,6 @@ Listed guidance are provided as-is.
 
 ### [IPTV Player and Services](#iptv-player-and-services)
 - [FastCloud](https://github.com/fastogt/fastocloud) – 	Open Source IPTV/Media Service.
-
-
-## [IPFS](#ipfs)
-
-Check which public IPFS gateway are [currently online](https://ipfs.github.io/public-gateway-checker/).
-
-- [ETH.LIMO](https://eth.limo/) – A decentralized alternative to Cloudflare’s often unreliable eth.link service, LIMO functions as a drop-in replacement for eth.link; a Web 2.0 infrastructure stack for resolving Ethereum Name Service (ENS) records and associated IPFS content (Web 3.0).
-- [Fully-searchable Library Genesis on IPFS](https://libgen.fun/dweb.html)
-- [OpenBazaar 2.0 powered by IPFS](https://www.openbazaar.org/)
-- [Radicle](http://www.radicle.xyz/) – A decentralized alternative to GitHub built on IPFS.
-- [Nebula](https://github.com/dennis-tra/nebula-crawler) – An IPFS DHT Crawler.
-- [InterPlanetary File System](https://ipfs.io/) – A decentralized network for storing and sharing data online. Instead of custom URLs, files are automatically addressed based on their content and served by their users.
-
 
 ### [Mobile IPTV Player](#mobile-iptv-player)
 - [DMS Explorer](https://github.com/ohmae/DmsExplorer) – This is a kind of DLNA player.
@@ -4036,7 +4481,6 @@ Check which public IPFS gateway are [currently online](https://ipfs.github.io/pu
 
 ### [Guitar Tablature Editor](#guitar-tablature-editor)
 - [TuxGuitar](https://sourceforge.net/projects/tuxguitar/) – Is a multitrack guitar tablature editor and player written in Java-SWT, It can open GuitarPro, PowerTab and TablEdit files.
-
 
 
 ### [Create Music with your Browser](#create-music-with-your-browser)
@@ -4081,121 +4525,6 @@ For mobile please check the file manager section, most file manager include such
 - [WinSCP](https://winscp.net) – A popular SFTP client and FTP client for Windows.
 
 
-## [Amazon shopping alternatives](#amazon-shopping-alternatives)
-Not so good in terms of privacy:
-- [Amazon](https://www.theatlantic.com/technology/archive/2019/01/amazon-made-online-commerce-bewildering/580660/), see [here](https://www.reuters.com/business/retail-consumer/amazon-hit-with-886-million-eu-data-privacy-fine-2021-07-30/)
-
-Privacy oriented alternatives:
-- [Wibbets](https://wibbets.com/) – The privacy guaranteed online shopping website Amazon alternative. - **controversial**
-
-
-## [Amazon Book Store](#amazon-book-store)
-Not so good in terms of privacy:
-- Goodreads
-- Google Play Books
-
-Privacy oriented alternatives:
-- [Better World Books](https://www.betterworldbooks.com/) – Better World Books is an online bookshop which tries to take a more ethical approach, by donating one book to charity for every book it sells.
-- [BookWyrm](https://github.com/bookwyrm-social/bookwyrm) – It's a fediverse [decentral](https://docs.joinbookwyrm.com/instances.html) alternative for Amazon's Goodreads.
-- [booqsi](https://www.booqsi.com/) – A more social, Amazon-free alternative to Goodreads.
-- [buch7.de](https://www.buch7.de/) – German platform to get free books.
-- [OpenStax](https://openstax.org/) – Free and Flexible Textbooks-
-- [Hive](https://www.hive.co.uk/) – Delivery is free within the UK, and a bit extra overseas.
-- [Inventaire](https://inventaire.io/) – Inventaire is a libre volunteer-run book lending site where you can make friends and create collaborative libraries together. You can make lists of books you want to lend to friends, and browse other friends’ lists.
-- [inventaire](https://inventaire.io/welcome?__nojs) – This is the space where the community shares knowledge about inventaire and books.
-- [Kobo](https://www.kobo.com/) – The site doesn’t include any official way to separate the DRM from DRM-free titles, but you can search for [DRM-free eBooks through our unofficial Kobo search page](https://switching.software/tools/kobo-search/).
-- [Libreture](https://www.libreture.com/) – Libreture is a Goodreads-style site which lets you store and organise your DRM-free eBooks online, browse DRM-free bookshops, discover new titles and share reading lists.
-- [Open Library](https://openlibrary.org/) – Open Library is a Goodreads-style site where you can share reading lists, track your own book collection, borrow and download eBooks, and contribute to a catalogue of all books ever published.
-- Local Bookshops
-- Public Domain eBooks such as [Project Gutenberg](https://www.gutenberg.org/), [Internet Archive Books](https://archive.org/details/texts), [Feedbooks Public Domain](http://www.feedbooks.com/publicdomain), [Standard eBooks](https://standardebooks.org/), [StandardeBooks](https://standardebooks.org/), [Faded Page](https://www.fadedpage.com/) and [Wikisource](https://en.wikisource.org/).
-- [Z-Library](https://z-lib.org/) – Z-Library. The world's largest ebook library.
-- Public Libraries
-
-
-## [Audible](#audible)
-- [LibriVox](https://librivox.org/) – A DRM-free collection of audiobooks that are provided at no charge. The books are read by volunteers and published under the public domain.
-- [Libro.fm](https://libro.fm/) – Offers DRM-free audiobooks while also supporting local bookstores. Their membership option is only available in the US and Canada though.
-
-
-### [Audio Platforms for Music Streaming](#audio-platforms-for-music-streaming)
-Not so good in terms of privacy:
-- [Audius Music](https://audius.co/) – A streaming platform built for all musicians, not just those signed to labels. Basically they’re a soundcloud/spotify platform based in a blockchain protocol in terms of monetization, that’s it. Only their client which is Another React app and protocol, Ethereum are open source (Apache License 2.0) the rest is the same. This is nothing but another privative/centralized music platform with DRM. The website contains 4, is proprietary and has 9 page privacy policy.
-- Apple Music
-- Google Music/YT Music
-- iTunes, Amazon Music
-- [SoundCloud](https://soundcloud.com/pages/privacy)
-- [Last.fm](https://www.eff.org/deeplinks/2009/02/last-fm-and-the-diabolical-power-of-data-mining)
-- [Spotify](https://thehustle.co/spotify-turns-emotions-into-data/), [open letter](https://spotifyopenletter.wordpress.com/2022/01/10/an-open-letter-to-spotify/)
-
-
-Privacy oriented alternatives:
-- [Ampache](http://ampache.org/) – A web based audio streaming application and file manager allowing you to access your music from anywhere, using almost any internet enabled device.
-- [Audius Music](https://audius.co/) – A streaming platform built for all musicians, not just those signed to labels. Build a fanbase, share your works in progress, and then publish your completed tracks for all the world to hear.
-- [Brew.fm](https://www.brew.fm/) – An alliance of artists who remix and edit each other's tracks.
-- [Bandcamp](https://bandcamp.com/) – Discover amazing new music and directly support the artists who make it.
-- [Euterpe](https://github.com/ironsmile/euterpe) – Self-hosted music streaming server notes with RESTful API and Web interface. Think of it as your very own Spotify!
-- [Funkwhale](https://funkwhale.audio/) – A social platform to enjoy and share music (SoundCloud alternative).
-- [Headset](https://headsetapp.co/) – Headset is a desktop application that turns YouTube into a world class music streaming service.
-- [Jamendo](https://www.jamendo.com/) – A community of free, legal and unlimited music published under Creative Commons licenses. Share your music, download your favorite artists!
-- [Koel](https://koel.dev/) – A personal music streaming server that works. The mobile app is a paid product.
-- [Kuku FM](https://kukufm.com/) – Discover best Audio books, Podcasts, FM Radio, Talk shows, Stories in India. Listen content in English, Hindi, Marathi etc.
-- [Madsonic](http://www.madsonic.org/) – A web-based media library and media streamer with jukebox functionality. Based on Java technology, Madsonic runs on most platforms, including Windows, MacOS, OSX, Linux and Unix variants.
-- [Maloja](https://github.com/krateng/maloja) – Simple self-hosted music scrobble database to create personal listening statistics. No recommendations, no social network, no nonsense.
-- [Mopidy](https://mopidy.com/) – Plays music from local disk, Spotify, SoundCloud, TuneIn, and more. You can edit the playlist from any phone, tablet, or computer using a variety of MPD and web clients.
-- [Music Player Daemon](https://www.musicpd.org/) – A "flexible, powerful, server-side application for playing music".
-- [Navidrome](https://navidrome.org/) – Lightweight, fast and self-contained personal music streamer.
-- [Nextcloud Music](https://apps.nextcloud.com/apps/music)
-- [Nuclear](https://nuclear.js.org/) – Modern music player focused on streaming from free sources.
-- [Olivia](https://github.com/keshavbhatt/olivia) – Elegant music player for Linux.
-- [Openwhyd](https://openwhyd.org/) – Collect and share all the music you love from any source but reunited in the same place.
-- [Radio4000](https://radio4000.com/) – Lets you discover user curated radios from around the world, manage your online music library, and share it anonymously with everyone. All free and open source.
-- [Resonate](https://resonate.is/) – The community-owned music network.
-- [Subsonic](https://www.subsonic.org/pages/index.jsp) – Your complete, personal music streamer.
-- [Tribler](https://www.tribler.org/) – Open-source peer-to-peer file sharing that provides a "Youtube"-like streaming experience. Tribler uses Tor-like onion routing to protect the privacy of its users.
-- [Zoff](https://zoff.me/) – Collaborate on a live music and video playlist with your friends. It's perfect for parties with integrated chrome-casting, or when you want quick access to your favorite playlist.
-
-
-### [Mobile Music Streaming Apps](#mobile-music-streaming-apps)
-- [Foobnix](http://www.foobnix.com/) – Audio player for Linux, Windows and Android.
-- [Joox](https://www.joox.com/) – A music streaming platform allowing you to download and stream popular song.
-- [muffon](https://github.com/staniel359/muffon) – muffon is a desktop music browser / streaming service that retrieves info and audio/video from Last.FM, Discogs, VK, YouTube, Deezer, Yandex Music, Odnoklassniki, Spotify, SoundCloud, Bandcamp and Genius.
-
-### [Self-Hosted Mobile Music Streaming Apps](#self-hosted-mobile-music-streaming-apps)
-- [Ampache](http://ampache.org/) – Open-source and self-hosted web based media manager and media server. API available to allow usage on various platforms. On-the-fly transcoding available. Supports both music and video.
-- [BlackHole](https://github.com/Sangwan5688/BlackHole) – A Music Player App made with Flutter.
-- [Funkwhale](https://funkwhale.audio/) – Self-hosted, decentralized music service. Provide your own audio.
-- [KooZic](https://koozic.net/) – KooZic is an open-source music streaming service that you install on your server! Based on Odoo.
-- [Maloja](https://github.com/krateng/maloja) – Simple self-hosted music scrobble database to create personal listening statistics. No recommendations, no social network, no nonsense.
-- [Nuclear](https://nuclear.js.org/) – A music streaming program which pulls from multiple free sources. - **controversial**
-- [Pulse Music](https://f-droid.org/en/packages/com.hardcodecoder.pulsemusic/) – An offline music player app, with modern UI and powerful features that does not depend on Google Play Services.
-
-
-## [Open Source Hardware](#open-source-hardware)
-
-[Open Source Hardware Association](https://www.oshwa.org/) – The Open Source Hardware Association or in short: OSHWA aims to foster technological knowledge and encourage research that is accessible, collaborative and respects user freedom. This is the starting point for your research and to check open source hardware news. Another good overview is a [list of open-source computing hardware](https://en.wikipedia.org/wiki/List_of_open-source_computing_hardware).
-
-
-[Free Hardware and Free Hardware Designs](https://www.gnu.org/philosophy/free-hardware-designs.en.html) explained. You find an [Certified Open Source Hardware Projects list here](https://certification.oshwa.org/list.html).
-
-
-- [Beechat Network Systems Ltd.](https://github.com/BeechatNetworkSystemsLtd/BeechatCrank/) – A human-powered, open-hardware, fully-waterproof, electricity generator. The project was born out of the need to power electronics in all off-grid scenarios.
-- [Firefly](https://firefly.city/) – An open-source $5 DIY hardware wallet.
-- [Freedeck](https://github.com/FreeYourStream/freedeck-hardware) – Open-Source Stream Deck.
-- [FOSSi](https://www.fossi-foundation.org/) – Free and Open Source Silicon (FOSSi) are components and systems that are inside silicon devices (‘chips’)..
-- [Glia](https://glia.org/) – High-quality low-cost open source medical hardware.
-- [Liberouter (2014)](https://ieeexplore.ieee.org/document/6814739) – Towards autonomous neighborhood networking.
-- [LibreCellular](https://librecellular.org/) – The LibreCellular project aims to make it easier to create 4G cellular networks with open source software and low cost software-defined radio (SDR) hardware.
-- [Mouse](https://github.com/biomurph/Mouse) – Repository for Open Source Mouse Firmware and Hardware.
-- [OpenRex](https://www.imx6rex.com/open-rex/) – Open Source Hardware Project.
-- [Turris Omnia](https://www.imx6rex.com/open-rex/) – A router from the Czech Republic using open source firmware built on top of OpenWrt.
-- [Pid.codes](https://pid.codes/) – Free USB IDs to open-source hardware.
-- [PUMA](https://github.com/TadPath/PUMA) - World's First Open Source 3D Printed Microscope with an Augmented Reality Heads Up Display.
-- [RISC-V ISA](https://tuxphones.com/sipeed-rv64-first-risc-v-rv64-phone-linux-2022-2023/) – The Sipeed Maix Amigo kit from 2020 was among the first RISC-V PDAs.
-- [SLIMBOOK](https://slimbook.es/en/) – Born in 2015 with the idea of ​​being the best brand in the computer market with GNU / Linux (although it is also verified the absolute compatibility with Microsoft Windows).
-- [Space](https://github.com/orbitalindex/awesome-space) – Repository of open source space-related software and hardware.
-- [The NEORV32 Processor](https://www.hackster.io/news/open-source-soc-the-neorv32-processor-061f5219c45a) – Open source hardware SoC.
-- [TinyNES](https://www.crowdsupply.com/tall-dog-electronics/tinynes) – NES-compatible open hardware video game console.
-
 ### [Hardware Teardown Websites](#hardware-teardown-websites)
 - [Dave Jones aka EEVBlog](https://www.eevblog.com/teardowns/)
 - [Fictiv](https://www.fictiv.com/blog/topics/teardowns)
@@ -4221,168 +4550,6 @@ Privacy oriented alternatives:
 - [Countries could ban HTTPS](https://www.zdnet.com/article/russia-wants-to-ban-the-use-of-secure-protocols-such-as-tls-1-3-doh-dot-esni/).
 - Tor network helps against many vulnerabilities HTTPS has. With Tor, every domain generates their own public/private key pair (which represents the domain itself) hence making it impractical for actors to break all of them (in fact, breaking even one of the 128-bit ed25519 keys would be a breakthrough in cryptography).
 
-
-## [Intel Management Engine & AMD Platform Security Processor](#intel-management-engine--amd-platform-security-processor)
-
-> me_cleaner does not disable ME altogether, it just removes some "suspicious" parts. Majority of code still remains there. Same with AMD PSP. You can't remove all of it as your CPU will not even boot. PSP disable is supposed to disable some additional parts.
-
-- AMD boards starting with B550 ([?](https://forums.tomshardware.com/threads/boards-that-disable-amd-psp.3416341/)) contain a setting to [disable AMD PSP](https://sandrokeil.github.io/yubikey-full-disk-encryption-secure-boot-uefi/security/disable-amd-psp.html).
-- There are some hacks for Intel, alias me_cleaner, see [here](https://github.com/corna/me_cleaner/wiki/me_cleaner-status). The Intel Management Engine ('IME' or 'ME') is an out-of-band co-processor integrated in all post-2006 Intel-CPU-based PCs. It has [full network and memory access](https://blog.ptsecurity.com/2017/08/disabling-intel-me.html) and runs proprietary, signed, closed-source software at ring -3, independently of the BIOS, main CPU and platform operating system — a fact which many regard as an unacceptable security risk (particularly given that at least one remotely exploitable security hole has already been reported). For Linux check [this](https://wiki.gentoo.org/wiki/User:Sakaki/Sakaki%27s_EFI_Install_Guide) or the [video guide](https://www.youtube.com/watch?v=MujjuTWpQJk).
-
-
-## [Icon Libraries](#icon-libraries)
-- [3dicons](https://3dicons.co/) – Open-source 3D icon library.
-- [Ant Design Icons, by Ant Financial](https://ant.design/components/icon/) – Ant Design SVG Icons.
-- [Bootstrap Icons](https://icons.getbootstrap.com/) – Official open source SVG icon library for Bootstrap.
-- [Boxicons](https://boxicons.com/) – Boxicons is a simple vector icons set carefully crafted for designers and developers to use in your next project.
-- [CoreUI Icons](https://coreui.io/icons/free/) – Premium designed free icon set with marks in SVG, Webfont and raster formats.
-- [css.gg](https://css.gg/) – Open-source CSS, SVG, and Figma UI Icons available in SVG Sprite, styled-components, NPM & API
-- [Devicon](https://konpa.github.io/devicon/) – A set of icons representing programming languages, designing & development tools. You can use it as a font or directly copy/paste the svg code into your project.
-- [DevUI Icons, by Huawei Cloud](https://github.com/DevCloudFE/devui-icons) – DevUI font icons.
-- [Eva Icons](https://akveo.github.io/eva-icons) – Eva Icons is a pack of more than 480 beautifully crafted Open Source icons for common actions and items.
-- [Feather](https://feathericons.com/) – A collection of simply beautiful open source icons.
-- [feather](https://github.com/feathericons/feather) – Simply beautiful open source icons.
-- [flaticon](https://www.flaticon.com/) – 1M+ vector icons grouped in 30k packs.
-- [Font Awesome](http://fontawesome.io/) – Scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS.
-- [Foundation Icon Fonts 2](http://zurb.com/playground/foundation-icons) – Custom icon sets that are stored in a handy web font and are coded to be more accessible. A couple lines of CSS and the right markup will get you going in no time.
-- [Foundation Icon Fonts 3](http://zurb.com/playground/foundation-icon-fonts-3) – A custom collection of lots of icons.
-- [Glyphicons](http://glyphicons.com/) – Is a library of precisely prepared monochromatic icons and symbols, created with an emphasis to simplicity and easy orientation.
-- [Google Material Design Icons, by Google](https://design.google.com/icons/) – Official Google Material Design Icons.
-- [Govicons](http://govicons.io/) – Gov Icons is a font and CSS toolkit with over 100 government themed icons.
-- [Heroicons](https://github.com/refactoringui/heroicons) – A set of free MIT-licensed high-quality SVG icons for UI development.
-- [Icofont](https://icofont.com/) – 5k free icons to spice up your creative designs.
-- [icoMoon](https://icomoon.io) – 500+ free Icons.
-- [Iconic.app](https://iconic.app/) – Free, “do wtf you want with” pixel-perfect SVG icons.
-- [Iconic](https://useiconic.com/open/) – An open source icon set with 300 marks in SVG, webfont and raster formats.
-- [iconmonstr](http://iconmonstr.com/) – Discover over 3k free simple icons in various collections.
-- [icons](https://github.com/twbs/icons) – Official open source SVG icon library for Bootstrap.
-- [icons8](https://icons8.com/) – 70k Free Flat Icons.
-- [IconSweets2](https://www.designbombs.com/iconsweets2/) – Is a huge set containing over 1k custom designed icons. Icon Sweets 2 will quench your icon thirst for all your iPhone, iPad & Android apps or new web projects.
-- [Ionicons](http://ionicons.com/) – The premium icon font for Ionic Framework.
-- [IconShock](https://www.iconshock.com/freeicons/) – Over 100k free icons, icons are taken from open source projects and then they got optimized.
-- [Jam Icons](https://jam-icons.com/) – Jam icons is a set of icons designed for web projects, illustrations, print projects, etc. Shipped in JavaScript, font & SVG versions.
-- [Marka](http://fian.my.id/marka/) – 36 Beautiful transformable icons.
-- [Octicons](https://octicons.github.com/) – All GitHub's icons.
-- [Pepicons](https://pepicons.com) – Pepicons is a completely original 80s themed set of hand-crafted icons, made in two retro variants: Pop! and Print.
-- [pictonic](https://pictonic.co) – Over 300+ free icons.
-- [Remix Icon](https://remixicon.com/) – Remix Icon is a set of open-source neutral-style system symbols elaborately crafted for designers and developers.
-- [RPG-Awesome](https://nagoshiashumari.github.io/Rpg-Awesome/) – A fantasy themed font and CSS toolkit.
-- [Simple icons](https://github.com/simple-icons/simple-icons) – Over 1000 Free SVG icons for popular brands.
-- [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) – Miniscule SVG versions of website and app logos, under 1KB each.
-- [svg-icon](https://github.com/leungwensen/svg-icon) – An ultimate svg icons collection done right, with over 5k SVG icons out of the box.
-- [teenyicons](https://teenyicons.com/) – Tiny minimal 1px icons designed to fit in the smallest places.
-- [Themify Icons](https://themify.me/themify-icons) – Themify Icons is a complete set of icons for use in web design and apps, consisting of 500+ pixel-perfect, hand-crafted icons that draw inspiration from Apple iOS 7.
-- [TheNounProject](https://thenounproject.com/) – Search over 150k icons designed by creators from around the world.
-- [uiw-icons](https://uiwjs.github.io/icons) – The premium icon font for UIW Framework.
-- [zondicons](http://www.zondicons.com/) – A set of free premium SVG icons for you to use on your digital products.
-
-### [Mobile Icon Libraries](#mobile-icon-libraries)
-- [Ameixa](https://f-droid.org/packages/org.xphnx.ameixa) – Port of TwelF CMTheme for many launchers.
-- [Articons](https://f-droid.org/packages/com.donnnno.arcticons) – A line-based icon pack with over 2100 icons! Originally forked from Frost, but rebuild with consistent sizing and adjustments specifically for lines in mind.
-
-
-### [Icon and SVG Tools](#icon-and-svg-tools)
-- [fontello](http://fontello.com/) – Icon fonts generator.
-- [Orion icon library](https://orioniconlibrary.com/) – Generate icon fonts or download icons in multiple formats.
-- [LibreSprite](https://github.com/LibreSprite/LibreSprite) – Animated sprite editor & pixel art tool.
-- [Penpot](https://github.com/penpot/penpot) – The Open-Source design & prototyping platform.
-- [svg-icon](http://leungwensen.github.io/svg-icon/) – Select as many SVG icons as you need, and download as an SVG symbols sprite file.
-- [svgtofont](https://github.com/jaywcjlove/svgtofont) – Read a set of SVG icons and output a TTF/EOT/WOFF/WOFF2/SVG font.
-
-
-## [Instant Messaging](#instant-messaging)
-
-**Please check out [this website](https://www.securemessagingapps.com/) for comparisons**. Threema provides their own [chart](https://threema.ch/en/messenger-comparison). The most complete chart is [this one](https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU/).
-
-
-[FBI document shows what data can be obtained from encrypted messaging apps](https://therecord.media/fbi-document-shows-what-data-can-be-obtained-from-encrypted-messaging-apps/), this is controversial but gives an solid overview.
-
-Not so good in terms of privacy:
-- Clubhouse, because [lawyers say you could get sued](https://businessradiox.com/podcast/one-minute-interviews/brian-inkster/).
-- [Facebook](https://www.datatilsynet.no/en/news/2021/norwegian-data-protection-authority-choose-not-to-use-facebook/) Messenger
-- Google Hangouts / Chat – Owned by Google [#fedpot](https://www.yahoo.com/now/government-secretly-orders-google-track-151000879.html)
-- Instagram DM - Owned by Facebook
-- Skype / Skype for Business – Owned by Microsoft
-- Wickr – Owned by Amazon [#fedpot](https://www.vice.com/en/article/y3dawk/wickr-cia-funding-inqtel)
-- [WhatsApp](https://www.forbes.com/sites/thomasbrewster/2022/01/17/whatsapp-ordered-to-spy-on-chinese-phones-by-america-no-explanation-given/) – Owned by Facebook + [#fedpot](https://www.rollingstone.com/politics/politics-features/whatsapp-imessage-facebook-apple-fbi-privacy-1261816/)
-- [Zoom](https://arstechnica.com/tech-policy/2020/11/zoom-lied-to-users-about-end-to-end-encryption-for-years-ftc-says/) #fedpot + [ad-banners](https://blog.zoom.us/zoom-continued-access-for-basic-users-with-advertising-program/)
-- Systems that rely on Intel SGX for private discovery e.g. used by Signal.
-- Systems that rely on Servers to resolve username to public key e.g. used by Wickr.
-- Systems that rely on Servers to trust with your own IP address e.g. Wickr, Telegram and Signal.
-- Systems that rely on Servers used to authenticate other unknown users e.g. used in Telegram.
-
-
-### [Instant Messaging Decentralized](#instant-messaging-decentralized)
-
-No single point of control or failure. A decentralized network operated by different servers from different volunteers around the globe. You choose where your data stays or you can self-host your own server. Somewhat more complex protocols (because of federation between servers) and some extra metadata is added to the messages (without compromising privacy).
-
-- [CoyIM](https://coy.im/) – A new XMPP chat client that is safe and secure by default: no settings to change, no plugins to install, no computer configuration to change. You can also sandbox coy vis [firejail](https://github.com/coyim/coyim/issues/108#issuecomment-770347702).
-- [Jabber / XMPP (Protocol)](https://xmpp.org/) – The universal and open messaging standard. Tried and tested. Independent. Privacy-focused. E2E encrypted.
-- [Delta Chat](https://delta.chat/) – Chat over encrypted email. eMail itself is not secure, however most countries block other option, so this is more for those who cannot use alternatives,
-- [Kontalk](https://kontalk.org/) – A new way of communicating.
-- [MiroTalk](https://github.com/miroslavpejic85/mirotalksfu) – An alternative to Zoom and Teams.
-- [SimpleX](https://github.com/simplex-chat/simplex-chat) – Decentralized chat with a focus on users’ privacy - doesn't use global user identities.
-- [Status IM](https://status.im/) – Status uses an open-source, peer-to-peer protocol, and end-to-end encryption to protect your messages from third parties. Keep your private messages private with Status.
-- [Scuttlebot](https://scuttlebot.io/) – An open source peer-to-peer log store used as a database, identity provider and messaging system. It features global replication, file-syncronization, and end-to-end encryption.
-- [Xx Messenger](https://xx.network/messenger/) – xx network does not distribute, offer, solicit sales of, or sell any xx coins in any state or jurisdiction, they provide an [iOS](https://apps.apple.com/app/xx-messenger/id1593670957) and [Android](https://play.google.com/store/apps/details?id=io.xxlabs.messenger) app. Their tech [whitepaper is here](https://xx.network/wp-content/uploads/2021/10/xx-whitepaper-v2.0.pdf), among their [FAQ](https://xx.network/faq/).
-
-
-### [Instant Messaging Centralized](#instant-messaging-centralized)
-
-Instant messaging guidance for beginners:
-- [Matrix vs. XMPP - What are XMPP and Matrix and what makes them special?](https://lukesmith.xyz/articles/matrix-vs-xmpp) + [comparison](https://blog.lewman.com/internet-messaging-versus-congested-network.html)
-- [securechatguide.org](https://securechatguide.com) & [securemessagingapps.com](https://securemessagingapps.com)
-- [Wikipedia: Comparison of IM clients](https://en.wikipedia.org/wiki/Comparison_of_instant_messaging_clients#Secure_messengers)
-- [EFF Guide to IMS](https://eff.org/secure-messaging-scorecard)
-- [InfoSec Guide](https://infosec-handbook.eu/blog/xmpp-aitm/)
-
-
-The service is in charge of running the servers that allow users to communicate. Single point of failure and control, but still 100% safe and trustworthy if the protocols and code are open and audited.
-
-Leaked FBI Docs Suggest Telegram Safer than WhatsApp, Threema and others, see picture and source below.
-
-![Image credit: therollingstone](https://i.ibb.co/dBJ8HYt/21114562-1-2.png)
-
-
-Source for this is claim is [here](https://www.rollingstone.com/politics/politics-features/whatsapp-imessage-facebook-apple-fbi-privacy-1261816/). For people saying Telegram isn't mentioned in the source article, click on the source document. It does cover various apps including Telegram. The document as PDF is hosted [here](https://propertyofthepeople.org/document-detail/?doc-id=21114562).
-
-
-- [Linphone](https://www.linphone.org/) – An open source SIP phone for voice/video calls and instant messaging, and is available for mobile and desktop environments (iOS, Android, GNU/Linux, macOS, Windows). - **controversial**
-- [Oversec](https://f-droid.org/packages/io.oversec.one/) – Privacy for All Apps! Encrypt and Disguise Messages in All Your Apps. This is not an IM application but listed here as "helper" application to add an encryption layer for those who are not encrypted.
-- [Ricochet](https://ricochet.im/) – Anonymous instant messaging (Desktop only!).
-- [Threema](https://threema.ch/en) – The messenger that puts security and privacy first. Pay once, chat forever. No collection of user data. Open Source client. [Crypto review 2021](https://soatok.blog/2021/11/05/threema-three-strikes-youre-out/) by Soatok.
-    - [OpenMittsu](https://www.openmittsu.de/) – A cross-platform open source implementation and desktop client for the Threema Messenger App.
-- [Status](https://status.im/) – Status is a secure messaging app, crypto wallet, and Web3 browser built with state of the art technology.
-
-
-## [iOS Keyboard](#ios-keyboard)
-- [ToneBoard](https://github.com/bellkev/ToneBoard) – A Chinese keyboard for iOS that helps you remember tones.
-
-
-## [iOS Shell replacement](#ios-shell-replacements)
-- [ish](https://github.com/ish-app/ish) – Simple Linux Shell for iOS.
-
-
-## [Kahoot Alternatives](#kahoot-alternatives)
-- [Particify](https://ars.particify.de/) – Game-based learning platform.
-
-
-## [Keybase Alternatives](#keybase-alternatives)
-
-In May 2020 Keybase was acquired by [Zoom](https://keybase.io/blog/keybase-joins-zoom).
-
-- [Keyoxide](https://keyoxide.org/) – A Keybase alternative, basically a privacy-friendly platform to establish your decentralized identity.
-- [wheretofind.me](https://wheretofind.me/) – An open source identity directory website. It lets you create a small profile with all your social media links. Afterwards, point people to this profile so they can quickly find you on all platforms.
-
-
-## [Key Remapper](#key-remapper)
-- [KMonad](https://github.com/kmonad/kmonad) – An advanced keyboard manager.
-- [Remap keys on Windows without installing anything](https://n8ta.com/projects/windows_key_remapper.html).
-- [Wayremap](https://github.com/acro5piano/wayremap) – Wayremap is a Dynamic key remapper for Wayland desktop environment.
-- [xremap](https://github.com/k0kubun/xremap) – Dynamic key remapper for X11 and Wayland, written in Rust for Linux.
-
-### [Mobile Key Remapper](#mobile-key-remapper)
-- [KeyMapper](https://github.com/keymapperorg/KeyMapper) – Change what the buttons do, the Android app is on Google Play Store and F-Droid.
 
 ## [Speech (synthesis and recognition)](#speech-synthesis-and-recognition)
 - [CMU Sphinx](https://cmusphinx.github.io/wiki/) – Speech recognition software from Carnegie Mellon University.
@@ -4536,11 +4703,6 @@ There is no definition regarding the term - for developers - I only list Distros
 - [GalliumOS](https://wiki.galliumos.org/Hardware_Compatibility) – To run GalliumOS, your ChromeOS device needs firmware support for Legacy/BIOS or UEFI booting.
 
 
-## [Open Source privacy-friendly firmware replacement for Robot Vacuums (ie Roombas)](#open-source-privacy-friendly-firmware-replacement-for-robot-vacuums-ie-roombas)
-- [Valetudo](https://github.com/Hypfer/Valetudo) – Cloud-free control webinterface for vacuum robots
-
-
-
 ## [Projects you can join to help the make the world more sustainable](#projects-you-can-join-to-help-the-make-the-world-more-sustainable)
 
 - [Buy Nothing Project](https://buynothingproject.org/)
@@ -4633,36 +4795,6 @@ Consider joining and donating to one, several or all of the listed organizations
 - [Woodhull Freedom Foundation](https://en.wikipedia.org/wiki/Woodhull_Freedom_Foundation)
 
 
-## [Collaboration platforms](#collaboration-platforms)
-- [Kanboard](https://kanboard.org) – A free and open source Kanban project management software.
-- [My Personal Kanban](https://greggigon.github.io/my-personal-kanban/) – Offline webapp.
-- [Nextcloud Deck](https://apps.nextcloud.com/apps/deck) – Useful when you already have Nextcloud.
-- [Nullboard](https://github.com/apankrat/nullboard) – Offline webapp.
-- [Taiga](https://www.taiga.io) – An agile, free and open source project management tool.
-- [TaskBoard](https://taskboard.matthewross.me/) – Works on almost any web host (only needs PHP5 w/SQLite etc.
-- [Twake](https://twake.app) – A complete and secure collaboration platform.
-- [Wekan](https://wekan.github.io) – An open-source and collaborative kanban board application.
-
-
-## [Metadata Removal](#metadata-removal)
-- [BleachBit](https://www.bleachbit.org/) – Alternative for CCleaner that is FOSS and can also remove leftovers, metadata etc.
-- [Dangerzone](https://dangerzone.rocks/) – Take potentially dangerous PDFs, office documents, or #images and convert them to safe PDFs.
-- [Exiv2](https://www.exiv2.org/) – Exiv2 is a Cross-platform C++ library and a command line utility to manage image metadata
-- [ExifCleaner](https://exifcleaner.com) – A free desktop app to clean image metadata.
-- [mat2](https://0xacab.org/jvoisin/mat2) – A metadata removal tool, supporting a wide range of commonly used file formats.
-- [Metadata Cleaner](https://gitlab.com/rmnvgr/metadata-cleaner) – Python GTK application to view and clean metadata in files, using mat2.
-- [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif) – An Android app to remove exif data from pictures before sharing them.
-
-### [Mobile Metadata Removal Apps](#mobile-metadata-removal-apps)
-- [DetoxDroid](https://github.com/flxapps/DetoxDroid) – This app follows a different approach by stripping away all the attention-grabbing and manipulative features of other apps. DetoxDroid does not require you to choose a time and place when you want to "detox", or punish you if you fail.
-- [Exif-Remove](https://github.com/roothaxor/Exif-Remove) – Remove exif data from all digital pictures in current directory by typing exif.
-- [ImagePipe](https://codeberg.org/Starfish/Imagepipe) – Reduces image size and removes exif-tags when sharing images on Android devices.
-- [MAT](https://github.com/jubalh/MAT) – Metadata Anonymization Toolkit.
-- [Pocket Paint](https://github.com/Catrobat/Paintroid) – The standard image manipulation app for Catroid.
-- [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif) – Remove Exif data from pictures before sharing them.
-- [scrambledeggsif](https://f-droid.org/packages/com.jarsilio.android.scrambledeggsif/) – Delete meta data from image files on mobile.
-
-
 ## [Online Leak and Fingerprint tests](#online-leak-and-fingerprinting-tests)
 
 Only unique tests are getting listed here, it makes no sense to list 1000+ pages who do all the same or offering absolute nothing new regarding fingerprinting/leaking.
@@ -4736,89 +4868,7 @@ Only unique tests are getting listed here, it makes no sense to list 1000+ pages
 - [XSinator – XS-Leak Browser Test Suite](https://xsinator.com/)
 
 
-## [OSINT Tools](#osint-tools)
-- [airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) – App at Linux systems to audit wireless networks.
-- [Capa](https://github.com/fireeye/capa) – Quickly check what execution files can really do.
-- [cgit](https://git.cgsecurity.org/cgit/) – Collection of data recovery tools.
-- [email2phonenumber](https://github.com/martinvigo/email2phonenumber) – A OSINT tool to obtain a target's phone number just by having his email address.
-- [fluxion](https://github.com/FluxionNetwork/fluxion) – A WiFi attack proof tool.
-- [Gitleaks](https://github.com/zricethezav/gitleaks) – Check for privacy data leaked from git repos.
-- [LinkScope](https://github.com/AccentuSoft/LinkScope_Client) – LinkScope allows you to perform online investigations by representing information as discrete pieces of data, called Entities.
-- [No-BlackM](https://github.com/DataSC3/No-BlackM) – Telegram Bot to search for telephone numbers.
-- [Sherlock Project](https://github.com/rileytestut/Delta) – Hunt down social media accounts by username across social networks.
-- [Snoop](https://github.com/snooppr/snoop/blob/master/README.en.md) – One of the most promising OSINT tools to search for nicknames
-- [tangalanga](https://github.com/elcuervo/tangalanga) – Zoom conference scanner and hacking tool.
-- [trape](https://github.com/jofpin/trape) – Tool to track and execute intelligent social engineering attacks in real time.
-
-
-## [Open Source Games](#open-source-games)
-- [List of open source Games](https://github.com/bobeff/open-source-games/) – List of open source games as well as some reference to other lists and material.
-- [Open source games list (OSGL)](https://trilarion.github.io/opensourcegames/) – Contains information about 1342 open source games and 310 game engines/tools.
-- [Open Source Games](https://libregamewiki.org/List_of_games) – There are some good FOSS Games available as open source [projects](https://gitlab.com/Ashpex/Linux_Games).
-
-
-## [Imgur & Photobucket](#imgur--photobucket)
-Not so good in terms of privacy:
-- [Imgur Acquired by Medialab (owners of WorldStarHipHop, Amino, Genius, Kik)](https://imgur.com/gallery/We6yCM2)
-- DirectPic
-- Photobucket
-- Pinterest
-
-Privacy oriented alternatives:
-- [IMGZ.org](https://imgz.org/) – IMGZ is paid-only. It's [no-hassle](https://imgz.org/blog/2021/03/04/yeah-right/), one-click, super easy image uploads, and it's cheap. So cheap, the only way to pay will be yearly, because it's too cheap to pay monthly. **The tool is not FOSS but listed in case you look for an alternative to get supported/sponsored.**
-- [Imgin](https://imgin.voidnet.tech/) – A minimalist read-only Imgur proxy.
-- [Lutim](https://entraide.chatons.org/en/) – Let’s Upload That IMage is a privacy-friendly and libre photo sharing service. You can set your image to be deleted at first view or after a specified time.
-- [Picc.io](https://picc.io/) – Pinterest/Imgur alternative anonymous image selfie sharing. Each image you upload has a built image sharing widget to share images on social media. FOSS is planned.
-- [Rimgo](https://codeberg.org/3np/rimgu) – Self-hosted free and ad/trackless front end for Imgur.
-
-
-## [Individual Authors and Books](#individual-authors-and-books)
-- [An Anarchist FAQ](http://anarchism.pageabode.com/afaq/index.html) – A comprehensive introduction into the philosophy of anti-authoritarianism and anarchism. Licensed under the GNU FDL.
-- [Anna Galore](http://anna-galore.com/) – A french writer who offers most of her novels and short stories entirely DRM-free.
-- [Blake Crouch](http://www.blakecrouch.com/) – A suspense writer who has made it to the top ten Kindle bestseller list.
-- [Craphound](http://craphound.com/) – Author's site. Fiction and non-fiction by Cory Doctorow.
-- [Diane Duane](http://www.dianeduane.com/) – Wrote the 'So You Want to be a Wizard' series and sells copies of not only the original published version but also a new updated version which is only available at her site.
-- [Green Comet](http://greencomet.org/downloads/) – A novel of love and adventure on an inhabited comet, and its sequel, Parasite Puppeteers, are available to download in various formats, including ePub and OGG under the free culture CC-BY-SA license.
-- [IPv6-Handbuch](http://greencomet.org/downloads) – Is a small German ebook shop selling books on IPv6.
-- [J.A. Konrath](http://www.jakonrath.com/) – An author of detective novels and suspense novels.
-- [Kanika G](https://kanikag.com/) – Self-publishes DRM-free children's books.
-- [Libreleft Books](http://libreleft.com/estore/) – Publishes Laurel L. Russwurm's free culture licensed mystery novels.
-- [Philippe Aigrain](http://paigrain.debatpublic.net/?page_id=11) – An internet activist involved with La Quadrature du Net.
-- [Lessig.org](http://www.lessig.org/) – Lawrence Lessig's author page, whereat his eBooks may be freely downloaded.
-- [Rory Price](https://roryprice.net/2020/05/01/opt-out/) – Has written a DRM-free novel with software freedom as a major theme.
-- [Simon Hayes](http://www.spacejock.com.au/) – Writes the popular comedic space opera ‘Hal Spacejock’ and the 'Hal Junior' series.
-- [Stories for My Little Sister](http://www.storiesformylittlesister.com/) – Free original kids' books written and illustrated by a team of two sisters. These are available for children of all ages.
-- [Sustainable Energy](http://www.withouthotair.com/download.html) – Without the Hot Air by David MacKay -- A readable discussion (with actual metrics!) of our options for energy development.
-- [Thomas A. Knight](http://thomasaknight.com/) – An independent, self-publishing author of fantasy novels, all available for purchase DRM Free.
-- [Thomas Galvin](https://thomas-galvin.com/) – Is self-described as being "an author who spends far too much time thinking about vampires" and you can find his works on his website.
-
-
-### [Indie and open source game engines](#indie-and-open-source-game-engines)
-- [Adventure Game Studio](https://www.adventuregamestudio.co.uk) - Free engine for making point & click adventure games.
-- [Amulet](http://www.amulet.xyz/) - A free Lua-based audio/visual toolkit suitable for small games and experimentation, with online editor.
-- [DOME](https://domeengine.com/) - A framework for making 2D games using the Wren programming language.
-- [DuckEngine](https://github.com/ksplatdev/DuckEngine) - A 2D Game Engine for the web.
-- [Godot](https://godotengine.org/) - Perhaps the most complete and well documented open source engine, for 2d and 3d.
-- [HaxeFlixel](http://haxeflixel.com/) - Cross-platform development, open source
-- [Heaps](https://heaps.io/) - A free and open source cross platform graphics engine written in Haxe.
-- [LITIENGINE](https://github.com/gurkenlabs/litiengine) - A free and open source Java 2D Game Engine.
-- [luxe](https://luxeengine.com/) - In development: a 2d-focused engine, code in Wren.
-- [LÖVR](https://lovr.org/)- An open source framework for rapidly building VR experiences in Lua.
-- [nCine](https://ncine.github.io/) - An open source cross-platform 2D game engine with an emphasis on performance.
-- [Phaser.io](http://phaser.io/) - Desktop and mobile HTML5 game framework, using JavaScript.
-- [Pixelbox.js](https://pixwlk.itch.io/pixelbox) - Combination editor and a simple JavaScript library.
-- [Pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python.
-- [Ren'Py](https://www.renpy.org/) - Free, open source cross-platform Visual Novel development engine.
-- [Starling](https://gamua.com/starling/) - A Cross Platform Game Engine.
-- [Superpowers](http://superpowers-html5.com/index.en.html) - HTML5 2d + 3d engine, coding in Typescript.
-- [XREngine](https://github.com/XRFoundation/XREngine) - Open-source WebGL Metaverse Engine.
-
-
-## [Internet Speed Testing](#internet-speed-testing)
-- [LibreSpeed](https://github.com/librespeed/speedtest-android) - Check your Internet speed via mobile app.
-
-
-### [Domain Hosting providers](#domain-hosting-providers)
+## [Domain Hosting providers](#domain-hosting-providers)
 - [1984 Hosting](https://1984hosting.com) – A green, ethical web hosting that protects its user's privacy.
 - [AccuWeb Hosting](https://www.accuwebhosting.com/web-hosting/free-wordpress-hosting) – No Ads or Banners.
 - [CloudSigma](https://www.cloudsigma.com/) – CloudSigma’s cloud infrastructure and services have been certified as compliant with the highest ISO 27001 requirements for security and data privacy.
@@ -4950,54 +5000,6 @@ You can obtain a [comprehensive aggregator for news feeds here](https://en.wikip
 - [ratt](https://sr.ht/~ghost08/ratt/) – A tool for converting websites to RSS/Atom feeds. It uses config files which define the extraction of the feed data by using css selectors, or Lua script.
 - [rss-bridge](https://github.com/RSS-Bridge/rss-bridge) – The RSS feed for websites missing it.
 - [Rss2email](https://github.com/rss2email/rss2email) – Forward RSS feeds to your email address.
-
-
-## [TV Streaming](#tv-streaming)
-- [Zapp](https://f-droid.org/packages/de.christinecoenen.code.zapp/) – Zapp ist Teil von MediathekView und gibt dir einen schnellen Zugang zu vielen deutschen öffentlich-rechtlichen Fernsehsendern. Schaue ARD, ZDF und andere Sender live oder aus der Mediathek.
-- [DroidShows](https://f-droid.org/en/packages/nl.asymmetrics.droidshows/) – TV series browser and tracker.
-
-
-## [Two Factor Authentication (2FA)](#two-factor-authentication-2fa)
-
-[2FA Directory: List of websites and whether or not they support 2FA](https://2fa.directory/). [2FA QR code generator](https://2fa-qr-svelte.vercel.app/) can be of assistance, it can be combined with e.g. Aegis Authenticator.
-
-
-Not so good in terms of privacy:
-- [Authy](https://old.reddit.com/r/privacy/comments/au4eml/i_have_questions_about_authy/)
-- [AuthLite](https://www.authlite.com/) – Affordable Two-Factor Authentication For Active Directory. Propriety software.
-- [Google Authenticator](https://www.zdnet.com/article/using-google-authenticator-heres-why-you-should-get-rid-of-it/)
-- [Microsoft Authenticator](https://www.transmitsecurity.com/blog/microsoft-authenticator-a-false-sense-of-security)
-
-Privacy oriented alternatives:
-- [Aegis Authenticator](https://getaegis.app/) – A free, secure and open source app for Android to manage your 2-step verification tokens. Supports variety of imports from other apps (Google Authenticator, Authy etc.), vault encryption and exporting keys (plaintext or encrypted).
-- [Authorizer](https://github.com/tejado/Authorizer) – A Password Manager for Android with Auto-Type over USB and Bluetooth, OTP and much more.
-- [andOTP](https://github.com/andOTP/andOTP) – One of the oldest and first 2FA app for Android.
-- [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro) – Two-Factor Authentication (2FA) client for Android + Wear OS.
-- [Extended version of Standardnotes + tokenvault extension](https://standardnotes.org/extensions/tokenvault)
-- [FreeOTP+](https://github.com/helloworld1/FreeOTPPlus) – Enhanced fork of FreeOTP-Android providing a feature-rich 2FA authenticator.
-- [OTP Auth (iOS)](https://apps.apple.com/us/app/otp-auth/id659877384) – 2-Factor Auth for Pros.
-- [Raivo OTP](https://github.com/raivo-otp) – A native, lightweight and secure one-time-password (OTP) client built for iOS.
-- [Tofu](https://tofuauth.com/) – Open-source 2FA for iOS.
-
-
-## [Two Factor MITM and auditing](#two-factor-mitm-and-auditing)
-- [SSH-MITM](https://github.com/ssh-mitm/ssh-mitm/) – SSH audits made simple.
-
-
-## [Two Factor Hardware Keys](#two-factor-hardware-keys)
-- [Dicekeys](https://dicekeys.com/) – DiceKeys are the back-up you can rely on to restore your accounts and data.
-- [NitroKey](https://www.nitrokey.com/) – Protects emails, files, hard drives, server certificates and online accounts
-- [OnlyKey](http://onlykey.io/) – OnlyKey is an open source alternative to YubiKey. OnlyKey natively supports: a hardware password manager, multiple two-factor methods (FIDO2, TOTP, and Yubico® OTP), passwordless SSH login, and OpenPGP.
-- [Solokeys](https://solokeys.com/) – The first open-source FIDO2 security key.
-
-
-### [Text Steganography](#text-steganography)
-- [Nahoft](https://github.com/u4i-admin/Nahoft) – A state-of-the-art encryption app made for Android mobile phones.
-- [Stegcloak](https://stegcloak.surge.sh/) – Hide secrets with invisible characters in plain text securely using passwords ([repo](https://github.com/kurolabs/stegcloak)).
-
-### [File Steganography](#file-steganography)
-- [DissidentX](https://github.com/bramcohen/DissidentX) – Encode files on the web.
-- [Real Steganography with TrueCrypt](http://keyj.emphy.de/real-steganography-with-truecrypt/) – Hiding containers inside MP4 video files.
 
 
 ## [Recipes](#recipes)
@@ -5250,6 +5252,54 @@ Major problems with SSH are explained over [here](https://console.dev/articles/s
 - [ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) – The Zed Attack Proxy (ZAP) is an easy to use integrated penetration testing tool for finding vulnerabilities in web applications.
 
 
+## [TV Streaming](#tv-streaming)
+- [Zapp](https://f-droid.org/packages/de.christinecoenen.code.zapp/) – Zapp ist Teil von MediathekView und gibt dir einen schnellen Zugang zu vielen deutschen öffentlich-rechtlichen Fernsehsendern. Schaue ARD, ZDF und andere Sender live oder aus der Mediathek.
+- [DroidShows](https://f-droid.org/en/packages/nl.asymmetrics.droidshows/) – TV series browser and tracker.
+
+
+## [Two Factor Authentication (2FA)](#two-factor-authentication-2fa)
+
+[2FA Directory: List of websites and whether or not they support 2FA](https://2fa.directory/). [2FA QR code generator](https://2fa-qr-svelte.vercel.app/) can be of assistance, it can be combined with e.g. Aegis Authenticator.
+
+
+Not so good in terms of privacy:
+- [Authy](https://old.reddit.com/r/privacy/comments/au4eml/i_have_questions_about_authy/)
+- [AuthLite](https://www.authlite.com/) – Affordable Two-Factor Authentication For Active Directory. Propriety software.
+- [Google Authenticator](https://www.zdnet.com/article/using-google-authenticator-heres-why-you-should-get-rid-of-it/)
+- [Microsoft Authenticator](https://www.transmitsecurity.com/blog/microsoft-authenticator-a-false-sense-of-security)
+
+Privacy oriented alternatives:
+- [Aegis Authenticator](https://getaegis.app/) – A free, secure and open source app for Android to manage your 2-step verification tokens. Supports variety of imports from other apps (Google Authenticator, Authy etc.), vault encryption and exporting keys (plaintext or encrypted).
+- [Authorizer](https://github.com/tejado/Authorizer) – A Password Manager for Android with Auto-Type over USB and Bluetooth, OTP and much more.
+- [andOTP](https://github.com/andOTP/andOTP) – One of the oldest and first 2FA app for Android.
+- [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro) – Two-Factor Authentication (2FA) client for Android + Wear OS.
+- [Extended version of Standardnotes + tokenvault extension](https://standardnotes.org/extensions/tokenvault)
+- [FreeOTP+](https://github.com/helloworld1/FreeOTPPlus) – Enhanced fork of FreeOTP-Android providing a feature-rich 2FA authenticator.
+- [OTP Auth (iOS)](https://apps.apple.com/us/app/otp-auth/id659877384) – 2-Factor Auth for Pros.
+- [Raivo OTP](https://github.com/raivo-otp) – A native, lightweight and secure one-time-password (OTP) client built for iOS.
+- [Tofu](https://tofuauth.com/) – Open-source 2FA for iOS.
+
+
+## [Two Factor MITM and auditing](#two-factor-mitm-and-auditing)
+- [SSH-MITM](https://github.com/ssh-mitm/ssh-mitm/) – SSH audits made simple.
+
+
+## [Two Factor Hardware Keys](#two-factor-hardware-keys)
+- [Dicekeys](https://dicekeys.com/) – DiceKeys are the back-up you can rely on to restore your accounts and data.
+- [NitroKey](https://www.nitrokey.com/) – Protects emails, files, hard drives, server certificates and online accounts
+- [OnlyKey](http://onlykey.io/) – OnlyKey is an open source alternative to YubiKey. OnlyKey natively supports: a hardware password manager, multiple two-factor methods (FIDO2, TOTP, and Yubico® OTP), passwordless SSH login, and OpenPGP.
+- [Solokeys](https://solokeys.com/) – The first open-source FIDO2 security key.
+
+
+## [Text Steganography](#text-steganography)
+- [Nahoft](https://github.com/u4i-admin/Nahoft) – A state-of-the-art encryption app made for Android mobile phones.
+- [Stegcloak](https://stegcloak.surge.sh/) – Hide secrets with invisible characters in plain text securely using passwords ([repo](https://github.com/kurolabs/stegcloak)).
+
+### [File Steganography](#file-steganography)
+- [DissidentX](https://github.com/bramcohen/DissidentX) – Encode files on the web.
+- [Real Steganography with TrueCrypt](http://keyj.emphy.de/real-steganography-with-truecrypt/) – Hiding containers inside MP4 video files.
+
+
 ## [Tax Software](#tax-software)
 
 [Open source tax software is a difficult topic](https://ctskennerton.github.io/2021/08/30/open-source-tax-software/) with a lots of issues and concerns.
@@ -5313,123 +5363,47 @@ Tor Tools
 - [ToDoList](https://github.com/Webierta/ToDoList) – To Do List does not connect to the network and the data is saved only on your device.
 
 
-## [UnifiedNLP back-ends for MicroG](#unifiednlp-back-ends-for-microg)
+## [Teamwork Tools](#teamwork-tools)
+Not so good in terms of privacy:
+- [Discord](https://cybernews.com/privacy/discord-privacy-tips-that-you-should-use/) + [The Dark Side of Discord (And best Solutions and Alternatives!)](https://bitcointv.com/w/bQQi7ewMbuWzdL3EN8Do4K) [#febpot](https://torrentfreak.com/riaa-takes-down-popular-music-piracy-discord-over-adele-30-leak-211122/), see [here](https://discord.com/safety/360044157931-Working-with-law-enforcement) and [here](https://www.forbes.com/sites/thomasbrewster/2019/01/29/discord-the-2-billion-gamers-paradise-coming-to-terms-with-data-thieves-child-groomers-and-fbi-investigators/) + [full of snitches due to cp](https://www.videogameschronicle.com/news/a-prolific-nintendo-leaker-has-been-sentenced-to-three-years-in-prison/) and [here](https://old.reddit.com/r/privacy/comments/rsxeee/you_should_never_use_discord_and_heres_why/)
+- [Google Hangouts](https://medium.com/pawa-it/beware-of-sharing-sensitive-images-via-google-hangouts-a7d22569751a)
+- [Microsoft Teams](https://www.zdnet.com/article/i-looked-at-all-the-ways-microsoft-teams-tracks-users-and-my-head-is-spinning/)
+- [Slack](https://www.vox.com/recode/2020/1/24/21079275/slack-private-messages-privacy-law-enforcement-lawsuit) + [metadata leakage](https://jub0bs.com/posts/2021-10-12-xsleak-stack/)
 
-If location (NLP) is not working, download and install [this](https://f-droid.org/app/com.vonglasow.michael.satstat) and enable High Accuracy Location and open SatStat. Wait for it to get your location. Don't close SatStat app instead minimize it and open MicroG Settings > Self-Check. All boxes should be checked.
+Privacy oriented alternatives:
+- [Dino](https://dino.im) – A modern and open source Jabber/XMPP chat client for the desktop.
+- [Mattermost](https://mattermost.com/) – Open-source Slack alternative.
+- [Meething](https://github.com/meething) – Decentralized Real-Time Communications (dWebRTC).
+- [Mumble](https://www.mumble.info/) – Open Source, Low Latency, High Quality Voice Chat, you can [bridge audio between Mumble and Discord](https://github.com/Stieneee/mumble-discord-bridge).
+- [Nextcloud Talk](https://nextcloud.com/talk/) – Keep conversations private with Nextcloud Talk.
+- [Portway](https://getportway.com/) – Collaborative content hub
+- [Revolt](https://revolt.chat/) – User-first chat platform built with modern web technologies. FOSS and self-hostable, it also can bridge with Discord and Matrix and they have E2EE planned. Self-hosting DMs is not, yet, possible.
+- [RocketChat](https://rocket.chat/) – Control your communication, manage your data, and have your own collaboration platform to improve team productivity.
+- [Semaphor](https://spideroak.com/) – Encrypted, decentralized authority team chat and file sharing.
+- [Talk](https://github.com/vasanthv/talk) – Group video call for the web. No signups needed and no useless downloads are required.
+- [TOR Fonep2p](https://torfone.org/) – Secure and anonymous VoIP tool.
+- [Twake](https://twake.app/) – Work in a team faster, it covers all of your organizational needs through a single platform.
+- [Zulip](https://zulip.com/) – Chat for distributed teams.
 
-- [Déjà Vu](https://github.com/n76/DejaVu)
-- [Local GSM Backend](https://github.com/n76/Local-GSM-Backend)
-- [Local WiFi Backend](https://github.com/n76/wifi_backend)
-- [Mozilla](https://mozilla.github.io/ichnaea)
-- [OpenBMap](https://github.com/openbmap/radiocells-nlp-android)
-
-## [USB ISO tools](#usb-iso-tools)
-- [booty](https://github.com/spfng/booty) – BOOT to any GNU/Linux via network (PXE), CD-ROM (ISO) or USB-stick with using the tmpfs and SquashFS + Overlay FS. The readme is not in english.
-- [Ventoy](https://github.com/ventoy/Ventoy) – An open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files.
-- [WinSetupFromUSB](http://www.winsetupfromusb.com/) – A Windows program, which prepares multiboot USB flash or fixed disk to install any Windows versions since 2000/XP, boot various Linux and *BSD flavors, as well as many Windows, Linux, DOS based and other utilities. The website is HTTP + the program is not FOSS, it gets listed here because it was one of the first.
-- [Usbimager](https://gitlab.com/bztsrc/usbimager) – A non-electron based alternative to Balena Etcher.
-
-
-## [Userscripts](#userscripts)
-- [UserStyles.world](https://userstyles.world/) – A FOSS Replacement for Userstyles.org.
-- [Stay²](https://github.com/shenruisi/Stay) – Open-source iOS userscript manager.
-
-
-### ["Best practice" Guides](#best-practice-guides)
-- [5 Best Practices for Securing SSH](https://goteleport.com/blog/5-ssh-best-practices/)
-- [A cookbook with the best practices for working with Kubernetes](https://github.com/diegolnasc/kubernetes-best-practices)
-- [A collection of best practices to consider when building user interfaces](https://lawsofux.com/)
-- [ANSSI - Configuration recommendations of a GNU/Linux system](https://www.ssi.gouv.fr/en/guide/configuration-recommendations-of-a-gnulinux-system/)
-- [ANSSI Best Practices](https://www.ssi.gouv.fr/en/best-practices/)
-- [Applied Crypto Hardening – Reference on how to configure the most common services’ crypto settings (TLS/SSL, PGP, SSH and other cryptographic tools)](https://bettercrypto.org/)
-- [auditd - Best Practice Auditd Configuration](https://github.com/Neo23x0/auditd)
-- [Beginner guide: How to secure your self-hosted services](https://old.reddit.com/r/selfhosted/comments/pufhs0/beginner_guide_how_to_secure_your_selfhosted/)
-- [Best Practices for Anti-Money Laundering Compliance 2019 – 2020](https://www.americangaming.org/wp-content/uploads/2019/12/AGA-AML-Best-Practices_12-9.pdf)
-- [Best Practices for Azure Container Registry](https://docs.microsoft.com/en-us/azure/container-registry/container-registry-best-practices)
-- [Best Practices for Letting Go of a Remote Team Member](https://www.infoq.com/articles/letting-go-remote/)
-- [Best practices for ML lifecycle stages](https://dev.to/cloudtech/best-practices-for-ml-lifecycle-stages-4g9b)
-- [Best Practices to optimize query costs in BigQuery](https://metriql.com/blog/2021/09/30/best-practices-to-optimize-the-query-costs-in-BigQuery)
-- [Best practices for writing faster SQL queries](https://guides.tinybird.co/guide/best-practices-faster-sql-queries)
-- [Best practices for adopting and designing IPv6-based networks on AWS](https://d1.awsstatic.com/whitepapers/IPv6-on-AWS.pdf)
-- [CIS Benchmark for Red Hat Linux](https://www.cisecurity.org/benchmark/red_hat_linux/)
-- [Container Security Best Practices](https://sysdig.com/blog/container-security-best-practices/)
-- [Create your own Git server using Raspberry Pi and GitLab](https://medium.com/@kevalpatel2106/create-your-own-git-server-using-raspberry-pi-and-gitlab-f64475901a66)
-- [Database Security Best Practices in 2022](https://backendless.com/database-security-best-practices/)
-- [Defective Sign & Encrypt in S/MIME, PKCS#7, MOSS, PEM, PGP, and XML](https://theworld.com/~dtd/sign_encrypt/sign_encrypt7.html)
-- [Digital Security for Filmmakers](https://digitalsecurity.film/)
-- [DISA STIGs – Red Hat Enterprise Linux 7 (2019)](https://public.cyber.mil/stigs/downloads/?_dl_facet_stigs=unix-linux)
-- [Endpoint Isolation with the Windows Firewall, talk from Ignite 2016](https://medium.com/@cryps1s/endpoint-isolation-with-the-windows-firewall-462a795f4cfb) based on Jessica Payne’s [Demystifying the Windows Firewall](https://channel9.msdn.com/Events/Ignite/New-Zealand-2016/M377)
-- [Enforcing best practice on self-serve infrastructure with Terraform](https://tech.loveholidays.com/enforcing-best-practice-on-self-serve-infrastructure-with-terraform-atlantis-and-policy-as-code-911f4f8c3e00)
-- [ERNW – IPv6 Hardening Guide for Windows Servers](https://www.ernw.de/download/ERNW_Guide_to_Configure_Securely_Windows_Servers_For_IPv6_v1_0.pdf)
-- [FDA: Best Practices for Communicating Cybersecurity Vulnerabilities to Patients](https://www.fda.gov/about-fda/cdrh-patient-science-and-engagement-program/best-practices-communicating-cybersecurity-vulnerabilities-patients)
-- [FIRST Best Practice Guide Library](https://www.first.org/resources/guides/)
-- [Git Commit Good Practice](https://wiki.openstack.org/wiki/GitCommitMessages)
-- [Guide for GitLab and I2P self-hosting](https://geti2p.net/en/docs/applications/git-bundle)
-- [Guidance on Software Development and Open Source Software ](https://dodcio.defense.gov/Portals/0/Documents/Library/SoftwareDev-OpenSource.pdf)
-- [Guide to DRM-Free Living: Literature](https://www.defectivebydesign.org/guide/ebooks)
-- [Hashes and ETags: Best Practices](https://cloud.google.com/storage/docs/hashes-etags)
-- [Install a self-hosted Git server with Gitea on a VPS](https://golb.hplar.ch/2018/06/self-hosted-git-server.html)
-- [Linux workstation security checklist](https://github.com/lfit/itpol/blob/master/linux-workstation-security.md)
-- [Microsoft – How to detect, enable and disable SMBv1, SMBv2, and SMBv3 in Windows and Windows Server](https://support.microsoft.com/en-gb/help/2696547/detect-enable-disable-smbv1-smbv2-smbv3-in-windows-and-windows-server)
-- [Microsoft recommended block rules](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules) – List of applications or files that can be used by an attacker to circumvent application whitelisting policies.
-- [Mozilla Guidelines to Secure SSH](https://infosec.mozilla.org/guidelines/openssh)
-- [Netherlands NCSC – IT Security Guidelines for Transport Layer Security (TLS) (2019)](https://www.ncsc.nl/english/current-topics/factsheets/it-security-guidelines-for-transport-layer-security-tls.html)
-- [NIST SP 800-41 Rev 1 – Guidelines on Firewalls and Firewall Policy (2009)](https://www.nist.gov/publications/guidelines-firewalls-and-firewall-policy)
-- [NIST SP800-52 Rev 2 (2nd draft) – Guidelines for the Selection, Configuration, and Use of Transport Layer Security (TLS) Implementations (2018)](https://csrc.nist.gov/publications/detail/sp/800-52/rev-2/draft)
-- [nixCraft – How to set up a firewall using FirewallD on RHEL 8](https://www.cyberciti.biz/faq/configure-set-up-a-firewall-using-firewalld-on-rhel-8/)
-- [NSA – A Guide to Border Gateway Protocol (BGP) Best Practices](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/ctr-guide-to-border-gateway-protocol-best-practices.pdf?v=1)
-- [NSA – AppLocker Guidance](https://github.com/nsacyber/AppLocker-Guidance) – Configuration guidance for implementing application whitelisting with AppLocker.
-- [NSA – BitLocker Guidance](https://github.com/nsacyber/BitLocker-Guidance) – Configuration guidance for implementing disk encryption with BitLocker.
-- [NSA – Event Forwarding Guidance](https://github.com/nsacyber/Event-Forwarding-Guidance) – Configuration guidance for implementing collection of security relevant Windows Event Log events by using Windows Event Forwarding.
-- [NSA – Pass the Hash Guidance](https://github.com/nsacyber/Pass-the-Hash-Guidance) – Configuration guidance for implementing Pass-the-Hash mitigation's (Archived).
-- [Please don't use Discord for FOSS projects](https://drewdevault.com/2021/12/28/Dont-use-Discord-for-FOSS.html)
-- [Privacy Settings for major softwares](https://github.com/the-weird-aquarian/privacy-settings)
-- [Protect Yourself: Commercial Surveillance Tools](https://www.dni.gov/files/NCSC/documents/SafeguardingOurFuture/FINAL_Jan-7-2022_Protect_Yourself_Commercial_Surveillance_Tools.pdf)
-- [Push Notification Best Practices You Should Follow in 2021](https://www.moengage.com/learn/push-notification-best-practices/)
-- [Red Hat – A Guide to Securing Red Hat Enterprise Linux 7](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html-single/security_guide/index)
-- [RFC 7540 Appendix A TLS 1.2 Cipher Suite Black List](https://tools.ietf.org/html/rfc7540#appendix-A)
-- [Sandbox Best Practices Cheatsheet in 2022](https://twitter.com/hackinarticles/status/1488781720564363265)
-- [Security Checklist – Checklist of resources designed to improve your online privacy and security.](https://securitycheckli.st/)
-- [Security Guidance for 5G Cloud Infrastructures. Part II: Securely Isolate Network Resources (2021)](https://www.cisa.gov/sites/default/files/publications/Security_Guidance_For_5G_Cloud_Infrastructures_Part_II_Updated_508_Compliant.pdf)
-- [Small Mailserver Best Current Practice](https://bridge.grumpy-troll.org/2020/07/small-mailserver-bcp/)
-- [Software Development and Open Source Software (In the DoD)](https://dodcio.defense.gov/portals/0/documents/library/softwaredev-opensource.pdf)
-- [SSL/TLS Recommender](https://blog.cloudflare.com/ssl-tls-recommender/)
-- [TeamViewer Security Best Practices](https://old.reddit.com/r/teamviewer/comments/4ktys8/teamviewer_security_best_practices/)
-- [trimstray - Linux Hardening Checklist](https://github.com/trimstray/linux-hardening-checklist) - Most important hardening rules for GNU/Linux systems which is a summarized version of The Practical Linux Hardening Guide.
-- [Top 10 Best Practices for Azure Security in 2021 (YT Video)](https://www.youtube.com/watch?v=Etv4jH-zHrM)
-- [trimstray – Iptables Essentials: Common Firewall Rules and Commands](https://github.com/trimstray/iptables-essentials)
-- [Windows Defense in Depth Strategies](https://docs.google.com/document/d/1_43UroB0zY4-R2E2r_nH4ndYpDmXAY8g0oTp8yWlwBk/edit?usp=sharing)
-- [Your home router sucks! Replace it with pfSense!](https://davidilie.com/blog/replace-your-home-router-with-pfsense)
-- [WebGPU Best Practices](https://toji.github.io/webgpu-best-practices/)
-- [When to self-host critical application components](https://fusionauth.io/blog/2021/08/05/when-to-self-host/)
-- [Zero Trust Architecture by NIST](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207.pdf)
+### [Mobile Team Working Apps](#mobile-team-working-apps)
+- [Dragonfire](https://github.com/DragonComputer/Dragonfire/) – Open source voice assistant project for Ubuntu based Linux distributions. Dragonfire uses Mozilla DeepSpeech to understand your voice commands and Festival Speech Synthesis System to handle text-to-speech tasks.
+- [Just search](https://f-droid.org/app/co.pxhouse.sas) – Simple internet search shortcut.
+- [Saiy](https://github.com/brandall76/Saiy-PS/) – Fully customizable open source voice assistant.
 
 
-### [Anti-censorship Guides and Tools](#anti-censorship-guides-and-tools)
-- [Apple censorship App Check Website](https://applecensorship.com/)
-- [A closer look at the Great Firewall of China – Tor Blog](https://blog.torproject.org/blog/closer-look-great-firewall-china)
-- [Analyzing China's Blocking of Unpublished Tor Bridges](https://www.usenix.org/conference/foci18/presentation/dunna)
-- [Building Permanent and Censorship-Resistant Blog with Ethereum ENS and IPFS](https://pawelurbanek.com/ipfs-ethereum-blog)
-- [Course info – ECEN 5003: Censorship Circumvention](https://ericw.us/trow/ecen5003/)
-- [Format-Transforming Encryption](https://kpdyer.com/publications/ccs2013-fte.pdf)
-- [How the Great Firewall of China is Blocking Tor](https://www.usenix.org/system/files/conference/foci12/foci12-final2.pdf)
-- [How to bypass Egypt's WireGuard ban](https://www.ntkernel.com/how-to-bypass-egypts-wireguard-ban/)
-- [Learning more about the GFW's active probing system](https://blog.torproject.org/blog/learning-more-about-gfws-active-probing-system)
-- [My Experience With the Great Firewall of China](http://blog.zorinaq.com/my-experience-with-the-great-firewall-of-china/)
-- [ScrambleSuit](http://arxiv.org/pdf/1305.3199.pdf)
-- [Selected Research Papers in Internet Censorship](https://censorbib.nymity.ch/)
-- [stegotorus](http://freehaven.net/anonbib/cache/ccs2012-stegotorus.pdf)
-- [Towards a Censorship Analyser for Tor](http://www.cs.kau.se/philwint/pdf/foci2013.pdf)
+## [Text sharing](#text-sharing)
+- [AnonPaste](https://anonpaste.org/) – Forked from private bin, and features the option set pastes to never expire.
+- [0bin](https://0bin.net/) – 0bin is a client-side-encrypted alternative Pastebin. You can store code, text and images online for a set period of time and share with the world.
+- [CryptoContainer](https://github.com/Alex014/CryptoContainer) – Encrypted messaging system inside container.
+- [NoPaste](https://github.com/bokub/nopaste) – An open-source website similar to Pastebin where you can store any piece of code, and generate links for easy sharing.
+- [pastor](https://gitlab.com/cocainefarm/pastor) – The Pastebin that hopefully doesn't suck.
+- [PrivateBin](https://privatebin.info/directory/) – Minimalist, open source online Pastebin where the server has zero knowledge of pasted data. Data is encrypted and decrypted in the browser using 256 bits AES.
+- [publicnote](https://publicnote.com/) – Enter any title above to access a note. No account required.
+- [VeryBin](https://www.verybin.com/) – An anonymous and encrypted online Pastebin using 256-bit AES.
+- [writefreely](https://writefreely.org/) – An open source platform for building a writing space on the web.
 
-
-### [Opsec](#opsec)
-- [Account and mobile security](https://www.kicksecure.com/wiki/Account_and_Mobile_Security)
-- [Digital minimalism, developing a simple threat model](https://github.com/privacyguides/privacyguides.org/discussions/468)
-- [Linux hardening guide](https://madaidans-insecurities.github.io/guides/linux-hardening.html)
-- [Opsec 101](https://opsec101.org/)
-- [Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist)
-- [Privacy and security advice](https://madaidans-insecurities.github.io/index.html)
-- [Your Security Plan](https://ssd.eff.org/en/module/your-security-plan)
+### [Disposable Text sharing](#disposable-text-sharing)
+- [Secrets.io](https://www.secrets.so/) – Securely send & receive secrets using a [disposable link](https://www.indiehackers.com/post/securely-send-receive-secrets-using-a-disposable-link-2a64894949).
 
 
 ## [Terminal emulators](#terminal-emulators)
@@ -5457,6 +5431,28 @@ If location (NLP) is not working, download and install [this](https://f-droid.or
 - [Deskreen](https://github.com/pavlobu/deskreen) – Turn any device into a secondary screen for your computer.
 - [maruos](https://maruos.com/) – Use you phone as your PC.
 - [scrcpy](https://blog.rom1v.com/2018/03/introducing-scrcpy/) – Multiplatform software to view and control your Android screen from a desktop computer, connecting via USB cable. From there, mouse clicks and keyboard entry work and the phone’s functions are all available from the desktop, with little to no lag whatsoever.
+
+
+## [UnifiedNLP back-ends for MicroG](#unifiednlp-back-ends-for-microg)
+
+If location (NLP) is not working, download and install [this](https://f-droid.org/app/com.vonglasow.michael.satstat) and enable High Accuracy Location and open SatStat. Wait for it to get your location. Don't close SatStat app instead minimize it and open MicroG Settings > Self-Check. All boxes should be checked.
+
+- [Déjà Vu](https://github.com/n76/DejaVu)
+- [Local GSM Backend](https://github.com/n76/Local-GSM-Backend)
+- [Local WiFi Backend](https://github.com/n76/wifi_backend)
+- [Mozilla](https://mozilla.github.io/ichnaea)
+- [OpenBMap](https://github.com/openbmap/radiocells-nlp-android)
+
+## [USB ISO tools](#usb-iso-tools)
+- [booty](https://github.com/spfng/booty) – BOOT to any GNU/Linux via network (PXE), CD-ROM (ISO) or USB-stick with using the tmpfs and SquashFS + Overlay FS. The readme is not in english.
+- [Ventoy](https://github.com/ventoy/Ventoy) – An open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files.
+- [WinSetupFromUSB](http://www.winsetupfromusb.com/) – A Windows program, which prepares multiboot USB flash or fixed disk to install any Windows versions since 2000/XP, boot various Linux and *BSD flavors, as well as many Windows, Linux, DOS based and other utilities. The website is HTTP + the program is not FOSS, it gets listed here because it was one of the first.
+- [Usbimager](https://gitlab.com/bztsrc/usbimager) – A non-electron based alternative to Balena Etcher.
+
+
+## [Userscripts](#userscripts)
+- [UserStyles.world](https://userstyles.world/) – A FOSS Replacement for Userstyles.org.
+- [Stay²](https://github.com/shenruisi/Stay) – Open-source iOS userscript manager.
 
 
 ## [Unit Converter](#unit-converter)
