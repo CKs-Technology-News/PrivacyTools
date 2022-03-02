@@ -5340,11 +5340,11 @@ Major problems while using Tor
 - Security pages, like banking often entirely block connections coming from Tor users which makes it impossible to use Tor on eg. your banking page. Trying to workaround this often results in more fingerprinting and restrictions.
 
 
-
 Tor Tools
 - [Arti](https://blog.torproject.org/arti_004_released/) – Tor's project to create a working embeddable Tor client in Rust.
-- [Nipe](https://github.com/GouveaHeitor/nipe) – Nipe is a script to make Tor Network your default gateway.
 - [BlackBelt WASTE - ipv4 / Tor / i2p + AI](https://sourceforge.net/projects/blackbeltwaste/) – Download and create your own WASTE networks, to e.g. create a secure forum.
+- [Nipe](https://github.com/GouveaHeitor/nipe) – Nipe is a script to make Tor Network your default gateway.
+- [Orbot for iOS](https://apps.apple.com/us/app/orbot/id1609461599) – ‎Orbot is the original free and open-source Tor-powered VPN for iOS. Orbot helps you access the internet with more safety and privacy, and no extra cost to you.
 
 
 ## [To-Do Manager](#to-do-manager)
