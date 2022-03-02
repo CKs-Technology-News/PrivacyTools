@@ -3484,7 +3484,7 @@ Same like eMail aliases proxies, this is controversial since you share your data
 
 
 ## [Planning](#planning)
-- [TREX](https://en.wikipedia.org/wiki/Regular_Language_description_for_XML) – Reactive planning. Egular LAnguage description for XML (RELAX) is a specification for describing XML-based languages. A description written in RELAX is called a RELAX grammar.
+- [TREX](https://en.wikipedia.org/wiki/Regular_Language_description_for_XML) – Reactive planning. Egular Language description for XML (RELAX) is a specification for describing XML-based languages. A description written in RELAX is called a RELAX grammar.
 
 
 ## [Plagiarism checker](#plagiarism-checker)
@@ -3512,6 +3512,7 @@ Well worth searching your GitHub URL with [Google Scholar](https://scholar.googl
 - [https://www.plagscan.com/](https://www.plagscan.com/)
 - [https://www.quetext.com/](https://www.quetext.com/)
 - [YouTube Data Viewer](https://citizenevidence.amnestyusa.org/)
+- [TinyEye - Reverse Image Search](https://tineye.com/)
 
 
 ## [Per-app anonymization](#per-app-anonymization)
