@@ -1566,6 +1566,10 @@ You can find an open-source home cloud that allows you to run Docker application
 - [Rudder Server](https://github.com/rudderlabs/rudder-server) – Privacy-focused open-source alternative to Segment, customer data platform.
 
 
+## [Event Hosting](#event-hosting)
+- [Virtual Events Starter Kit](https://github.com/vercel/virtual-event-starter-kit) – Self-hosted virtual events starter kit built on Vercel and 100ms.
+
+
 ## [eMail Clients](#email-clients)
 ### [Desktop eMail Clients](#desktop-email-clients)
 - [aerc](https://aerc-mail.org/) – Is an email client that runs in your terminal.
