@@ -3523,6 +3523,7 @@ Privacy oriented alternatives:
 ### [Mobile Office Apps](#mobile-office-apps)
 - [LibreOffice Viewer](https://cgit.freedesktop.org/libreoffice/core/tree) – Sucks, use [Collabora Office](https://www.collaboraoffice.com/) instead.
 - [OnlyOffice](https://github.com/ONLYOFFICE/documents-app-android) – OnlyOffice for Android.
+- [SSuite Office](https://www.ssuitesoft.com/) – Free Software Crafted With Pure Visual Simplicity. They also have an [cloud only version](https://office.ssuiteoffice.com/)
 
 
 ## [Opt-Out of Mobile ISP location tracking](#opt-out-of-mobile-isp-location-tracking)
