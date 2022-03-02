@@ -66,6 +66,7 @@ Please keep in mind that every software and service is at some point fixable and
 - [KMpPayer](https://forum.doom9.org/showthread.php?t=165013&page=2) uses stolen code from MPC.
 - [Kiwi Browser](https://kiwibrowser.com) - Collects and submits data to third-parties as [explained here](https://kiwibrowser.com/privacy-policy/), you find the [discussion on this matter here](https://github.com/Tobi823/ffupdater/issues/35). [KiwiBrowser](https://github.com/Tobi823/ffupdater/issues/35) has lots of dirt, see the [details](https://old.reddit.com/r/androidapps/comments/nt0pgc/kiwi_browser_is_a_spyware/).
 - [kvak](https://kvak.io/) – Not private enough and therefore not real benefit over already listed solutions.
+- [NvidiaRTX-LHRv2Unlocker](https://github.com/BySergeyDev/NvidiaRTX-LHRv2Unlocker) – Does not work and contains Malware.
 - [Libregit](https://libregit.org/) – Outdated, slow etc.
 - [LibreCMC](https://librecmc.org/) – Missing documentation and semitransparent.
 - [Liveschedule](https://liveschedule.tv/) – Search for the streaming schedules of content creators, contains Google Trackers.
