@@ -3700,7 +3700,7 @@ Privacy oriented alternatives:
 
 ### [Instagram](#instagram)
 
-Instagram is a [very privacy-invasive app](https://twitter.com/mame82/status/1464229264769884169) with biased results and feeds based on user profiles, it is also used as a manipulation tool and has a lot of censorship going against free speech. Lastly, it has an addictive and toxic UI design.
+Instagram is a [very privacy-invasive app](https://twitter.com/mame82/status/1464229264769884169) with biased results and feeds based on user profiles, it is also used as a manipulation tool and has a lot of censorship going against free speech. Lastly, it has an addictive and toxic UI design. You can request your entire data [over here](https://www.instagram.com/accounts/login/?next=/download/request/).
 
 Privacy oriented alternatives:
 - [Barinsta](https://github.com/austinhuang0131/barinsta) – Open-source alternative Instagram client for Android.
@@ -3750,7 +3750,8 @@ Onlyfans has a [controversial history](https://www.vice.com/en/article/4avjvq/fo
 
 ### [Twitter](#twitter)
 
-Avoid using Twitter official app or the website. It tracks users and creates user profiles based on what they follow, retweet and like. Twitter harms and violates user privacy with their policies.
+Avoid using Twitter official app or the website. It tracks users and creates user profiles based on what they follow, retweet and like. You can request your Twitter data over [here](https://help.twitter.com/en/managing-your-account/how-to-download-your-twitter-archive).
+
 
 - [Bleeter](https://www.github.com/sumeetdas/Bleeter) – [Twitter UI](https://sumeetdas.me/Bleeter/) built using F#.
 - [Fritter](https://github.com/jonjomckay/fritter) – A free, open-source Twitter client for Android.
