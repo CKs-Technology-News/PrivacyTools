@@ -1,3 +1,9 @@
+Overview
+==========
+
+[[_TOC_]]
+
+
 ## [This is not an "awesome", "ultimate" or "perfect" list](#this-is-not-an-awesome-ultimate-or-perfect-list)
 
 This is my own collection I gathered over the years, written down into one single file which anyone can freely access. I do claim that the listed tools are good enough alternatives to e.g. Google, Microsoft etc. products. I believe it's an important piece of democracy that we have the right to be anonymous and free of tracking in our personal life, this is why I've created this list in the first place. I do [not believe](https://numair.medium.com/competitive-losers-e4e8cf06bda9) in any [competition](https://rugpullindex.com/blog#IsCompetitionForLosers), which means listed tools/products are not in any competition to each one another and I do not get paid nor sponsored showing them on my page.
