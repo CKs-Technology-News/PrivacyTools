@@ -791,7 +791,7 @@ You do not need them if you have above listed extensions/add-ons installed or in
 - Skip Redirect
 - TrackMeNot
 
-### [Web Browser Benchmark](#web-browser-benchmark)
+### [Browser Benchmark](#browser-benchmark)
 - [ARES-6](https://browserbench.org/ARES-6/) – Various tests using the newest web standards and features.
 - [Basemark](https://web.basemark.com/) – Various tests using the newest web standards and features.
 - [JetStream](https://browserbench.org/JetStream/) – JavaScript benchmark developed by Apple.
@@ -1279,9 +1279,54 @@ Privacy oriented alternatives:
 - [Alovoa](https://alovoa.com/) – [Alovoa](https://github.com/Alovoa/alovoa) is an AGPL-licensed dating site with a good privacy policy.
 
 
-## [Dialer Apps](#Dialer-Apps)
-- [Koler](https://github.com/Chooloo/koler) – Just a phone app.
-- [Simple Dialer](https://github.com/SimpleMobileTools/Simple-Dialer) – A handy phone call manager with phonebook, number blocking and multi-SIM support.
+## [Dialer Apps](#dialer-apps)
+- [Koler](https://github.com/Chooloo/koler) – Just a simple phone app.
+- [Simple Dialer](https://github.com/SimpleMobileTools/Simple-Dialer) – A handy phone call manager with phone book, number blocking and multi-SIM support.
+
+
+## [Domain Hosting providers](#domain-hosting-providers)
+- [1984 Hosting](https://1984hosting.com) – A green, ethical web hosting that protects its user's privacy.
+- [AccuWeb Hosting](https://www.accuwebhosting.com/web-hosting/free-wordpress-hosting) – No Ads or Banners.
+- [CloudSigma](https://www.cloudsigma.com/) – CloudSigma’s cloud infrastructure and services have been certified as compliant with the highest ISO 27001 requirements for security and data privacy.
+- [cryptoho](https://cryptoho.st/) – VPS hosting service with its servers in Romania, accepts BTC,Lightning Network, XMR, LTC, DASH, ETH, USDT as payment.
+- [Exoscale](https://www.exoscale.com) – A European cloud computing for cloud native teams.
+- [FlokiNET](https://flokinet.is) – A secure, stable and anonymous web hosting.
+- [FreedomBox](https://www.freedombox.org/) – A libre self-hosting system and also a commercial product. It has less apps than YunoHost but can be bought as a ready-to-use product.
+- [Greenhost](https://greenhost.net) – A sustainable and secure webhosting.
+- [Infomaniak](https://www.infomaniak.com) – Professional web hosting, domain name, cloud server, and email service.
+- [Lohost](https://lohost.io/) –  Distributed, decentralized, anonymized local website hosting.
+- [Namecheap](https://www.namecheap.com) – Cheap domain names and web hosting.
+- [NiceVPS](https://nicevps.net/) – Proudly offering delivering the best uncensored and privacy oriented hosting service around.
+- [Njalla](https://njal.la/) – Finally, a privacy-aware domain service. It lacks a proper privacy policy, but is trusted and used by many.
+- [OrangeWebsite](https://www.orangewebsite.com) – An Icelandic web hosting provider.
+- [Sandstorm](https://sandstorm.io/) – An open-source self-hosted web hosting platform for a wide set of web applications, including Etherpad (collaborative text editing), Radicale (calendar), Lychee (image hosting), Wekan (Kanban).
+- [Takingnames.io](https://www.Takingnames.io) – The first domain name provider for self-hosters.
+- [YunoHost](https://yunohost.org/) – A libre operating system, that eases installing web applications on your own hardware. It also provides you with your own email server out of the box.
+
+
+## [Domain Registrar](#domain-registrar)
+
+You can [unblock domains from security filters](https://gist.github.com/grovesNL/2d00b568038bd28896d44d1b5b3299cd).
+
+- [Cloudflare](https://www.cloudflare.com/products/registrar/) – No markup on pricing according to their docs. MFA with YubiKey and [API](https://api.cloudflare.com/#registrar-domains-properties). - **controversial** The logic why it is listed is that I suggest if you really trust CL, you stick to all of their programs and services because you already gave them your private Infos.
+- [DNSimple](https://dnsimple.com/) – Simple, Secure Domain Management.
+- [Gandi](https://cli.gandi.net/) – Their motto used to be “No bullshit”.
+- [Njalla](https://njal.la) – Privacy-aware domain service, sitting in between the domain service registrations and you, acting like a privacy shield.
+- [Orangewebsite](https://www.orangewebsite.com/) – An Iceland-based freedom of speech web hosting provider. They never actually ask for your name, at least when you pay in Bitcoin.
+
+
+## [Bulletproof Hosting Service Providers](#bulletproof-hosting-service-providers)
+- [Colocrossing](http://www.colocrossing.com/)
+- [Ecatel](http://ecatel.co.uk/)
+- [RockHoster](https://rockhoster.com/)
+
+
+### [Bulletproof Domain Hosting Providers](#bulletproof-domain-hosting-providers)
+- [bpserv.host](https://bpserv.host/bulletproof-domain-registration.php)
+
+
+### [Local hosting](#local-hosting)
+- [PageKite](https://pagekite.net/) – Has led the way in making local servers public. With relays on four continents, it works with any computer, any web server and any Internet connection.
 
 
 ## [Diagramming Software](#diagramming-software)
@@ -3202,6 +3247,27 @@ Privacy oriented alternatives:
 - [Wallabag](https://wallabag.org/en) – A privacy-friendly, libre online service which lets you save articles from the web so you can read them later.
 
 
+## [Note taking apps](#note-taking-apps)
+- [Boost Note](https://boostnote.io) – An open source Markdown editor for developers.
+- [Burner Note](https://burnernote.com/) - Send secure and encrypted notes that self destruct once they've been read. - **controversial**
+- [Carnet](https://getcarnet.app) – A complete open source note taking app.
+- [Cryptee](https://crypt.ee) – A private and encrypted place for all your photos, documents, notes and more.
+- [Joplin](https://joplinapp.org) – A free and open source note-taking and to-do application.
+- [LibreOffice Online](https://www.libreoffice.org/download/libreoffice-online/) – Self-hosted instance of LibreOffice that you can run in your browser.
+    - [LibreOffice running natively in the browser via WebAssembly](https://lab.allotropia.de/wasm/)
+- [LunaTask](https://lunatask.app/) – An all-in-one privacy-focused todo list, notebook, habit and mood tracker and pomodoro timer.
+- [One Time Note-Share](https://one-time-note.com/) – [One Time Note-Share](https://github.com/dextreem/one-time-note) is an encrypted note that deletes itself after access.
+- [p!n](https://github.com/nproth/pin) – Pin notes to the notification area.
+- [Paperwork](https://paperwork.cloud) – An open-source, self-hosted alternative to services like Evernote, OneNote or Google Keep.
+- [Piwigo](https://piwigo.org/) – A great option that you can self-host. It is also free and open source.
+- [PubPub](https://www.pubpub.org/) – An open-source all-in-one collaborative publishing platform.
+- [QOwnNotes](https://www.qownnotes.org) – An open source markdown note taking with Nextcloud / ownCloud integration.
+- [Standard Notes](https://standardnotes.org) – A simple and private note-taking app.
+- [SilentNotes](https://github.com/martinstoeckli/SilentNotes) – A simple note taking app which respects your privacy.
+- [Turtl](https://turtlapp.com) – A secure collaborative notebook.
+- [ZK](https://github.com/mickael-menu/zk) - A plain text note-taking assistant.
+
+
 ## [MAC Address Changer](#mac-address-changer)
 - [BAT script](https://gist.github.com/iJos/d561057f1a00d926a47532396a8c71de) – Randomly change the Mac Address on Windows.
 - [easymacchanger](https://github.com/KALILINUXTRICKSYT/easymacchanger) – Change the network identity of your device.
@@ -3209,6 +3275,65 @@ Privacy oriented alternatives:
 - [macchanger](https://github.com/sbdchd/macchanger) – A Bash based MAC address changer.
 - [Spoof](https://github.com/feross/spoof) – Easily spoof your MAC address in macOS, Windows & Linux.
 - [SpoofMAC](https://github.com/feross/SpoofMAC) – Change your MAC address for debugging for OS X, Windows, and Linux.
+
+
+## [NSFW Detection](#nsfw-detection)
+- [The Movie Parser](https://github.com/dynamite-ready/movie-parser) – An app to read a movie file, and indicate which scenes are NSFW, it uses an A.I. to do that. The wrapper can be used in other projects, or you use the single executable and use it as standalone app.
+
+
+## [NFT](#nft)
+- [NFT Reverse Search Engine](https://bing.ly/) – NFT Reverse Search Engine.
+
+
+## [Notes and Tasks](#notes-and-tasks)
+Not so good in terms of privacy:
+- Google Keep and [Google Keep Exporter](https://github.com/vHanda/google-keep-exporter) – Convert your Google Keep notes into a standard markdown + YAML header format.
+- Evernote
+- Squid
+- Notion
+- OneNote
+- Tasker
+
+Privacy oriented alternatives:
+- [AppFlowy](https://github.com/AppFlowy-IO/appflowy) – AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
+- [Bangle.io](https://bangle.io) – A free alternative to Notion that takes markdown notes saved right in your computer.
+- [Hyperdraft](https://hyperdraft.rosano.ca) – An open-source notes app that works in the browser and syncs with 0data protocols.
+- [TinyList](https://tinylist.app/) – Create and share notes and checklists, without sacrificing your privacy.
+- [Standard Notes](https://standardnotes.org/) – A free, open-source, and completely encrypted notes app.
+- [Notally](https://github.com/OmGodse/Notally) – A beautiful notes app.
+- [Joplin](https://github.com/laurent22/joplin) – Note taking and to-do application with synchronization capabilities.
+- [Nextcloud Notes](https://github.com/nextcloud/notes/) – The Notes app is a distraction free notes taking app for Nextcloud.
+  - [Nextcloud Notes for Android](https://github.com/stefan-niedermann/nextcloud-notes) – An android client for Nextcloud Notes.
+- [Vikunja](https://vikunja.io) – The open-source to-do app to organize your life.
+- [Lomorage](https://lomorage.com/) – Mobile first self-host photo storage solution, and has native iOS / Android application as well as optimization for Raspberry PI and Armbian OS.
+
+
+### [Mobile Note Taking Apps](#mobile-note-taking-apps)
+- [Carnet (cloud)](https://f-droid.org/en/packages/com.spisoft.quicknote) – Design inspired by Google Keep.
+- [Easer](https://f-droid.org/app/ryey.easer) – An event-driven Android automation app. It knows various events, and you, the user, could tell it what to do on what event (and even combine multiple events!).
+- [LibreTasks](https://f-droid.org/app/libretasks.app) – A fork of Omnidroid App, now maintained and with more features.
+- [Notepad](https://f-droid.org/en/packages/com.farmerbb.notepad/) – A simple, bare-bones, no-frills note taking app.
+- [Standard notes (cloud)](https://f-droid.org/en/packages/com.standardnotes) – Encrypted notes on their server, accessible from any browser.
+- [uNote](https://f-droid.org/en/packages/app.varlorg.unote/) – Lightweight and minimalist notepad.
+- [Joplin](https://joplinapp.org/) – An open source note-taking app. Capture your thoughts and securely access them from any device.
+- [Markor](https://f-droid.org/packages/net.gsantner.markor/) – Text editor, notes & toDo. Lightweight. Markdown and todo.txt support.
+- [Material Notes](https://github.com/BijoySingh/Material-Notes-Android-App) – Simple Material based Android app.
+- [MyOwnNotes (cloud)](https://f-droid.org/en/packages/org.aykit.MyOwnNotes/) – Works with a ownCloud subscription.
+- [NeutriNote](https://github.com/appml/neutrinote) – Markdown + Math in Just 3 MB.
+- [Notally](https://github.com/OmGodse/Notally) – A beautiful notes app for Android.
+- [Noteless: Markdown note-taking](https://github.com/redsolver/noteless) – Markdown-optimized editor with syntax highlighting.
+- [Notesnook (mobile)](https://notesnook.com/) – A truly zero-knowledge note taking app, encrypted using XChaChaPoly1305-IETF & Argon2.
+- [Noto](https://www.github.com/alialbaali/Noto) – Simple and minimal note-taking Android application built with Kotlin.
+- [Omni Notes](https://f-droid.org/en/packages/it.feio.android.omninotes.foss/) – Very feature rich, open-source, material design notes app. Very active development.
+- [Orgzly](https://f-droid.org/en/packages/com.orgzly/) – Notes are stored in the plain-text Org mode format. Supports searching, metadata, and manual sync with Dropbox or local directory, which can be synced using e.g. Syncthing.
+- [Privacy Friendly Notes](https://github.com/SecUSo/privacy-friendly-notes) – Privacy Friendly App for creating and managing notes on Android.
+- [Scarlet Notes FD](https://f-droid.org/packages/com.bijoysingh.quicknote/) – Works completely offline, offers rich notes with lists, headings, quotes, floating mode, and more.
+- [Simpletask](https://f-droid.org/en/packages/nl.mpcjanssen.simpletask/) + syncthing – Combining both apps allows you to take notes and syncing them.
+- [Simple Notes](https://f-droid.org/en/packages/com.simplemobiletools.notes.pro) – A beautiful quick note taking app without ads or weird permissions.
+- [Tasks.org](https://f-droid.org/en/packages/org.tasks/) – Tasks is libre open-source software, based on the original source code from the popular Astrid Tasks & To Do List.
+- [posidon notes](https://github.com/leoxshn/posidonNotes) – This is a very minimal Android note taking app. It has a nice design, but very minimal functionality. You can write, edit and delete notes, that's it.
+- [sNotz](https://f-droid.org/app/com.sunilpaulmathew.snotz) – An open-source and completely offline application to manage simple notes.
+- [Zettel Notes](https://thedoc.eu.org/zettel-notes/) - Android Markdown app with GPG encryption and webdav sync.
 
 
 ## [News Pages](#news-pages)
@@ -3250,6 +3375,135 @@ We do not list the original Pi-Hole project in this section since I think AdGuar
 - [Oculess](https://github.com/basti564/Oculess) – Removes account requirements and telemetry from Oculus Quest devices.
 
 
+## [Office Apps](#office-apps)
+
+Not so good in terms of privacy:
+- Google Docs
+- [Microsoft Office](https://docs.microsoft.com/en-us/deployoffice/compat/deploy-telemetry-dashboard)
+
+
+Privacy oriented alternatives:
+- [AbiWord](http://www.nl.abisource.com) – A free word processing program similar to Microsoft Word.
+- [Airborn OS](https://www.airbornos.com/) – Private Google Docs Alternative.
+- [Arcane Office](https://docs.arcaneoffice.com/) – GDPR compliant. Decentralized and private.
+- [Calligra Suite](https://calligra.org) – An office and graphic art suite by KDE.
+- [Calligra](https://calligra.org/) – An office and graphic art suite by KDE. It is available for desktop PCs, tablet computers, and smartphones. It contains applications for word processing, spreadsheets, presentation, vector graphics, and editing databases.
+- [Collabora and NextCloud](https://www.collaboraoffice.com) – A cloud, mobile and desktop enterprise office suite.
+- [CryptPad](https://cryptpad.fr/) – Collaboration suite, encrypted and open-source.
+- [Graphite](https://graphitedocs.com/) – A decentralized and encrypted Google Docs alternative.
+- [LibreOffice](https://www.libreoffice.org/) – Free and open source offline Office.
+- [Luckysheet](https://github.com/mengshukeji/Luckysheet) – An online spreadsheet like excel that is powerful, simple to configure, and completely open source.
+- [LyX](https://www.lyx.org/) – It's an open-source (and offline) document processor using TeX/LaTeX.
+- [OnlyOffice](https://www.onlyoffice.com/) – Free and open source online office for collaboration.
+- [Skiff](https://www.skiff.org/) – End-to-end encrypted collaboration (Google Docs / Notion).
+- [Texel](https://github.com/Lauriat/texel) – CLI tool for viewing spreadsheets.
+
+### [Mobile Office Apps](#mobile-office-apps)
+- [LibreOffice Viewer](https://cgit.freedesktop.org/libreoffice/core/tree) – Sucks, use [Collabora Office](https://www.collaboraoffice.com/) instead.
+- [OnlyOffice](https://github.com/ONLYOFFICE/documents-app-android) – OnlyOffice for Android.
+
+
+## [Opt-Out of Mobile ISP location tracking](#opt-out-of-mobile-isp-location-tracking)
+- [Aldi Talk (Telefónica)](https://www.telefonica.de/dap/selbst-entscheiden.html)
+- [Telefónica (O2, Blau, Fonic, Simyo & Co.)](https://www.telefonica.de/dap/selbst-entscheiden.html)
+- [Telekom (Congstar, Klarmobil & Co.)](https://www.optout-service.telekom-dienste.de/public/anmeldung.jsp)
+- [simplytel (Telefónica)](https://forum.kuketz-blog.de/viewtopic.php?f=32&t=207&start=45#p4466)
+
+
+## [Open Knowledge Projects](#open-knowledge-projects)
+- [LocalisationLab makes "FLOSS technology accessible through collaboration with developers, organizations, end users, and communities in need.](https://www.localizationlab.org/)
+- [OKFN - Open knowledge for a digital civil society](https://okfn.de/en/)
+- [Prototype Fund - We Fund Public Interest Tech](https://prototypefund.de/en/)
+- [Schulcampus RLP](https://www.schulcampus-rlp.de/)
+- [Wikipedia Library: Free Access to Paywalled Resources for Wiki Editors](https://wikipedialibrary.wmflabs.org/)
+
+
+## [Operating Systems](#operating-systems)
+### [Android](#android)
+Try to avoid using Google Android or any Android that has been modified and tuned by any manufacturer such as Xiaomi, Huawei, Samsung, etc. Android is an Open Source project – AOSP – Android Open Source Project – and it has many versions that will respect the [user privacy](https://reports.exodus-privacy.eu.org/en/) and data and won't share it with private servers from [manufacturers or service providers](https://arstechnica.com/information-technology/2021/09/security-audit-raises-severe-warnings-on-chinese-smartphone-models/).
+
+It is important to use always the latest OS - if possible - there are several reasons e.g. Android 10 disallows Apps in general from third-parties to access critical stuff like IMEI, SIM, Serial Number, MAC etc. There are some small exceptions but overall it means that Google adopts certain problems and tries to solve them in the next versions which makes the OS by default more secure compared to older and easier attackable Builds.
+
+
+### [Android Stock OS alternatives](#android-stock-os-alternatives)
+
+[Anarchy-Droid](https://anarchy-droid.com/) acts as an installation helper for LineageOS and other ROMs.
+
+
+It should clearly noted that most if not all listed alternatives that are based on AOSP are typically done to cash-grab others via donations with marketing phrases and unproven promises and claims like, use our product it is more privacy friendly or security optimised. Everyone can harden an OS, this is not some secret magic.
+
+AOSP is under heavy development by more developers and overall more people are involved and claiming that you as individual person or small group do it better without even trying to submit patches to the original AOSP in the first place is not only rude and disrespectful but also ethical questionable, assuming yo believe in ethics. Forks usually tend to add no actual benefit into something unless done by professionals as well as people with an actual reasonable business model and independence, however most of the listed project highly depend on AOSP.
+
+People tend to smear AOSP based on what vendors afterwards integrating and doing with it, e.g. adding bloatware apps etc. however you can compile AOSP yourself without any bloatware nor depend on another third-party identity such as GrapheneOS, CalyxOS, etc.
+
+Hardening the OS yourself would be less of an mainstream problem if those who claim, in the name or privacy and security would submit their patches in public trough and open database. This is usually not the case and such people tend to lure people instead of their own websites, pages to pretend they do the most work, which is not only incorrect but also ethical questionable because the AOSP cares a lot about privacy and security and are reasonable in merging possible pull requests, assuming the patch actually fixes some hole, leak etc.
+
+The underlying point is that those providers usually feeding off others people work, modifying it and claim privacy and security that are hard to proof for average users because they are not skilled enough to audit it themselves and often those claims cannot be verified because it consumes lots of time, research and in the meantime AOSP could have already addressed it trough a new patch-level set or entirely new major OS build. The ethical dilemma in using alternatives is that you need trust another unknown identity with unproven claims, while they claim they need money in form of e.g. donation to pay professional people to do an audit, which is the perfect excuse to collect donations luring people into using your product(s). Or in other words, use our product and support us and we show you can trust us afterwards when we got enough money to pay someone for an audit.
+
+For example the GrapheneOS developer needs money to pay professional people to do an audit, while he claims, unproven, that his OS is more secure than others based on applying only best practices, while you could do this for yourself, assuming the team would release all of the modified AOSP patches. In such cases you simply need to keep his word as truth, because most people have no time, skill or knowledge to inspect the source code. Just because there is source code available does not conduct security because we had examples like Heatbleed when the source was years available and no one actually inspected it, which ended up leading people for years vulnerable. Open source therefore is not a guarantee for trust and security. The security lies heavily on the fact that actual people need to inspect your code, code that is complicated and you need the skills, time and research to come to an conclusion if it can be exploited. Facts that the teams does not communicate in public, because open source is no wonder weapon regarding security and never will be.
+
+In truth the developers want to make a living out of it to continuing his job which is the reason they depend on money trough e.g. donations. This is at no time nowhere directly communicated.
+
+The logic falls apart the moment you put every aspect in consideration because AOSP is a larger target and used by much more people than GrapheneOS, so mathematically, without even real world examples the claim that is more secure and private cannot be correct. Applying best coding practices and hardening alone also do not necessarily mean that your OS is more secure, for example if you touch known cryptography the opposite can happen, you end up more vulnerable. I also doubt such individual people and small groups in general because if they would actually fight for the mass they would help the AOSP Team directly so that everyone can benefit and use their code which is inspected by a bigger audience and used by lots of more vendors and users and not trying to cash-grab others based on Googles security practices, which are not GraphenesOS research and experiences.
+
+In other words, give me money in form of donations because I claim my products are more secure and privacy friendly because I applied best practices. I am not really a friend of such claims and this has a wide history of been abused, it usually takes a while until someone figures such things out because, as mentioned inspecting things + have the knowledge to come to the conclusion how hard or easily something can be exploited is a real job and requires various skills. Unpaid people usually do not do all of this or are not involved.
+
+
+Another point is breakages, when you apply best practices you usually break the entire eco-system, apps will stop working, you can only install various apps because the author decided to only approve certain apps, see the practice applied by Pale Moon developers who only approve certain extensions, or other dependencies simply stop working and you need to entirely trust such developers with their workarounds, workarounds no one typically inspect, audit or use, which automatically limits the target factor. The less it is known and used the less, mathematically it is insecure, this is just statistics, other consideration that even if there are holes, that the not automatically easily be exploitable are not even mentioned in such scenarios.
+
+The whole story [reminds me on the Telegram Crypto-Gram challenge](https://www.schneier.com/crypto-gram/archives/1998/1215.html) - Cripple the AOSP with best practices so that nothing works and then claim security to sell the product. Here use my product because it is secure, there is no audit, I cripple and break all apps or sandbox it to pretend I know what I am doing....
+
+Can you crack the logic....?
+
+
+- [/e/ OS](https://e.foundation/e-os/) – A complete, fully de-Googled, mobile ecosystem based on LineageOS. You can find an analysis of the /e/OS app installer over [here](https://nervuri.net/e/apps).
+- [Calyx OS](https://calyxos.org/) – A secure and private mobile OS for Pixel phones and the Xiami Mi A2.
+- [Divest OS](https://divestos.org) – Divest OS strives to prolong device life, enhance user privacy, and provide modest security to many devices. DivestOS inherits many supported devices from LineageOS. It has signed builds, making it possible to have verified boot on some non-Pixel devices.
+- [MoKee ROM](https://blog.jolla.com/suomenlinna/) – Android Community Operating System that supports some older devices in case your device is not officially supported or you cannot use AOSP for whatever reasons on your device, this might be an alternative. It currently has no privacy benefits over AOSP. THe main benefit is that it frequently gets updates which makes it easier for the end-user to use. - **controversial**
+- [OpenKirin](https://openkirin.net/) – A team of developers who believe that a pure, AOSP Android experience should be easily available for users running Huawei devices with Kirin chipsets. The reason I list it here is that Huawei devices with Kirin chipsets have less options, I am aware this is AOSP based and the title here says Stock OS alternatives, which AOSP in general counts in.
+- [Postmarket OS](https://postmarketos.org/) – Touch optimised and pre-configured version of Alpine Linux.
+- [ProtonAOSP](https://github.com/ProtonAOSP) – A minimal Android fork for design and performance for Google Pixel devices, which is based on Android 11 & 12. This ROM can be used together with MicroG and has many interesting features. However, by default it comes with Gapps, minimalistic package pre-installed, which you can uninstall afterwards if you want.
+- [Replicant](https://www.replicant.us/) – A free software mobile operating system putting the emphasis on freedom and privacy/security.
+- [Suomenlinna](https://blog.jolla.com/suomenlinna/) – Sailfish OS, Linux for mobile phones.
+
+
+### [Android GSI images](#android-gsi-images)
+
+Android Generic System Images ([GSIs](https://github.com/phhusson/treble_experimentations/)) are for app developers to perform app validation and for development purposes, which means they are bare naked images without anything e.g. GAPPS preinstalled. Since version [401+](https://github.com/phhusson/treble_experimentations/releases/tag/v401) OTA is supported for devices with dynamic partition.
+
+- [Andy Yan's personal builds](https://sourceforge.net/projects/andyyan-gsi/) – LineageOS based GSI images for e.g. Huawei devices, might work on other devices too.
+
+
+### [Google Play Services Framework](#google-play-services-framework)
+- [microG](https://microg.org) – microG is on its own not a OS, but a re-implementation of Google’s proprietary Android apps and libraries.
+
+
+### [Mobile OS based on Linux](#mobile-os-based-on-linux)
+
+Some Distros, mobile as well as desktop using Google Fonts, however there is no evidence that this influence and security or privacy related things for you. There are no hidden connections or analytics.
+
+- [Armbian OS](https://www.armbian.com/) – Minimal Debian based Linux with powerful configurator and software installer.
+- [crDroid](https://crdroid.net/) – Designed to improve the performance, reliability and customizability of stock Android
+- [Havoc OS](https://havoc-os.com/) – An after-market firmware based on Android Open Source Project, inspired by Google Pixel with a refined Material Design 2 UI. They even have Generic System Images (GSI) available so you can try out their ROM even if your device isn't currently supported. They provide monthly OTA updates and a customizable experience.
+- [Hubris](https://hubris.oxide.computer/) – An OS from Oxide Computer.
+- [Kupfer](https://gitlab.com/kupfer) – A [postmarketOS-like](https://tuxphones.com/kupfer-arch-linux-distro-spin-linux-phones/) Arch Linux spin for phones.
+- [Maemo Leste](https://maemo-leste.github.io/) – OS designed for Smartphones and SBCs.
+- [Manjaro Phone](https://manjaro.org/) – Focus on PinePhone.
+- [Mobian](https://mobian-project.org/) – Debian for mobile.
+- [MuditaOS](https://github.com/mudita/MuditaOS) – Mobile operating system based on FreeRTOS™ optimized for E Ink displays.
+- [Nemo](https://wiki.merproject.org/wiki/Nemo) – Supports all All Sailfish devices.
+- [Pine64 Arch Fork](https://github.com/dreemurrs-embedded/Pine64-Arch/) – The PinePhone-specific danctnix's Arch fork is currently a popular and well-maintained choice among PinePhone users.
+- [Plasma Mobile](https://www.plasma-mobile.org/) – Plasma, in your pocket. Privacy-respecting, open source and secure phone ecosystem.
+- [PureOS](https://www.pureos.net/) – Operating system developed by purism for the Librem 5.
+- [SailfishOS](https://sailfishos.org/) – Privacy-focused mobile OS by Jolla with a proprietary UI and Android compatibility layer on top of an open-source Mer GNU/Linux base.
+- [UBPorts](https://www.ubports.com/) – Ubuntu Touch is the touch-friendly mobile version of Ubuntu.
+- [Ubuntu Touch](https://ubuntu-touch.io) – A free and open-source operating system for smartphones and tablets based on Ubuntu.
+
+### [WearOS](#wearos)
+- [AsteroidOS](https://asteroidos.org/) – Open-source alternative for Wear OS.
+- [LuneOS](https://webos-ports.org/wiki/Main_Page) – OS for Smartphones, Tablets, SBCs.
+
+
 ## [Open Source Hardware](#open-source-hardware)
 
 [Open Source Hardware Association](https://www.oshwa.org/) – The Open Source Hardware Association or in short: OSHWA aims to foster technological knowledge and encourage research that is accessible, collaborative and respects user freedom. This is the starting point for your research and to check open source hardware news. Another good overview is a [list of open-source computing hardware](https://en.wikipedia.org/wiki/List_of_open-source_computing_hardware).
@@ -3275,6 +3529,79 @@ We do not list the original Pi-Hole project in this section since I think AdGuar
 - [Space](https://github.com/orbitalindex/awesome-space) – Repository of open source space-related software and hardware.
 - [The NEORV32 Processor](https://www.hackster.io/news/open-source-soc-the-neorv32-processor-061f5219c45a) – Open source hardware SoC.
 - [TinyNES](https://www.crowdsupply.com/tall-dog-electronics/tinynes) – NES compatible open hardware video game console.
+
+
+## [Online Leak and Fingerprint tests](#online-leak-and-fingerprinting-tests)
+
+Only unique tests are getting listed here, it makes no sense to list 1000+ pages who do all the same or offering absolute nothing new regarding fingerprinting/leaking.
+
+- [Add unique variable to cached script](https://cookieless-user-tracking.herokuapp.com/)
+- [Canvas Fingerprint Test](https://webbrowsertools.com/canvas-fingerprint/)
+- [CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets/) – Webpage tracking only using CSS (and no JS).
+- [DNS Spoof test](https://www.grc.com/dns/dns.htm)
+- [Decentraleyes Testing Utility](https://decentraleyes.org/test/)
+- [Device Info](https://www.deviceinfo.me/)
+- [Email Privacy Tester](https://emailprivacytester.com/)
+- [Etag Check](https://privacycheck.sec.lrz.de/passive/fp_etag/fp_etag.php)
+- [Firefox Addon detector](https://thehackerblog.com/addon_scanner/)
+- [Firefox Storage Test](https://firefox-storage-test.glitch.me/)
+- [JA3 SSL Fingerprint](https://ja3er.com/)
+- [No-JavaScript Fingerprinting Test page](https://noscriptfingerprint.com/), see how it works [here](https://fingerprintjs.com/blog/disabling-javascript-wont-stop-fingerprinting/)
+- [Privacytests.org](https://privacytests.org/) – Open-source tests of web browser privacy.
+- [Spectre & Meltdown checker](https://github.com/speed47/spectre-meltdown-checker) – Script to check security of your Linux distribution, Android devices too. Run as root.
+- [Test Browser Referer](https://www.darklaunch.com/tools/test-referer)
+- [Test if Third-Party Cookies are Enabled](https://alanhogan.github.io/web-experiments/3rd/third-party-cookies.html)
+- [Torrent check](https://am.i.mullvad.net/torrent) – This tool will test whether or not your torrent client is leaking your own IP.
+- [Trace email address](https://www.ip-adress.com/trace-email-address)
+- [Traffic leaks detector](https://github.com/AsenOsen/traffic_leaks_detector)
+- [Vision](https://f.vision/)
+- [WebRTC leak Test](https://www.hidemyass.com/en-us/webrtc-leak-test)
+- [Whoer](https://whoer.net/)
+- [amiunique](https://amiunique.org/) – Is you browser signatures unique across the web?
+- [antcpt](https://antcpt.com/eng/information/demo-form/recaptcha-3-test-score.html) – ReCaptcha score as well as some interesting notes on how to optimize CAPTCHA solving costs.
+- [Audio Fingerprint](https://audiofingerprint.openwpm.com/) – Possible to detect you on the same PC if you use different browsers / virtual environment.
+- [browserleaks](https://browserleaks.com/)
+- [browserspy](https://browserspy.dk/)
+- [CanvasBlocker Test](https://canvasblocker.kkapsner.de/test/) – Test you canvas in the different browsers, if they all have the same signature you are in trouble.
+- [CreepJS - Creepy device and browser fingerprinting.](https://abrahamjuliot.github.io/creepjs/)
+- [CSS exfil Vulnerability Tester](https://www.mike-gualtieri.com/css-exfil-vulnerability-tester)
+- [dnscookie](http://dnscookie.com/) – DNS cookies use DNS caches as a side-channel to identify related network flows.
+- [dnsleaktest](https://www.dnsleaktest.com/)
+- [doileak](https://www.doileak.com/)
+- [eMail checker - Check if email exists or not.](https://email-checker.net/)
+- [eMail IP Leak](https://emailipleak.com/)
+- [Email Privacy Tester](https://www.emailprivacytester.com/)
+- [fingerprintjs](https://fingerprintjs.com/demo/)– Good for basic tests, from people who believe and claim can create unique fingerprints "99.5%" of the time.
+- [GRC fingerprint check](https://www.grc.com/fingerprints.htm)
+- [HTML Mocker Demo](https://cleartax.github.io/html-mocker/) – Randomize HTML content to test your defensive CSS.
+- [haveibeenpwned](https://haveibeenpwned.com/) – Is you account compromised?
+- [howsmyssl](https://www.howsmyssl.com/) – How secure HTTPS/SSL/TLS in your browser test.
+- [html5test](https://html5test.com/)
+- [IPduh Anonymity Check](https://ipduh.com/anonymity-check/)
+- [ipleak](https://ipleak.net/)
+- [IP quality score](https://www.ipqualityscore.com/ip-reputation-check)
+- [ipv6leak](https://ipv6leak.com/)
+- [is-chrome-100-yet.glitch.me](https://is-chrome-100-yet.glitch.me/)) – See here [how it works](https://developer.chrome.com/blog/force-major-version-to-100/).
+- [jShelter Test Page](https://polcak.github.io/jsrestrictor/test/test.html)
+- [ja3er](https://ja3er.com/) – JA3 SSL Fingerprint test.
+- [key-event-viewer](https://w3c.github.io/uievents/tools/key-event-viewer.html)
+- [kitchensink](https://kitchensink.ssl.fun/vendor/shape/fp)
+- [Mullvad torrent check](https://mullvad.net/en/check/)
+- [Panopticlick](https://panopticlick.eff.org/) or the new version [Cover Your Tracks](https://coveryourtracks.eff.org/) - **controversial**
+- [permission](https://permission.site/)
+- [pixelscan](https://pixelscan.net/)
+- [Privacy Proxy Test](https://do-know.com/privacy-proxy-test.html)
+- [Privacy Check](https://privacycheck.sec.lrz.de/index.html)
+- [rel-noopener test](https://mathiasbynens.github.io/rel-noopener/)
+- [SSL and TLS check](https://www.ssllabs.com/ssltest/)
+- [thunderspy](https://thunderspy.io/) – Thunderspy targets devices with a Thunderbolt port. If your computer has such a port, an attacker who gets brief physical access to it can read and copy all your data, even if your drive is encrypted and your computer is locked or set to sleep.
+- [Traffic Leaks Detector](https://github.com/AsenOsen/traffic_leaks_detector) – Java utility which detects potential network leaks using special algorithms.
+- [uniquemachine](http://uniquemachine.org/)
+- [whatleaks](https://whatleaks.com/)
+- [webcamtests](https://webcamtests.com/) – Webcam Test Web Utility.
+- [whotracks](https://whotracks.me/) – Statistic about trackers on websites by Ghostery.
+- [Winston Fingerprinting Demo](https://demos.winstonprivacy.com/delayed-iframe-fingerprint.html) – This page demonstrates cookieless tracking technologies which can be used to uniquely identify your browser.
+- [XSinator – XS-Leak Browser Test Suite](https://xsinator.com/)
 
 
 ## [OSINT Tools](#osint-tools)
@@ -3406,6 +3733,136 @@ Privacy oriented alternatives:
 - [ProExpense](https://github.com/arduia/ProExpense/) – A simple free finance note to safely record daily expenses.
 
 
+## [Pin Brute-Force Protection](#pin-brute-force-protection)
+- [Wrong PIN Shutdown](https://f-droid.org/packages/org.nuntius35.wrongpinshutdown/) – This simple app monitors the number of failed login attempts. If a certain number of attempts is exceeded, the device is automatically shut down.
+
+
+## [Photo Editing and Management](#photo-editing-and-management)
+Not so good in terms of privacy:
+- Adobe Photoshop
+- Adobe Illustrator
+- Adobe Lightroom
+- [All Photoshop projects contain telemetry which you need to opt-out](https://www.adobe.com/privacy/opt-out.html) instead of opt-in. Adobe is known for its [dark patterns](https://twitter.com/darkpatterns/status/1489901640777973768) and [interference with PCs](https://twitter.com/MMoertelmayr/status/1492084403073388553).
+
+
+Privacy oriented alternatives:
+- [Akira](https://github.com/akiraux/Akira) – A native Linux app for UI and UX design.
+- [Alva](https://meetalva.io) – An app to create living prototypes with code components.
+- [Czkawka](https://github.com/qarmin/czkawka) – Multi functional app to find duplicates and similar images etc.
+- [Darktable](https://www.darktable.org) – An open source photography workflow application and raw developer.
+- [Filmulator](https://filmulator.org) – A simplified raw editing software with the power of film.
+- [Flowblade](https://jliljebl.github.io/flowblade/) – Flowblade is a free open NLE video editor for Linux.
+- [GIMP](https://www.gimp.org/) – The Free & Open Source Image Editor.
+- [Glimpse Image Editor](https://glimpse-editor.org/) – A libre graphics application based on the popular GNU Image Manipulation Program. The project tries to improve the performance and user experience of the latter.
+- [Haiku Animator](https://github.com/HaikuTeam/animator) – Open-source vector design tool for creating Lottie animations.
+- [Inkscape](https://inkscape.org/) – Inkscape is a free and open-source vector graphics editor used to create vector images.
+- [Krita](https://github.com/KDE/krita) – Krita is a free and open source digital painting application
+- [MyPaint](http://mypaint.org) – A painting tool for digital artists.
+- [Mydraft](https://mydraft.cc) – An open source wire-framing tool.
+- [minimator](https://minimator.app/) – A Minimalist Graphical Editor.
+- [Pencil Project](https://pencil.evolus.vn) – An open-source GUI prototyping tool.
+- [Penpot](https://penpot.app) – An open Source design and prototyping platform meant for cross-domain teams.
+- [Pinta](https://www.pinta-project.com/) – Open-Source Drawing and Image Editing Software Scores Another Update
+- [qView](https://github.com/jurplel/qView) – qView is an image viewer designed with minimalism and usability in mind.
+- [RawTherapee](https://www.rawtherapee.com) – A free, cross-platform raw image processing program.
+- [Scribus](https://www.scribus.net) – An open source desktop publishing software.
+- [Seashore](https://github.com/robaho/seashore) – An open source image editor for macOS.
+- [Tldraw](https://www.tldraw.com/sponsorware) – An open-source SVG-rendered drawing tool.
+- [Wireflow](https://wireflow.co) – An online and open source tool for creating beautiful user flow prototypes.
+
+
+## [Projects you can join to help the make the world more sustainable](#projects-you-can-join-to-help-the-make-the-world-more-sustainable)
+
+- [Buy Nothing Project](https://buynothingproject.org/)
+- [ChangeX](https://www.changex.org/us/social-innovations)
+- [Circular City Initiative](https://www.circularcityfundingguide.eu/circular-cities/)
+- [City Repair](https://cityrepair.org/)
+- [Complexity University Gigatonne Challenge](https://complexity.university/)
+- [Earth Regenerators](https://earth-regenerators.mn.co/)
+- [Ecosystem Restoration Camp](http://www.ecosystemrestorationcamps.com/)
+- [Ecoversities](https://ecoversities.org/)
+- [Food Not Bombs](http://foodnotbombs.net/new_site/)
+- [Food not Lawns](https://www.foodnotlawns.com/)
+- [Gaia University](https://gaiauniversity.org/)
+- [Global Ecovillage Network](https://ecovillage.org/)
+- [Permaculture](http://www.permaculturenews.org/)
+- [Repair Cafe](https://www.repaircafe.org/en/)
+- [Rewilding Network](https://www.rewildingbritain.org.uk/the-rewilding-network/about)
+- [Sharing City Network](https://www.shareable.net/sharing-cities-network/)
+- [Slow Food ](https://www.slowfood.com/)
+- [Slow Money](https://slowmoney.org/)
+- [The Food Forest Project](https://www.thefoodforestproject.org/)
+- [Transition Town](https://transitionstreets.org/)
+- [Worldwide Opportunities on Organic Farms (WWOOF)](https://wwoof.net/)
+
+
+## [Privacy organizations and Cyber-Pirates](#privacy-organizations-and-cyber--pirates)
+
+Consider joining and donating to one, several or all of the listed organizations, they actually fight for your digital freedom.
+
+- [ASIC (French Association of Internet Community Services)](https://en.wikipedia.org/wiki/ASIC_(French_Association_of_Internet_Community_Services))
+- [Association Electronique Libre](https://en.wikipedia.org/wiki/Association_Electronique_Libre)
+- [Association for Progressive Communications](https://en.wikipedia.org/wiki/Association_for_Progressive_Communications)
+- [Australian Privacy Foundation](https://en.wikipedia.org/wiki/Australian_Privacy_Foundation)
+- [Big Brother Watch](https://en.wikipedia.org/wiki/Big_Brother_Watch)
+- [Bits of Freedom](https://en.wikipedia.org/wiki/Bits_of_Freedom)
+- [Canadian Internet Policy and Public Interest Clinic](https://en.wikipedia.org/wiki/Canadian_Internet_Policy_and_Public_Interest_Clinic)
+- [Nonprofit organisation CeMAS consolidates years of interdisciplinary expertise on the topics of conspiracy ideologies, disinformation, antisemitism, and right-wing extremism](https://cemas.io/en/)
+- [Center for Democracy and Technology](https://en.wikipedia.org/wiki/Center_for_Democracy_and_Technology)
+- [Computers, Freedom and Privacy Conference](https://en.wikipedia.org/wiki/Computers,_Freedom_and_Privacy_Conference)
+- [Czech Pirate Party](https://en.wikipedia.org/wiki/Czech_Pirate_Party)
+- [Data Security Council of India](https://en.wikipedia.org/wiki/Data_Security_Council_of_India)
+- [Data protection authorities‎](https://en.wikipedia.org/wiki/Category:Data_protection_authorities)
+- [Defunct privacy organizations‎](https://en.wikipedia.org/wiki/Category:Defunct_privacy_organizations)
+- [Digital Rights Ireland](https://en.wikipedia.org/wiki/Digital_Rights_Ireland)
+- [Digital Rights Watch](https://en.wikipedia.org/wiki/Digital_Rights_Watch)
+- [Digitalcourage](https://en.wikipedia.org/wiki/Digitalcourage)
+- [Digitale Gesellschaft](https://en.wikipedia.org/wiki/Digitale_Gesellschaft)
+- [Electronic Frontier Canada](https://en.wikipedia.org/wiki/Electronic_Frontier_Canada)
+- [Electronic Frontier Finland](https://en.wikipedia.org/wiki/Electronic_Frontier_Finland)
+- [Electronic Frontier Foundation](https://en.wikipedia.org/wiki/Electronic_Frontier_Foundation)
+- [Electronic Frontiers Georgia](https://en.wikipedia.org/wiki/Electronic_Frontiers_Georgia)
+- [Electronic Privacy Information Center](https://en.wikipedia.org/wiki/Electronic_Privacy_Information_Center)
+- [Estonian Pirate Party](https://en.wikipedia.org/wiki/Estonian_Pirate_Party)
+- [European Digital Rights](https://en.wikipedia.org/wiki/European_Digital_Rights)
+- [European Pirate Party](https://en.wikipedia.org/wiki/European_Pirate_Party)
+- [Free Knowledge Institute](https://en.wikipedia.org/wiki/Free_Knowledge_Institute)
+- [Free Software Movement of India](https://en.wikipedia.org/wiki/Free_Software_Movement_of_India)
+- [Freedom to Read Foundation](https://en.wikipedia.org/wiki/Freedom_to_Read_Foundation)
+- [French Data Network](https://en.wikipedia.org/wiki/French_Data_Network)
+- [Future of Privacy Forum](https://en.wikipedia.org/wiki/Future_of_Privacy_Forum)
+- [Go FOSS - A dedicated guide and website to privacy, data ownership & sustainable tech](https://gofoss.net/)
+- [Global Network Initiative](https://en.wikipedia.org/wiki/Global_Network_Initiative)
+- [Global Privacy Enforcement Network](https://en.wikipedia.org/wiki/Global_Privacy_Enforcement_Network)
+- [Global Privacy control](https://globalprivacycontrol.org/)
+- [IT-Political Association of Denmark](https://en.wikipedia.org/wiki/IT-Political_Association_of_Denmark)
+- [Identity Commissioner](https://en.wikipedia.org/wiki/Identity_Commissioner)
+- [International Association of Privacy Professionals](https://en.wikipedia.org/wiki/International_Association_of_Privacy_Professionals)
+- [Internet Security Research Group](https://en.wikipedia.org/wiki/Internet_Security_Research_Group)
+- [LAIM Working Group](https://en.wikipedia.org/wiki/LAIM_Working_Group)
+- [La Quadrature du Net](https://en.wikipedia.org/wiki/La_Quadrature_du_Net)
+- [Libre Las Vegas: GNU/Linux Free Software Users Group](https://librelasvegas.org/)
+- [Mandat International](https://en.wikipedia.org/wiki/Mandat_International)
+- [NOYB](https://en.wikipedia.org/wiki/NOYB)
+- [Network Advertising Initiative](https://en.wikipedia.org/wiki/Network_Advertising_Initiative)
+- [Online Rights Canada](https://en.wikipedia.org/wiki/Online_Rights_Canada)
+- [Open Source Firmware Foundation](https://osfw.foundation/)
+- [Pirate Parties International](https://en.wikipedia.org/wiki/Pirate_Parties_International)
+- [Pirate Party](https://en.wikipedia.org/wiki/Pirate_Party)
+- [Pirate Party UK](https://en.wikipedia.org/wiki/Pirate_Party_UK)
+- [Pirate Party of Latvia](https://en.wikipedia.org/wiki/Pirate_Party_of_Latvia)
+- [Pirate parties‎](https://en.wikipedia.org/wiki/Category:Pirate_parties)
+- [Privacy International](https://en.wikipedia.org/wiki/Pirate_Parties_International)
+- [Riseup](https://en.wikipedia.org/wiki/Riseup)
+- [Seattle Privacy Coalition](https://en.wikipedia.org/wiki/Seattle_Privacy_Coalition)
+- [StopBadware](https://en.wikipedia.org/wiki/StopBadware)
+- [The Journal of Open Source Software](https://joss.theoj.org/)
+- [The Privacy Sandbox Initiative](https://privacysandbox.com/)
+- [Trans Atlantic Consumer Dialogue](https://en.wikipedia.org/wiki/Trans_Atlantic_Consumer_Dialogue)
+- [Winston Smith Project](https://en.wikipedia.org/wiki/Winston_Smith_Project)
+- [Woodhull Freedom Foundation](https://en.wikipedia.org/wiki/Woodhull_Freedom_Foundation)
+
+
 ## [Proxy Tools](#proxy-tools)
 - [Anxray](https://github.com/XTLS/AnXray) – Another Proxychain Tool With Xray Core.
 - [Lantern](https://getlantern.org/) – Lantern is a centralized and peer-to-peer proxy, which is used as a circumvention tool. The tool detects whether websites are blocked and, if so, allows you to access them via the Lantern servers or the network of Lantern users.
@@ -3494,7 +3951,6 @@ None of below listed tools or websites are FOSS. I plan to change that, however 
 
 Well worth searching your GitHub URL with [Google Scholar](https://scholar.google.com/scholar), which is a great way to find out if your code has made it into any academic publications.
 
-
 - [https://1text.com/plagiarismchecker](https://1text.com/plagiarismchecker)
 - [https://copyleaks.com/](https://copyleaks.com/)
 - [https://myassignmenthelp.com/plagiarism-checker.php](https://myassignmenthelp.com/plagiarism-checker.php)
@@ -3513,6 +3969,41 @@ Well worth searching your GitHub URL with [Google Scholar](https://scholar.googl
 - [https://www.quetext.com/](https://www.quetext.com/)
 - [YouTube Data Viewer](https://citizenevidence.amnestyusa.org/)
 - [TinyEye - Reverse Image Search](https://tineye.com/)
+
+
+## [Password Managers](#password-managers)
+Not so good in terms of privacy:
+- [Dashlane](https://old.reddit.com/r/technology/comments/4udjqt/problems_with_the_dashlane_privacy_policy_they/)
+- [LastPass](https://www.trendmicro.com/vinfo/de/security/news/cyber-attacks/lastpass-hack-raises-questions-on-security)
+
+Privacy oriented alternatives:
+- [Bitwarden](https://bitwarden.com) – An open source cloud based password manager.
+    - [vaultwarden](https://github.com/dani-garcia/vaultwarden/) – Unofficial Bitwarden compatible self-hosted server, formerly known as bitwarden_rs.
+- [Buttercup](https://buttercup.pw) – A secure and open source password manager.
+- [KeePass Password Safe](https://keepass.info/) – KeePass, the free, open source, light-weight and easy-to-use password manager.
+- [KeepassXC](https://keepassxc.org/) – Securely store passwords using industry standard encryption, no sync just storage.
+  - [KeepassDX](https://www.keepassdx.com/) – Save and use passwords, keys and digital identities in a secure way by integrating the Android design standards.
+  - [Strongbox](https://strongboxsafe.com/) – Secure Password Management for iOS and MacOS.
+  - [KeeWeb](https://keeweb.info/) – For Web and other platforms.
+- [pass](https://www.passwordstore.org/) – Unix password manager.
+- [Passky](https://github.com/Rabbit-Company/Passky-Server) – Open source Password Manager for almost every platform.
+- [Padloc](https://padloc.app/) – The last password manager you'll ever want to use.
+- [swifty](https://github.com/swiftyapp/swifty) – Free Offline Password Manager.
+- [Spectre.app](https://spectre.app/) – Modern password app.
+
+### [Mobile Password Managers](#mobile-password-managers)
+- [Passbolt](https://github.com/passbolt/mobile-passbolt-android) – Open source password manager for teams, designed for [Android](https://play.google.com/store/apps/details?id=com.passbolt.mobile.android).
+- [Keepass2Android](https://github.com/PhilippC/keepass2android) for Android ([currently not on F-Droid](https://github.com/PhilippC/keepass2android/issues/38)).
+- [KeePassium](https://apps.apple.com/us/app/keepassium-keepass-passwords/id1435127111) – Keeps your passwords safe on iOS. It delivers the security of KeePass with a clean, easy to use interface.
+
+
+## [Password auditing and recovery application](#password-auditing-and-recovery-application)
+- [aircrack-ng](http://www.aircrack-ng.org/) – A complete suite of tools to assess WiFi network security. All tools are command line which allows for heavy  scripting.A lot of GUIs have taken advantage of this feature. It works primarily Linux but also Windows, OS X,FreeBSD,OpenBSD,NetBSD as well as Solaris and even eComStation2.
+- [Dirsearch](https://github.com/maurosoria/dirsearch) – Dirsearch is an advanced brute force tool based on a command line.
+- [John the Ripper](https://www.openwall.com/john/) – John the Ripper is an Open Source password security auditing and password recovery tool available for many operating systems. John the Ripper jumbo supports hundreds of hash and cipher types.
+- [L0phtCrack](https://www.l0phtcrack.com/) – A password audit and recovery program originally developed by Mudge from L0pht Heavy Industries. Using dictionaries, brute-force, hybrid attacks, and rainbow tables, it is used to test password strength and also to recover missing Microsoft Windows passwords.
+- [Mask attack](https://hashcat.net/wiki/doku.php?id=mask_attack) – Mask attacks can be used to filter passwords based on specific words, numbers within a specified range, the user's preferred special characters, or any other password features the hacker is confident in.
+- [Rainbowcrack](http://project-rainbowcrack.com/) – A computer program that creates a rainbow table that can be used to crack a password. RainbowCrack differs from "conventional" brute force crackers in that it uses huge pre-computed tables called rainbow tables to reduce the time required to crack a password significantly.
 
 
 ## [Per-app anonymization](#per-app-anonymization)
@@ -3618,85 +4109,6 @@ Privacy oriented alternatives:
 - [RadioDroid](https://f-droid.org/packages/net.programmierecke.radiodroid2/) – Browse and stream internet radios on Android.
 - [Transistor](https://f-droid.org/packages/org.y20k.transistor) – Transistor is an app for listening to radio programs over the internet.
 - [tuner](https://github.com/louis77/tuner) – GNU/Linux app to discover and play internet radio stations.
-
-
-## [Streaming](#streaming)
-- [Overpass](https://github.com/GOATS2K/overpass) – A self-hosted video live streaming app.
-
-
-### [Mobile Photo Editing and Management](#mobile-photo-editing-and-management)
-- [Simple Draw](https://github.com/SimpleMobileTools/Simple-Draw) – A canvas you can draw on with different colors.
-
-
-### [PCB Design Software](#pcb-design-software)
-- [KiCAD](http://www.kicad-pcb.org/) – Open-source tool that helps you in making Electronic Design Automation(EDA).
-- [LibrePCB](https://librepcb.org/) – A free EDA software to develop printed circuit boards.
-
-
-### [Send files between devices](#send-files-between-devices)
-- [Android File Transfer For Linux (and Mac OS X) (USB)](https://github.com/whoozle/android-file-transfer-linux/blob/master/README.md)
-- [Http Share](https://github.com/marcosdiez/shareviahttp/) – A simple way to share files on your phone or tablet with any other phone, computer or tablet.
-- [LanXchange](https://github.com/tfg13/LanXchange/) – Configuration-free, cross-platform file transfers for your local network.
-- [Mass Transfer](https://github.com/hexian000/MassTransfer/blob/master/README.md) – Only between Androids.
-- [NitroShare](https://f-droid.org/app/net.nitroshare.android) – Simplifies the task of sending files from one device to another on a local network.
-- [Transfer.sh](https://github.com/kartikarora/Transfer.sh/) – Easy file sharing from your Android device!
-- [tFileTransporter](https://github.com/Tans5/tFileTransfer_desktop) – Transfer apps, images and files to Android Devices and PCs.
-- [Warpinator](https://github.com/slowscript/warpinator-android) – Unofficial re-implementation of Linux Mint's file sharing tool Warpinator for Android, basically a tool for sending and receiving files between computers that are on the same network. All you need do is install Warpinator on the computers, choose a group code, edit your firewalls if necessary, and that’s all.
-
-
-### [Self-hosted File-Sharing](#self-hosted-file-sharing)
-- [Lufi](https://github.com/ldidry/lufi) – Lufi means Let's Upload that File. It's a E2E encrypted file sharing software.
-- [OnionShare](https://onionshare.org/) – An open source tool that lets you securely and anonymously share files, host websites, and chat with friends using the Tor network.
-- [Nextcloud](https://nextcloud.com/) – The self-hosted productivity platform that keeps you in control.
-- [Retroshare](https://github.com/RetroShare/RetroShare) – A decentralized, private, secure, cross-platform, communication toolkit. RetroShare provides file sharing, chat, messages, forums, channels and more.
-- [ProjectSend](https://www.projectsend.org/) – Share files with your clients from your own server.
-- [zend.to](https://zend.to/) – The safe, secure and completely free way to transfer large files around the Web.
-
-
-### [Tracking](#tracking)
-- [DejaVu](https://f-droid.org/packages/org.fitchfamily.android.dejavu) – Mobile/cell and WLAN/Wi-Fi based network provider for UnifiedNlp and microG.
-- [Hammond](https://github.com/akhilrex/hammond) – Self-hosted vehicle expense tracking system with multiple users support.
-- [MozillaNlpBackend](https://f-droid.org/packages/org.microg.nlp.backend.ichnaea/) – Location calculation is done online and therefor requires internet connection.
-- [Nextcloud Phonetrack](https://apps.nextcloud.com/apps/phonetrack) – Nextcloud app can track location history with an [Android app](https://gitlab.com/eneiluj/phonetrack-android) ([other apps also supported](https://gitlab.com/eneiluj/phonetrack-oc/-/wikis/userdoc#logging-methods)). Supports caching positions offline and sending them to the server in batches. The first-party app has good battery saving options.
-- [NominatimNlpBackend](https://f-droid.org/packages/org.microg.nlp.backend.nominatim/) – MapQuest’s Nominatim service (based on OpenStreetMap) for geocoding.
-- [OwnTracks](https://owntracks.org/) – Location tracking for displaying the current location only (limited location history functionality).
-- [Traccar](https://www.traccar.org/) – Location tracking software made for dedicated GPS logging devices.
-- [UnifiedNLP](https://f-droid.org/packages/org.microg.nlp) – Most modern ROMs come with support for non-Google geo-location providers. On these systems UnifiedNlp can be installed as a user app to replace the network location provider.
-
-
-## [Translation](#translation)
-Not so good in terms of privacy:
-- Bing Translator
-- Linguee
-- Yandex Translate is easy to [abuse](https://twitter.com/EuromaidanPress/status/1482312998509330435)
-- [DeepL](https://old.reddit.com/r/TranslationStudies/comments/mgzens/is_deepl_safe/) – The premium version (DeepL Pro) does not keep your data after it is translated. They specify that the texts are deleted immediately. DeepL's terms of usage disallow submitting any text containing personal data, and submitted text will be retained for a certain amount of time.
-- [Google Translate](https://www.linkedin.com/pulse/google-translate-privacy-confidentiality-concerns-alex-gheorghe)
-
-
-Privacy oriented alternatives:
-- [Apertium](https://apertium.org/) – A free/open-source machine translation platform, runs offline on your computer.
-- [Dialect](https://github.com/dialect-app/dialect/) – An Open-Source Translation App for Linux.
-- [LibreTranslate](https://libretranslate.com/) – Open Source Machine Translation – 100% Self-Hosted. No Limits. No Ties to Proprietary Services.
-- [Mitzuli](https://f-droid.org/en/packages/com.mitzuli/) – Translator for Android featuring a full offline mode, voice input (ASR), camera input (OCR), voice output (TTS), and more.
-- [Softcatala](https://www.softcatala.org/traductor/) – Open Source Translation tool – Only Catalan/Spanish/English/French, it uses uses apertium.
-- [SymplyTranslate ](https://translate.metalune.xyz/) – You can select between different Translation engines, Google, DeepL, ICIBA or LibreTranslate.
-- [TranslateLocally](https://translatelocally.com/) – Free, open source neural MT, runs offline on your computer.
-
-### [Alternative Google Translate front-ends](#alternative-google-translate-front-ends)
-- [Lingva Translate](https://github.com/TheDavidDelta/lingva-translate) – Alternative front-end for Google Translate. [Demo](https://lingva.ml/).
-- [Simplytranslate](https://git.sr.ht/~metalune/simplytranslate_web) – Alternative front-end for Google Translate and LibreTranslate. [Demo](https://translate.metalune.xyz/).
-
-### [Alternatives for Google Translate on Mobile](#alternatives-for-google-translate-on-mobile)
-- [OpenL Translator](https://f-droid.org/app/com.anthony.deepl.openl) – Open source front-end to the high-quality DeepL machine translation services (available for English, German, French, Spanish, Italian, Dutch and Polish).
-- [QuickDic](https://f-droid.org/packages/de.reimardoeffinger.quickdic) – Offline translation dictionary.
-
-
-## [Transcription](#transcription)
-- [Captain-s-Log](https://github.com/nsw11/Captain-s-Log) – An audio transcription program utilizing IBM's Watson Speech to Text tool.
-- [Gecko](https://github.com/gong-io/gecko) – A Tool for Effective Annotation of Human Conversations.
-- [ocr-gt-tools](https://github.com/UB-Mannheim/ocr-gt-tools) – Ergonomic line-by-line transcription of scanned text.
-- [speechTranscription](https://github.com/its-me-Harsh-Anand/speechTranscription) – Use of a live transcription tool - Deepgram : Speak something out loud, let deepgram do some work.
-- [vid2cleantxt](https://github.com/pszemraj/vid2cleantxt) – A command-line tool to easily transcribe speech-based video files into clean text.
 
 
 ## [Software Energy Consumption Measurement](#software-energy-consumption-measurement)
@@ -4159,292 +4571,52 @@ Privacy oriented alternatives:
 - [Twire](https://github.com/twireapp/Twire) – An open source, ad free Twitch browser and stream player for Android.
 
 
-## [Pin Brute-Force Protection](#pin-brute-force-protection)
-- [Wrong PIN Shutdown](https://f-droid.org/packages/org.nuntius35.wrongpinshutdown/) – This simple app monitors the number of failed login attempts. If a certain number of attempts is exceeded, the device is automatically shut down.
+## [Streaming](#streaming)
+- [Overpass](https://github.com/GOATS2K/overpass) – A self-hosted video live streaming app.
 
 
-## [Photo Editing and Management](#photo-editing-and-management)
-Not so good in terms of privacy:
-- Adobe Photoshop
-- Adobe Illustrator
-- Adobe Lightroom
-- [All Photoshop projects contain telemetry which you need to opt-out](https://www.adobe.com/privacy/opt-out.html) instead of opt-in. Adobe is known for its [dark patterns](https://twitter.com/darkpatterns/status/1489901640777973768) and [interference with PCs](https://twitter.com/MMoertelmayr/status/1492084403073388553).
+### [Mobile Photo Editing and Management](#mobile-photo-editing-and-management)
+- [Simple Draw](https://github.com/SimpleMobileTools/Simple-Draw) – A canvas you can draw on with different colors.
 
 
-Privacy oriented alternatives:
-- [Akira](https://github.com/akiraux/Akira) – A native Linux app for UI and UX design.
-- [Alva](https://meetalva.io) – An app to create living prototypes with code components.
-- [Czkawka](https://github.com/qarmin/czkawka) – Multi functional app to find duplicates and similar images etc.
-- [Darktable](https://www.darktable.org) – An open source photography workflow application and raw developer.
-- [Filmulator](https://filmulator.org) – A simplified raw editing software with the power of film.
-- [Flowblade](https://jliljebl.github.io/flowblade/) – Flowblade is a free open NLE video editor for Linux.
-- [GIMP](https://www.gimp.org/) – The Free & Open Source Image Editor.
-- [Glimpse Image Editor](https://glimpse-editor.org/) – A libre graphics application based on the popular GNU Image Manipulation Program. The project tries to improve the performance and user experience of the latter.
-- [Haiku Animator](https://github.com/HaikuTeam/animator) – Open-source vector design tool for creating Lottie animations.
-- [Inkscape](https://inkscape.org/) – Inkscape is a free and open-source vector graphics editor used to create vector images.
-- [Krita](https://github.com/KDE/krita) – Krita is a free and open source digital painting application
-- [MyPaint](http://mypaint.org) – A painting tool for digital artists.
-- [Mydraft](https://mydraft.cc) – An open source wire-framing tool.
-- [minimator](https://minimator.app/) – A Minimalist Graphical Editor.
-- [Pencil Project](https://pencil.evolus.vn) – An open-source GUI prototyping tool.
-- [Penpot](https://penpot.app) – An open Source design and prototyping platform meant for cross-domain teams.
-- [Pinta](https://www.pinta-project.com/) – Open-Source Drawing and Image Editing Software Scores Another Update
-- [qView](https://github.com/jurplel/qView) – qView is an image viewer designed with minimalism and usability in mind.
-- [RawTherapee](https://www.rawtherapee.com) – A free, cross-platform raw image processing program.
-- [Scribus](https://www.scribus.net) – An open source desktop publishing software.
-- [Seashore](https://github.com/robaho/seashore) – An open source image editor for macOS.
-- [Tldraw](https://www.tldraw.com/sponsorware) – An open-source SVG-rendered drawing tool.
-- [Wireflow](https://wireflow.co) – An online and open source tool for creating beautiful user flow prototypes.
+### [PCB Design Software](#pcb-design-software)
+- [KiCAD](http://www.kicad-pcb.org/) – Open-source tool that helps you in making Electronic Design Automation(EDA).
+- [LibrePCB](https://librepcb.org/) – A free EDA software to develop printed circuit boards.
 
 
-## [NFT](#nft)
-- [NFT Reverse Search Engine](https://bing.ly/) – NFT Reverse Search Engine.
+### [Send files between devices](#send-files-between-devices)
+- [Android File Transfer For Linux (and Mac OS X) (USB)](https://github.com/whoozle/android-file-transfer-linux/blob/master/README.md)
+- [Http Share](https://github.com/marcosdiez/shareviahttp/) – A simple way to share files on your phone or tablet with any other phone, computer or tablet.
+- [LanXchange](https://github.com/tfg13/LanXchange/) – Configuration-free, cross-platform file transfers for your local network.
+- [Mass Transfer](https://github.com/hexian000/MassTransfer/blob/master/README.md) – Only between Androids.
+- [NitroShare](https://f-droid.org/app/net.nitroshare.android) – Simplifies the task of sending files from one device to another on a local network.
+- [Transfer.sh](https://github.com/kartikarora/Transfer.sh/) – Easy file sharing from your Android device!
+- [tFileTransporter](https://github.com/Tans5/tFileTransfer_desktop) – Transfer apps, images and files to Android Devices and PCs.
+- [Warpinator](https://github.com/slowscript/warpinator-android) – Unofficial re-implementation of Linux Mint's file sharing tool Warpinator for Android, basically a tool for sending and receiving files between computers that are on the same network. All you need do is install Warpinator on the computers, choose a group code, edit your firewalls if necessary, and that’s all.
 
 
-## [Note taking apps](#note-taking-apps)
-- [Boost Note](https://boostnote.io) – An open source Markdown editor for developers.
-- [Burner Note](https://burnernote.com/) - Send secure and encrypted notes that self destruct once they've been read. - **controversial**
-- [Carnet](https://getcarnet.app) – A complete open source note taking app.
-- [Cryptee](https://crypt.ee) – A private and encrypted place for all your photos, documents, notes and more.
-- [Joplin](https://joplinapp.org) – A free and open source note-taking and to-do application.
-- [LibreOffice Online](https://www.libreoffice.org/download/libreoffice-online/) – Self-hosted instance of LibreOffice that you can run in your browser.
-    - [LibreOffice running natively in the browser via WebAssembly](https://lab.allotropia.de/wasm/)
-- [LunaTask](https://lunatask.app/) – An all-in-one privacy-focused todo list, notebook, habit and mood tracker and pomodoro timer.
-- [One Time Note-Share](https://one-time-note.com/) – [One Time Note-Share](https://github.com/dextreem/one-time-note) is an encrypted note that deletes itself after access.
-- [p!n](https://github.com/nproth/pin) – Pin notes to the notification area.
-- [Paperwork](https://paperwork.cloud) – An open-source, self-hosted alternative to services like Evernote, OneNote or Google Keep.
-- [Piwigo](https://piwigo.org/) – A great option that you can self-host. It is also free and open source.
-- [PubPub](https://www.pubpub.org/) – An open-source all-in-one collaborative publishing platform.
-- [QOwnNotes](https://www.qownnotes.org) – An open source markdown note taking with Nextcloud / ownCloud integration.
-- [Standard Notes](https://standardnotes.org) – A simple and private note-taking app.
-- [SilentNotes](https://github.com/martinstoeckli/SilentNotes) – A simple note taking app which respects your privacy.
-- [Turtl](https://turtlapp.com) – A secure collaborative notebook.
-- [ZK](https://github.com/mickael-menu/zk) - A plain text note-taking assistant.
+### [Self-hosted File-Sharing](#self-hosted-file-sharing)
+- [Lufi](https://github.com/ldidry/lufi) – Lufi means Let's Upload that File. It's a E2E encrypted file sharing software.
+- [OnionShare](https://onionshare.org/) – An open source tool that lets you securely and anonymously share files, host websites, and chat with friends using the Tor network.
+- [Nextcloud](https://nextcloud.com/) – The self-hosted productivity platform that keeps you in control.
+- [Retroshare](https://github.com/RetroShare/RetroShare) – A decentralized, private, secure, cross-platform, communication toolkit. RetroShare provides file sharing, chat, messages, forums, channels and more.
+- [ProjectSend](https://www.projectsend.org/) – Share files with your clients from your own server.
+- [zend.to](https://zend.to/) – The safe, secure and completely free way to transfer large files around the Web.
 
 
-## [Notes and Tasks](#notes-and-tasks)
-Not so good in terms of privacy:
-- Google Keep and [Google Keep Exporter](https://github.com/vHanda/google-keep-exporter) – Convert your Google Keep notes into a standard markdown + YAML header format.
-- Evernote
-- Squid
-- Notion
-- OneNote
-- Tasker
+### [Tracking](#tracking)
+- [DejaVu](https://f-droid.org/packages/org.fitchfamily.android.dejavu) – Mobile/cell and WLAN/Wi-Fi based network provider for UnifiedNlp and microG.
+- [Hammond](https://github.com/akhilrex/hammond) – Self-hosted vehicle expense tracking system with multiple users support.
+- [MozillaNlpBackend](https://f-droid.org/packages/org.microg.nlp.backend.ichnaea/) – Location calculation is done online and therefor requires internet connection.
+- [Nextcloud Phonetrack](https://apps.nextcloud.com/apps/phonetrack) – Nextcloud app can track location history with an [Android app](https://gitlab.com/eneiluj/phonetrack-android) ([other apps also supported](https://gitlab.com/eneiluj/phonetrack-oc/-/wikis/userdoc#logging-methods)). Supports caching positions offline and sending them to the server in batches. The first-party app has good battery saving options.
+- [NominatimNlpBackend](https://f-droid.org/packages/org.microg.nlp.backend.nominatim/) – MapQuest’s Nominatim service (based on OpenStreetMap) for geocoding.
+- [OwnTracks](https://owntracks.org/) – Location tracking for displaying the current location only (limited location history functionality).
+- [Traccar](https://www.traccar.org/) – Location tracking software made for dedicated GPS logging devices.
+- [UnifiedNLP](https://f-droid.org/packages/org.microg.nlp) – Most modern ROMs come with support for non-Google geo-location providers. On these systems UnifiedNlp can be installed as a user app to replace the network location provider.
 
-Privacy oriented alternatives:
-- [AppFlowy](https://github.com/AppFlowy-IO/appflowy) – AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
-- [Bangle.io](https://bangle.io) – A free alternative to Notion that takes markdown notes saved right in your computer.
-- [Hyperdraft](https://hyperdraft.rosano.ca) – An open-source notes app that works in the browser and syncs with 0data protocols.
-- [TinyList](https://tinylist.app/) – Create and share notes and checklists, without sacrificing your privacy.
-- [Standard Notes](https://standardnotes.org/) – A free, open-source, and completely encrypted notes app.
-- [Notally](https://github.com/OmGodse/Notally) – A beautiful notes app.
-- [Joplin](https://github.com/laurent22/joplin) – Note taking and to-do application with synchronization capabilities.
-- [Nextcloud Notes](https://github.com/nextcloud/notes/) – The Notes app is a distraction free notes taking app for Nextcloud.
-  - [Nextcloud Notes for Android](https://github.com/stefan-niedermann/nextcloud-notes) – An android client for Nextcloud Notes.
-- [Vikunja](https://vikunja.io) – The open-source to-do app to organize your life.
-- [Lomorage](https://lomorage.com/) – Mobile first self-host photo storage solution, and has native iOS / Android application as well as optimization for Raspberry PI and Armbian OS.
-
-
-### [Mobile Notes taking Apps](#mobile-notes-taking-apps)
-- [Carnet (cloud)](https://f-droid.org/en/packages/com.spisoft.quicknote) – Design inspired by Google Keep.
-- [Easer](https://f-droid.org/app/ryey.easer) – An event-driven Android automation app. It knows various events, and you, the user, could tell it what to do on what event (and even combine multiple events!).
-- [LibreTasks](https://f-droid.org/app/libretasks.app) – A fork of Omnidroid App, now maintained and with more features.
-- [Notepad](https://f-droid.org/en/packages/com.farmerbb.notepad/) – A simple, bare-bones, no-frills note taking app.
-- [Standard notes (cloud)](https://f-droid.org/en/packages/com.standardnotes) – Encrypted notes on their server, accessible from any browser.
-- [uNote](https://f-droid.org/en/packages/app.varlorg.unote/) – Lightweight and minimalist notepad.
-
-
-### [Mobile note taking apps](#mobile-note-taking-apps)
-- [Joplin](https://joplinapp.org/) – An open source note-taking app. Capture your thoughts and securely access them from any device.
-- [Markor](https://f-droid.org/packages/net.gsantner.markor/) – Text editor, notes & toDo. Lightweight. Markdown and todo.txt support.
-- [Material Notes](https://github.com/BijoySingh/Material-Notes-Android-App) – Simple Material based Android app.
-- [MyOwnNotes (cloud)](https://f-droid.org/en/packages/org.aykit.MyOwnNotes/) – Works with a ownCloud subscription.
-- [NeutriNote](https://github.com/appml/neutrinote) – Markdown + Math in Just 3 MB.
-- [Notally](https://github.com/OmGodse/Notally) – A beautiful notes app for Android.
-- [Noteless: Markdown note-taking](https://github.com/redsolver/noteless) – Markdown-optimized editor with syntax highlighting.
-- [Notesnook (mobile)](https://notesnook.com/) – A truly zero-knowledge note taking app, encrypted using XChaChaPoly1305-IETF & Argon2.
-- [Noto](https://www.github.com/alialbaali/Noto) – Simple and minimal note-taking Android application built with Kotlin.
-- [Omni Notes](https://f-droid.org/en/packages/it.feio.android.omninotes.foss/) – Very feature rich, open-source, material design notes app. Very active development.
-- [Orgzly](https://f-droid.org/en/packages/com.orgzly/) – Notes are stored in the plain-text Org mode format. Supports searching, metadata, and manual sync with Dropbox or local directory, which can be synced using e.g. Syncthing.
-- [Privacy Friendly Notes](https://github.com/SecUSo/privacy-friendly-notes) – Privacy Friendly App for creating and managing notes on Android.
-- [Scarlet Notes FD](https://f-droid.org/packages/com.bijoysingh.quicknote/) – Works completely offline, offers rich notes with lists, headings, quotes, floating mode, and more.
-- [Simpletask](https://f-droid.org/en/packages/nl.mpcjanssen.simpletask/) + syncthing – Combining both apps allows you to take notes and syncing them.
-- [Simple Notes](https://f-droid.org/en/packages/com.simplemobiletools.notes.pro) – A beautiful quick note taking app without ads or weird permissions.
-- [Tasks.org](https://f-droid.org/en/packages/org.tasks/) – Tasks is libre open-source software, based on the original source code from the popular Astrid Tasks & To Do List.
-- [posidon notes](https://github.com/leoxshn/posidonNotes) – This is a very minimal Android note taking app. It has a nice design, but very minimal functionality. You can write, edit and delete notes, that's it.
-- [sNotz](https://f-droid.org/app/com.sunilpaulmathew.snotz) – An open-source and completely offline application to manage simple notes.
-- [Zettel Notes](https://thedoc.eu.org/zettel-notes/) - Android Markdown app with GPG encryption and webdav sync.
-
-
-## [NSFW Detection](#nsfw-detection)
-- [The Movie Parser](https://github.com/dynamite-ready/movie-parser) – An app to read a movie file, and indicate which scenes are NSFW, it uses an A.I. to do that. The wrapper can be used in other projects, or you use the single executable and use it as standalone app.
-
-
-## [Password Managers](#password-managers)
-Not so good in terms of privacy:
-- [Dashlane](https://old.reddit.com/r/technology/comments/4udjqt/problems_with_the_dashlane_privacy_policy_they/)
-- [LastPass](https://www.trendmicro.com/vinfo/de/security/news/cyber-attacks/lastpass-hack-raises-questions-on-security)
-
-Privacy oriented alternatives:
-- [Bitwarden](https://bitwarden.com) – An open source cloud based password manager.
-    - [vaultwarden](https://github.com/dani-garcia/vaultwarden/) – Unofficial Bitwarden compatible self-hosted server, formerly known as bitwarden_rs.
-- [Buttercup](https://buttercup.pw) – A secure and open source password manager.
-- [KeePass Password Safe](https://keepass.info/) – KeePass, the free, open source, light-weight and easy-to-use password manager.
-- [KeepassXC](https://keepassxc.org/) – Securely store passwords using industry standard encryption, no sync just storage.
-  - [KeepassDX](https://www.keepassdx.com/) – Save and use passwords, keys and digital identities in a secure way by integrating the Android design standards.
-  - [Strongbox](https://strongboxsafe.com/) – Secure Password Management for iOS and MacOS.
-  - [KeeWeb](https://keeweb.info/) – For Web and other platforms.
-- [pass](https://www.passwordstore.org/) – Unix password manager.
-- [Passky](https://github.com/Rabbit-Company/Passky-Server) – Open source Password Manager for almost every platform.
-- [Padloc](https://padloc.app/) – The last password manager you'll ever want to use.
-- [swifty](https://github.com/swiftyapp/swifty) – Free Offline Password Manager.
-- [Spectre.app](https://spectre.app/) – Modern password app.
-
-
-### [Mobile Password Managers](#mobile-password-managers)
-- [Passbolt](https://github.com/passbolt/mobile-passbolt-android) – Open source password manager for teams, designed for [Android](https://play.google.com/store/apps/details?id=com.passbolt.mobile.android).
-- [Keepass2Android](https://github.com/PhilippC/keepass2android) for Android ([currently not on F-Droid](https://github.com/PhilippC/keepass2android/issues/38)).
-- [KeePassium](https://apps.apple.com/us/app/keepassium-keepass-passwords/id1435127111) – Keeps your passwords safe on iOS. It delivers the security of KeePass with a clean, easy to use interface.
-
-
-## [Password auditing and recovery application](#password-auditing-and-recovery-application)
-- [aircrack-ng](http://www.aircrack-ng.org/) – A complete suite of tools to assess WiFi network security. All tools are command line which allows for heavy  scripting.A lot of GUIs have taken advantage of this feature. It works primarily Linux but also Windows, OS X,FreeBSD,OpenBSD,NetBSD as well as Solaris and even eComStation2.
-- [Dirsearch](https://github.com/maurosoria/dirsearch) – Dirsearch is an advanced brute force tool based on a command line.
-- [John the Ripper](https://www.openwall.com/john/) – John the Ripper is an Open Source password security auditing and password recovery tool available for many operating systems. John the Ripper jumbo supports hundreds of hash and cipher types.
-- [L0phtCrack](https://www.l0phtcrack.com/) – A password audit and recovery program originally developed by Mudge from L0pht Heavy Industries. Using dictionaries, brute-force, hybrid attacks, and rainbow tables, it is used to test password strength and also to recover missing Microsoft Windows passwords.
-- [Mask attack](https://hashcat.net/wiki/doku.php?id=mask_attack) – Mask attacks can be used to filter passwords based on specific words, numbers within a specified range, the user's preferred special characters, or any other password features the hacker is confident in.
-- [Rainbowcrack](http://project-rainbowcrack.com/) – A computer program that creates a rainbow table that can be used to crack a password. RainbowCrack differs from "conventional" brute force crackers in that it uses huge pre-computed tables called rainbow tables to reduce the time required to crack a password significantly.
 
 ## [QR-Code Reader](#qr-code-reader)
 - [obsqr](https://f-droid.org/app/trikita.obsqr) – Fastest and most lightweight qr code reader.
-
-
-## [Office Apps](#office-apps)
-
-Not so good in terms of privacy:
-- [Microsoft Office](https://docs.microsoft.com/en-us/deployoffice/compat/deploy-telemetry-dashboard)
-- Google Docs
-
-Privacy oriented alternatives:
-- [AbiWord](http://www.nl.abisource.com) – A free word processing program similar to Microsoft Word.
-- [Airborn OS](https://www.airbornos.com/) – Private Google Docs Alternative.
-- [Arcane Office](https://docs.arcaneoffice.com/) – GDPR compliant. Decentralized and private.
-- [Calligra Suite](https://calligra.org) – An office and graphic art suite by KDE.
-- [Calligra](https://calligra.org/) – An office and graphic art suite by KDE. It is available for desktop PCs, tablet computers, and smartphones. It contains applications for word processing, spreadsheets, presentation, vector graphics, and editing databases.
-- [Collabora and NextCloud](https://www.collaboraoffice.com) – A cloud, mobile and desktop enterprise office suite.
-- [CryptPad](https://cryptpad.fr/) – Collaboration suite, encrypted and open-source.
-- [Graphite](https://graphitedocs.com/) – A decentralized and encrypted Google Docs alternative.
-- [LibreOffice](https://www.libreoffice.org/) – Free and open source offline Office.
-- [Luckysheet](https://github.com/mengshukeji/Luckysheet) – An online spreadsheet like excel that is powerful, simple to configure, and completely open source.
-- [LyX](https://www.lyx.org/) – It's an open-source (and offline) document processor using TeX/LaTeX.
-- [OnlyOffice](https://www.onlyoffice.com/) – Free and open source online office for collaboration.
-- [Skiff](https://www.skiff.org/) – End-to-end encrypted collaboration (Google Docs / Notion).
-- [Texel](https://github.com/Lauriat/texel) – CLI tool for viewing spreadsheets.
-
-### [Mobile Office Apps](#mobile-office-apps)
-- [LibreOffice Viewer](https://cgit.freedesktop.org/libreoffice/core/tree) – Sucks, use [Collabora Office](https://www.collaboraoffice.com/) instead.
-- [OnlyOffice](https://github.com/ONLYOFFICE/documents-app-android) – OnlyOffice for Android.
-
-
-## [Opt-Out of Mobile ISP location tracking](#opt-out-of-mobile-isp-location-tracking)
-- [Aldi Talk (Telefónica)](https://www.telefonica.de/dap/selbst-entscheiden.html)
-- [Telefónica (O2, Blau, Fonic, Simyo & Co.)](https://www.telefonica.de/dap/selbst-entscheiden.html)
-- [Telekom (Congstar, Klarmobil & Co.)](https://www.optout-service.telekom-dienste.de/public/anmeldung.jsp)
-- [simplytel (Telefónica)](https://forum.kuketz-blog.de/viewtopic.php?f=32&t=207&start=45#p4466)
-
-
-## [Open Knowledge Projects](#open-knowledge-projects)
-- [LocalisationLab makes "FLOSS technology accessible through collaboration with developers, organizations, end users, and communities in need.](https://www.localizationlab.org/)
-- [OKFN - Open knowledge for a digital civil society](https://okfn.de/en/)
-- [Prototype Fund - We Fund Public Interest Tech](https://prototypefund.de/en/)
-- [Schulcampus RLP](https://www.schulcampus-rlp.de/)
-- [Wikipedia Library: Free Access to Paywalled Resources for Wiki Editors](https://wikipedialibrary.wmflabs.org/)
-
-
-## [Operating Systems](#operating-systems)
-### [Android](#android)
-Try to avoid using Google Android or any Android that has been modified and tuned by any manufacturer such as Xiaomi, Huawei, Samsung, etc. Android is an Open Source project – AOSP – Android Open Source Project – and it has many versions that will respect the [user privacy](https://reports.exodus-privacy.eu.org/en/) and data and won't share it with private servers from [manufacturers or service providers](https://arstechnica.com/information-technology/2021/09/security-audit-raises-severe-warnings-on-chinese-smartphone-models/).
-
-It is important to use always the latest OS - if possible - there are several reasons e.g. Android 10 disallows Apps in general from third-parties to access critical stuff like IMEI, SIM, Serial Number, MAC etc. There are some small exceptions but overall it means that Google adopts certain problems and tries to solve them in the next versions which makes the OS by default more secure compared to older and easier attackable Builds.
-
-
-### [Android Stock OS alternatives](#android-stock-os-alternatives)
-
-[Anarchy-Droid](https://anarchy-droid.com/) acts as an installation helper for LineageOS and other ROMs.
-
-
-It should clearly noted that most if not all listed alternatives that are based on AOSP are typically done to cash-grab others via donations with marketing phrases and unproven promises and claims like, use our product it is more privacy friendly or security optimised. Everyone can harden an OS, this is not some secret magic.
-
-AOSP is under heavy development by more developers and overall more people are involved and claiming that you as individual person or small group do it better without even trying to submit patches to the original AOSP in the first place is not only rude and disrespectful but also ethical questionable, assuming yo believe in ethics. Forks usually tend to add no actual benefit into something unless done by professionals as well as people with an actual reasonable business model and independence, however most of the listed project highly depend on AOSP.
-
-People tend to smear AOSP based on what vendors afterwards integrating and doing with it, e.g. adding bloatware apps etc. however you can compile AOSP yourself without any bloatware nor depend on another third-party identity such as GrapheneOS, CalyxOS, etc.
-
-Hardening the OS yourself would be less of an mainstream problem if those who claim, in the name or privacy and security would submit their patches in public trough and open database. This is usually not the case and such people tend to lure people instead of their own websites, pages to pretend they do the most work, which is not only incorrect but also ethical questionable because the AOSP cares a lot about privacy and security and are reasonable in merging possible pull requests, assuming the patch actually fixes some hole, leak etc.
-
-The underlying point is that those providers usually feeding off others people work, modifying it and claim privacy and security that are hard to proof for average users because they are not skilled enough to audit it themselves and often those claims cannot be verified because it consumes lots of time, research and in the meantime AOSP could have already addressed it trough a new patch-level set or entirely new major OS build. The ethical dilemma in using alternatives is that you need trust another unknown identity with unproven claims, while they claim they need money in form of e.g. donation to pay professional people to do an audit, which is the perfect excuse to collect donations luring people into using your product(s). Or in other words, use our product and support us and we show you can trust us afterwards when we got enough money to pay someone for an audit.
-
-For example the GrapheneOS developer needs money to pay professional people to do an audit, while he claims, unproven, that his OS is more secure than others based on applying only best practices, while you could do this for yourself, assuming the team would release all of the modified AOSP patches. In such cases you simply need to keep his word as truth, because most people have no time, skill or knowledge to inspect the source code. Just because there is source code available does not conduct security because we had examples like Heatbleed when the source was years available and no one actually inspected it, which ended up leading people for years vulnerable. Open source therefore is not a guarantee for trust and security. The security lies heavily on the fact that actual people need to inspect your code, code that is complicated and you need the skills, time and research to come to an conclusion if it can be exploited. Facts that the teams does not communicate in public, because open source is no wonder weapon regarding security and never will be.
-
-In truth the developers want to make a living out of it to continuing his job which is the reason they depend on money trough e.g. donations. This is at no time nowhere directly communicated.
-
-The logic falls apart the moment you put every aspect in consideration because AOSP is a larger target and used by much more people than GrapheneOS, so mathematically, without even real world examples the claim that is more secure and private cannot be correct. Applying best coding practices and hardening alone also do not necessarily mean that your OS is more secure, for example if you touch known cryptography the opposite can happen, you end up more vulnerable. I also doubt such individual people and small groups in general because if they would actually fight for the mass they would help the AOSP Team directly so that everyone can benefit and use their code which is inspected by a bigger audience and used by lots of more vendors and users and not trying to cash-grab others based on Googles security practices, which are not GraphenesOS research and experiences.
-
-In other words, give me money in form of donations because I claim my products are more secure and privacy friendly because I applied best practices. I am not really a friend of such claims and this has a wide history of been abused, it usually takes a while until someone figures such things out because, as mentioned inspecting things + have the knowledge to come to the conclusion how hard or easily something can be exploited is a real job and requires various skills. Unpaid people usually do not do all of this or are not involved.
-
-
-Another point is breakages, when you apply best practices you usually break the entire eco-system, apps will stop working, you can only install various apps because the author decided to only approve certain apps, see the practice applied by Pale Moon developers who only approve certain extensions, or other dependencies simply stop working and you need to entirely trust such developers with their workarounds, workarounds no one typically inspect, audit or use, which automatically limits the target factor. The less it is known and used the less, mathematically it is insecure, this is just statistics, other consideration that even if there are holes, that the not automatically easily be exploitable are not even mentioned in such scenarios.
-
-The whole story [reminds me on the Telegram Crypto-Gram challenge](https://www.schneier.com/crypto-gram/archives/1998/1215.html) - Cripple the AOSP with best practices so that nothing works and then claim security to sell the product. Here use my product because it is secure, there is no audit, I cripple and break all apps or sandbox it to pretend I know what I am doing....
-
-Can you crack the logic....?
-
-
-- [/e/ OS](https://e.foundation/e-os/) – A complete, fully de-Googled, mobile ecosystem based on LineageOS. You can find an analysis of the /e/OS app installer over [here](https://nervuri.net/e/apps).
-- [Calyx OS](https://calyxos.org/) – A secure and private mobile OS for Pixel phones and the Xiami Mi A2.
-- [Divest OS](https://divestos.org) – Divest OS strives to prolong device life, enhance user privacy, and provide modest security to many devices. DivestOS inherits many supported devices from LineageOS. It has signed builds, making it possible to have verified boot on some non-Pixel devices.
-- [MoKee ROM](https://blog.jolla.com/suomenlinna/) – Android Community Operating System that supports some older devices in case your device is not officially supported or you cannot use AOSP for whatever reasons on your device, this might be an alternative. It currently has no privacy benefits over AOSP. THe main benefit is that it frequently gets updates which makes it easier for the end-user to use. - **controversial**
-- [OpenKirin](https://openkirin.net/) – A team of developers who believe that a pure, AOSP Android experience should be easily available for users running Huawei devices with Kirin chipsets. The reason I list it here is that Huawei devices with Kirin chipsets have less options, I am aware this is AOSP based and the title here says Stock OS alternatives, which AOSP in general counts in.
-- [Postmarket OS](https://postmarketos.org/) – Touch optimised and pre-configured version of Alpine Linux.
-- [ProtonAOSP](https://github.com/ProtonAOSP) – A minimal Android fork for design and performance for Google Pixel devices, which is based on Android 11 & 12. This ROM can be used together with MicroG and has many interesting features. However, by default it comes with Gapps, minimalistic package pre-installed, which you can uninstall afterwards if you want.
-- [Replicant](https://www.replicant.us/) – A free software mobile operating system putting the emphasis on freedom and privacy/security.
-- [Suomenlinna](https://blog.jolla.com/suomenlinna/) – Sailfish OS, Linux for mobile phones.
-
-
-### [Android GSI images](#android-gsi-images)
-
-Android Generic System Images ([GSIs](https://github.com/phhusson/treble_experimentations/)) are for app developers to perform app validation and for development purposes, which means they are bare naked images without anything e.g. GAPPS preinstalled. Since version [401+](https://github.com/phhusson/treble_experimentations/releases/tag/v401) OTA is supported for devices with dynamic partition.
-
-- [Andy Yan's personal builds](https://sourceforge.net/projects/andyyan-gsi/) – LineageOS based GSI images for e.g. Huawei devices, might work on other devices too.
-
-
-### [Google Play Services Framework](#google-play-services-framework)
-- [microG](https://microg.org) – microG is on its own not a OS, but a re-implementation of Google’s proprietary Android apps and libraries.
-
-
-### [Mobile OS based on Linux](#mobile-os-based-on-linux)
-
-Some Distros, mobile as well as desktop using Google Fonts, however there is no evidence that this influence and security or privacy related things for you. There are no hidden connections or analytics.
-
-- [Armbian OS](https://www.armbian.com/) – Minimal Debian based Linux with powerful configurator and software installer.
-- [crDroid](https://crdroid.net/) – Designed to improve the performance, reliability and customizability of stock Android
-- [Havoc OS](https://havoc-os.com/) – An after-market firmware based on Android Open Source Project, inspired by Google Pixel with a refined Material Design 2 UI. They even have Generic System Images (GSI) available so you can try out their ROM even if your device isn't currently supported. They provide monthly OTA updates and a customizable experience.
-- [Hubris](https://hubris.oxide.computer/) – An OS from Oxide Computer.
-- [Kupfer](https://gitlab.com/kupfer) – A [postmarketOS-like](https://tuxphones.com/kupfer-arch-linux-distro-spin-linux-phones/) Arch Linux spin for phones.
-- [Maemo Leste](https://maemo-leste.github.io/) – OS designed for Smartphones and SBCs.
-- [Manjaro Phone](https://manjaro.org/) – Focus on PinePhone.
-- [Mobian](https://mobian-project.org/) – Debian for mobile.
-- [MuditaOS](https://github.com/mudita/MuditaOS) – Mobile operating system based on FreeRTOS™ optimized for E Ink displays.
-- [Nemo](https://wiki.merproject.org/wiki/Nemo) – Supports all All Sailfish devices.
-- [Pine64 Arch Fork](https://github.com/dreemurrs-embedded/Pine64-Arch/) – The PinePhone-specific danctnix's Arch fork is currently a popular and well-maintained choice among PinePhone users.
-- [Plasma Mobile](https://www.plasma-mobile.org/) – Plasma, in your pocket. Privacy-respecting, open source and secure phone ecosystem.
-- [PureOS](https://www.pureos.net/) – Operating system developed by purism for the Librem 5.
-- [SailfishOS](https://sailfishos.org/) – Privacy-focused mobile OS by Jolla with a proprietary UI and Android compatibility layer on top of an open-source Mer GNU/Linux base.
-- [UBPorts](https://www.ubports.com/) – Ubuntu Touch is the touch-friendly mobile version of Ubuntu.
-- [Ubuntu Touch](https://ubuntu-touch.io) – A free and open-source operating system for smartphones and tablets based on Ubuntu.
-
-### [WearOS](#wearos)
-- [AsteroidOS](https://asteroidos.org/) – Open-source alternative for Wear OS.
-- [LuneOS](https://webos-ports.org/wiki/Main_Page) – OS for Smartphones, Tablets, SBCs.
 
 
 ## [Songs regarding Open Source](#songs-regarding-open-source)
@@ -4612,216 +4784,6 @@ There is no definition regarding the term - for developers - I only list Distros
 ### [Chromebook OS alternatives](#chromebook-os-alternatives)
 - [Cadmium](https://github.com/Maccraft123/Cadmium) – A Linux distribution to liberate ARM Chromebooks, Cadmium, aims at providing a stable (and mainline) Linux experience for selected Google Chromebook devices.
 - [GalliumOS](https://wiki.galliumos.org/Hardware_Compatibility) – To run GalliumOS, your ChromeOS device needs firmware support for Legacy/BIOS or UEFI booting.
-
-
-## [Projects you can join to help the make the world more sustainable](#projects-you-can-join-to-help-the-make-the-world-more-sustainable)
-
-- [Buy Nothing Project](https://buynothingproject.org/)
-- [ChangeX](https://www.changex.org/us/social-innovations)
-- [Circular City Initiative](https://www.circularcityfundingguide.eu/circular-cities/)
-- [City Repair](https://cityrepair.org/)
-- [Complexity University Gigatonne Challenge](https://complexity.university/)
-- [Earth Regenerators](https://earth-regenerators.mn.co/)
-- [Ecosystem Restoration Camp](http://www.ecosystemrestorationcamps.com/)
-- [Ecoversities](https://ecoversities.org/)
-- [Food Not Bombs](http://foodnotbombs.net/new_site/)
-- [Food not Lawns](https://www.foodnotlawns.com/)
-- [Gaia University](https://gaiauniversity.org/)
-- [Global Ecovillage Network](https://ecovillage.org/)
-- [Permaculture](http://www.permaculturenews.org/)
-- [Repair Cafe](https://www.repaircafe.org/en/)
-- [Rewilding Network](https://www.rewildingbritain.org.uk/the-rewilding-network/about)
-- [Sharing City Network](https://www.shareable.net/sharing-cities-network/)
-- [Slow Food ](https://www.slowfood.com/)
-- [Slow Money](https://slowmoney.org/)
-- [The Food Forest Project](https://www.thefoodforestproject.org/)
-- [Transition Town](https://transitionstreets.org/)
-- [Worldwide Opportunities on Organic Farms (WWOOF)](https://wwoof.net/)
-
-
-## [Privacy organizations and Cyber-Pirates](#privacy-organizations-and-cyber--pirates)
-
-Consider joining and donating to one, several or all of the listed organizations, they actually fight for your digital freedom.
-
-- [ASIC (French Association of Internet Community Services)](https://en.wikipedia.org/wiki/ASIC_(French_Association_of_Internet_Community_Services))
-- [Association Electronique Libre](https://en.wikipedia.org/wiki/Association_Electronique_Libre)
-- [Association for Progressive Communications](https://en.wikipedia.org/wiki/Association_for_Progressive_Communications)
-- [Australian Privacy Foundation](https://en.wikipedia.org/wiki/Australian_Privacy_Foundation)
-- [Big Brother Watch](https://en.wikipedia.org/wiki/Big_Brother_Watch)
-- [Bits of Freedom](https://en.wikipedia.org/wiki/Bits_of_Freedom)
-- [Canadian Internet Policy and Public Interest Clinic](https://en.wikipedia.org/wiki/Canadian_Internet_Policy_and_Public_Interest_Clinic)
-- [Nonprofit organisation CeMAS consolidates years of interdisciplinary expertise on the topics of conspiracy ideologies, disinformation, antisemitism, and right-wing extremism](https://cemas.io/en/)
-- [Center for Democracy and Technology](https://en.wikipedia.org/wiki/Center_for_Democracy_and_Technology)
-- [Computers, Freedom and Privacy Conference](https://en.wikipedia.org/wiki/Computers,_Freedom_and_Privacy_Conference)
-- [Czech Pirate Party](https://en.wikipedia.org/wiki/Czech_Pirate_Party)
-- [Data Security Council of India](https://en.wikipedia.org/wiki/Data_Security_Council_of_India)
-- [Data protection authorities‎](https://en.wikipedia.org/wiki/Category:Data_protection_authorities)
-- [Defunct privacy organizations‎](https://en.wikipedia.org/wiki/Category:Defunct_privacy_organizations)
-- [Digital Rights Ireland](https://en.wikipedia.org/wiki/Digital_Rights_Ireland)
-- [Digital Rights Watch](https://en.wikipedia.org/wiki/Digital_Rights_Watch)
-- [Digitalcourage](https://en.wikipedia.org/wiki/Digitalcourage)
-- [Digitale Gesellschaft](https://en.wikipedia.org/wiki/Digitale_Gesellschaft)
-- [Electronic Frontier Canada](https://en.wikipedia.org/wiki/Electronic_Frontier_Canada)
-- [Electronic Frontier Finland](https://en.wikipedia.org/wiki/Electronic_Frontier_Finland)
-- [Electronic Frontier Foundation](https://en.wikipedia.org/wiki/Electronic_Frontier_Foundation)
-- [Electronic Frontiers Georgia](https://en.wikipedia.org/wiki/Electronic_Frontiers_Georgia)
-- [Electronic Privacy Information Center](https://en.wikipedia.org/wiki/Electronic_Privacy_Information_Center)
-- [Estonian Pirate Party](https://en.wikipedia.org/wiki/Estonian_Pirate_Party)
-- [European Digital Rights](https://en.wikipedia.org/wiki/European_Digital_Rights)
-- [European Pirate Party](https://en.wikipedia.org/wiki/European_Pirate_Party)
-- [Free Knowledge Institute](https://en.wikipedia.org/wiki/Free_Knowledge_Institute)
-- [Free Software Movement of India](https://en.wikipedia.org/wiki/Free_Software_Movement_of_India)
-- [Freedom to Read Foundation](https://en.wikipedia.org/wiki/Freedom_to_Read_Foundation)
-- [French Data Network](https://en.wikipedia.org/wiki/French_Data_Network)
-- [Future of Privacy Forum](https://en.wikipedia.org/wiki/Future_of_Privacy_Forum)
-- [Go FOSS - A dedicated guide and website to privacy, data ownership & sustainable tech](https://gofoss.net/)
-- [Global Network Initiative](https://en.wikipedia.org/wiki/Global_Network_Initiative)
-- [Global Privacy Enforcement Network](https://en.wikipedia.org/wiki/Global_Privacy_Enforcement_Network)
-- [Global Privacy control](https://globalprivacycontrol.org/)
-- [IT-Political Association of Denmark](https://en.wikipedia.org/wiki/IT-Political_Association_of_Denmark)
-- [Identity Commissioner](https://en.wikipedia.org/wiki/Identity_Commissioner)
-- [International Association of Privacy Professionals](https://en.wikipedia.org/wiki/International_Association_of_Privacy_Professionals)
-- [Internet Security Research Group](https://en.wikipedia.org/wiki/Internet_Security_Research_Group)
-- [LAIM Working Group](https://en.wikipedia.org/wiki/LAIM_Working_Group)
-- [La Quadrature du Net](https://en.wikipedia.org/wiki/La_Quadrature_du_Net)
-- [Libre Las Vegas: GNU/Linux Free Software Users Group](https://librelasvegas.org/)
-- [Mandat International](https://en.wikipedia.org/wiki/Mandat_International)
-- [NOYB](https://en.wikipedia.org/wiki/NOYB)
-- [Network Advertising Initiative](https://en.wikipedia.org/wiki/Network_Advertising_Initiative)
-- [Online Rights Canada](https://en.wikipedia.org/wiki/Online_Rights_Canada)
-- [Open Source Firmware Foundation](https://osfw.foundation/)
-- [Pirate Parties International](https://en.wikipedia.org/wiki/Pirate_Parties_International)
-- [Pirate Party](https://en.wikipedia.org/wiki/Pirate_Party)
-- [Pirate Party UK](https://en.wikipedia.org/wiki/Pirate_Party_UK)
-- [Pirate Party of Latvia](https://en.wikipedia.org/wiki/Pirate_Party_of_Latvia)
-- [Pirate parties‎](https://en.wikipedia.org/wiki/Category:Pirate_parties)
-- [Privacy International](https://en.wikipedia.org/wiki/Pirate_Parties_International)
-- [Riseup](https://en.wikipedia.org/wiki/Riseup)
-- [Seattle Privacy Coalition](https://en.wikipedia.org/wiki/Seattle_Privacy_Coalition)
-- [StopBadware](https://en.wikipedia.org/wiki/StopBadware)
-- [The Journal of Open Source Software](https://joss.theoj.org/)
-- [The Privacy Sandbox Initiative](https://privacysandbox.com/)
-- [Trans Atlantic Consumer Dialogue](https://en.wikipedia.org/wiki/Trans_Atlantic_Consumer_Dialogue)
-- [Winston Smith Project](https://en.wikipedia.org/wiki/Winston_Smith_Project)
-- [Woodhull Freedom Foundation](https://en.wikipedia.org/wiki/Woodhull_Freedom_Foundation)
-
-
-## [Online Leak and Fingerprint tests](#online-leak-and-fingerprinting-tests)
-
-Only unique tests are getting listed here, it makes no sense to list 1000+ pages who do all the same or offering absolute nothing new regarding fingerprinting/leaking.
-
-- [Add unique variable to cached script](https://cookieless-user-tracking.herokuapp.com/)
-- [Canvas Fingerprint Test](https://webbrowsertools.com/canvas-fingerprint/)
-- [CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets/) – Webpage tracking only using CSS (and no JS).
-- [DNS Spoof test](https://www.grc.com/dns/dns.htm)
-- [Decentraleyes Testing Utility](https://decentraleyes.org/test/)
-- [Device Info](https://www.deviceinfo.me/)
-- [Email Privacy Tester](https://emailprivacytester.com/)
-- [Etag Check](https://privacycheck.sec.lrz.de/passive/fp_etag/fp_etag.php)
-- [Firefox Addon detector](https://thehackerblog.com/addon_scanner/)
-- [Firefox Storage Test](https://firefox-storage-test.glitch.me/)
-- [JA3 SSL Fingerprint](https://ja3er.com/)
-- [No-JavaScript Fingerprinting Test page](https://noscriptfingerprint.com/), see how it works [here](https://fingerprintjs.com/blog/disabling-javascript-wont-stop-fingerprinting/)
-- [Privacytests.org](https://privacytests.org/) – Open-source tests of web browser privacy.
-- [Spectre & Meltdown checker](https://github.com/speed47/spectre-meltdown-checker) – Script to check security of your Linux distribution, Android devices too. Run as root.
-- [Test Browser Referer](https://www.darklaunch.com/tools/test-referer)
-- [Test if Third-Party Cookies are Enabled](https://alanhogan.github.io/web-experiments/3rd/third-party-cookies.html)
-- [Torrent check](https://am.i.mullvad.net/torrent) – This tool will test whether or not your torrent client is leaking your own IP.
-- [Trace email address](https://www.ip-adress.com/trace-email-address)
-- [Traffic leaks detector](https://github.com/AsenOsen/traffic_leaks_detector)
-- [Vision](https://f.vision/)
-- [WebRTC leak Test](https://www.hidemyass.com/en-us/webrtc-leak-test)
-- [Whoer](https://whoer.net/)
-- [amiunique](https://amiunique.org/) – Is you browser signatures unique across the web?
-- [antcpt](https://antcpt.com/eng/information/demo-form/recaptcha-3-test-score.html) – ReCaptcha score as well as some interesting notes on how to optimize CAPTCHA solving costs.
-- [Audio Fingerprint](https://audiofingerprint.openwpm.com/) – Possible to detect you on the same PC if you use different browsers / virtual environment.
-- [browserleaks](https://browserleaks.com/)
-- [browserspy](https://browserspy.dk/)
-- [CanvasBlocker Test](https://canvasblocker.kkapsner.de/test/) – Test you canvas in the different browsers, if they all have the same signature you are in trouble.
-- [CreepJS - Creepy device and browser fingerprinting.](https://abrahamjuliot.github.io/creepjs/)
-- [CSS exfil Vulnerability Tester](https://www.mike-gualtieri.com/css-exfil-vulnerability-tester)
-- [dnscookie](http://dnscookie.com/) – DNS cookies use DNS caches as a side-channel to identify related network flows.
-- [dnsleaktest](https://www.dnsleaktest.com/)
-- [doileak](https://www.doileak.com/)
-- [eMail checker - Check if email exists or not.](https://email-checker.net/)
-- [eMail IP Leak](https://emailipleak.com/)
-- [Email Privacy Tester](https://www.emailprivacytester.com/)
-- [fingerprintjs](https://fingerprintjs.com/demo/)– Good for basic tests, from people who believe and claim can create unique fingerprints "99.5%" of the time.
-- [GRC fingerprint check](https://www.grc.com/fingerprints.htm)
-- [HTML Mocker Demo](https://cleartax.github.io/html-mocker/) – Randomize HTML content to test your defensive CSS.
-- [haveibeenpwned](https://haveibeenpwned.com/) – Is you account compromised?
-- [howsmyssl](https://www.howsmyssl.com/) – How secure HTTPS/SSL/TLS in your browser test.
-- [html5test](https://html5test.com/)
-- [IPduh Anonymity Check](https://ipduh.com/anonymity-check/)
-- [ipleak](https://ipleak.net/)
-- [IP quality score](https://www.ipqualityscore.com/ip-reputation-check)
-- [ipv6leak](https://ipv6leak.com/)
-- [is-chrome-100-yet.glitch.me](https://is-chrome-100-yet.glitch.me/)) – See here [how it works](https://developer.chrome.com/blog/force-major-version-to-100/).
-- [jShelter Test Page](https://polcak.github.io/jsrestrictor/test/test.html)
-- [ja3er](https://ja3er.com/) – JA3 SSL Fingerprint test.
-- [key-event-viewer](https://w3c.github.io/uievents/tools/key-event-viewer.html)
-- [kitchensink](https://kitchensink.ssl.fun/vendor/shape/fp)
-- [Mullvad torrent check](https://mullvad.net/en/check/)
-- [Panopticlick](https://panopticlick.eff.org/) or the new version [Cover Your Tracks](https://coveryourtracks.eff.org/) - **controversial**
-- [permission](https://permission.site/)
-- [pixelscan](https://pixelscan.net/)
-- [Privacy Proxy Test](https://do-know.com/privacy-proxy-test.html)
-- [Privacy Check](https://privacycheck.sec.lrz.de/index.html)
-- [rel-noopener test](https://mathiasbynens.github.io/rel-noopener/)
-- [SSL and TLS check](https://www.ssllabs.com/ssltest/)
-- [thunderspy](https://thunderspy.io/) – Thunderspy targets devices with a Thunderbolt port. If your computer has such a port, an attacker who gets brief physical access to it can read and copy all your data, even if your drive is encrypted and your computer is locked or set to sleep.
-- [Traffic Leaks Detector](https://github.com/AsenOsen/traffic_leaks_detector) – Java utility which detects potential network leaks using special algorithms.
-- [uniquemachine](http://uniquemachine.org/)
-- [whatleaks](https://whatleaks.com/)
-- [webcamtests](https://webcamtests.com/) – Webcam Test Web Utility.
-- [whotracks](https://whotracks.me/) – Statistic about trackers on websites by Ghostery.
-- [Winston Fingerprinting Demo](https://demos.winstonprivacy.com/delayed-iframe-fingerprint.html) – This page demonstrates cookieless tracking technologies which can be used to uniquely identify your browser.
-- [XSinator – XS-Leak Browser Test Suite](https://xsinator.com/)
-
-
-## [Domain Hosting providers](#domain-hosting-providers)
-- [1984 Hosting](https://1984hosting.com) – A green, ethical web hosting that protects its user's privacy.
-- [AccuWeb Hosting](https://www.accuwebhosting.com/web-hosting/free-wordpress-hosting) – No Ads or Banners.
-- [CloudSigma](https://www.cloudsigma.com/) – CloudSigma’s cloud infrastructure and services have been certified as compliant with the highest ISO 27001 requirements for security and data privacy.
-- [cryptoho](https://cryptoho.st/) – VPS hosting service with its servers in Romania, accepts BTC,Lightning Network, XMR, LTC, DASH, ETH, USDT as payment.
-- [Exoscale](https://www.exoscale.com) – A European cloud computing for cloud native teams.
-- [FlokiNET](https://flokinet.is) – A secure, stable and anonymous web hosting.
-- [FreedomBox](https://www.freedombox.org/) – A libre self-hosting system and also a commercial product. It has less apps than YunoHost but can be bought as a ready-to-use product.
-- [Greenhost](https://greenhost.net) – A sustainable and secure webhosting.
-- [Infomaniak](https://www.infomaniak.com) – Professional web hosting, domain name, cloud server, and email service.
-- [Lohost](https://lohost.io/) –  Distributed, decentralized, anonymized local website hosting.
-- [Namecheap](https://www.namecheap.com) – Cheap domain names and web hosting.
-- [NiceVPS](https://nicevps.net/) – Proudly offering delivering the best uncensored and privacy oriented hosting service around.
-- [Njalla](https://njal.la/) – Finally, a privacy-aware domain service. It lacks a proper privacy policy, but is trusted and used by many.
-- [OrangeWebsite](https://www.orangewebsite.com) – An Icelandic web hosting provider.
-- [Sandstorm](https://sandstorm.io/) – An open-source self-hosted web hosting platform for a wide set of web applications, including Etherpad (collaborative text editing), Radicale (calendar), Lychee (image hosting), Wekan (Kanban).
-- [Takingnames.io](https://www.Takingnames.io) – The first domain name provider for self-hosters.
-- [YunoHost](https://yunohost.org/) – A libre operating system, that eases installing web applications on your own hardware. It also provides you with your own email server out of the box.
-
-
-## [Domain Registrar](#domain-registrar)
-
-You can [unblock domains from security filters](https://gist.github.com/grovesNL/2d00b568038bd28896d44d1b5b3299cd).
-
-- [Cloudflare](https://www.cloudflare.com/products/registrar/) – No markup on pricing according to their docs. MFA with YubiKey and [API](https://api.cloudflare.com/#registrar-domains-properties). - **controversial** The logic why it is listed is that I suggest if you really trust CL, you stick to all of their programs and services because you already gave them your private Infos.
-- [DNSimple](https://dnsimple.com/) – Simple, Secure Domain Management.
-- [Gandi](https://cli.gandi.net/) – Their motto used to be “No bullshit”.
-- [Njalla](https://njal.la) – Privacy-aware domain service, sitting in between the domain service registrations and you, acting like a privacy shield.
-- [Orangewebsite](https://www.orangewebsite.com/) – An Iceland-based freedom of speech web hosting provider. They never actually ask for your name, at least when you pay in Bitcoin.
-
-
-## [Bulletproof Hosting Service Providers](#bulletproof-hosting-service-providers)
-- [Colocrossing](http://www.colocrossing.com/)
-- [Ecatel](http://ecatel.co.uk/)
-- [RockHoster](https://rockhoster.com/)
-
-
-### [Bulletproof Domain Hosting Providers](#bulletproof-domain-hosting-providers)
-- [bpserv.host](https://bpserv.host/bulletproof-domain-registration.php)
-
-
-### [Local hosting](#local-hosting)
-- [PageKite](https://pagekite.net/) – Has led the way in making local servers public. With relays on four continents, it works with any computer, any web server and any Internet connection.
 
 
 ## [Remote Access and Control](#remote-access-and-control)
@@ -5295,6 +5257,41 @@ Privacy oriented alternatives:
 ### [File Steganography](#file-steganography)
 - [DissidentX](https://github.com/bramcohen/DissidentX) – Encode files on the web.
 - [Real Steganography with TrueCrypt](http://keyj.emphy.de/real-steganography-with-truecrypt/) – Hiding containers inside MP4 video files.
+
+
+## [Translation](#translation)
+Not so good in terms of privacy:
+- Bing Translator
+- Linguee
+- Yandex Translate is easy to [abuse](https://twitter.com/EuromaidanPress/status/1482312998509330435)
+- [DeepL](https://old.reddit.com/r/TranslationStudies/comments/mgzens/is_deepl_safe/) – The premium version (DeepL Pro) does not keep your data after it is translated. They specify that the texts are deleted immediately. DeepL's terms of usage disallow submitting any text containing personal data, and submitted text will be retained for a certain amount of time.
+- [Google Translate](https://www.linkedin.com/pulse/google-translate-privacy-confidentiality-concerns-alex-gheorghe)
+
+
+Privacy oriented alternatives:
+- [Apertium](https://apertium.org/) – A free/open-source machine translation platform, runs offline on your computer.
+- [Dialect](https://github.com/dialect-app/dialect/) – An Open-Source Translation App for Linux.
+- [LibreTranslate](https://libretranslate.com/) – Open Source Machine Translation – 100% Self-Hosted. No Limits. No Ties to Proprietary Services.
+- [Mitzuli](https://f-droid.org/en/packages/com.mitzuli/) – Translator for Android featuring a full offline mode, voice input (ASR), camera input (OCR), voice output (TTS), and more.
+- [Softcatala](https://www.softcatala.org/traductor/) – Open Source Translation tool – Only Catalan/Spanish/English/French, it uses uses apertium.
+- [SymplyTranslate ](https://translate.metalune.xyz/) – You can select between different Translation engines, Google, DeepL, ICIBA or LibreTranslate.
+- [TranslateLocally](https://translatelocally.com/) – Free, open source neural MT, runs offline on your computer.
+
+### [Alternative Google Translate front-ends](#alternative-google-translate-front-ends)
+- [Lingva Translate](https://github.com/TheDavidDelta/lingva-translate) – Alternative front-end for Google Translate. [Demo](https://lingva.ml/).
+- [Simplytranslate](https://git.sr.ht/~metalune/simplytranslate_web) – Alternative front-end for Google Translate and LibreTranslate. [Demo](https://translate.metalune.xyz/).
+
+### [Alternatives for Google Translate on Mobile](#alternatives-for-google-translate-on-mobile)
+- [OpenL Translator](https://f-droid.org/app/com.anthony.deepl.openl) – Open source front-end to the high-quality DeepL machine translation services (available for English, German, French, Spanish, Italian, Dutch and Polish).
+- [QuickDic](https://f-droid.org/packages/de.reimardoeffinger.quickdic) – Offline translation dictionary.
+
+
+## [Transcription](#transcription)
+- [Captain-s-Log](https://github.com/nsw11/Captain-s-Log) – An audio transcription program utilizing IBM's Watson Speech to Text tool.
+- [Gecko](https://github.com/gong-io/gecko) – A Tool for Effective Annotation of Human Conversations.
+- [ocr-gt-tools](https://github.com/UB-Mannheim/ocr-gt-tools) – Ergonomic line-by-line transcription of scanned text.
+- [speechTranscription](https://github.com/its-me-Harsh-Anand/speechTranscription) – Use of a live transcription tool - Deepgram : Speak something out loud, let deepgram do some work.
+- [vid2cleantxt](https://github.com/pszemraj/vid2cleantxt) – A command-line tool to easily transcribe speech-based video files into clean text.
 
 
 ## [Tax Software](#tax-software)
