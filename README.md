@@ -615,9 +615,28 @@ Browsers are typically used as gateways to a lot of things and not only Browsing
 - [Tor Browser](https://www.torproject.org/) combined [with uBlock](https://www.esat.kuleuven.be/cosic/publications/thesis-407.pdf) – Firefox ESR hardened Browser which allows Tor (Onion) connections.
 
 
+### [Android & iOS Browser](#android--ios-browser)
+- [Brave Browser](https://brave.com/) – In case you use Brave Browser on Desktop, then keep it for mobile too.
+- [Bromite](https://www.bromite.org/) – Android version which includes some hardening and additional tweaks and changes.
+- [Ungoogled Chromium](https://ungoogled-software.github.io/) – Ungoogled-Chromium-Android is the Android version of Ungoogled-Chromium. - **controversial**
+- [Fennec F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) – A privacy-focused version of Firefox Android available on F-Droid. Fennec itself has telemetry but you can easily [opt-out](https://old.reddit.com/r/privacy/comments/pxlijb/is_fennec_actually_private/).
+- [Firefox](https://www.mozilla.org/en-US/firefox/mobile/) – Android/iOS – Mozilla is evaluating Firefox usage by changing the [default search engine to Bing](https://www.techspot.com/news/91395-mozilla-evaluating-firefox-usage-changing-default-search-engine.html).
+    - [Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos/) – Privacy hardened fork of Firefox for Android, with proprietary blobs removed.
+    - [Iceraven](https://github.com/fork-maintainers/iceraven-browser) – A web browser for Android, based on Mozilla's Fenix version of Firefox.
+- [iCab Mobile (Web Browser)](https://apps.apple.com/us/app/icab-mobile-web-browser/id308111628) - The default settings are not optimal but it is overall a considerable good Browser choice for iOS.
+- [Lynket](https://github.com/arunkumar9t2/lynket-browser) – Lynket utilizes Chrome Custom Tab API to create a customized browsing experience while adding innovative features like background loading with floating bubbles, article mode and multitasking using Android's recent menu. - **controversial**
+- [Lightning Browser](https://github.com/anthonycr/Lightning-Browser) – A lightweight Android browser with modern navigation. The price is free version on F-Droid but there is a Pro version for $1.50 on Google Play.
+- [Orion Browser](https://browser.kagi.com/) – For iOS and macOS. - **controversial**
+- [Privacy Browser](https://www.stoutner.com/privacy-browser/) – Android only with some nice features. - **controversial**
+- [Tor Browser](https://www.torproject.org/) – Tor Browser for Android and iOS.
+- [SnowHaze](https://snowhaze.com/en/index.html) – Claims to be an privacy-oriented Browser.
+- [SmartCookieWeb](https://github.com/CookieJarApps/SmartCookieWeb) – A lightweight, basic and secure web browser that uses less than 8MB of space. - **controversial**
+- [Via Browser](https://github.com/tuyafeng/Via) – Via Browser is a powerful browser based on WebView.
+
+
 ### [Flash Browser](#flash-browser)
 
-Adobe Flash is dead, and has several security implications, however, some might want to quickly Browse oldschool websites and looking for a Browser based solution instead of blindly downloading and executing unknown code on their machine.
+Adobe Flash is dead and has several security implications however, some might want to quickly Browse oldschool websites and looking for a Browser based solution instead of blindly downloading and executing unknown code on their machine.
 
 - [FlashBrowser](https://github.com/radubirsan/FlashBrowser) – A small browser capable of viewing/displaying pages with embedded flash content.
 
@@ -627,6 +646,7 @@ Adobe Flash is dead, and has several security implications, however, some might 
 - [Ceno](https://censorship.no/en/about.html) – A P2P mobile browser to fight censorship. - **controversial**
 - [Decenter Browser](https://decentr.net/) – Blockchain based Browser approach.
 - [Stealth](https://github.com/tholian-network/stealth) – Secure, Peer-to-Peer, Private and automatable Web Browser/Scraper/Proxy.
+
 
 ### [IPFS Browsers](#ipfs-browsers)
 - [Thor Browser](https://f-droid.org/de/packages/threads.thor/) – Native IPFS and IPNS browser which based on WebKit API.
@@ -638,13 +658,47 @@ Adobe Flash is dead, and has several security implications, however, some might 
 - [Molasses](https://github.com/jjsimpso/molasses) – A multi-tabbed browser for the "slow" internet, including Gopher and Gemini.
 
 
-## [Browser Fingerprinting](#browser-fingerprinting)
+### [Web Browser Tools](#web-browser-tools)
+- [Visited](https://github.com/yuis-ice/visited) - Locally collect browsing history over Browsers.
 
+
+### [Browser Benchmark](#browser-benchmark)
+- [ARES-6](https://browserbench.org/ARES-6/) – Various tests using the newest web standards and features.
+- [Basemark](https://web.basemark.com/) – Various tests using the newest web standards and features.
+- [JetStream](https://browserbench.org/JetStream/) – JavaScript benchmark developed by Apple.
+- [Kraken](https://krakenbenchmark.mozilla.org/) – JavaScript benchmark developed by Mozilla.
+- [MotionMark](https://browserbench.org/MotionMark/) – Graphics benchmark developed by the WebKit team.
+- [Octane](https://chromium.github.io/octane/) – JavaScript benchmark developed by Google.
+- [Speedometer](https://browserbench.org/Speedometer/) – Performance benchmark that repeats the same actions using DOM APIs.
+- [WebXPRT](https://www.principledtechnologies.com/benchmarkxprt/webxprt/) – HTML5 and JavaScript test developed by benchmark maker Principled Technologies.
+
+
+### [Browser Syncing](#browser-syncing)
+- [xBrowserSync](https://www.xbrowsersync.org/) – Browser syncing as it should be: secure, anonymous and free.
+- [EteSync](https://www.etesync.com/) – Secure, end-to-end encrypted, and privacy respecting sync for your contacts, calendars, tasks and notes.
+- [Floccus](https://floccus.org/) – Sync your bookmarks privately across browsers.
+
+
+### [Redirect News, Search, and Weather Results to Your Default Browser](#redirect-news-search-and-weather-results-to-your-default-browser)
+- [MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) – A Tool to Redirect News, Search, and Weather Results to Your Default Browser.
+- [EdgeDeflector](https://github.com/da2x/EdgeDeflector) – A tiny helper application to force Windows 10 to use your preferred web browser instead of ignoring the setting to promote Microsoft Edge. Only runs for a microsecond when needed.
+
+
+### [Browser Referrer Hider Tools](#browser-referrer-hider-tools)
+- [href.li](https://href.li/) – Hide your referrer and create an anonymous link that will hide the HTTP Referer header.
+
+
+### [WebView alternatives](#webview-alternatives)
+- [Bromite WebView](https://www.bromite.org/system_web_view) – A version of Android System WebView with support for ad blocking and enhanced privacy.
+    - [WebView Switcher](https://github.com/Magisk-Modules-Repo/bromitewebview) – A tool for installing Bromite WebView on Android 10 and higher.
+
+
+## [Browser Fingerprinting](#browser-fingerprinting)
 ### [Canvas Fingerprinting](#canvas-fingerprinting)
-- [AdTechMadness](https://adtechmadness.wordpress.com/2019/03/19/overview-of-googles-picasso/) – "Overview of Google’s Picasso".
-- [Antoinevastel](https://github.com/antoinevastel/picasso-like-canvas-fingerprinting) – "Picasso based canvas fingerprinting".
+- [AdTechMadness](https://adtechmadness.wordpress.com/2019/03/19/overview-of-googles-picasso/) – Overview of Google’s Picasso.
+- [Antoinevastel](https://github.com/antoinevastel/picasso-like-canvas-fingerprinting) – Picasso based canvas fingerprinting.
 - [Dali.js](https://github.com/onsitejs/dali.js) – Dali.js, Picasso-like device attestation payload.
-- [FingerprintJS](https://fingerprintjs.com/blog/canvas-fingerprinting/) – "How Does Canvas Fingerprinting Work?".
+- [FingerprintJS](https://fingerprintjs.com/blog/canvas-fingerprinting/) – How Does Canvas Fingerprinting Work?.
 - [Google Research](https://research.google/pubs/pub45581/) – Picasso: Lightweight Device Class Fingerprinting for Web Clients.
 
 
@@ -657,11 +711,6 @@ Adobe Flash is dead, and has several security implications, however, some might 
 - [HUMAN Security](https://www.humansecurity.com/blog/the-cybercrime-starter-kit-inside-anti-detection-browsers) – "Inside Anti-Detection Browsers and Account Takeovers".
 - [Privacy Analyzer](https://privacy.net/analyzer/) – Tool lists information that any website, advertisement, and widget can collect from your web browser.
 - [User-Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg) – Spoofs & Mimics User-Agent strings.
-
-
-### [Other Fingerprinting](#other-fingerprinting)
-- [FingerprintJS](https://fingerprintjs.com/blog/incognito-mode-detection/) – "Incognito Mode Detection: Detecting Visitors Who Browse in Private Mode".
-- [Jesse Li](https://blog.jse.li/posts/chrome-76-incognito-filesystem-timing/) – "Detecting incognito mode in Chrome 76 with a timing attack".
 
 
 ### [Passive Fingerprinting](#passive-fingerprinting)
@@ -680,35 +729,13 @@ Adobe Flash is dead, and has several security implications, however, some might 
 - [Drawn ApartM](https://orenlab.sise.bgu.ac.il/p/DrawnApart) – Identification Technique Based on Remote GPU Fingerprinting.
 
 
-### [Redirect News, Search, and Weather Results to Your Default Browser](#redirect-news-search-and-weather-results-to-your-default-browser)
-- [MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) – A Tool to Redirect News, Search, and Weather Results to Your Default Browser.
-- [EdgeDeflector](https://github.com/da2x/EdgeDeflector) – A tiny helper application to force Windows 10 to use your preferred web browser instead of ignoring the setting to promote Microsoft Edge. Only runs for a microsecond when needed.
-
-### [Android & iOS Browser](#android--ios-browser)
-- [Brave Browser](https://brave.com/) – In case you use Brave Browser on Desktop, then keep it for mobile too.
-- [Bromite](https://www.bromite.org/) – Android version which includes some hardening and additional tweaks and changes.
-- [Ungoogled Chromium](https://ungoogled-software.github.io/) – Ungoogled-Chromium-Android is the Android version of Ungoogled-Chromium. - **controversial**
-- [Fennec F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) – A privacy-focused version of Firefox Android available on F-Droid. Fennec itself has telemetry but you can easily [opt-out](https://old.reddit.com/r/privacy/comments/pxlijb/is_fennec_actually_private/).
-- [Firefox](https://www.mozilla.org/en-US/firefox/mobile/) – Android/iOS – Mozilla is evaluating Firefox usage by changing the [default search engine to Bing](https://www.techspot.com/news/91395-mozilla-evaluating-firefox-usage-changing-default-search-engine.html).
-    - [Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos/) – Privacy hardened fork of Firefox for Android, with proprietary blobs removed.
-    - [Iceraven](https://github.com/fork-maintainers/iceraven-browser) – A web browser for Android, based on Mozilla's Fenix version of Firefox.
-- [iCab Mobile (Web Browser)](https://apps.apple.com/us/app/icab-mobile-web-browser/id308111628) - The default settings are not optimal but it is overall a considerable good Browser choice for iOS.
-- [Lynket](https://github.com/arunkumar9t2/lynket-browser) – Lynket utilizes Chrome Custom Tab API to create a customized browsing experience while adding innovative features like background loading with floating bubbles, article mode and multitasking using Android's recent menu. - **controversial**
-- [Lightning Browser](https://github.com/anthonycr/Lightning-Browser) – A lightweight Android browser with modern navigation (Price: Free (Pro version $1.50 on Google Play or free on F-Droid)).
-- [Orion Browser](https://browser.kagi.com/) – For iOS and macOS. - **controversial**
-- [Privacy Browser](https://www.stoutner.com/privacy-browser/) – Android only with some nice features. - **controversial**
-- [Tor Browser](https://www.torproject.org/) – Tor Browser for Android and iOS.
-- [SnowHaze](https://snowhaze.com/en/index.html) – Claims to be an privacy-oriented Browser.
-- [SmartCookieWeb](https://github.com/CookieJarApps/SmartCookieWeb) – A lightweight, basic and secure web browser that uses less than 8MB of space. - **controversial**
-- [Via Browser](https://github.com/tuyafeng/Via) – Via Browser is a powerful browser based on WebView.
+### [Other Fingerprinting](#other-fingerprinting)
+- [FingerprintJS](https://fingerprintjs.com/blog/incognito-mode-detection/) – "Incognito Mode Detection: Detecting Visitors Who Browse in Private Mode".
+- [Jesse Li](https://blog.jse.li/posts/chrome-76-incognito-filesystem-timing/) – "Detecting incognito mode in Chrome 76 with a timing attack".
 
 
-### [Web Browser Tools](#web-browser-tools)
-- [Visited](https://github.com/yuis-ice/visited) - Locally collect browsing history over Browsers.
-
-
-### [Web Browser Extensions](#web-browser-extensions)
-The list is not a "best practice" recommendation list for extensions/addons you shall install. The list is random without any logic behind.
+## [Browser Extensions](#browser-extensions)
+The list is not a "best practice" recommendation list for extensions/add-ons you shall install. The list is random without any logic behind.
 
 Before someone wrongly interpret this as "he uses those listed extensions himself", this is not the case. If you look for someone else suggestions, I suggest to take a look at [privacy-fighter](https://github.com/jotyGill/privacy-fighter).
 
@@ -762,7 +789,7 @@ Before someone wrongly interpret this as "he uses those listed extensions himsel
 - [zwBlocker](https://github.com/aido179/zwBlocker) – WAN extension that helps [spot zero-width characters.](https://medium.com/@aidobreen/hidden-text-fingerprints-and-how-to-avoid-them-d0103edd2ce4)
 
 
-### [Web Browser Extensions you do NOT need](#web-browser-extensions-you-do-not-need)
+### [Browser Extensions you do NOT need](#browser-extensions-you-do-not-need)
 
 Every custom extension and configuration you change makes your browser unique in its own way. See e.g. [amiunique](https://amiunique.org/).
 
@@ -790,31 +817,6 @@ You do not need them if you have above listed extensions/add-ons installed or in
 - Redirect AMP to HTML
 - Skip Redirect
 - TrackMeNot
-
-### [Browser Benchmark](#browser-benchmark)
-- [ARES-6](https://browserbench.org/ARES-6/) – Various tests using the newest web standards and features.
-- [Basemark](https://web.basemark.com/) – Various tests using the newest web standards and features.
-- [JetStream](https://browserbench.org/JetStream/) – JavaScript benchmark developed by Apple.
-- [Kraken](https://krakenbenchmark.mozilla.org/) – JavaScript benchmark developed by Mozilla.
-- [MotionMark](https://browserbench.org/MotionMark/) – Graphics benchmark developed by the WebKit team.
-- [Octane](https://chromium.github.io/octane/) – JavaScript benchmark developed by Google.
-- [Speedometer](https://browserbench.org/Speedometer/) – Performance benchmark that repeats the same actions using DOM APIs.
-- [WebXPRT](https://www.principledtechnologies.com/benchmarkxprt/webxprt/) – HTML5 and JavaScript test developed by benchmark maker Principled Technologies.
-
-
-### [Browser Syncing](#browser-syncing)
-- [xBrowserSync](https://www.xbrowsersync.org/) – Browser syncing as it should be: secure, anonymous and free.
-- [EteSync](https://www.etesync.com/) – Secure, end-to-end encrypted, and privacy respecting sync for your contacts, calendars, tasks and notes.
-- [Floccus](https://floccus.org/) – Sync your bookmarks privately across browsers.
-
-
-### [WebView alternatives](#webview-alternatives)
-- [Bromite WebView](https://www.bromite.org/system_web_view) – A version of Android System WebView with support for ad blocking and enhanced privacy.
-    - [WebView Switcher](https://github.com/Magisk-Modules-Repo/bromitewebview) – A tool for installing Bromite WebView on Android 10 (and higher).
-
-
-### [Browser Referrer Hider Tools](#browser-referrer-hider-tools)
-- [href.li](https://href.li/) – Hide your referrer and create an anonymous link that will hide the HTTP Referer header.
 
 
 ## [Book Resources](#book-resources)
@@ -2073,6 +2075,26 @@ For mobile please check the file manager section, most file manager include such
 - [TrebleShot](https://github.com/trebleshot) – Free and open-source software for sharing files with support for browsers, Android & desktop.
 
 
+### [Send files between devices](#send-files-between-devices)
+- [Android File Transfer For Linux (and Mac OS X) (USB)](https://github.com/whoozle/android-file-transfer-linux/blob/master/README.md)
+- [Http Share](https://github.com/marcosdiez/shareviahttp/) – A simple way to share files on your phone or tablet with any other phone, computer or tablet.
+- [LanXchange](https://github.com/tfg13/LanXchange/) – Configuration-free, cross-platform file transfers for your local network.
+- [Mass Transfer](https://github.com/hexian000/MassTransfer/blob/master/README.md) – Only between Androids.
+- [NitroShare](https://f-droid.org/app/net.nitroshare.android) – Simplifies the task of sending files from one device to another on a local network.
+- [Transfer.sh](https://github.com/kartikarora/Transfer.sh/) – Easy file sharing from your Android device!
+- [tFileTransporter](https://github.com/Tans5/tFileTransfer_desktop) – Transfer apps, images and files to Android Devices and PCs.
+- [Warpinator](https://github.com/slowscript/warpinator-android) – Unofficial re-implementation of Linux Mint's file sharing tool Warpinator for Android, basically a tool for sending and receiving files between computers that are on the same network. All you need do is install Warpinator on the computers, choose a group code, edit your firewalls if necessary, and that’s all.
+
+
+### [Self-hosted File-Sharing](#self-hosted-file-sharing)
+- [Lufi](https://github.com/ldidry/lufi) – Lufi means Let's Upload that File. It's a E2E encrypted file sharing software.
+- [OnionShare](https://onionshare.org/) – An open source tool that lets you securely and anonymously share files, host websites, and chat with friends using the Tor network.
+- [Nextcloud](https://nextcloud.com/) – The self-hosted productivity platform that keeps you in control.
+- [Retroshare](https://github.com/RetroShare/RetroShare) – A decentralized, private, secure, cross-platform, communication toolkit. RetroShare provides file sharing, chat, messages, forums, channels and more.
+- [ProjectSend](https://www.projectsend.org/) – Share files with your clients from your own server.
+- [zend.to](https://zend.to/) – The safe, secure and completely free way to transfer large files around the Web.
+
+
 ## [File Manager](#file-manager)
 Not so good in terms of privacy:
 - Astro File Manager
@@ -2366,191 +2388,14 @@ Controversial:
 
 Please keep in mind that some guides might be a bit older, however some still have meaning and you possible can learn from them in an historic context to see how certain stuff evolved, or stay the same. In general guidance are only as good as the author did the research on the given topic, which means that some things can be universally applied to specific threads and other guidance are specific to one or a few given examples.
 
-
-I usually only unlist stuff that is entirely incorrect or even dangerous to follow because security practical constantly evolves in both ways, positive ways and negative ways, which means new attacks emerge and new counter measurements also getting released because of the new threats.
-
-
-Listed guidance are provided as-is.
-
-
-### ["Best practice" Guides](#best-practice-guides)
-- [5 Best Practices for Securing SSH](https://goteleport.com/blog/5-ssh-best-practices/)
-- [A cookbook with the best practices for working with Kubernetes](https://github.com/diegolnasc/kubernetes-best-practices)
-- [A collection of best practices to consider when building user interfaces](https://lawsofux.com/)
-- [ANSSI - Configuration recommendations of a GNU/Linux system](https://www.ssi.gouv.fr/en/guide/configuration-recommendations-of-a-gnulinux-system/)
-- [ANSSI Best Practices](https://www.ssi.gouv.fr/en/best-practices/)
-- [Applied Crypto Hardening – Reference on how to configure the most common services’ crypto settings (TLS/SSL, PGP, SSH and other cryptographic tools)](https://bettercrypto.org/)
-- [auditd - Best Practice Auditd Configuration](https://github.com/Neo23x0/auditd)
-- [Beginner guide: How to secure your self-hosted services](https://old.reddit.com/r/selfhosted/comments/pufhs0/beginner_guide_how_to_secure_your_selfhosted/)
-- [Best Practices for Anti-Money Laundering Compliance 2019 – 2020](https://www.americangaming.org/wp-content/uploads/2019/12/AGA-AML-Best-Practices_12-9.pdf)
-- [Best Practices for Azure Container Registry](https://docs.microsoft.com/en-us/azure/container-registry/container-registry-best-practices)
-- [Best Practices for Letting Go of a Remote Team Member](https://www.infoq.com/articles/letting-go-remote/)
-- [Best practices for ML lifecycle stages](https://dev.to/cloudtech/best-practices-for-ml-lifecycle-stages-4g9b)
-- [Best Practices to optimize query costs in BigQuery](https://metriql.com/blog/2021/09/30/best-practices-to-optimize-the-query-costs-in-BigQuery)
-- [Best practices for writing faster SQL queries](https://guides.tinybird.co/guide/best-practices-faster-sql-queries)
-- [Best practices for adopting and designing IPv6-based networks on AWS](https://d1.awsstatic.com/whitepapers/IPv6-on-AWS.pdf)
-- [CIS Benchmark for Red Hat Linux](https://www.cisecurity.org/benchmark/red_hat_linux/)
-- [Container Security Best Practices](https://sysdig.com/blog/container-security-best-practices/)
-- [Create your own Git server using Raspberry Pi and GitLab](https://medium.com/@kevalpatel2106/create-your-own-git-server-using-raspberry-pi-and-gitlab-f64475901a66)
-- [Database Security Best Practices in 2022](https://backendless.com/database-security-best-practices/)
-- [Defective Sign & Encrypt in S/MIME, PKCS#7, MOSS, PEM, PGP, and XML](https://theworld.com/~dtd/sign_encrypt/sign_encrypt7.html)
-- [Digital Security for Filmmakers](https://digitalsecurity.film/)
-- [DISA STIGs – Red Hat Enterprise Linux 7 (2019)](https://public.cyber.mil/stigs/downloads/?_dl_facet_stigs=unix-linux)
-- [Endpoint Isolation with the Windows Firewall, talk from Ignite 2016](https://medium.com/@cryps1s/endpoint-isolation-with-the-windows-firewall-462a795f4cfb) based on Jessica Payne’s [Demystifying the Windows Firewall](https://channel9.msdn.com/Events/Ignite/New-Zealand-2016/M377)
-- [Enforcing best practice on self-serve infrastructure with Terraform](https://tech.loveholidays.com/enforcing-best-practice-on-self-serve-infrastructure-with-terraform-atlantis-and-policy-as-code-911f4f8c3e00)
-- [ERNW – IPv6 Hardening Guide for Windows Servers](https://www.ernw.de/download/ERNW_Guide_to_Configure_Securely_Windows_Servers_For_IPv6_v1_0.pdf)
-- [FDA: Best Practices for Communicating Cybersecurity Vulnerabilities to Patients](https://www.fda.gov/about-fda/cdrh-patient-science-and-engagement-program/best-practices-communicating-cybersecurity-vulnerabilities-patients)
-- [FIRST Best Practice Guide Library](https://www.first.org/resources/guides/)
-- [Git Commit Good Practice](https://wiki.openstack.org/wiki/GitCommitMessages)
-- [Guide for GitLab and I2P self-hosting](https://geti2p.net/en/docs/applications/git-bundle)
-- [Guidance on Software Development and Open Source Software ](https://dodcio.defense.gov/Portals/0/Documents/Library/SoftwareDev-OpenSource.pdf)
-- [Guide to DRM-Free Living: Literature](https://www.defectivebydesign.org/guide/ebooks)
-- [Hashes and ETags: Best Practices](https://cloud.google.com/storage/docs/hashes-etags)
-- [Install a self-hosted Git server with Gitea on a VPS](https://golb.hplar.ch/2018/06/self-hosted-git-server.html)
-- [Linux workstation security checklist](https://github.com/lfit/itpol/blob/master/linux-workstation-security.md)
-- [Microsoft – How to detect, enable and disable SMBv1, SMBv2, and SMBv3 in Windows and Windows Server](https://support.microsoft.com/en-gb/help/2696547/detect-enable-disable-smbv1-smbv2-smbv3-in-windows-and-windows-server)
-- [Microsoft recommended block rules](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules) – List of applications or files that can be used by an attacker to circumvent application whitelisting policies.
-- [Mozilla Guidelines to Secure SSH](https://infosec.mozilla.org/guidelines/openssh)
-- [Netherlands NCSC – IT Security Guidelines for Transport Layer Security (TLS) (2019)](https://www.ncsc.nl/english/current-topics/factsheets/it-security-guidelines-for-transport-layer-security-tls.html)
-- [NIST SP 800-41 Rev 1 – Guidelines on Firewalls and Firewall Policy (2009)](https://www.nist.gov/publications/guidelines-firewalls-and-firewall-policy)
-- [NIST SP800-52 Rev 2 (2nd draft) – Guidelines for the Selection, Configuration, and Use of Transport Layer Security (TLS) Implementations (2018)](https://csrc.nist.gov/publications/detail/sp/800-52/rev-2/draft)
-- [nixCraft – How to set up a firewall using FirewallD on RHEL 8](https://www.cyberciti.biz/faq/configure-set-up-a-firewall-using-firewalld-on-rhel-8/)
-- [NSA – A Guide to Border Gateway Protocol (BGP) Best Practices](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/ctr-guide-to-border-gateway-protocol-best-practices.pdf?v=1)
-- [NSA – AppLocker Guidance](https://github.com/nsacyber/AppLocker-Guidance) – Configuration guidance for implementing application whitelisting with AppLocker.
-- [NSA – BitLocker Guidance](https://github.com/nsacyber/BitLocker-Guidance) – Configuration guidance for implementing disk encryption with BitLocker.
-- [NSA – Event Forwarding Guidance](https://github.com/nsacyber/Event-Forwarding-Guidance) – Configuration guidance for implementing collection of security relevant Windows Event Log events by using Windows Event Forwarding.
-- [NSA – Pass the Hash Guidance](https://github.com/nsacyber/Pass-the-Hash-Guidance) – Configuration guidance for implementing Pass-the-Hash mitigation's (Archived).
-- [Please don't use Discord for FOSS projects](https://drewdevault.com/2021/12/28/Dont-use-Discord-for-FOSS.html)
-- [Privacy Settings for major softwares](https://github.com/the-weird-aquarian/privacy-settings)
-- [Protect Yourself: Commercial Surveillance Tools](https://www.dni.gov/files/NCSC/documents/SafeguardingOurFuture/FINAL_Jan-7-2022_Protect_Yourself_Commercial_Surveillance_Tools.pdf)
-- [Push Notification Best Practices You Should Follow in 2021](https://www.moengage.com/learn/push-notification-best-practices/)
-- [Red Hat – A Guide to Securing Red Hat Enterprise Linux 7](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html-single/security_guide/index)
-- [RFC 7540 Appendix A TLS 1.2 Cipher Suite Black List](https://tools.ietf.org/html/rfc7540#appendix-A)
-- [Sandbox Best Practices Cheatsheet in 2022](https://twitter.com/hackinarticles/status/1488781720564363265)
-- [Security Checklist – Checklist of resources designed to improve your online privacy and security.](https://securitycheckli.st/)
-- [Security Guidance for 5G Cloud Infrastructures. Part II: Securely Isolate Network Resources (2021)](https://www.cisa.gov/sites/default/files/publications/Security_Guidance_For_5G_Cloud_Infrastructures_Part_II_Updated_508_Compliant.pdf)
-- [Small Mailserver Best Current Practice](https://bridge.grumpy-troll.org/2020/07/small-mailserver-bcp/)
-- [Software Development and Open Source Software (In the DoD)](https://dodcio.defense.gov/portals/0/documents/library/softwaredev-opensource.pdf)
-- [SSL/TLS Recommender](https://blog.cloudflare.com/ssl-tls-recommender/)
-- [TeamViewer Security Best Practices](https://old.reddit.com/r/teamviewer/comments/4ktys8/teamviewer_security_best_practices/)
-- [trimstray - Linux Hardening Checklist](https://github.com/trimstray/linux-hardening-checklist) - Most important hardening rules for GNU/Linux systems which is a summarized version of The Practical Linux Hardening Guide.
-- [Top 10 Best Practices for Azure Security in 2021 (YT Video)](https://www.youtube.com/watch?v=Etv4jH-zHrM)
-- [trimstray – IPTables Essentials: Common Firewall Rules and Commands](https://github.com/trimstray/iptables-essentials)
-- [Windows Defense in Depth Strategies](https://docs.google.com/document/d/1_43UroB0zY4-R2E2r_nH4ndYpDmXAY8g0oTp8yWlwBk/edit?usp=sharing)
-- [Your home router sucks! Replace it with pfSense!](https://davidilie.com/blog/replace-your-home-router-with-pfsense)
-- [WebGPU Best Practices](https://toji.github.io/webgpu-best-practices/)
-- [When to self-host critical application components](https://fusionauth.io/blog/2021/08/05/when-to-self-host/)
-- [Zero Trust Architecture by NIST](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207.pdf)
-
-
-### [Anti-censorship Guides and Tools](#anti-censorship-guides-and-tools)
-- [@GetBridgesBot Bot - Provides Tor Birdges to bypass censorship via SnowFlake](https://t.me/GetBridgesBot)
-- [Apple censorship App Check Website](https://applecensorship.com/)
-- [A closer look at the Great Firewall of China – Tor Blog](https://blog.torproject.org/blog/closer-look-great-firewall-china)
-- [Analyzing China's Blocking of Unpublished Tor Bridges](https://www.usenix.org/conference/foci18/presentation/dunna)
-- [Building Permanent and Censorship-Resistant Blog with Ethereum ENS and IPFS](https://pawelurbanek.com/ipfs-ethereum-blog)
-- [Course info – ECEN 5003: Censorship Circumvention](https://ericw.us/trow/ecen5003/)
-- [Format-Transforming Encryption](https://kpdyer.com/publications/ccs2013-fte.pdf)
-- [How the Great Firewall of China is Blocking Tor](https://www.usenix.org/system/files/conference/foci12/foci12-final2.pdf)
-- [How to bypass Egypt's WireGuard ban](https://www.ntkernel.com/how-to-bypass-egypts-wireguard-ban/)
-- [Learning more about the GFW's active probing system](https://blog.torproject.org/blog/learning-more-about-gfws-active-probing-system)
-- [My Experience With the Great Firewall of China](http://blog.zorinaq.com/my-experience-with-the-great-firewall-of-china/)
-- [ScrambleSuit](http://arxiv.org/pdf/1305.3199.pdf)
-- [Selected Research Papers in Internet Censorship](https://censorbib.nymity.ch/)
-- [stegotorus](http://freehaven.net/anonbib/cache/ccs2012-stegotorus.pdf)
-- [Towards a Censorship Analyser for Tor](http://www.cs.kau.se/philwint/pdf/foci2013.pdf)
-
-
-### [Opsec Guides](#opsec-guides)
-- [Account and mobile security](https://www.kicksecure.com/wiki/Account_and_Mobile_Security)
-- [Digital minimalism, developing a simple threat model](https://github.com/privacyguides/privacyguides.org/discussions/468)
-- [Linux hardening guide](https://madaidans-insecurities.github.io/guides/linux-hardening.html)
-- [Opsec 101](https://opsec101.org/)
-- [Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist)
-- [Privacy and security advice](https://madaidans-insecurities.github.io/index.html)
-- [Your Security Plan](https://ssd.eff.org/en/module/your-security-plan)
-
-
-### [Security Guides](#security-guides)
-- [.NET Runtime Security Mitigations](https://github.com/dotnet/designs/blob/main/accepted/2021/runtime-security-mitigations.md)
-- [A Guide to Decentralized Science](https://future.a16z.com/what-is-decentralized-science-aka-desci/)
-- [A stick figure guide to the Advanced Encryption Standard (AES) (2009)](http://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html)
-- [Adding E2E Encryption for Proxied Data](https://blog.px.dev/e2e-encryption/)
-- [ANSSI – Hardware security requirements for x86 platforms](https://www.ssi.gouv.fr/en/guide/hardware-security-requirements-for-x86-platforms/) – Recommendations for security features and configuration options applying to hardware devices (CPU, BIOS, UEFI, etc) (Nov 2019).
-- [Apples Personal Safety User Guide](https://support.apple.com/guide/personal-safety/welcome/web)
-- [asecure.cloud – Build a Secure Cloud](https://asecure.cloud/) – A free repository of customizable AWS security configurations and best practices.
-- [Australian Cyber Security Center Publications](https://www.cyber.gov.au/publications)
-- [Basic and practical security tips for Linux by Jesse Smith](https://distrowatch.com/weekly.php?issue=20220124#qa)
-- [Beginner's Guide to Social Media Verification](https://www.bellingcat.com/resources/2021/11/01/a-beginners-guide-to-social-media-verification/)
-- [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/)
-- [CISA Compiles Free Cybersecurity Services and Tools for Network Defenders](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/18/cisa-compiles-free-cybersecurity-services-and-tools-network)
-- [CUPS Server Security](https://www.cups.org/doc/security.html)
-- [Cyber security in the public cloud](https://www.infoworld.com/article/3634111/cyber-security-in-the-public-cloud.html) – A brief guide to the network, infrastructure, data, and application security capabilities AWS, Microsoft Azure, and Google Cloud provide to prevent cyber-attacks and protect your cloud-based resources and workloads.
-- [Cyber Security Trends of 2021](https://deduce.today/blog/posts/1-cybersecurity-trends-2021)
-- [Detecting Rootkits in Windows and Linux](https://deer-run.com/users/hal/DetectingRootkits.pdf)
-- [DISA DoD Cloud Computing Security](https://iase.disa.mil/cloud_security/Pages/index.aspx)
-- [Encryption with Gnu Privacy Guard](http://digital-era.net/encryption-with-gnu-privacy-guard-gpg/)
-- [EU Digital Markets Act and Digital Services Act Explained](https://www.europarl.europa.eu/news/en/headlines/society/20211209STO19124/eu-digital-markets-act-and-digital-services-act-explained)
-- [FIPS Compliant Crypto in Golang](https://kupczynski.info/2019/12/15/fips-golang.html)
-- [GitHub Advisory Database for CVEs](https://github.com/advisories)
-- [Guide to De-Google and privacy on android](https://turtlecute33.github.io/privacy.github.io/index_eng.html)
-- [Hands-on tutorials to learn about software supply chain security](https://github.com/step-security/supply-chain-goat)
-- [How do you spot fake Chinese USB hard drives?](http://blog.gsmarena.com/how-do-you-spot-fake-chinese-usb-hard-drives-well-you-take-them-apart/)
-- [How to find and remove spyware from your phone](https://www.zdnet.com/article/how-to-find-and-remove-spyware-from-your-phone/)
-- [How to get the best out of your Yubikey with GPG](https://calbryant.uk/blog/how-to-get-the-best-out-of-your-yubikey-with-gpg/)
-- [How you can auto-renew and forget about TLS certificates with cert-manager](https://ikarus.sg/deploy-cert-manager-tls/)
-- [HTTP vs. HTTPS: What's the Difference and Why Should You Care?](https://www.entrepreneur.com/article/281633)
-- [Linux NFS-HOWTO – Security and NFS](https://www.tldp.org/HOWTO/NFS-HOWTO/security.html) – Overview of NFS security issues and some mitigation.
-- [Lissy93's Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist)
-- [NSA Cybersecurity Resources for Cybersecurity Professionals](https://www.nsa.gov/what-we-do/cybersecurity/) and [NSA Cybersecurity publications](https://nsacyber.github.io/publications.html)
-- [NSA Info Sheet: Cloud Security Basics (August 2018)](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-cloud-security-basics.pdf?v=1)
-- [NSA Security Configuration Guidance](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-configuration/index.cfm?PAGE=1&itemsQty=ALL)
-- [OpenSCAP Security Policies](https://www.open-scap.org/security-policies/)
-- [OWASP Mobile Security Testing Guide](https://owasp.org/www-project-mobile-security-testing-guide/)
-- [Reasonable Security Checklist for Personal Information](https://oipc.novascotia.ca/sites/default/files/publications/Reasonable%20Security%20Checklist%20for%20Personal%20Information%20(22%20Sept%2015)_0.pdf)
-- [Security Headers: Scan your site](https://securityheaders.com/)
-- [Security in a Box](https://securityinabox.org/en/) – Tutorials on how to stay private online and install privacy-preserving apps.
-- [Setup your SSH security key in less than two minutes](https://www.youtube.com/watch?v=NpHRqmYvzuk)
-- [systemd service sandboxing and security hardening 101](https://www.ctrl.blog/entry/systemd-service-hardening.html)
-- [The Crypto Paper](https://github.com/cryptoseb/CryptoPaper)
-- [The DevOps: A Concise Understanding to the DevOps Philosophy and Science](https://www.osti.gov/biblio/1785164)
-- [Tips to build a Content Security Policy (CSP) without breaking your site](https://blog.rapidsec.com/10-tips-to-build-a-content-security-policy-csp-without-breaking-your-site/)
-- [US DoD DISA Security Technical Implementation Guides (STIGs) and Security Requirements Guides (SRGs)](https://public.cyber.mil/stigs/)
-- [Using a Yubikey for GPG and SSH](https://0day.work/using-a-yubikey-for-gpg-and-ssh/)
-- [Using GPG to Encrypt Your Data](https://www.nas.nasa.gov/hecc/support/kb/using-gpg-to-encrypt-your-data_242.html)
-- [Zebra Crossing](https://github.com/narwhalacademy/zebra-crossing) – An easy-to-use digital safety checklist.
-
-
-## [Hardware Monitoring](#hardware-monitoring)
-- [Libre Hardware Monitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) – A fork of Open Hardware Monitor, is free software that can monitor the temperature sensors, fan speeds, voltages, load and clock speeds of your computer.
-- [OpenRGB](https://openrgb.org/) – Open source RGB lighting control that doesn't depend on manufacturer software. For Windows, Linux, MacOS.
-
-
-## [Hex and binary Editors](#hex-and-binary-editors)
-- [GNU Poke](http://savannah.gnu.org/forum/forum.php?forum_id=10105) – An interactive, extensible editor for binary data. Not limited to editing basic entities such as bits and bytes, it provides a full-fledged procedural, interactive programming language designed to describe data structures and to operate on them.
-
-
-## [HTTPS](#https)
-
-**This section is not finished.**
-
-- HTTPS wrongly gets advertised as secure, which is not the case, there are bunch of scenarios in which HTTPS fails to protect the users. Self-hosting won't solve much because even self-hosted setup would have to talk to the outside world in the end.
-- [Proxies like Squid](https://wiki.squid-cache.org/Features/HTTPS) can do HTTPS intercepting. Certificate transparency effectively solves this because certain browsers, currently only Safari and Chrome [require all new certificates be submitted to multiple certificate transparency lists](https://chromium.googlesource.com/chromium/src/+/refs/heads/main/net/docs/certificate-transparency.md) - if it encounters a certificate that isn't, it’ll show a warning page before establishing the TLS session. This doesn’t stop interception at all, but the first time it happens that some huge website notices a certificate they didn’t authorize and/or should be blocked by their CAA records, it’ll be a large event with disastrous consequences for the CA, likely triggering immediate within under <48 hours removal from publicly trusted CA lists. This happened already, [see here](https://www.zdnet.com/article/kazakhstan-government-is-intercepting-https-traffic-in-its-capital/).
-- [Countries could ban HTTPS](https://www.zdnet.com/article/russia-wants-to-ban-the-use-of-secure-protocols-such-as-tls-1-3-doh-dot-esni/).
-- Tor network helps against many vulnerabilities HTTPS has. With Tor, every domain generates their own public/private key pair (which represents the domain itself) hence making it impractical for actors to break all of them (in fact, breaking even one of the 128-bit ed25519 keys would be a breakthrough in cryptography).
-
-### [Hardware Teardown Websites](#hardware-teardown-websites)
-- [Dave Jones aka EEVBlog](https://www.eevblog.com/teardowns/)
-- [Fictiv](https://www.fictiv.com/blog/topics/teardowns)
-- [iFixit](https://www.ifixit.com/Teardown)
-- [wk057's SkieNET](https://skie.net/skynet/projects)
+We only unlist stuff that is entirely incorrect or even dangerous to follow because security practical constantly evolves in both ways, positive ways and negative ways, which means new attacks emerge and new counter measurements also getting released because of the new threats.
 
 
 ### [IoT Security](#iot-security)
 - [Cyber Security Baseline for Consumer Internet of Things Device](https://github.com/MiSecurity/Cyber-Security-Baseline-for-Consumer-Internet-of-Things/blob/main/resources/pdf/Cyber%20Security%20Baseline%20for%20Consumer%20Internet%20of%20Things%20Device.pdf)
 
 
-### [iOS specific Privacy Guides](#ios-specific-privacy-guides)
+### [iOS Specific Privacy Guides](#ios-specific-privacy-guides)
 - [Apple iOS 15 Privacy Guide](https://inteltechniques.com/ios15.html)
 - [Securing Mobile: Settings](https://thenewoil.org/mobile-settings.html)
 - [iOS privacy and security checklist](https://security.utexas.edu/handheld-hardening-checklists/ios)
@@ -2687,6 +2532,179 @@ Listed guidance are provided as-is.
 - [anonymize-it](https://github.com/elastic/anonymize-it)
 - [sdcMicro](https://github.com/sdcTools/sdcMicro)
 - [µArgus](http://neon.vb.cbs.nl/casc/mu.htm)
+
+
+### ["Best practice" Guides](#best-practice-guides)
+- [5 Best Practices for Securing SSH](https://goteleport.com/blog/5-ssh-best-practices/)
+- [A cookbook with the best practices for working with Kubernetes](https://github.com/diegolnasc/kubernetes-best-practices)
+- [A collection of best practices to consider when building user interfaces](https://lawsofux.com/)
+- [ANSSI - Configuration recommendations of a GNU/Linux system](https://www.ssi.gouv.fr/en/guide/configuration-recommendations-of-a-gnulinux-system/)
+- [ANSSI Best Practices](https://www.ssi.gouv.fr/en/best-practices/)
+- [Applied Crypto Hardening – Reference on how to configure the most common services’ crypto settings (TLS/SSL, PGP, SSH and other cryptographic tools)](https://bettercrypto.org/)
+- [auditd - Best Practice Auditd Configuration](https://github.com/Neo23x0/auditd)
+- [Beginner guide: How to secure your self-hosted services](https://old.reddit.com/r/selfhosted/comments/pufhs0/beginner_guide_how_to_secure_your_selfhosted/)
+- [Best Practices for Anti-Money Laundering Compliance 2019 – 2020](https://www.americangaming.org/wp-content/uploads/2019/12/AGA-AML-Best-Practices_12-9.pdf)
+- [Best Practices for Azure Container Registry](https://docs.microsoft.com/en-us/azure/container-registry/container-registry-best-practices)
+- [Best Practices for Letting Go of a Remote Team Member](https://www.infoq.com/articles/letting-go-remote/)
+- [Best practices for ML lifecycle stages](https://dev.to/cloudtech/best-practices-for-ml-lifecycle-stages-4g9b)
+- [Best Practices to optimize query costs in BigQuery](https://metriql.com/blog/2021/09/30/best-practices-to-optimize-the-query-costs-in-BigQuery)
+- [Best practices for writing faster SQL queries](https://guides.tinybird.co/guide/best-practices-faster-sql-queries)
+- [Best practices for adopting and designing IPv6-based networks on AWS](https://d1.awsstatic.com/whitepapers/IPv6-on-AWS.pdf)
+- [CIS Benchmark for Red Hat Linux](https://www.cisecurity.org/benchmark/red_hat_linux/)
+- [Container Security Best Practices](https://sysdig.com/blog/container-security-best-practices/)
+- [Create your own Git server using Raspberry Pi and GitLab](https://medium.com/@kevalpatel2106/create-your-own-git-server-using-raspberry-pi-and-gitlab-f64475901a66)
+- [Database Security Best Practices in 2022](https://backendless.com/database-security-best-practices/)
+- [Defective Sign & Encrypt in S/MIME, PKCS#7, MOSS, PEM, PGP, and XML](https://theworld.com/~dtd/sign_encrypt/sign_encrypt7.html)
+- [Digital Security for Filmmakers](https://digitalsecurity.film/)
+- [DISA STIGs – Red Hat Enterprise Linux 7 (2019)](https://public.cyber.mil/stigs/downloads/?_dl_facet_stigs=unix-linux)
+- [Endpoint Isolation with the Windows Firewall, talk from Ignite 2016](https://medium.com/@cryps1s/endpoint-isolation-with-the-windows-firewall-462a795f4cfb) based on Jessica Payne’s [Demystifying the Windows Firewall](https://channel9.msdn.com/Events/Ignite/New-Zealand-2016/M377)
+- [Enforcing best practice on self-serve infrastructure with Terraform](https://tech.loveholidays.com/enforcing-best-practice-on-self-serve-infrastructure-with-terraform-atlantis-and-policy-as-code-911f4f8c3e00)
+- [ERNW – IPv6 Hardening Guide for Windows Servers](https://www.ernw.de/download/ERNW_Guide_to_Configure_Securely_Windows_Servers_For_IPv6_v1_0.pdf)
+- [FDA: Best Practices for Communicating Cybersecurity Vulnerabilities to Patients](https://www.fda.gov/about-fda/cdrh-patient-science-and-engagement-program/best-practices-communicating-cybersecurity-vulnerabilities-patients)
+- [FIRST Best Practice Guide Library](https://www.first.org/resources/guides/)
+- [Git Commit Good Practice](https://wiki.openstack.org/wiki/GitCommitMessages)
+- [Guide for GitLab and I2P self-hosting](https://geti2p.net/en/docs/applications/git-bundle)
+- [Guidance on Software Development and Open Source Software ](https://dodcio.defense.gov/Portals/0/Documents/Library/SoftwareDev-OpenSource.pdf)
+- [Guide to DRM-Free Living: Literature](https://www.defectivebydesign.org/guide/ebooks)
+- [Hashes and ETags: Best Practices](https://cloud.google.com/storage/docs/hashes-etags)
+- [Install a self-hosted Git server with Gitea on a VPS](https://golb.hplar.ch/2018/06/self-hosted-git-server.html)
+- [Linux workstation security checklist](https://github.com/lfit/itpol/blob/master/linux-workstation-security.md)
+- [Microsoft – How to detect, enable and disable SMBv1, SMBv2, and SMBv3 in Windows and Windows Server](https://support.microsoft.com/en-gb/help/2696547/detect-enable-disable-smbv1-smbv2-smbv3-in-windows-and-windows-server)
+- [Microsoft recommended block rules](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules) – List of applications or files that can be used by an attacker to circumvent application whitelisting policies.
+- [Mozilla Guidelines to Secure SSH](https://infosec.mozilla.org/guidelines/openssh)
+- [Netherlands NCSC – IT Security Guidelines for Transport Layer Security (TLS) (2019)](https://www.ncsc.nl/english/current-topics/factsheets/it-security-guidelines-for-transport-layer-security-tls.html)
+- [NIST SP 800-41 Rev 1 – Guidelines on Firewalls and Firewall Policy (2009)](https://www.nist.gov/publications/guidelines-firewalls-and-firewall-policy)
+- [NIST SP800-52 Rev 2 (2nd draft) – Guidelines for the Selection, Configuration, and Use of Transport Layer Security (TLS) Implementations (2018)](https://csrc.nist.gov/publications/detail/sp/800-52/rev-2/draft)
+- [nixCraft – How to set up a firewall using FirewallD on RHEL 8](https://www.cyberciti.biz/faq/configure-set-up-a-firewall-using-firewalld-on-rhel-8/)
+- [NSA – A Guide to Border Gateway Protocol (BGP) Best Practices](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/ctr-guide-to-border-gateway-protocol-best-practices.pdf?v=1)
+- [NSA – AppLocker Guidance](https://github.com/nsacyber/AppLocker-Guidance) – Configuration guidance for implementing application whitelisting with AppLocker.
+- [NSA – BitLocker Guidance](https://github.com/nsacyber/BitLocker-Guidance) – Configuration guidance for implementing disk encryption with BitLocker.
+- [NSA – Event Forwarding Guidance](https://github.com/nsacyber/Event-Forwarding-Guidance) – Configuration guidance for implementing collection of security relevant Windows Event Log events by using Windows Event Forwarding.
+- [NSA – Pass the Hash Guidance](https://github.com/nsacyber/Pass-the-Hash-Guidance) – Configuration guidance for implementing Pass-the-Hash mitigation's (Archived).
+- [Please don't use Discord for FOSS projects](https://drewdevault.com/2021/12/28/Dont-use-Discord-for-FOSS.html)
+- [Privacy Settings for major softwares](https://github.com/the-weird-aquarian/privacy-settings)
+- [Protect Yourself: Commercial Surveillance Tools](https://www.dni.gov/files/NCSC/documents/SafeguardingOurFuture/FINAL_Jan-7-2022_Protect_Yourself_Commercial_Surveillance_Tools.pdf)
+- [Push Notification Best Practices You Should Follow in 2021](https://www.moengage.com/learn/push-notification-best-practices/)
+- [Red Hat – A Guide to Securing Red Hat Enterprise Linux 7](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html-single/security_guide/index)
+- [RFC 7540 Appendix A TLS 1.2 Cipher Suite Black List](https://tools.ietf.org/html/rfc7540#appendix-A)
+- [Sandbox Best Practices Cheatsheet in 2022](https://twitter.com/hackinarticles/status/1488781720564363265)
+- [Security Checklist – Checklist of resources designed to improve your online privacy and security.](https://securitycheckli.st/)
+- [Security Guidance for 5G Cloud Infrastructures. Part II: Securely Isolate Network Resources (2021)](https://www.cisa.gov/sites/default/files/publications/Security_Guidance_For_5G_Cloud_Infrastructures_Part_II_Updated_508_Compliant.pdf)
+- [Small Mailserver Best Current Practice](https://bridge.grumpy-troll.org/2020/07/small-mailserver-bcp/)
+- [Software Development and Open Source Software (In the DoD)](https://dodcio.defense.gov/portals/0/documents/library/softwaredev-opensource.pdf)
+- [SSL/TLS Recommender](https://blog.cloudflare.com/ssl-tls-recommender/)
+- [TeamViewer Security Best Practices](https://old.reddit.com/r/teamviewer/comments/4ktys8/teamviewer_security_best_practices/)
+- [trimstray - Linux Hardening Checklist](https://github.com/trimstray/linux-hardening-checklist) - Most important hardening rules for GNU/Linux systems which is a summarized version of The Practical Linux Hardening Guide.
+- [Top 10 Best Practices for Azure Security in 2021 (YT Video)](https://www.youtube.com/watch?v=Etv4jH-zHrM)
+- [trimstray – IPTables Essentials: Common Firewall Rules and Commands](https://github.com/trimstray/iptables-essentials)
+- [Windows Defense in Depth Strategies](https://docs.google.com/document/d/1_43UroB0zY4-R2E2r_nH4ndYpDmXAY8g0oTp8yWlwBk/edit?usp=sharing)
+- [Your home router sucks! Replace it with pfSense!](https://davidilie.com/blog/replace-your-home-router-with-pfsense)
+- [WebGPU Best Practices](https://toji.github.io/webgpu-best-practices/)
+- [When to self-host critical application components](https://fusionauth.io/blog/2021/08/05/when-to-self-host/)
+- [Zero Trust Architecture by NIST](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207.pdf)
+
+
+### [Anti-Censorship Guides and Tools](#anti-censorship-guides-and-tools)
+- [@GetBridgesBot Bot - Provides Tor Birdges to bypass censorship via SnowFlake](https://t.me/GetBridgesBot)
+- [Apple censorship App Check Website](https://applecensorship.com/)
+- [A closer look at the Great Firewall of China – Tor Blog](https://blog.torproject.org/blog/closer-look-great-firewall-china)
+- [Analyzing China's Blocking of Unpublished Tor Bridges](https://www.usenix.org/conference/foci18/presentation/dunna)
+- [Building Permanent and Censorship-Resistant Blog with Ethereum ENS and IPFS](https://pawelurbanek.com/ipfs-ethereum-blog)
+- [Course info – ECEN 5003: Censorship Circumvention](https://ericw.us/trow/ecen5003/)
+- [Format-Transforming Encryption](https://kpdyer.com/publications/ccs2013-fte.pdf)
+- [How the Great Firewall of China is Blocking Tor](https://www.usenix.org/system/files/conference/foci12/foci12-final2.pdf)
+- [How to bypass Egypt's WireGuard ban](https://www.ntkernel.com/how-to-bypass-egypts-wireguard-ban/)
+- [Learning more about the GFW's active probing system](https://blog.torproject.org/blog/learning-more-about-gfws-active-probing-system)
+- [My Experience With the Great Firewall of China](http://blog.zorinaq.com/my-experience-with-the-great-firewall-of-china/)
+- [ScrambleSuit](http://arxiv.org/pdf/1305.3199.pdf)
+- [Selected Research Papers in Internet Censorship](https://censorbib.nymity.ch/)
+- [stegotorus](http://freehaven.net/anonbib/cache/ccs2012-stegotorus.pdf)
+- [Towards a Censorship Analyser for Tor](http://www.cs.kau.se/philwint/pdf/foci2013.pdf)
+
+
+### [Opsec Guides](#opsec-guides)
+- [Account and mobile security](https://www.kicksecure.com/wiki/Account_and_Mobile_Security)
+- [Digital minimalism, developing a simple threat model](https://github.com/privacyguides/privacyguides.org/discussions/468)
+- [Linux hardening guide](https://madaidans-insecurities.github.io/guides/linux-hardening.html)
+- [Opsec 101](https://opsec101.org/)
+- [Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist)
+- [Privacy and security advice](https://madaidans-insecurities.github.io/index.html)
+- [Your Security Plan](https://ssd.eff.org/en/module/your-security-plan)
+
+
+### [Security Guides](#security-guides)
+- [.NET Runtime Security Mitigations](https://github.com/dotnet/designs/blob/main/accepted/2021/runtime-security-mitigations.md)
+- [A Guide to Decentralized Science](https://future.a16z.com/what-is-decentralized-science-aka-desci/)
+- [A stick figure guide to the Advanced Encryption Standard (AES) (2009)](http://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html)
+- [Adding E2E Encryption for Proxied Data](https://blog.px.dev/e2e-encryption/)
+- [ANSSI – Hardware security requirements for x86 platforms](https://www.ssi.gouv.fr/en/guide/hardware-security-requirements-for-x86-platforms/) – Recommendations for security features and configuration options applying to hardware devices (CPU, BIOS, UEFI, etc) (Nov 2019).
+- [Apples Personal Safety User Guide](https://support.apple.com/guide/personal-safety/welcome/web)
+- [asecure.cloud – Build a Secure Cloud](https://asecure.cloud/) – A free repository of customizable AWS security configurations and best practices.
+- [Australian Cyber Security Center Publications](https://www.cyber.gov.au/publications)
+- [Basic and practical security tips for Linux by Jesse Smith](https://distrowatch.com/weekly.php?issue=20220124#qa)
+- [Beginner's Guide to Social Media Verification](https://www.bellingcat.com/resources/2021/11/01/a-beginners-guide-to-social-media-verification/)
+- [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/)
+- [CISA Compiles Free Cybersecurity Services and Tools for Network Defenders](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/18/cisa-compiles-free-cybersecurity-services-and-tools-network)
+- [CUPS Server Security](https://www.cups.org/doc/security.html)
+- [Cyber security in the public cloud](https://www.infoworld.com/article/3634111/cyber-security-in-the-public-cloud.html) – A brief guide to the network, infrastructure, data, and application security capabilities AWS, Microsoft Azure, and Google Cloud provide to prevent cyber-attacks and protect your cloud-based resources and workloads.
+- [Cyber Security Trends of 2021](https://deduce.today/blog/posts/1-cybersecurity-trends-2021)
+- [Detecting Rootkits in Windows and Linux](https://deer-run.com/users/hal/DetectingRootkits.pdf)
+- [DISA DoD Cloud Computing Security](https://iase.disa.mil/cloud_security/Pages/index.aspx)
+- [Encryption with Gnu Privacy Guard](http://digital-era.net/encryption-with-gnu-privacy-guard-gpg/)
+- [EU Digital Markets Act and Digital Services Act Explained](https://www.europarl.europa.eu/news/en/headlines/society/20211209STO19124/eu-digital-markets-act-and-digital-services-act-explained)
+- [FIPS Compliant Crypto in Golang](https://kupczynski.info/2019/12/15/fips-golang.html)
+- [GitHub Advisory Database for CVEs](https://github.com/advisories)
+- [Guide to De-Google and privacy on android](https://turtlecute33.github.io/privacy.github.io/index_eng.html)
+- [Hands-on tutorials to learn about software supply chain security](https://github.com/step-security/supply-chain-goat)
+- [How do you spot fake Chinese USB hard drives?](http://blog.gsmarena.com/how-do-you-spot-fake-chinese-usb-hard-drives-well-you-take-them-apart/)
+- [How to find and remove spyware from your phone](https://www.zdnet.com/article/how-to-find-and-remove-spyware-from-your-phone/)
+- [How to get the best out of your Yubikey with GPG](https://calbryant.uk/blog/how-to-get-the-best-out-of-your-yubikey-with-gpg/)
+- [How you can auto-renew and forget about TLS certificates with cert-manager](https://ikarus.sg/deploy-cert-manager-tls/)
+- [HTTP vs. HTTPS: What's the Difference and Why Should You Care?](https://www.entrepreneur.com/article/281633)
+- [Linux NFS-HOWTO – Security and NFS](https://www.tldp.org/HOWTO/NFS-HOWTO/security.html) – Overview of NFS security issues and some mitigation.
+- [Lissy93's Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist)
+- [NSA Cybersecurity Resources for Cybersecurity Professionals](https://www.nsa.gov/what-we-do/cybersecurity/) and [NSA Cybersecurity publications](https://nsacyber.github.io/publications.html)
+- [NSA Info Sheet: Cloud Security Basics (August 2018)](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-cloud-security-basics.pdf?v=1)
+- [NSA Security Configuration Guidance](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-configuration/index.cfm?PAGE=1&itemsQty=ALL)
+- [OpenSCAP Security Policies](https://www.open-scap.org/security-policies/)
+- [OWASP Mobile Security Testing Guide](https://owasp.org/www-project-mobile-security-testing-guide/)
+- [Reasonable Security Checklist for Personal Information](https://oipc.novascotia.ca/sites/default/files/publications/Reasonable%20Security%20Checklist%20for%20Personal%20Information%20(22%20Sept%2015)_0.pdf)
+- [Security Headers: Scan your site](https://securityheaders.com/)
+- [Security in a Box](https://securityinabox.org/en/) – Tutorials on how to stay private online and install privacy-preserving apps.
+- [Setup your SSH security key in less than two minutes](https://www.youtube.com/watch?v=NpHRqmYvzuk)
+- [systemd service sandboxing and security hardening 101](https://www.ctrl.blog/entry/systemd-service-hardening.html)
+- [The Crypto Paper](https://github.com/cryptoseb/CryptoPaper)
+- [The DevOps: A Concise Understanding to the DevOps Philosophy and Science](https://www.osti.gov/biblio/1785164)
+- [Tips to build a Content Security Policy (CSP) without breaking your site](https://blog.rapidsec.com/10-tips-to-build-a-content-security-policy-csp-without-breaking-your-site/)
+- [US DoD DISA Security Technical Implementation Guides (STIGs) and Security Requirements Guides (SRGs)](https://public.cyber.mil/stigs/)
+- [Using a Yubikey for GPG and SSH](https://0day.work/using-a-yubikey-for-gpg-and-ssh/)
+- [Using GPG to Encrypt Your Data](https://www.nas.nasa.gov/hecc/support/kb/using-gpg-to-encrypt-your-data_242.html)
+- [Zebra Crossing](https://github.com/narwhalacademy/zebra-crossing) – An easy-to-use digital safety checklist.
+
+
+## [Hardware Monitoring](#hardware-monitoring)
+- [Libre Hardware Monitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) – A fork of Open Hardware Monitor, is free software that can monitor the temperature sensors, fan speeds, voltages, load and clock speeds of your computer.
+- [OpenRGB](https://openrgb.org/) – Open source RGB lighting control that doesn't depend on manufacturer software. For Windows, Linux, MacOS.
+
+
+## [Hex and binary Editors](#hex-and-binary-editors)
+- [GNU Poke](http://savannah.gnu.org/forum/forum.php?forum_id=10105) – An interactive, extensible editor for binary data. Not limited to editing basic entities such as bits and bytes, it provides a full-fledged procedural, interactive programming language designed to describe data structures and to operate on them.
+
+
+## [HTTPS](#https)
+
+**This section is not finished.**
+
+- HTTPS wrongly gets advertised as secure, which is not the case, there are bunch of scenarios in which HTTPS fails to protect the users. Self-hosting won't solve much because even self-hosted setup would have to talk to the outside world in the end.
+- [Proxies like Squid](https://wiki.squid-cache.org/Features/HTTPS) can do HTTPS intercepting. Certificate transparency effectively solves this because certain browsers, currently only Safari and Chrome [require all new certificates be submitted to multiple certificate transparency lists](https://chromium.googlesource.com/chromium/src/+/refs/heads/main/net/docs/certificate-transparency.md) - if it encounters a certificate that isn't, it’ll show a warning page before establishing the TLS session. This doesn’t stop interception at all, but the first time it happens that some huge website notices a certificate they didn’t authorize and/or should be blocked by their CAA records, it’ll be a large event with disastrous consequences for the CA, likely triggering immediate within under <48 hours removal from publicly trusted CA lists. This happened already, [see here](https://www.zdnet.com/article/kazakhstan-government-is-intercepting-https-traffic-in-its-capital/).
+- [Countries could ban HTTPS](https://www.zdnet.com/article/russia-wants-to-ban-the-use-of-secure-protocols-such-as-tls-1-3-doh-dot-esni/).
+- Tor network helps against many vulnerabilities HTTPS has. With Tor, every domain generates their own public/private key pair (which represents the domain itself) hence making it impractical for actors to break all of them (in fact, breaking even one of the 128-bit ed25519 keys would be a breakthrough in cryptography).
+
+## [Hardware Teardown Websites](#hardware-teardown-websites)
+- [Dave Jones aka EEVBlog](https://www.eevblog.com/teardowns/)
+- [Fictiv](https://www.fictiv.com/blog/topics/teardowns)
+- [iFixit](https://www.ifixit.com/Teardown)
+- [wk057's SkieNET](https://skie.net/skynet/projects)
 
 
 ## [Intel Management Engine & AMD Platform Security Processor](#intel-management-engine--amd-platform-security-processor)
@@ -3053,7 +3071,7 @@ There are some Windows apps but this is depending on BIOS/firmware because the [
 ## [Location tracking](#location-tracking)
 Not so good in terms of privacy:
 - Apple AirTag
-- Google location history
+- Google Location History
 - Google FindMyDevice
 
 Privacy oriented alternatives:
@@ -3085,11 +3103,11 @@ it out and the results can be viewed in a browser.
 - [PCAPdroid](https://github.com/emanuele-f/PCAPdroid) – No-root network monitor and traffic dump tool for Android devices. You can get it [on F-Droid](https://f-droid.org/packages/com.emanuelef.remote_capture) for the OS part [mitmproxy](https://mitmproxy.org/) might come in handy.
 
 
-## [Malware analysis](#malware-analysis)
+## [Malware Analysis](#malware-analysis)
 - [Pifmana](https://gitlab.com/luisfm/pifmana-pipeline-for-malware-analysis) – Pipeline for Malware Analysis.
 
 
-## [macOS malware analysis](#macOS-malware-analysis)
+### [macOS Malware Analysis](#macOS-malware-analysis)
 
 Tools and utilities mentioned in [The Art of Mac Malware by Patrick Wardle](https://taomm.org/vol1/analysis.html).
 
@@ -3232,6 +3250,105 @@ Privacy oriented alternatives:
 - [Maps Metager](https://maps.metager.de/map)) – MetaGer provides a Google like Maps service.
 - [MAPS.ME](https://maps.me) – An open source cross-platform offline maps application.
 - [Magic Earth](https://www.magicearth.com) – A free maps and navigation app based on OpenStreetMap data.
+
+
+## [Microsoft Exchange](#microsoft-exchange)
+- [Grommunio](https://grommunio.com/) – The most advanced solution in communication and collaboration, a platform for everyone.
+- [Internxt](https://github.com/internxt) – An Open Source Encrypted Cloud Service With Native Linux Client.
+- [Kopano](https://kopano.com/) – From the German-Dutch software manufacturer Kopano, is also AGPLv3-licensed and based on the Zarafa software stack.
+- [Nextcloud](https://nextcloud.com/) – Like in ownCloud or Dropbox, users can access the software suite via their desktops (Windows, Linux, and macOS), web browsers, or native apps (Android and iOS).
+- [ownCloud](https://owncloud.com/) – The core of the client-server software and many community apps are published under the AGPLv3.
+- [OX App Suite](https://www.open-xchange.com/) – The OX App Suite is a modular email, communication, and collaboration platform, mainly designed for telcos, hosting companies, and other providers delivering cloud-based services.
+
+## [Metadata Removal](#metadata-removal)
+- [BleachBit](https://www.bleachbit.org/) – Alternative for CCleaner that is FOSS and can also remove leftovers, metadata etc.
+- [Dangerzone](https://dangerzone.rocks/) – Take potentially dangerous PDFs, office documents, or #images and convert them to safe PDFs.
+- [Exiv2](https://www.exiv2.org/) – Exiv2 is a Cross-platform C++ library and a command line utility to manage image metadata
+- [ExifCleaner](https://exifcleaner.com) – A free desktop app to clean image metadata.
+- [mat2](https://0xacab.org/jvoisin/mat2) – A metadata removal tool, supporting a wide range of commonly used file formats.
+- [Metadata Cleaner](https://gitlab.com/rmnvgr/metadata-cleaner) – Python GTK application to view and clean metadata in files, using mat2.
+- [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif) – An Android app to remove exif data from pictures before sharing them.
+
+### [Mobile Metadata Removal Apps](#mobile-metadata-removal-apps)
+- [DetoxDroid](https://github.com/flxapps/DetoxDroid) – This app follows a different approach by stripping away all the attention-grabbing and manipulative features of other apps. DetoxDroid does not require you to choose a time and place when you want to "detox", or punish you if you fail.
+- [Exif-Remove](https://github.com/roothaxor/Exif-Remove) – Remove exif data from all digital pictures in current directory by typing exif.
+- [ImagePipe](https://codeberg.org/Starfish/Imagepipe) – Reduces image size and removes exif-tags when sharing images on Android devices.
+- [MAT](https://github.com/jubalh/MAT) – Metadata Anonymization Toolkit.
+- [Pocket Paint](https://github.com/Catrobat/Paintroid) – The standard image manipulation app for Catroid.
+- [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif) – Remove Exif data from pictures before sharing them.
+- [scrambledeggsif](https://f-droid.org/packages/com.jarsilio.android.scrambledeggsif/) – Delete meta data from image files on mobile.
+
+
+## [Media Player](#media-player)
+- [clapper](https://github.com/Rafostar/clapper) – Gnome media player built using GJS with OpenGL rendering.
+- [IINA](https://iina.io) – A modern media player for macOS.
+- [MPC-BE](https://forum.doom9.org/showthread.php?t=165890) – Media Player Classic – BE is a free and open source audio and video player for Windows.
+- [MPlayer](https://mplayerhq.hu/) – Video player that supports a complete and versatile array of video and audio formats.
+- [MPV](https://mpv.io) – A free, open source, and cross-platform cmd based media player.
+    - [mpv-android](https://f-droid.org/en/packages/is.xyz.mpv) – Plays almost any kind of multimedia files on Android.
+    - [Smplayer](https://www.smplayer.info/en/mpv) – Smplayer is a GUI for MPV, you find an entire [list of GUI applications here](https://github.com/mpv-player/mpv/wiki/Applications-using-mpv).
+- [PotPlayer](https://potplayer.daum.net/) – Similar like MPC but with a better skin, audio and video player for Windows.
+- [VLC](https://www.videolan.org/) – Multimedia player for almost every platform.
+
+
+### [DLNA Media Player](#dlna-media-player)
+- [Plain UPnP - UPnP / DLNA server and browser](https://f-droid.org/app/net.mm2d.dmsexplorer) – PlainUPnP (formals DroidUPnP) is an UPnP control point application for Android.
+- [Yaacc](https://f-droid.org/en/packages/de.yaacc/) – The App allows you to play media from UPNP/DLNA devices in your network on your android device or any UPNP/DLNA device in your network.
+
+### [IPTV Player and Services](#iptv-player-and-services)
+- [FastCloud](https://github.com/fastogt/fastocloud) – 	Open Source IPTV/Media Service.
+
+### [Mobile IPTV Player](#mobile-iptv-player)
+- [DMS Explorer](https://github.com/ohmae/DmsExplorer) – This is a kind of DLNA player.
+- [FastoTVLite](https://android.izzysoft.de/repo/apk/com.fastotv.lite) – FastoTVLite is a cross-platform free IPTV/stream player with EPG support.
+- [MediaPlayer](https://github.com/geniusgithub/MediaPlayer/) – MediaPlayer is the DLNA device(DMP), which can be in the search for DMS devices, browse resources and play locally.
+
+
+## [Music Player](#music-player)
+- [Audacious](https://audacious-media-player.org) – An open source audio player.
+- [cmus](https://cmus.github.io/) – A small, fast and powerful console music player for Unix-like operating systems.
+- [DeaDBeeF](https://deadbeef.sourceforge.io) – A multi-platform and modular audio player.
+- [Elisa](https://apps.kde.org/en/elisa) – A simple music player that should be easy to use.
+- [mpg123](https://www.mpg123.de/) – Console based MPEG Audio Player and decoder library.
+- [pianobar](https://6xq.net/pianobar/) – A free/open-source, console-based client for the personalized online radio Pandora.
+- [Reddit Music Player](https://reddit.musicplayer.io/) – Online music player for Reddit. - **controversial**
+- [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) – A music playing application for GNOME.
+- [Strawberry](https://www.strawberrymusicplayer.org) – A music player and music collection organizer.
+
+### [Mobile Music Player Apps](#mobile-music-player-apps)
+- [LOS Eleven](https://f-droid.org/wiki/page/com.ymber.eleven) – The default LineageOS music player.
+- [Metro (Retro Music fork with features unlocked)](https://f-droid.org/en/packages/io.github.muntashirakon.Music/) – Best material design music player for Android.
+- [Music Player GO](https://f-droid.org/en/packages/com.iven.musicplayergo/) – Very simple, nice, privacy-friendly and original local Android Music Player.
+- [Shuttle+](https://f-droid.org/en/packages/com.simplecity.amp_pro/) – An open source, local music player for Android.
+- [TimberX](https://github.com/naman14/TimberX) – Material theme music player that works across all form factors (phones, wear, auto, cast, assistant) and uses latest tools (Kotlin, Architecture components, Room, Databinding).
+    - [Timber](https://f-droid.org/en/packages/it.fossoft.timberfoss/) – This is the pure FOSS fork of the app, where all these non-free dependencies have been removed.
+- [Vanilla Music](https://github.com/vanilla-music/vanilla) – A clean, simple and free music player for Android.
+- [Vinyl Music Player](https://f-droid.org/en/packages/com.poupa.vinylmusicplayer/) – Music player easy to use and customizable (multiple themes including a dark one).
+
+### [Music Player Daemon](#music-player-daemon)
+- [clerk](https://github.com/carnager/clerk) – Simple MPD client using rofi or fzf.
+- [fmui](https://github.com/seebye/fmui) – FZF is a MPD user interface.
+- [mpc](https://www.musicpd.org/doc/mpc/html/) – MPC connects to a MPD and controls it according to commands and arguments passed to it.
+- [ncmpcpp](https://rybczak.net/ncmpcpp/) – Feature rich ncurses based MPD client inspired by ncmpc.
+
+### [Guitar Tablature Editor](#guitar-tablature-editor)
+- [TuxGuitar](https://sourceforge.net/projects/tuxguitar/) – Is a multitrack guitar tablature editor and player written in Java-SWT, It can open GuitarPro, PowerTab and TablEdit files.
+
+### [Create Music with your Browser](#create-music-with-your-browser)
+- [Audiolab](https://thereis.love/audiolab) – Open-source sound generating software.
+
+
+### [Markdown editors](#markdown-editors)
+- [Abricotine](https://abricotine.brrd.fr) – An open-source markdown editor built for desktop.
+- [Ghostwriter](https://wereturtle.github.io/ghostwriter/) – A distraction-free Markdown editor for Windows and Linux.
+- [HedgeDoc](https://pad.snopyta.org/) – Lets you create real-time collaborative markdown notes on all platforms.
+- [Logseq](https://logseq.com/) – A privacy-first alternative to WorkFlowy.
+- [MacDown](https://macdown.uranusjr.com) – An open source Markdown editor for Mac OS.
+- [Mark Text](https://github.com/marktext/marktext) – A Markdown editor for Mac, Windows and Linux.
+- [Obsidian](https://obsidian.md/) – Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files.
+- [PanWriter](https://panwriter.com/) – PanWriter is available on macOS, Windows and Linux.
+- [Typora](https://typora.io) – A Markdown editor and Markdown reader.
+- [Zettlr](https://www.zettlr.com) – A Markdown editor for the 21st century.
 
 
 ## [Math Teaching](#math-teaching)
@@ -3636,6 +3753,11 @@ Only unique tests are getting listed here, it makes no sense to list 1000+ pages
 - [Open Source Games](https://libregamewiki.org/List_of_games) – There are some good FOSS Games available as open source [projects](https://gitlab.com/Ashpex/Linux_Games).
 
 
+### [PCB Design Software](#pcb-design-software)
+- [KiCAD](http://www.kicad-pcb.org/) – Open-source tool that helps you in making Electronic Design Automation(EDA).
+- [LibrePCB](https://librepcb.org/) – A free EDA software to develop printed circuit boards.
+
+
 ## [PDF tools](#PDF-tools)
 ### [PDF merging](#pdf-merging)
 - [PDFWrench](https://pdfwrench.com/) – Free PDF merging tool that works without any file upload to ensure privacy.
@@ -3770,9 +3892,11 @@ Privacy oriented alternatives:
 - [Tldraw](https://www.tldraw.com/sponsorware) – An open-source SVG-rendered drawing tool.
 - [Wireflow](https://wireflow.co) – An online and open source tool for creating beautiful user flow prototypes.
 
+### [Mobile Photo Editing and Management](#mobile-photo-editing-and-management)
+- [Simple Draw](https://github.com/SimpleMobileTools/Simple-Draw) – A canvas you can draw on with different colors.
+
 
 ## [Projects you can join to help the make the world more sustainable](#projects-you-can-join-to-help-the-make-the-world-more-sustainable)
-
 - [Buy Nothing Project](https://buynothingproject.org/)
 - [ChangeX](https://www.changex.org/us/social-innovations)
 - [Circular City Initiative](https://www.circularcityfundingguide.eu/circular-cities/)
@@ -4084,7 +4208,6 @@ Privacy oriented alternatives:
 - [santamonica](https://github.com/sirodoht/santamonica) – Self-hosted Zola-based template website for podcasts.
 - [upodder](https://github.com/m3nu/upodder) – Simple console/terminal podcast downloader.
 
-
 ### [Mobile Podcast-Player](#mobile-podcast-player)
 - [AntennaPod](https://f-droid.org/en/packages/de.danoeh.antennapod/) – Easy-to-use, flexible and open-source podcast manager and player.
 - [Anytime Podcast Player](https://github.com/amugofjava/anytime_podcast_player) – The simple Podcast playing app built with Dart & Flutter.
@@ -4096,6 +4219,13 @@ Privacy oriented alternatives:
 
 ### [Podcast search engine](#podcast-search-engines)
 - [Listen Notes](https://www.listennotes.com/) – Listen Notes provides a clean interface to quickly search for new and old Podcasts.
+
+
+## [QR-Code Reader](#qr-code-reader)
+- todo
+
+## Mobile [QR-Code Reader](#mobile-qr-code-reader)
+- [obsqr](https://f-droid.org/app/trikita.obsqr) – Fastest and most lightweight qr code reader.
 
 
 ## [Robotics](#robotics)
@@ -4117,7 +4247,7 @@ Privacy oriented alternatives:
 
 ## [Social Networks and Platforms](#social-networks-and-platforms)
 
-In general [social networks are fedpots](https://theintercept.com/2021/09/21/surveillance-social-media-police-microsoft-shadowdragon-kaseware/). It should be noted that alternative clients and font-ends will still share your IP with the service as they make direct requests too, this means the Instance owner still can gather several data from you.
+In general [social networks are fedpots](https://theintercept.com/2021/09/21/surveillance-social-media-police-microsoft-shadowdragon-kaseware/). It should be noted that alternative clients and font-ends will still share your IP among some other metadata with the service as they make direct requests too, this means the Instance owner still can gather several data from you.
 
 
 ### [Discord clients](#discord-clients)
@@ -4288,7 +4418,7 @@ Privacy oriented alternatives:
     - [Yuito](https://apt.izzysoft.de/fdroid/index/apk/net.accelf.yuito) – It can be used with distributed SNS (Social Network Services) like Mastodon, Pleroma, Pixelfed etc., which use the ActivityPub protocol.
 
 
-### [Alternative Front-end Bots](#alternative-front-end-bots)
+### [Alternative Front-ends Bots](#alternative-front-ends-bots)
 
 - [linkchanbot](https://git.sr.ht/~torresjrjr/linkchanbot/) – A Telegram Bot which sanitizes and substitutes share links with lightweight, privacy respecting proxy frontend alternatives. The Bot supports Twitter, YouTube, Instagram and Reddit.
 
@@ -4558,6 +4688,9 @@ The overall best strategy is that you post only useful or helpful stuff on platf
 - [Which Face Is Real?](https://www.whichfaceisreal.com/) – Seeing through the illusions of a fabricated world, small game you can play.
 
 
+## [Streaming](#streaming)
+- [Overpass](https://github.com/GOATS2K/overpass) – A self-hosted video live streaming app.
+
 ### [Streaming Platforms (e.g. Twitch)](#streaming-platforms-eg-twitch)
 Avoid using platforms such as Twitch, Patreon, YouTube because they are very privacy-invasive with viewers and you. Instead, you can try using some self-hosted platforms that do take care of everyone's privacy.
 
@@ -4569,54 +4702,6 @@ Privacy oriented alternatives:
 - [Rumble](https://rumble.com) – Your rights management video platform. Host, distribute and monetize all your professional, social and viral video.
 - [streamlink-twitch-gui](https://github.com/streamlink/streamlink-twitch-gui) – A multi platform Twitch.tv browser for Streamlink. Another alternative is to [use MPV](https://benad.me/blog/2018/05/08/watching-youtube-and-twitch-with-mpv/) + the [chat plugin](https://github.com/CrendKing/mpv-twitch-chat/).
 - [Twire](https://github.com/twireapp/Twire) – An open source, ad free Twitch browser and stream player for Android.
-
-
-## [Streaming](#streaming)
-- [Overpass](https://github.com/GOATS2K/overpass) – A self-hosted video live streaming app.
-
-
-### [Mobile Photo Editing and Management](#mobile-photo-editing-and-management)
-- [Simple Draw](https://github.com/SimpleMobileTools/Simple-Draw) – A canvas you can draw on with different colors.
-
-
-### [PCB Design Software](#pcb-design-software)
-- [KiCAD](http://www.kicad-pcb.org/) – Open-source tool that helps you in making Electronic Design Automation(EDA).
-- [LibrePCB](https://librepcb.org/) – A free EDA software to develop printed circuit boards.
-
-
-### [Send files between devices](#send-files-between-devices)
-- [Android File Transfer For Linux (and Mac OS X) (USB)](https://github.com/whoozle/android-file-transfer-linux/blob/master/README.md)
-- [Http Share](https://github.com/marcosdiez/shareviahttp/) – A simple way to share files on your phone or tablet with any other phone, computer or tablet.
-- [LanXchange](https://github.com/tfg13/LanXchange/) – Configuration-free, cross-platform file transfers for your local network.
-- [Mass Transfer](https://github.com/hexian000/MassTransfer/blob/master/README.md) – Only between Androids.
-- [NitroShare](https://f-droid.org/app/net.nitroshare.android) – Simplifies the task of sending files from one device to another on a local network.
-- [Transfer.sh](https://github.com/kartikarora/Transfer.sh/) – Easy file sharing from your Android device!
-- [tFileTransporter](https://github.com/Tans5/tFileTransfer_desktop) – Transfer apps, images and files to Android Devices and PCs.
-- [Warpinator](https://github.com/slowscript/warpinator-android) – Unofficial re-implementation of Linux Mint's file sharing tool Warpinator for Android, basically a tool for sending and receiving files between computers that are on the same network. All you need do is install Warpinator on the computers, choose a group code, edit your firewalls if necessary, and that’s all.
-
-
-### [Self-hosted File-Sharing](#self-hosted-file-sharing)
-- [Lufi](https://github.com/ldidry/lufi) – Lufi means Let's Upload that File. It's a E2E encrypted file sharing software.
-- [OnionShare](https://onionshare.org/) – An open source tool that lets you securely and anonymously share files, host websites, and chat with friends using the Tor network.
-- [Nextcloud](https://nextcloud.com/) – The self-hosted productivity platform that keeps you in control.
-- [Retroshare](https://github.com/RetroShare/RetroShare) – A decentralized, private, secure, cross-platform, communication toolkit. RetroShare provides file sharing, chat, messages, forums, channels and more.
-- [ProjectSend](https://www.projectsend.org/) – Share files with your clients from your own server.
-- [zend.to](https://zend.to/) – The safe, secure and completely free way to transfer large files around the Web.
-
-
-### [Tracking](#tracking)
-- [DejaVu](https://f-droid.org/packages/org.fitchfamily.android.dejavu) – Mobile/cell and WLAN/Wi-Fi based network provider for UnifiedNlp and microG.
-- [Hammond](https://github.com/akhilrex/hammond) – Self-hosted vehicle expense tracking system with multiple users support.
-- [MozillaNlpBackend](https://f-droid.org/packages/org.microg.nlp.backend.ichnaea/) – Location calculation is done online and therefor requires internet connection.
-- [Nextcloud Phonetrack](https://apps.nextcloud.com/apps/phonetrack) – Nextcloud app can track location history with an [Android app](https://gitlab.com/eneiluj/phonetrack-android) ([other apps also supported](https://gitlab.com/eneiluj/phonetrack-oc/-/wikis/userdoc#logging-methods)). Supports caching positions offline and sending them to the server in batches. The first-party app has good battery saving options.
-- [NominatimNlpBackend](https://f-droid.org/packages/org.microg.nlp.backend.nominatim/) – MapQuest’s Nominatim service (based on OpenStreetMap) for geocoding.
-- [OwnTracks](https://owntracks.org/) – Location tracking for displaying the current location only (limited location history functionality).
-- [Traccar](https://www.traccar.org/) – Location tracking software made for dedicated GPS logging devices.
-- [UnifiedNLP](https://f-droid.org/packages/org.microg.nlp) – Most modern ROMs come with support for non-Google geo-location providers. On these systems UnifiedNlp can be installed as a user app to replace the network location provider.
-
-
-## [QR-Code Reader](#qr-code-reader)
-- [obsqr](https://f-droid.org/app/trikita.obsqr) – Fastest and most lightweight qr code reader.
 
 
 ## [Songs regarding Open Source](#songs-regarding-open-source)
@@ -4958,105 +5043,6 @@ You can obtain a [comprehensive aggregator for news feeds here](https://en.wikip
 - [vvvv](https://vvvv.org/) - A hybrid visual/textual live-programming environment for easy prototyping and development.
 
 
-## [Microsoft Exchange](#microsoft-exchange)
-- [Grommunio](https://grommunio.com/) – The most advanced solution in communication and collaboration, a platform for everyone.
-- [Internxt](https://github.com/internxt) – An Open Source Encrypted Cloud Service With Native Linux Client.
-- [Kopano](https://kopano.com/) – From the German-Dutch software manufacturer Kopano, is also AGPLv3-licensed and based on the Zarafa software stack.
-- [Nextcloud](https://nextcloud.com/) – Like in ownCloud or Dropbox, users can access the software suite via their desktops (Windows, Linux, and macOS), web browsers, or native apps (Android and iOS).
-- [ownCloud](https://owncloud.com/) – The core of the client-server software and many community apps are published under the AGPLv3.
-- [OX App Suite](https://www.open-xchange.com/) – The OX App Suite is a modular email, communication, and collaboration platform, mainly designed for telcos, hosting companies, and other providers delivering cloud-based services.
-
-## [Metadata Removal](#metadata-removal)
-- [BleachBit](https://www.bleachbit.org/) – Alternative for CCleaner that is FOSS and can also remove leftovers, metadata etc.
-- [Dangerzone](https://dangerzone.rocks/) – Take potentially dangerous PDFs, office documents, or #images and convert them to safe PDFs.
-- [Exiv2](https://www.exiv2.org/) – Exiv2 is a Cross-platform C++ library and a command line utility to manage image metadata
-- [ExifCleaner](https://exifcleaner.com) – A free desktop app to clean image metadata.
-- [mat2](https://0xacab.org/jvoisin/mat2) – A metadata removal tool, supporting a wide range of commonly used file formats.
-- [Metadata Cleaner](https://gitlab.com/rmnvgr/metadata-cleaner) – Python GTK application to view and clean metadata in files, using mat2.
-- [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif) – An Android app to remove exif data from pictures before sharing them.
-
-### [Mobile Metadata Removal Apps](#mobile-metadata-removal-apps)
-- [DetoxDroid](https://github.com/flxapps/DetoxDroid) – This app follows a different approach by stripping away all the attention-grabbing and manipulative features of other apps. DetoxDroid does not require you to choose a time and place when you want to "detox", or punish you if you fail.
-- [Exif-Remove](https://github.com/roothaxor/Exif-Remove) – Remove exif data from all digital pictures in current directory by typing exif.
-- [ImagePipe](https://codeberg.org/Starfish/Imagepipe) – Reduces image size and removes exif-tags when sharing images on Android devices.
-- [MAT](https://github.com/jubalh/MAT) – Metadata Anonymization Toolkit.
-- [Pocket Paint](https://github.com/Catrobat/Paintroid) – The standard image manipulation app for Catroid.
-- [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif) – Remove Exif data from pictures before sharing them.
-- [scrambledeggsif](https://f-droid.org/packages/com.jarsilio.android.scrambledeggsif/) – Delete meta data from image files on mobile.
-
-
-## [Media Player](#media-player)
-- [clapper](https://github.com/Rafostar/clapper) – Gnome media player built using GJS with OpenGL rendering.
-- [IINA](https://iina.io) – A modern media player for macOS.
-- [MPC-BE](https://forum.doom9.org/showthread.php?t=165890) – Media Player Classic – BE is a free and open source audio and video player for Windows.
-- [MPlayer](https://mplayerhq.hu/) – Video player that supports a complete and versatile array of video and audio formats.
-- [MPV](https://mpv.io) – A free, open source, and cross-platform cmd based media player.
-    - [mpv-android](https://f-droid.org/en/packages/is.xyz.mpv) – Plays almost any kind of multimedia files on Android.
-    - [Smplayer](https://www.smplayer.info/en/mpv) – Smplayer is a GUI for MPV, you find an entire [list of GUI applications here](https://github.com/mpv-player/mpv/wiki/Applications-using-mpv).
-- [PotPlayer](https://potplayer.daum.net/) – Similar like MPC but with a better skin, audio and video player for Windows.
-- [VLC](https://www.videolan.org/) – Multimedia player for almost every platform.
-
-
-### [DLNA Media Player](#dlna-media-player)
-- [Plain UPnP - UPnP / DLNA server and browser](https://f-droid.org/app/net.mm2d.dmsexplorer) – PlainUPnP (formals DroidUPnP) is an UPnP control point application for Android.
-- [Yaacc](https://f-droid.org/en/packages/de.yaacc/) – The App allows you to play media from UPNP/DLNA devices in your network on your android device or any UPNP/DLNA device in your network.
-
-### [IPTV Player and Services](#iptv-player-and-services)
-- [FastCloud](https://github.com/fastogt/fastocloud) – 	Open Source IPTV/Media Service.
-
-### [Mobile IPTV Player](#mobile-iptv-player)
-- [DMS Explorer](https://github.com/ohmae/DmsExplorer) – This is a kind of DLNA player.
-- [FastoTVLite](https://android.izzysoft.de/repo/apk/com.fastotv.lite) – FastoTVLite is a cross-platform free IPTV/stream player with EPG support.
-- [MediaPlayer](https://github.com/geniusgithub/MediaPlayer/) – MediaPlayer is the DLNA device(DMP), which can be in the search for DMS devices, browse resources and play locally.
-
-
-## [Music Player](#music-player)
-- [Audacious](https://audacious-media-player.org) – An open source audio player.
-- [cmus](https://cmus.github.io/) – A small, fast and powerful console music player for Unix-like operating systems.
-- [DeaDBeeF](https://deadbeef.sourceforge.io) – A multi-platform and modular audio player.
-- [Elisa](https://apps.kde.org/en/elisa) – A simple music player that should be easy to use.
-- [mpg123](https://www.mpg123.de/) – Console based MPEG Audio Player and decoder library.
-- [pianobar](https://6xq.net/pianobar/) – A free/open-source, console-based client for the personalized online radio Pandora.
-- [Reddit Music Player](https://reddit.musicplayer.io/) – Online music player for Reddit. - **controversial**
-- [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) – A music playing application for GNOME.
-- [Strawberry](https://www.strawberrymusicplayer.org) – A music player and music collection organizer.
-
-### [Mobile Music Player Apps](#mobile-music-player-apps)
-- [LOS Eleven](https://f-droid.org/wiki/page/com.ymber.eleven) – The default LineageOS music player.
-- [Metro (Retro Music fork with features unlocked)](https://f-droid.org/en/packages/io.github.muntashirakon.Music/) – Best material design music player for Android.
-- [Music Player GO](https://f-droid.org/en/packages/com.iven.musicplayergo/) – Very simple, nice, privacy-friendly and original local Android Music Player.
-- [Shuttle+](https://f-droid.org/en/packages/com.simplecity.amp_pro/) – An open source, local music player for Android.
-- [TimberX](https://github.com/naman14/TimberX) – Material theme music player that works across all form factors (phones, wear, auto, cast, assistant) and uses latest tools (Kotlin, Architecture components, Room, Databinding).
-    - [Timber](https://f-droid.org/en/packages/it.fossoft.timberfoss/) – This is the pure FOSS fork of the app, where all these non-free dependencies have been removed.
-- [Vanilla Music](https://github.com/vanilla-music/vanilla) – A clean, simple and free music player for Android.
-- [Vinyl Music Player](https://f-droid.org/en/packages/com.poupa.vinylmusicplayer/) – Music player easy to use and customizable (multiple themes including a dark one).
-
-### [Music Player Daemon](#music-player-daemon)
-- [clerk](https://github.com/carnager/clerk) – MPD client using rofi or fzf.
-- [fmui](https://github.com/seebye/fmui) – FZF is a mpd user interface.
-- [mpc](https://www.musicpd.org/doc/mpc/html/) – MPC connects to a MPD and controls it according to commands and arguments passed to it.
-- [ncmpcpp](https://rybczak.net/ncmpcpp/) – Feature rich ncurses based MPD client inspired by ncmpc.
-
-### [Guitar Tablature Editor](#guitar-tablature-editor)
-- [TuxGuitar](https://sourceforge.net/projects/tuxguitar/) – Is a multitrack guitar tablature editor and player written in Java-SWT, It can open GuitarPro, PowerTab and TablEdit files.
-
-### [Create Music with your Browser](#create-music-with-your-browser)
-- [Audiolab](https://thereis.love/audiolab) – Open-source sound generating software.
-
-
-### [Markdown editors](#markdown-editors)
-- [Abricotine](https://abricotine.brrd.fr) – An open-source markdown editor built for desktop.
-- [Ghostwriter](https://wereturtle.github.io/ghostwriter/) – A distraction-free Markdown editor for Windows and Linux.
-- [HedgeDoc](https://pad.snopyta.org/) – Lets you create real-time collaborative markdown notes on all platforms.
-- [Logseq](https://logseq.com/) – A privacy-first alternative to WorkFlowy.
-- [MacDown](https://macdown.uranusjr.com) – An open source Markdown editor for Mac OS.
-- [Mark Text](https://github.com/marktext/marktext) – A Markdown editor for Mac, Windows and Linux.
-- [Obsidian](https://obsidian.md/) – Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files.
-- [PanWriter](https://panwriter.com/) – PanWriter is available on macOS, Windows and Linux.
-- [Typora](https://typora.io) – A Markdown editor and Markdown reader.
-- [Zettlr](https://www.zettlr.com) – A Markdown editor for the 21st century.
-
-
 ## [Screensavers](#screensavers)
 - [BOINC](https://boinc.berkeley.edu/) – BOINC was originally developed to manage the SETI@home project.
 - [Electric Sheep](http://www.electricsheep.org/) – Electric Sheep is a distributed computing project for animating and evolving fractal flames, which are in turn distributed to the networked computers, which display them as a screensaver.
@@ -5214,6 +5200,17 @@ Major problems with SSH are explained over [here](https://console.dev/articles/s
 ## [TV Streaming](#tv-streaming)
 - [Zapp](https://f-droid.org/packages/de.christinecoenen.code.zapp/) – Zapp ist Teil von MediathekView und gibt dir einen schnellen Zugang zu vielen deutschen öffentlich-rechtlichen Fernsehsendern. Schaue ARD, ZDF und andere Sender live oder aus der Mediathek.
 - [DroidShows](https://f-droid.org/en/packages/nl.asymmetrics.droidshows/) – TV series browser and tracker.
+
+
+### [Tracking](#tracking)
+- [DejaVu](https://f-droid.org/packages/org.fitchfamily.android.dejavu) – Mobile/cell and WLAN/Wi-Fi based network provider for UnifiedNlp and microG.
+- [Hammond](https://github.com/akhilrex/hammond) – Self-hosted vehicle expense tracking system with multiple users support.
+- [MozillaNlpBackend](https://f-droid.org/packages/org.microg.nlp.backend.ichnaea/) – Location calculation is done online and therefor requires internet connection.
+- [Nextcloud Phonetrack](https://apps.nextcloud.com/apps/phonetrack) – Nextcloud app can track location history with an [Android app](https://gitlab.com/eneiluj/phonetrack-android) ([other apps also supported](https://gitlab.com/eneiluj/phonetrack-oc/-/wikis/userdoc#logging-methods)). Supports caching positions offline and sending them to the server in batches. The first-party app has good battery saving options.
+- [NominatimNlpBackend](https://f-droid.org/packages/org.microg.nlp.backend.nominatim/) – MapQuest’s Nominatim service (based on OpenStreetMap) for geocoding.
+- [OwnTracks](https://owntracks.org/) – Location tracking for displaying the current location only (limited location history functionality).
+- [Traccar](https://www.traccar.org/) – Location tracking software made for dedicated GPS logging devices.
+- [UnifiedNLP](https://f-droid.org/packages/org.microg.nlp) – Most modern ROMs come with support for non-Google geo-location providers. On these systems UnifiedNlp can be installed as a user app to replace the network location provider.
 
 
 ## [Two Factor Authentication (2FA)](#two-factor-authentication-2fa)
