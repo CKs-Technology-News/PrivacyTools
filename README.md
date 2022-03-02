@@ -1937,12 +1937,13 @@ Not so good in terms of privacy:
 - MS integrated search trough Cortana app
 
 Privacy oriented alternatives:
+- [Cerebro app](https://cerebroapp.com/) – Open-source productivity booster with a brain.
 - [czkawka](https://github.com/qarmin/czkawka) – Multifunctional app to find duplicates, empty folders, similar images etc.
 - [Drill](https://github.com/gldev/Drill) – Search files without indexing, but clever crawling.
-- [Cerebro app](https://cerebroapp.com/) – Open-source productivity booster with a brain.
-- [Fast File Finder](https://blog.kowalczyk.info/software/fast-file-finder-for-windows/) – Windows is a tool for quickly finding files by name. - **controversial**
-- [FSearch](https://github.com/cboxdoerfer/fsearch) – A fast file search utility, inspired by Everything Search Engine. It's written in C and based on GTK3 and designed for Linux.
 - [Everything](https://www.voidtools.com/) – Search engine that locates files and folders by filename instantly for Windows.
+- [FSearch](https://github.com/cboxdoerfer/fsearch) – A fast file search utility, inspired by Everything Search Engine. It's written in C and based on GTK3 and designed for Linux.
+- [Fast File Finder](https://blog.kowalczyk.info/software/fast-file-finder-for-windows/) – Windows is a tool for quickly finding files by name. - **controversial**
+- [Orange](https://github.com/naaive/orange) – A cross-platform desktop application for searching local files.
 
 
 ## [File Systems](#file-systems)
