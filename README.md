@@ -5671,7 +5671,7 @@ Not so good in terms of privacy:
 
 Privacy oriented alternatives:
 - [BigBlueButton](https://bigbluebutton.org/) – A web conferencing system designed for online learning.
-- [Freenet](https://freenetproject.org/index.html) – A peer-to-peer platform for censorship-resistant communication.
+- [Freenet](https://freenetproject.org/) – A peer-to-peer platform for censorship-resistant communication.
 - [Jami (formely Ring)](https://jami.net/) – Distributed universal and secure Free Software for multimedia communications.
 - [Jitsi Meet](https://meet.jit.si/) – More secure, more flexible, and completely free video conferencing. It does not need any account or installation. You find an [instances list over here](https://jitsi.github.io/handbook/docs/community/community-instances). Jitsi itself [currently does not support OMEMO](https://github.com/jitsi/jitsi/issues/199#issuecomment-170175764).
     - [Brave Talk](https://brave.com/talk/) – Based on Jitsi integrated into Brave Browser.
