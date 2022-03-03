@@ -617,15 +617,16 @@ Browsers are typically used as gateways to a lot of things and not only Browsing
 
 
 ### [Android & iOS Browser](#android--ios-browser)
-- [Brave Browser](https://brave.com/) – In case you use Brave Browser on Desktop, then keep it for mobile too.
+- [Brave Browser](https://brave.com/) – In case you use Brave Browser on Desktop already then keep it for mobile too.
 - [Bromite](https://www.bromite.org/) – Android version which includes some hardening and additional tweaks and changes.
 - [Ungoogled Chromium](https://ungoogled-software.github.io/) – Ungoogled-Chromium-Android is the Android version of Ungoogled-Chromium. - **controversial**
 - [Fennec F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) – A privacy-focused version of Firefox Android available on F-Droid. Fennec itself has telemetry but you can easily [opt-out](https://old.reddit.com/r/privacy/comments/pxlijb/is_fennec_actually_private/).
-- [Firefox](https://www.mozilla.org/en-US/firefox/mobile/) – Android/iOS – Mozilla is evaluating Firefox usage by changing the [default search engine to Bing](https://www.techspot.com/news/91395-mozilla-evaluating-firefox-usage-changing-default-search-engine.html).
+- [Frameless](https://github.com/stakes/Frameless) – A full-screen web browser for iOS.
+- [Firefox](https://www.mozilla.org/en-US/firefox/mobile/) – For Android and iOS, Mozilla is evaluating Firefox usage by changing the [default search engine to Bing](https://www.techspot.com/news/91395-mozilla-evaluating-firefox-usage-changing-default-search-engine.html).
     - [Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos/) – Privacy hardened fork of Firefox for Android, with proprietary blobs removed.
     - [Iceraven](https://github.com/fork-maintainers/iceraven-browser) – A web browser for Android, based on Mozilla's Fenix version of Firefox.
 - [iCab Mobile (Web Browser)](https://apps.apple.com/us/app/icab-mobile-web-browser/id308111628) - The default settings are not optimal but it is overall a considerable good Browser choice for iOS.
-- [Lynket](https://github.com/arunkumar9t2/lynket-browser) – Lynket utilizes Chrome Custom Tab API to create a customized browsing experience while adding innovative features like background loading with floating bubbles, article mode and multitasking using Android's recent menu. - **controversial**
+- [Lynket](https://github.com/arunkumar9t2/lynket-browser) – Utilizes Chrome Custom Tab API to create a customized browsing experience while adding innovative features like background loading with floating bubbles, article mode and multitasking using Android's recent menu. - **controversial**
 - [Lightning Browser](https://github.com/anthonycr/Lightning-Browser) – A lightweight Android browser with modern navigation. The price is free version on F-Droid but there is a Pro version for $1.50 on Google Play.
 - [Orion Browser](https://browser.kagi.com/) – For iOS and macOS. - **controversial**
 - [Privacy Browser](https://www.stoutner.com/privacy-browser/) – Android only with some nice features. - **controversial**
@@ -637,7 +638,7 @@ Browsers are typically used as gateways to a lot of things and not only Browsing
 
 ### [Flash Browser](#flash-browser)
 
-Adobe Flash is dead and has several security implications however, some might want to quickly Browse oldschool websites and looking for a Browser based solution instead of blindly downloading and executing unknown code on their machine.
+[Adobe Flash is dead](https://www.macrumors.com/2021/01/12/adobe-flash-era-is-officially-over/) and has several security implications however, some might want to quickly Browse oldschool websites and looking for a Browser based solution instead of blindly downloading and executing unknown code on their machine.
 
 - [FlashBrowser](https://github.com/radubirsan/FlashBrowser) – A small browser capable of viewing/displaying pages with embedded flash content.
 
