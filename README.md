@@ -1246,7 +1246,7 @@ Privacy oriented alternatives:
 Multi functional app to find duplicates, empty folders, similar images etc.
 
 
-## [Collaboration platforms](#collaboration-platforms)
+## [Collaboration Platforms](#collaboration-platforms)
 - [Kanboard](https://kanboard.org) – A free and open source Kanban project management software.
 - [My Personal Kanban](https://greggigon.github.io/my-personal-kanban/) – Offline webapp.
 - [Nextcloud Deck](https://apps.nextcloud.com/apps/deck) – Useful when you already have Nextcloud.
@@ -5262,12 +5262,12 @@ Privacy oriented alternatives:
 - [LibreTranslate](https://libretranslate.com/) – Open Source Machine Translation – 100% Self-Hosted. No Limits. No Ties to Proprietary Services.
 - [Mitzuli](https://f-droid.org/en/packages/com.mitzuli/) – Translator for Android featuring a full offline mode, voice input (ASR), camera input (OCR), voice output (TTS), and more.
 - [Softcatala](https://www.softcatala.org/traductor/) – Open Source Translation tool – Only Catalan/Spanish/English/French, it uses uses apertium.
-- [SymplyTranslate ](https://translate.metalune.xyz/) – You can select between different Translation engines, Google, DeepL, ICIBA or LibreTranslate.
+- [SimplyTranslate ](https://simplytranslate.org/) – You can select between different Translation engines, Google, DeepL, ICIBA or LibreTranslate.
 - [TranslateLocally](https://translatelocally.com/) – Free, open source neural MT, runs offline on your computer.
 
 ### [Alternative Google Translate front-ends](#alternative-google-translate-front-ends)
 - [Lingva Translate](https://github.com/TheDavidDelta/lingva-translate) – Alternative front-end for Google Translate. [Demo](https://lingva.ml/).
-- [Simplytranslate](https://git.sr.ht/~metalune/simplytranslate_web) – Alternative front-end for Google Translate and LibreTranslate. [Demo](https://translate.metalune.xyz/).
+- [SimplyTranslate](https://git.sr.ht/~metalune/simplytranslate_web) – Alternative front-end for Google Translate and LibreTranslate. [Demo](https://translate.metalune.xyz/).
 
 ### [Alternatives for Google Translate on Mobile](#alternatives-for-google-translate-on-mobile)
 - [OpenL Translator](https://f-droid.org/app/com.anthony.deepl.openl) – Open source front-end to the high-quality DeepL machine translation services (available for English, German, French, Spanish, Italian, Dutch and Polish).
@@ -5388,12 +5388,15 @@ Privacy oriented alternatives:
 - [Secrets.io](https://www.secrets.so/) – Securely send & receive secrets using a [disposable link](https://www.indiehackers.com/post/securely-send-receive-secrets-using-a-disposable-link-2a64894949).
 
 
-## [Terminal emulators](#terminal-emulators)
+## [Terminal Emulators](#terminal-emulators)
+- [a-shell](https://github.com/holzschu/a-shell) – MacOS and iOS shell terminal based on Mosh.
 - [Alacritty](https://github.com/alacritty/alacritty) – A cross-platform, OpenGL terminal emulator.
+- [Blink](https://github.com/blinksh/blink) – iOS mobile shell terminal based on Mosh.
 - [Hyper](https://hyper.is) – A terminal built on web technologies.
+- [SwiftTerm](https://github.com/migueldeicaza/SwiftTerm) – MacOS VT100/Xterm Terminal emulator in Swift.
+- [Yakuake](https://apps.kde.org/en/yakuake) – A drop-down terminal emulator based on KDE Konsole technology.
 - [iTerm2](https://iterm2.com) – A replacement for Apple Terminal and the successor to iTerm.
 - [st](https://st.suckless.org) – A simple terminal implementation for X.
-- [Yakuake](https://apps.kde.org/en/yakuake) – A drop-down terminal emulator based on KDE Konsole technology.
 
 
 ## [TLS/SSL Ciphers](#tlsssl-ciphers)
