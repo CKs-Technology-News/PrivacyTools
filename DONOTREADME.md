@@ -10,6 +10,8 @@ This is my own collection I gathered over the years, written down into one singl
 
 I decided to go with the name - Privacy Tools - not to bait someone or under the false premise that those make you automatically more private, I moreover decided to use that name for people who are interested in alternative programs that are overall designed - for the user - and not entirely for only profit. This does not mean you should stop supporting open source developers, but listed tools are hand picked with best intentions and research behind.
 
+Please keep in mind that [open source depends on funding](https://tilvids.com/w/iq4ayaYq4gH3y8SyPDYWRr).
+
 
 ## [Do not drag me into so-called "privacy communities"](#do-not-drag-me-into-so-called-privacy-communities)
 
