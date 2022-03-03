@@ -41,9 +41,11 @@ See [here](https://support.google.com/googleplay/android-developer/answer/604824
 - [Timetagger](https://timetagger.app/) – Open source time tracking application.
 
 
-## [Amazon shopping alternatives](#amazon-shopping-alternatives)
+## [Amazon Shopping Alternatives](#amazon-shopping-alternatives)
 Not so good in terms of privacy:
-- [Amazon](https://www.theatlantic.com/technology/archive/2019/01/amazon-made-online-commerce-bewildering/580660/), see [here](https://www.reuters.com/business/retail-consumer/amazon-hit-with-886-million-eu-data-privacy-fine-2021-07-30/)
+- [Amazon](https://www.theatlantic.com/technology/archive/2019/01/amazon-made-online-commerce-bewildering/580660/), see [here](https://www.reuters.com/business/retail-consumer/amazon-hit-with-886-million-eu-data-privacy-fine-2021-07-30/). [How to avoid Amazon: guide to online shopping](https://www.theguardian.com/technology/2020/apr/27/how-to-avoid-amazon-the-definitive-guide-to-online-shopping-without-the-retail-titan).
+- [Amazon patent to prevent online comparison shopping](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=9665881.PN.&OS=PN/9665881&RS=PN/9665881).
+
 
 Privacy oriented alternatives:
 - [Wibbets](https://wibbets.com/) – The privacy guaranteed online shopping website Amazon alternative. - **controversial**
@@ -125,7 +127,6 @@ Privacy oriented alternatives:
 - [Funkwhale](https://funkwhale.audio/) – Self-hosted, decentralized music service. Provide your own audio.
 - [KooZic](https://koozic.net/) – KooZic is an open-source music streaming service that you install on your server! Based on Odoo.
 - [Maloja](https://github.com/krateng/maloja) – Simple self-hosted music scrobble database to create personal listening statistics. No recommendations, no social network, no nonsense.
-- [Nuclear](https://nuclear.js.org/) – A music streaming program which pulls from multiple free sources. - **controversial**
 - [Pulse Music](https://f-droid.org/en/packages/com.hardcodecoder.pulsemusic/) – An offline music player app, with modern UI and powerful features that does not depend on Google Play Services.
 
 
@@ -135,7 +136,6 @@ Privacy oriented alternatives:
 
 ## [Android Apps on Linux](#android-apps-on-linux)
 - [anbox](https://anbox.io/) – Anbox puts the Android operating system into a container, abstracts hardware access and integrates core system services into a GNU/Linux system.
-- [Genymotion](https://www.genymotion.com/) – Empower your Android teams with Virtual Devices that truly scale, free for personal use. - **controversial**
 - [Jolla](https://jolla.com/appsupport/) – Run Android apps seamlessly on your Linux platform.
 - [waydro](https://waydro.id/) – Waydroid uses Linux namespaces (user, pid, uts, net, mount, ipc) to run a full Android system in a container and provide Android applications on any GNU/Linux-based platform.
 
@@ -643,7 +643,7 @@ Adobe Flash is dead and has several security implications however, some might wa
 
 ### [Peer-to-Peer Browser](#peer-to-peer-browser)
 - [Beaker Browser](https://beakerbrowser.com/) – An experimental peer-to-peer Web browser.
-- [Ceno](https://censorship.no/en/about.html) – A P2P mobile browser to fight censorship. - **controversial**
+- [Ceno](https://censorship.no/en/about.html) – A P2P mobile browser to fight censorship.
 - [Decenter Browser](https://decentr.net/) – Blockchain based Browser approach.
 - [Stealth](https://github.com/tholian-network/stealth) – Secure, Peer-to-Peer, Private and automatable Web Browser/Scraper/Proxy.
 
@@ -962,7 +962,6 @@ You do not need them if you have above listed extensions/add-ons installed or in
 
 - [chisel](https://github.com/jpillora/chisel) – A fast TCP/UDP tunnel over HTTP.
 - [chnroutes](https://github.com/fivesheep/chnroutes)- Modifies the route table to route only censored IPs through VPN.
-- [Cloudflare Argo tunnel](https://blog.cloudflare.com/tunnel-for-everyone/) – Argo Tunnel creates a secure, outbound-only connection between your services and Cloudflare by deploying a lightweight connector in your environment. - **controversial**
 - [code-talker-tunnel](https://crysp.uwaterloo.ca/software/CodeTalkerTunnel.html) – Code Talker Tunnel (previously called SkypeMorph) is a protocol camouflaging tool, designed to reshape traffic output of any censorship circumvention tool to look like Skype video calls
 - [Dust](https://github.com/blanu/Dust) – A Polymorphic Engine for Filtering-Resistant Transport Protocols.
 - [exposure](https://github.com/beyondcode/expose) – A A beautiful, fully open-source, tunneling service, written in pure PHP.
@@ -1220,7 +1219,6 @@ Multi functional app to find duplicates, empty folders, similar images etc.
 
 ## [CMS](#cms)
 - [Contentful](https://www.contentful.com/) – One of the most popular CMS.
-- [Post](https://blog.cloudflare.com/production-saas-intro/) – Cloudflares own CMS. If you already trust CL, then use all of their products. - **controversial**
 - [Sanity.io](https://www.sanity.io/) – Headless CMS.
 
 
@@ -1310,7 +1308,6 @@ Privacy oriented alternatives:
 
 You can [unblock domains from security filters](https://gist.github.com/grovesNL/2d00b568038bd28896d44d1b5b3299cd).
 
-- [Cloudflare](https://www.cloudflare.com/products/registrar/) – No markup on pricing according to their docs. MFA with YubiKey and [API](https://api.cloudflare.com/#registrar-domains-properties). - **controversial** The logic why it is listed is that I suggest if you really trust CL, you stick to all of their programs and services because you already gave them your private Infos.
 - [DNSimple](https://dnsimple.com/) – Simple, Secure Domain Management.
 - [Gandi](https://cli.gandi.net/) – Their motto used to be “No bullshit”.
 - [Njalla](https://njal.la) – Privacy-aware domain service, sitting in between the domain service registrations and you, acting like a privacy shield.
@@ -1464,7 +1461,6 @@ Privacy oriented alternatives:
 [NextDNS](https://help.nextdns.io/t/h7hps0b/nextdns-app-deleted-from-appstore) **will not** get listed, they make money by [limiting the DNS queries](https://help.nextdns.io/t/p8hmvaw/what-happens-after-300k-queries#:~:text=NextDNS%20can%20be%20used%20for,no%20filtering%2C%20no%20logging%20etc.), their filter-list are integrated from GitHub based on other people work (and they do not donate to such projects). I absolute have no respect for this. Making money on behalf of other peoples work will not be tolerated on my list, they designed it to make money out of it not to help the community, the argumentation that you can use it free without buying for it (unless you hit the limit) does not change the fact that they steal other people filter-list (without asking if they even wanted to be listed). It would be different if they would fully open it up and accept donations, but that is not the case. BlahDNS/youtube-dl (as example) also do not limit stuff and then forcing you to pay for it to "unlock" additional stuff, it would be unthinkable. It is beyond me why anyone should support NextDNS. Besides this argument, there is also another one, you cannot self-host it.
 
 - [Adguard Pro](https://github.com/AdguardTeam/AdguardForiOS) – The most advanced Safari content blocker and privacy keeper for iOS, DNS option/integration is planned. You do [not need the app on iOS 14+](https://adguard.com/en/blog/encrypted-dns-ios-14.html). The source code is not fully open, you only see the [issue ticket system](https://github.com/AdguardTeam/AdguardForAndroid).
-- [controld](https://controld.com) – Bypass geo-restrictions, block tracking, and be more productive. - **controversial**
 - [DNSCloak](https://github.com/s-s/dnscloak) – A GUI and wrapper for dnscrypt-proxy 2 for [iOS](https://apps.apple.com/de/app/dnscloak-secure-dns-client/id1452162351). You can find a small guide [here](https://web.archive.org/web/20210729190756/https://blog.privacytools.io/adding-custom-dns-over-https-resolvers-to-dnscloak/).
 - [dnscrypt-proxy v2](https://github.com/DNSCrypt/dnscrypt-proxy) – A flexible DNS proxy, with support for encrypted DNS protocols.
 - [DNSCrypt](https://dnscrypt.info/) – Encrypts, authenticates and anonymizes communications between a DNS client and resolver.
@@ -1942,7 +1938,6 @@ Privacy oriented alternatives:
 - [Drill](https://github.com/gldev/Drill) – Search files without indexing, but clever crawling.
 - [Everything](https://www.voidtools.com/) – Search engine that locates files and folders by filename instantly for Windows.
 - [FSearch](https://github.com/cboxdoerfer/fsearch) – A fast file search utility, inspired by Everything Search Engine. It's written in C and based on GTK3 and designed for Linux.
-- [Fast File Finder](https://blog.kowalczyk.info/software/fast-file-finder-for-windows/) – Windows is a tool for quickly finding files by name. - **controversial**
 - [Orange](https://github.com/naaive/orange) – A cross-platform desktop application for searching local files.
 
 
@@ -1997,7 +1992,6 @@ Privacy oriented alternatives:
 - [Send](https://gitlab.com/timvisee/send) – Simple, private file sharing. [Send](https://send.vis.ee/). List of [public instances](https://github.com/timvisee/send-instances/#public-send-instances).
 - [Snapdrop](https://snapdrop.net/) – A Progressive Web App for local file sharing inspired by Apple's Airdrop.
   - [SnapDrop for Android](https://github.com/fm-sys/snapdrop-android) - Android client for local file sharing via SnapDrop.
-- [Transferfile.io](https://www.transferfile.io/) - Decentralized Alternative to Wetransfer. - **controversial**
 - [Tresorit](https://send.tresorit.com/) – Free, End-to-end encrypted alternative for file sending. Up to 5GB.
 - [Wormhole](https://wormhole.app/) – Simple, private file sharing.
     - [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) - Get things from one computer to another, safely.
@@ -2074,7 +2068,6 @@ For mobile please check the file manager section, most file manager include such
 - [XTahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) – Distributed file system and Cloud storage system with integrated privacy and security features.
 
 ### [Mobile File-Sharing](#mobile-file-sharing)
-- [RDrop](https://rdrop.link/) – A Simple P2P File Transfer Service Web-App. - **controversial**
 - [Sharik](https://github.com/marchellodev/sharik) - Works with Wi-Fi connection or Tethering (via WiFi Hotspot). No internet connection needed. Available for Android, iOS, Linux, MacOS & Windows.
 - [Seeker](https://github.com/jackBonadies/SeekerAndroid) – Android client for the Soulseek peer-to-peer network.
 - [TrebleShot](https://github.com/trebleshot) – Free and open-source software for sharing files with support for browsers, Android & desktop.
@@ -2330,7 +2323,6 @@ There are some open source API's available to Google trends.
 - [In php](http://codingfocus.com/google-trends-api)
 - [In Python](https://github.com/GeneralMills/pytrends)
 - [Java client side](https://github.com/elibus/j-google-trends-client)
-- [Keyword Tool](https://keywordtool.io/google-trends) – Get Great Keywords From Google Trends In Seconds. - **controversial**
 - [pytrends - Pseudo API for Google Trends](https://github.com/GeneralMills/pytrends) – Allows simple interface for automating downloading of reports from Google Trends.
 
 
@@ -2339,14 +2331,8 @@ There are some open source API's available to Google trends.
 Most tools are normally paid or freemium only because you need to put lots of time, effort and maintenance in such G-Suite alternatives.
 
 - [Fastmail](https://github.com/fastmail) – Fastmail is considerable a solid alternative for email & calendar. Fastmail is also listed under eMail provider.
-- [Kolab Community](https://kolab.org/) – A secure, scalable, reliable, flexible, full-featured collaboration suite. - **controversial**
-- [Kopano](https://kopano.com/) – Sharing & communication software for business. - **controversial**
-- [Mailfence Collaboration Suite](https://mailfence.com/) – Secure and private collaboration suite that includes emails, contacts, calendars, and documents. Users can create groups to collaborate, chat and share data. - **controversial**
-- [MXRoute](https://mxroute.com/) – Offers lifetime promo but is not FOSS. - **controversial**
 - [Nextcloud Hub](https://nextcloud.com/hub/) – Nextcloud is the most deployed on-premises file share and collaboration platform.
-- [OpenChange](https://github.com/openchange/openchange) – OpenChange aims to provide a portable Open Source implementation of Microsoft Exchange Server and Exchange protocols. - **controversial**
 - [WikiSuite](http://wikisuite.org/) – The most comprehensive and integrated Free / Libre / Open Source enterprise software suite.
-- [Zimbra Collaboration Suite](https://www.zimbra.com/email-server-software/) – An open, secure collaboration tool for email, calendaring, tasks and more. - **controversial**
 
 
 ## [Graphic Novels & Comic Books](#graphic-novels--comic-books)
@@ -2931,7 +2917,6 @@ Leaked FBI Docs Suggest Telegram Safer than WhatsApp, Threema and others, see pi
 Source for this is claim is [here](https://www.rollingstone.com/politics/politics-features/whatsapp-imessage-facebook-apple-fbi-privacy-1261816/). For people saying Telegram isn't mentioned in the source article, click on the source document. It does cover various apps including Telegram. The document as PDF is hosted [here](https://propertyofthepeople.org/document-detail/?doc-id=21114562).
 
 
-- [Linphone](https://www.linphone.org/) – An open source SIP phone for voice/video calls and instant messaging, and is available for mobile and desktop environments (iOS, Android, GNU/Linux, macOS, Windows). - **controversial**
 - [Oversec](https://f-droid.org/packages/io.oversec.one/) – Privacy for All Apps! Encrypt and Disguise Messages in All Your Apps. This is not an IM application but listed here as "helper" application to add an encryption layer for those who are not encrypted.
 - [Ricochet](https://ricochet.im/) – Anonymous instant messaging (Desktop only!).
 - [Threema](https://threema.ch/en) – The messenger that puts security and privacy first. Pay once, chat forever. No collection of user data. Open Source client. [Crypto review 2021](https://soatok.blog/2021/11/05/threema-three-strikes-youre-out/) by Soatok.
@@ -3184,11 +3169,9 @@ Tools and utilities mentioned in [The Art of Mac Malware by Patrick Wardle](http
 - [Bear blog](https://bearblog.dev) – Microblogging without trackers, the upper layer is Heroku.
 - [Heaven Web previously known as Simple Blogs](https://havenweb.org/) – Good for private blogs but not for commercial/public blogging. Built-in feed reader.
 - [Gollum](https://github.com/gollum/gollum) – A simple, Git-powered wiki with a sweet API and local front-end.
-- [NoFilter](https://nofilter.org/) – Unstoppable uncensorable free speech blogging app and content live on IPFS. There is no source code provided for the platform or the hosted website. - **controversial**
 - [Orca](https://github.com/ElevenSymbols/orca) – An open-source platform for building modern community apps.
 - [Rainbow Stream](https://github.com/orakaro/rainbowstream) – A smart and nice Twitter client on terminal written in Python.
 - [Retype](https://retype.com/) – A self-hosted alternative to GitBook.
-- [Spill](https://usespill.com/auth/login/?next=/feed/new) – Anonymous Micro-Blogging. Non-Harvard people can join although their accounts will be flagged as such. - **controversial**
 - [slc.is](https://github.com/splch/slc.is) – A Markdown Blog on Go.
 - [Statsigstatus](https://github.com/statsig-io/statsigstatus) – Open-Source Status Page Built with GitHub Actions.
 - [Toot](https://github.com/ihabunek/toot) – Mastodon CLI & TUI client.
@@ -3214,7 +3197,6 @@ Tools and utilities mentioned in [The Art of Mac Malware by Patrick Wardle](http
 ## [Mind Mapping](#mind-mapping)
 - [Compendium](http://compendium.open.ac.uk/) – A computer program and social science tool that facilitates the mapping and management of ideas and arguments. The software provides a visual environment that allows people to structure and record collaboration as they discuss and work through "wicked problems".
 - [Dia](http://wiki.gnome.org/Apps/Dia/) – Free and open source general-purpose diagramming software, developed originally by Alexander Larsson. Dia uses a controlled single document interface (SDI) similar to GIMP and Inkscape.
-- [Diagrams.net](https://app.diagrams.net/) – Online Flowchart maker and online diagram creator. - **controversial**
 - [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page) – FreeMind is a free mind mapping application written in Java, which is further developed by the fork Freeplane until today (2021).
 - [Freeplane](https://www.freeplane.org/) – Freeplane mind mapping tool a free mind mapping program under the GNU General Public License (GPL) version 2 or later.
 - [Heimer](https://github.com/juzzlin/Heimer/) – A simple cross-platform mind map, diagram, and note-taking app written in QT.
@@ -3242,7 +3224,6 @@ Not so good in terms of privacy:
 - [Apple](https://www.macworld.com/article/613085/apples-app-store-policies-prove-that-money-is-the-top-priority.html) Maps or Apple CarPlay
 
 Privacy oriented alternatives:
-- [DuckDuckGo Maps for Browser](https://duckduckgo.com/?q=statue+of+liberty&ia=web&iaxm=maps) – Useful for finding directions, and commercial listings as it is powered by Apple Maps for the business listings. - **controversial**
 - [Open Street Map (OSM)](https://www.openstreetmap.org/) – OpenStreetMap is built by a community of mappers that contribute and maintain data about roads, trails, cafés, railway stations, and much more, all over the world.
     - [OSMAnd](https://osmand.net/) – Android/iOS Navigation app using OSM. It is a feature-rich app with all you expect.
     - [Benmaps](https://benmaps.fr/) – Alternative based on OpenStreetMap.
@@ -3317,7 +3298,6 @@ Privacy oriented alternatives:
 - [Elisa](https://apps.kde.org/en/elisa) – A simple music player that should be easy to use.
 - [mpg123](https://www.mpg123.de/) – Console based MPEG Audio Player and decoder library.
 - [pianobar](https://6xq.net/pianobar/) – A free/open-source, console-based client for the personalized online radio Pandora.
-- [Reddit Music Player](https://reddit.musicplayer.io/) – Online music player for Reddit. - **controversial**
 - [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) – A music playing application for GNOME.
 - [Strawberry](https://www.strawberrymusicplayer.org) – A music player and music collection organizer.
 
@@ -3372,7 +3352,6 @@ Privacy oriented alternatives:
 
 ## [Note taking apps](#note-taking-apps)
 - [Boost Note](https://boostnote.io) – An open source Markdown editor for developers.
-- [Burner Note](https://burnernote.com/) - Send secure and encrypted notes that self destruct once they've been read. - **controversial**
 - [Carnet](https://getcarnet.app) – A complete open source note taking app.
 - [Cryptee](https://crypt.ee) – A private and encrypted place for all your photos, documents, notes and more.
 - [Joplin](https://joplinapp.org) – A free and open source note-taking and to-do application.
@@ -3584,7 +3563,6 @@ Can you crack the logic....?
 - [/e/ OS](https://e.foundation/e-os/) – A complete, fully de-Googled, mobile ecosystem based on LineageOS. You can find an analysis of the /e/OS app installer over [here](https://nervuri.net/e/apps).
 - [Calyx OS](https://calyxos.org/) – A secure and private mobile OS for Pixel phones and the Xiami Mi A2.
 - [Divest OS](https://divestos.org) – Divest OS strives to prolong device life, enhance user privacy, and provide modest security to many devices. DivestOS inherits many supported devices from LineageOS. It has signed builds, making it possible to have verified boot on some non-Pixel devices.
-- [MoKee ROM](https://blog.jolla.com/suomenlinna/) – Android Community Operating System that supports some older devices in case your device is not officially supported or you cannot use AOSP for whatever reasons on your device, this might be an alternative. It currently has no privacy benefits over AOSP. THe main benefit is that it frequently gets updates which makes it easier for the end-user to use. - **controversial**
 - [OpenKirin](https://openkirin.net/) – A team of developers who believe that a pure, AOSP Android experience should be easily available for users running Huawei devices with Kirin chipsets. The reason I list it here is that Huawei devices with Kirin chipsets have less options, I am aware this is AOSP based and the title here says Stock OS alternatives, which AOSP in general counts in.
 - [Postmarket OS](https://postmarketos.org/) – Touch optimised and pre-configured version of Alpine Linux.
 - [ProtonAOSP](https://github.com/ProtonAOSP) – A minimal Android fork for design and performance for Google Pixel devices, which is based on Android 11 & 12. This ROM can be used together with MicroG and has many interesting features. However, by default it comes with Gapps, minimalistic package pre-installed, which you can uninstall afterwards if you want.
@@ -3820,9 +3798,9 @@ Privacy oriented alternatives:
 - [Cash](https://en.wikipedia.org/wiki/Cashless_society) – Use person-to-person payments using physical notes and coins.
 - [Conceal](https://conceal.network/) - Decentralized Finance, Private Transactions & Encrypted Messaging.
 - [Heaven](https://havenprotocol.org/) - Haven is an ecosystem of digital assets that enables users to convert between volatile assets and stable currencies directly within their vault, in complete privacy.
-- [Liberapay](https://liberapay.com/) – An easy-to-use, free open donations platform and lets your fans send you a set amount every week, month or year. - **controversial**
+- [Liberapay](https://liberapay.com/) – An easy-to-use, free open donations platform and lets your fans send you a set amount every week, month or year.
 - [Monero](https://www.getmonero.org/) – Monero is cash for a connected world. It's fast, private, untraceable and secure. The claim Monero is traceable and cracked by the feds have no evidence. There are no indicators for that found in the real-world. It was [only attacked](https://cryptopotato.com/monero-xmr-sybil-attack-not-broken/), the story that went around was about [XMR pre-ring signatures](https://old.reddit.com/r/Monero/comments/ik0t3h/ciphertrace_monero_tracing_example/). That said [it](https://arxiv.org/pdf/1704.04299/) got fixed. [Feds cannot trace Monero](https://old.reddit.com/r/Monero/comments/a1u56x/fbi_guy_on_the_panel_repeatedly_mentioned_that/).
-- [Open Collective](https://opencollective.com/) – A more advanced platform specially designed for crowdfunded projects and organisations that want to be as transparent as possible about how donations are spent. - **controversial**
+- [Open Collective](https://opencollective.com/) – A more advanced platform specially designed for crowdfunded projects and organisations that want to be as transparent as possible about how donations are spent.
 - [Pivx Shield](https://www.pivx.org/) – Proof-of-Stake coin, with SHIELD transactions, gives users private, anonymous, nearly instant payments.
 - [Snowdrift](https://snowdrift.coop/) – Non-profit cooperative funding platform with an unique approach to fundraising called crowd matching.
 
@@ -3833,8 +3811,8 @@ Privacy oriented alternatives:
 ## [Payments and Personal Finances](#payments-and-personal-finances)
 
 Not so good in terms of privacy:
-- [Bitcoin is not decentralized](https://www.youtube.com/watch?v=1f3_h3LuBQA). - **controversial**
-- [Bitcoin is not anonymous nor private](https://arxiv.org/abs/1405.7418). - **controversial**
+- [Bitcoin is not decentralized](https://www.youtube.com/watch?v=1f3_h3LuBQA).
+- [Bitcoin is not anonymous nor private](https://arxiv.org/abs/1405.7418).
 - [Bitcoin](https://bitcoin.org) itself is [traceable](https://bitcoin.org/en/protect-your-privacy), [transparent](https://youtube.com/watch?v=pdwOXWmAs8Y). You need to be careful when using Bitcoin so you don't leave any traces that can later be used against you to harm your privacy.
 - [China banned cryptocurrency business](https://www.reuters.com/technology/chinese-financial-payment-bodies-barred-cryptocurrency-business-2021-05-18/). [Bitcoin itself is considered a fedpot](https://www.vice.com/en/article/dyp7vw/the-cia-is-deep-into-cryptocurrency-director-reveals).
 
@@ -4332,7 +4310,6 @@ Privacy oriented alternatives:
 - [Bibliogram](https://sr.ht/~cadence/bibliogram/) – Bibliogram is an alternative front-end for Instagram.
   - [Bibliogram instances list](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md)
   - Official instance is [https://bibliogram.art](https://bibliogram.art/)
-- [Imginn](https://imginn.com/) – An online Instagram backup tool that helps users save instagram photos through the instagram public API. The website contains trackers and the service is not FOSS. - **controversial**
 
 
 ### [Instagram Tools](#instagram-tools)
@@ -4391,7 +4368,6 @@ If you insist on using Twitter then use Tweeten, which is based on TweetDeck, th
 
 
 Alternatives that work similar:
-- [Twetch](https://twetch.app/) – The decentralized social network where you own your data and earn money for your content. - **controversial**
 - [Zooko](https://github.com/publiusfederalist/zooko) – Like Twitter, but Immutable, Verifiable and Decentralized.
 - [Retribute](https://retribute.me/) – A Community Wealth Sharing Platform.
 
@@ -4605,10 +4581,10 @@ Privacy oriented alternatives:
 
 > Keep in mind that lots of alternatives that are so-called privacy friendly are quickly abused to spread propaganda, disinformation and is deliberately abused to re-host stuff that is removed by other more sophisticated platforms. Extremists simply love to abuse platforms to spread their propaganda.
 
-- [BeardTube](https://lemmygrad.ml/c/beardtube) – BeardTube is a place for sharing videos from a revolutionary perspective. Politics, Economics, History, Philosophy, Science, Journalism, Culture, News, Critiques, and more are welcome here as long as submitted content is relevant and of high quality. - **controversial**
-- [BitChute](https://www.bitchute.com/) – Another alternative to YouTube. Peer to peer video sharing platform. - **controversial**
+- [BeardTube](https://lemmygrad.ml/c/beardtube) – A place for sharing videos from a revolutionary perspective. Politics, Economics, History, Philosophy, Science, Journalism, Culture, News, Critiques, and more are welcome here as long as submitted content is relevant and of high quality.
+- [BitChute](https://www.bitchute.com/) – Another alternative to YouTube. Peer to peer video sharing platform.
 - [Bit.Tube](https://bit.tube/) – Crypto-powered decentralized video sharing service.
-- [BreadTube](https://breadtube.tv/) – BreadTube, or LeftTube, is a loose and informal group of online content creators who create video content, often video essays and livestreams from socialist, communist, anarchist, and other left-wing perspectives. - **controversial**
+- [BreadTube](https://breadtube.tv/) – BreadTube, or LeftTube, is a loose and informal group of online content creators who create video content, often video essays and livestreams from socialist, communist, anarchist, and other left-wing perspectives.
 - [Peertube](https://joinpeertube.org/) – A free, open and decentralized alternative to video platforms.
     - [PeerTube Live](https://f-droid.org/en/packages/fr.mobdev.peertubelive/) – PeerTube streaming app for Android.
     - [SimpleerTube](https://simpleertube.metalune.xyz/) – A simple frontend for PeerTube with SepiaSearch, see [here](https://git.sr.ht/~metalune/simpleweb_peertube).
@@ -4814,7 +4790,7 @@ Privacy oriented alternatives:
 - [JuNest](http://fsquillace.github.io/junest-site/) – The lightweight Arch based distro that runs upon any Linux distribution.
 - [KDE Neon](https://neon.kde.org) – The latest and greatest of KDE community software packaged on a rock-solid base.
 - [Linux Mint](https://linuxmint.com/) – Beginner friendly Linux distribution.
-- [LinuxFX](https://www.linuxfx.org/) – Based on Ubuntu, modified  KDE Plasma to make it look like Windows 11. - **controversial**
+- [LinuxFX](https://www.linuxfx.org/) – Based on Ubuntu, modified  KDE Plasma to make it look like Windows 11.
 - [Manjaro](https://manjaro.org/) – Free fast and secure Linux based operating system for everyone, suitable replacement to Windows or MacOS with different Desktop Environments. *[controversial](https://rentry.co/manjaro-controversies) - maybe [fixed](http://allanmcrae.com/2013/01/manjaro-linux-ignoring-security-for-stability/) / Those articles are old, but they are still relevant due to Manjaro still continuing those practices.*
 - [MX Linux](https://mxlinux.org/) – A cooperative venture between the antiX and MX Linux communities.
 - [NomadBSD](https://nomadbsd.org/) – A persistent live system for USB flash drives, based on FreeBSD®.
@@ -5073,7 +5049,6 @@ You can obtain a [comprehensive aggregator for news feeds here](https://en.wikip
 - [Voloscreen](https://linuxecke.volkoh.de/vokoscreen/vokoscreen.html) – For Windows and Linux, it is free and open source.
 
 ### [Mobile Screen Recording](#mobile-screen-recording)
-- [ApowerREC](https://play.google.com/store/apps/details?id=com.apowersoft.apowerrec) – Not FOSS but no ads or trackers included. - **controversial**
 - [LOS built-in Recorder App](https://www.apkmirror.com/apk/lineageos/recorder/recorder-8-1-0-release/recorder-8-1-0-android-apk-download/). Make sure you select and use the latest version. Some distros come with their own versions pre-installed.
 - [ScreenCam](https://f-droid.org/en/packages/com.orpheusdroid.screenrecorder/) – Lightweight and functional screen recorder.
 - [ScreenKap](https://github.com/indritbashkimi/ScreenKap) – A simple screen recorder app for Android. It uses MediaStore or Storage Access Framework API's to access files so it doesn't require the storage permission.
@@ -5119,17 +5094,13 @@ Be careful if you use public instances, this applies to every self-hosted public
 - [Approach Zero](https://approach0.xyz/search/) – A math-aware search engine.
 - [Ecosia](https://www.ecosia.org/) – A search engine based in Berlin, Germany which uses Bing as upper layer.
 - [Givero](https://www.givero.com/) – Based in Denmark, Givero offers more privacy than Google and combines search with charitable donations.
-- [Hello](https://beta.sayhello.so/) – A conversational search engine powered by transformers. - **controversial**
 - [Infinity Search](https://infinitysearch.co/) – Infinity Search is a privacy metasearch engine that does not log any information about its users. In terms of privacy, it works the same way as [DuckDuckGo](https://codeberg.org/swiso/website/issues/137).
-- [Kiddle](https://www.kiddle.co/) – Safe visual search engine for kids. - **controversial**
 - [MeiliSearch](https://codefibershq.com/blog/hands-on-meilisearch-a-next-generation-search-engine-for-modern-web) – A next generation search engine for modern web.
-- [MusicSrch](https://musicsrch.com/) – Simple Music Search Engine, it includes trackers for statistics. - **controversial**
 - [Mwmbl](https://github.com/mwmbl/mwmbl) – An open source, non-profit search engine implemented in Python.
 - [Oscobo](https://www.oscobo.com/) – A search engine created for the sole purpose of protecting your privacy while you search the web.
 - [Private](https://private.sh/) – The search engine that cryptographically protects your privacy.
 - [Roogle](https://github.com/hkmatsumoto/roogle) – A (Hoogle-like) Rust API search engine.
 - [Rave Book Search Engine](https://ravebooksearch.com/) – Easily find books or audio-books.
-- [RigFoot](https://rigfoot.com/) – A guitar and bass pedal search engine. - **controversial**
 - [SearX](https://searx.me/) – Privacy-respecting metasearch software. - **controversial** Keep in mind that anyone can create an instance an deliver ads, malware etc.
     - [SearX.be](https://searx.be/) – Example: SearX.be is located in the EU.
     - [List of searx instances](https://searx.space/) –  Shows different instances, choose one or more to use. Click "..." in address bar to add as search engine.
@@ -5317,7 +5288,6 @@ Privacy oriented alternatives:
 - [Espeak](http://espeak.sourceforge.net/download.html) – A free and open source text to speech utility that can be used to convert text to speech in many different languages.
     - [eSpeakNG](https://f-droid.org/packages/com.reecedunn.espeak/) – Text-to-speech engine for Android. Based on the eSpeak engine.
 - [Festival](https://www.cstr.ed.ac.uk/projects/festival/download.html) – Festival is another free and open source text to speech engine that works similar to Espeak.
-- [gTTS](https://github.com/pndurette/gTTS#installation) – A command line application and library based on Google Translate’s text to speech engine. - **controversial**
 - [Pico Text to Speech Engine](https://github.com/naggety/picotts) – Pico is a free and open source text to speech engine that is included by default in Android Open Source Project (AOSP).
 - [Read Aloud](https://github.com/ken107/read-aloud) - Text to Speech Voice Reader extension for your browser.
 - [RHVoice](https://f-droid.org/packages/com.github.olga_yakovleva.rhvoice.android/) – TTS engine with extended languages support, including Russian.
@@ -5595,7 +5565,6 @@ The main reason why some VPN provider adding it is not security, or privacy, it 
   - [wireguard-install](https://github.com/angristan/wireguard-install) – Easy WireGuard install script. See the note above about Wireguard,
   - [wg-access-server](https://github.com/Place1/wg-access-server) – An all-in-one WireGuard VPN solution with a web UI for connecting devices.
 - [pritunl](https://github.com/pritunl/pritunl) – Self-hosted enterprise VPN server built using the OpenVPN protocol.
-- [Riseup](https://riseup.net/en/vpn) – Free VPN, open source project funded only by donations. - **controversial**
 - [stunnel](https://stunnel.org/) – Proxy designed to add encryption tunnels to existing apps without any changes in the programs code.
 - [subspace](https://github.com/subspacecommunity/subspace) – WireGuard VPN server GUI.
 - [tinc](https://tinc-vpn.org/) – A Virtual Private Network (VPN) daemon that uses tunneling and encryption to create a secure private network between hosts on the Internet.
@@ -5614,13 +5583,12 @@ The main reason why some VPN provider adding it is not security, or privacy, it 
 - [OVPN](https://www.ovpn.com/) – OVPN is the VPN service that makes you anonymous online.
 - [Perfect Privacy VPN](https://www.perfect-privacy.com/) – Perfect Privacy is committed to the privacy and anonymity of its customers since 2008 and is one of the most secure VPN providers worldwide.
 - [Private Internet Access](https://privateinternetaccess.com/) (PIA) – Headquaters located in U.S. but their servers are not located in the US.
-- [PrivadoVPN](https://privadovpn.com/) – Useful for usenet, torrenting and other things. - **controversial**
 - [ProtonVPN](https://protonvpn.com/) – You also can use it as free VPN alternative (create a free account).
-- [VyprVPN](https://www.vyprvpn.com/) – Swiss based VPN provider. - **controversial**
+- [VyprVPN](https://www.vyprvpn.com/) – Swiss based VPN provider.
 
 ### [Mobile VPN](#mobile-vpn)
-- [Calyx VPN](https://f-droid.org/en/packages/org.calyxinstitute.vpn/) – Free VPN Service offered by The Calyx Institute. - **controversial**
-- [Riseup](https://f-droid.org/app/se.leap.riseupvpn) – Free VPN, open source project funded only by donations. - **controversial**
+- [Calyx VPN](https://f-droid.org/en/packages/org.calyxinstitute.vpn/) – Free VPN Service offered by The Calyx Institute.
+- [Riseup](https://f-droid.org/app/se.leap.riseupvpn) – Free VPN, open source project funded only by donations.
 - [VPN by Google One](https://blog.google/products/google-one/vpn-by-google-one-ios/) – VPN by Google One Comes to iOS, Google is known to have a good security but there are multiple controversies here. - **controversial** I decided to list it regardless because there are not much iOS alternatives that fit into this category. If I know better solutions I replace the VPN by Google.
 
 
@@ -5736,11 +5704,7 @@ Not so good in terms of privacy:
 
 
 ## [WebDAV](#webdav)
-- [Cyberduck](https://cyberduck.io/) - Libre server and cloud storage browser with WebDAV support that supports Windows and MacOS. - **controversial**
-- [Duplicacy](https://duplicacy.com/) - Support for WebDAV as a backup target, it works for Windows, Mac and Linux. - **controversial**
 - [Duplicati](https://github.com/duplicati/duplicati) - WebDAV as a backup target, currently for Windows, Mac and Linux.
-- [FileZilla Pro](https://filezillapro.com/how-to-connect-to-webdav/) - File-transfer tool that supports many protocols, including WebDAV, it works with Windows, Mac and Linux. - **controversial**
-- [Mountain Duck](https://mountainduck.io/) - WebDAV as a disk, that supports Windows and MacOS. - **controversial**
 - [WinSCP](https://winscp.net/eng/docs/webdav) - SFTP Windows client that also supports WebDAV.
 - [davfs2](https://savannah.nongnu.org/projects/davfs2) - Allows mounting a WebDAV server as a local filesystem, for Linux only.
 
