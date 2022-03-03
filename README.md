@@ -4704,11 +4704,14 @@ Avoid using platforms such as Twitch, Patreon, YouTube because they are very pri
 
 Privacy oriented alternatives:
 - [Altair](https://altair.tv/) – Is an up-and-coming streaming platform. Not fully FOSS.
-- [ElectronPlayer](https://github.com/oscartbeaumont/ElectronPlayer) – An Electron Based Web Video Services Player. Supporting Netflix, YouTube, Twitch, Floatplane, Hulu and others..
+- [ElectronPlayer](https://github.com/oscartbeaumont/ElectronPlayer) – An Electron Based Web Video Services Player. Supporting Netflix, YouTube, Twitch, Floatplane, Hulu and others...
+- [Glimesh](https://glimesh.tv/) – Glimesh is the next generation streaming platform built by the community for the community.
 - [Owncast](https://github.com/owncast/owncast) – Take control over your live stream video by running it yourself. Streaming + chat out of the box.
-- [livego](https://github.com/gwuhaolin/livego) – Live video streaming server in GoLang.
 - [Rumble](https://rumble.com) – Your rights management video platform. Host, distribute and monetize all your professional, social and viral video.
+- [livego](https://github.com/gwuhaolin/livego) – Live video streaming server in GoLang.
 - [streamlink-twitch-gui](https://github.com/streamlink/streamlink-twitch-gui) – A multi platform Twitch.tv browser for Streamlink. Another alternative is to [use MPV](https://benad.me/blog/2018/05/08/watching-youtube-and-twitch-with-mpv/) + the [chat plugin](https://github.com/CrendKing/mpv-twitch-chat/).
+
+### [Mobile Streaming Platform Apps](#mobile-streaming-platform-apps)
 - [Twire](https://github.com/twireapp/Twire) – An open source, ad free Twitch browser and stream player for Android.
 
 
