@@ -79,7 +79,7 @@ Privacy oriented alternatives:
 - [Libro.fm](https://libro.fm/) – Offers DRM-free audiobooks while also supporting local bookstores. Their membership option is only available in the US and Canada though.
 
 
-### [Audio Platforms for Music Streaming](#audio-platforms-for-music-streaming)
+## [Audio Platforms for Music Streaming](#audio-platforms-for-music-streaming)
 Not so good in terms of privacy:
 - [Audius Music](https://audius.co/) – A streaming platform built for all musicians, not just those signed to labels. Basically they’re a soundcloud/spotify platform based in a blockchain protocol in terms of monetization, that’s it. Only their client which is Another React app and protocol, Ethereum are open source (Apache License 2.0) the rest is the same. This is nothing but another privative/centralized music platform with DRM. The website contains 4, is proprietary and has 9 page privacy policy.
 - Apple Music
@@ -1405,25 +1405,6 @@ Privacy oriented alternatives:
 - [CNatural Docs](http://www.naturaldocs.org/) – Claims to use a more natural language as input from the comments, hence its name.
 
 
-## [DRM-Free Book Stores](#drm-free-book-stores)
-- [Beam Book Store](http://www.beam-ebooks.de/) – Sells DRM-free books in German. Some books are distributed with a buyer-unique watermark, although this watermark does not limit book usage.
-- [Book View Café](http://bookviewcafe.com/bookstore/) – Sells ebooks without DRM or an EULA
-- [The Bundle of Holding](https://bundleofholding.com/) – Is a DRM-free bookselling site that sells time-limited, DRM-free offers of tabletop roleplaying game rulebook .PDFs and RPG-related ebooks.
-- [Chicago Shorts](http://press.uchicago.edu/ucp/books/series/CHISH.html) – DRM-free ebooks, passages and short stories selected by the University of Chicago.
-- [Closed Circle](http://www.closed-circle.net/) – Small DRM-free ebook store, direct from the authors themselves. Specializing in fantasy.
-- [Delphi Classics](http://delphiclassics.com/) – sells copies of classic texts edited and formatted as ebooks. All epub files are - DRM-free, but not the .mobi files.
-- [Ediciones Babylon](http://www.edicionesbabylon.es/) – Spanish books and ebooks free of DRM.
-- [Editions Fleurus](http://www.fleuruseditions.com/) – A French publishing house with over 1000 titles available.
-- [Elegant Solutions Software and Publishing Company](http://esspc-ebooks.com/) – eBooks in a few portable formats.
-- [The Fifth Imperium](http://ebooks.thefifthimperium.com/) – CD-ROM images, mostly the images are of the free CD-ROMs included with some Baen Books. Baen Books allows the CD-ROMs to be copied and distributed for free. Every CD-ROM contains several complete novels in HTML format, and some have extras, like MP3 readings. All CD-ROMs also contain artwork for the CD-ROM itself.
-- [Girlebooks](http://girlebooks.com/) – A resource for classic and contemporary ebooks by female writers.
-- [Humble Bundle (Books)](https://www.humblebundle.com/books/) – Sells collections of DRM-free ebooks, with two bundles available at any point in time.
-- [Immatériel.fr](http://www.immateriel.fr/) – A French distributor of ebooks that indicates DRM-free titles with smiley faces.
-- [Lektu](https://lektu.com/) – A Spanish-language DRM-free ebook store. In addition to books, it has audiobooks, ecomics, and music.
-- [U.S. Government Bookstore](http://bookstore.gpo.gov/ebooks) – Offers both print and DRM-free digital publications from across the entire US federal government, ranging from art and travel to business, education, and history.
-- [Weightless Books](http://weightlessbooks.com/) – An independent DRM-free ebooksite devoted to ebooks of all sorts.
-
-
 ## [Document Scanners](#document-scanners)
 - [Docus](https://apt.izzysoft.de/fdroid/index/apk/com.bretahajek.docus) – Android application for scanning and managing documents.
 - [Open Note Scanner](https://f-droid.org/app/com.todobom.opennotescanner) – With Open Note Scanner you can capture documents, handwritten notes, arts, shopping receipts, etcetera. It will automatically adjust the image aspect, contrast and save it. It will allow browsing, view and share the scanned documents.
@@ -2029,14 +2010,14 @@ Privacy oriented alternatives:
 
 ## [FTP Clients](#ftp-clients)
 
-For mobile please check the file manager section, most file manager include such a function.
+For mobile apps please check the file manager section, most file manager include such a function.
 
 - [FileZilla](https://filezilla-project.org) – A free FTP solution for both client and server.
 - [Cyberduck](https://cyberduck.io) – A libre server and cloud storage browser for MacOS & Windows.
 - [WinSCP](https://winscp.net) – A popular SFTP client and FTP client for Windows.
 
 
-### [File-Sharing](#file-sharing)
+## [File-Sharing](#file-sharing)
 - [0x0](http://0x0.st/) – File URLs are valid for at least 30 days.
 - [AnonFiles](https://anonfiles.com/) – Quick and easy share files.
 - [Arbore](https://arbo.re/) – A free and open-source file sharing application that enables you to send your pictures, documents, files to your contacts privately and without limits.
@@ -2803,27 +2784,6 @@ Privacy oriented alternatives:
 - [Thomas Galvin](https://thomas-galvin.com/) – Is self-described as being "an author who spends far too much time thinking about vampires" and you can find his works on his website.
 
 
-### [Indie and open source game engines](#indie-and-open-source-game-engines)
-- [Adventure Game Studio](https://www.adventuregamestudio.co.uk) - Free engine for making point & click adventure games.
-- [Amulet](http://www.amulet.xyz/) - A free Lua-based audio/visual toolkit suitable for small games and experimentation, with online editor.
-- [DOME](https://domeengine.com/) - A framework for making 2D games using the Wren programming language.
-- [DuckEngine](https://github.com/ksplatdev/DuckEngine) - A 2D Game Engine for the web.
-- [Godot](https://godotengine.org/) - Perhaps the most complete and well documented open source engine, for 2d and 3d.
-- [HaxeFlixel](http://haxeflixel.com/) - Cross-platform development, open source
-- [Heaps](https://heaps.io/) - A free and open source cross platform graphics engine written in Haxe.
-- [LITIENGINE](https://github.com/gurkenlabs/litiengine) - A free and open source Java 2D Game Engine.
-- [luxe](https://luxeengine.com/) - In development: a 2d-focused engine, code in Wren.
-- [LÖVR](https://lovr.org/)- An open source framework for rapidly building VR experiences in Lua.
-- [nCine](https://ncine.github.io/) - An open source cross-platform 2D game engine with an emphasis on performance.
-- [Phaser.io](http://phaser.io/) - Desktop and mobile HTML5 game framework, using JavaScript.
-- [Pixelbox.js](https://pixwlk.itch.io/pixelbox) - Combination editor and a simple JavaScript library.
-- [Pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python.
-- [Ren'Py](https://www.renpy.org/) - Free, open source cross-platform Visual Novel development engine.
-- [Starling](https://gamua.com/starling/) - A Cross Platform Game Engine.
-- [Superpowers](http://superpowers-html5.com/index.en.html) - HTML5 2d + 3d engine, coding in Typescript.
-- [XREngine](https://github.com/XRFoundation/XREngine) - Open-source WebGL Metaverse Engine.
-
-
 ## [Internet Speed Testing](#internet-speed-testing)
 - [LibreSpeed](https://github.com/librespeed/speedtest-android) - Check your Internet speed via mobile app.
 
@@ -3004,6 +2964,25 @@ There are some Windows apps but this is depending on BIOS/firmware because the [
 - [The Anarchist Library](http://theanarchistlibrary.org/special/index) – An archive focusing on anarchism, anarchist texts, and texts of interest for anarchists, in PDF, plaintext, and EPUB formats.
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) – A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [The Dunyazad Digital Library](http://www.dunyazad-library.net/) – A personal collection of DRM-free ebooks of history and adventure.
+
+
+### [DRM-Free Book Stores](#drm-free-book-stores)
+- [Beam Book Store](http://www.beam-ebooks.de/) – Sells DRM-free books in German. Some books are distributed with a buyer-unique watermark, although this watermark does not limit book usage.
+- [Book View Café](http://bookviewcafe.com/bookstore/) – Sells ebooks without DRM or an EULA
+- [The Bundle of Holding](https://bundleofholding.com/) – Is a DRM-free bookselling site that sells time-limited, DRM-free offers of tabletop roleplaying game rulebook .PDFs and RPG-related ebooks.
+- [Chicago Shorts](http://press.uchicago.edu/ucp/books/series/CHISH.html) – DRM-free ebooks, passages and short stories selected by the University of Chicago.
+- [Closed Circle](http://www.closed-circle.net/) – Small DRM-free ebook store, direct from the authors themselves. Specializing in fantasy.
+- [Delphi Classics](http://delphiclassics.com/) – sells copies of classic texts edited and formatted as ebooks. All epub files are - DRM-free, but not the .mobi files.
+- [Ediciones Babylon](http://www.edicionesbabylon.es/) – Spanish books and ebooks free of DRM.
+- [Editions Fleurus](http://www.fleuruseditions.com/) – A French publishing house with over 1000 titles available.
+- [Elegant Solutions Software and Publishing Company](http://esspc-ebooks.com/) – eBooks in a few portable formats.
+- [The Fifth Imperium](http://ebooks.thefifthimperium.com/) – CD-ROM images, mostly the images are of the free CD-ROMs included with some Baen Books. Baen Books allows the CD-ROMs to be copied and distributed for free. Every CD-ROM contains several complete novels in HTML format, and some have extras, like MP3 readings. All CD-ROMs also contain artwork for the CD-ROM itself.
+- [Girlebooks](http://girlebooks.com/) – A resource for classic and contemporary ebooks by female writers.
+- [Humble Bundle (Books)](https://www.humblebundle.com/books/) – Sells collections of DRM-free ebooks, with two bundles available at any point in time.
+- [Immatériel.fr](http://www.immateriel.fr/) – A French distributor of ebooks that indicates DRM-free titles with smiley faces.
+- [Lektu](https://lektu.com/) – A Spanish-language DRM-free ebook store. In addition to books, it has audiobooks, ecomics, and music.
+- [U.S. Government Bookstore](http://bookstore.gpo.gov/ebooks) – Offers both print and DRM-free digital publications from across the entire US federal government, ranging from art and travel to business, education, and history.
+- [Weightless Books](http://weightlessbooks.com/) – An independent DRM-free ebooksite devoted to ebooks of all sorts.
 
 
 ### [eBook Publishers](#ebook-publishers)
@@ -3737,6 +3716,26 @@ Only unique tests are getting listed here, it makes no sense to list 1000+ pages
 - [Minetest](https://www.minetest.net/) – A free open source Minecraft-style game with huge worlds, a variety of different playing modes, online and offline gameplay, multiplayer servers, lots of user-created mods and more.
 - [Open source games list (OSGL)](https://trilarion.github.io/opensourcegames/) – Contains information about 1342 open source games and 310 game engines/tools.
 - [Open Source Games](https://libregamewiki.org/List_of_games) – There are some good FOSS Games available as open source [projects](https://gitlab.com/Ashpex/Linux_Games).
+
+### [Open source game engines](#open-source-game-engines)
+- [Adventure Game Studio](https://www.adventuregamestudio.co.uk) - Free engine for making point & click adventure games.
+- [Amulet](http://www.amulet.xyz/) - A free Lua-based audio/visual toolkit suitable for small games and experimentation, with online editor.
+- [DOME](https://domeengine.com/) - A framework for making 2D games using the Wren programming language.
+- [DuckEngine](https://github.com/ksplatdev/DuckEngine) - A 2D Game Engine for the web.
+- [Godot](https://godotengine.org/) - Perhaps the most complete and well documented open source engine, for 2d and 3d.
+- [HaxeFlixel](http://haxeflixel.com/) - Cross-platform development, open source
+- [Heaps](https://heaps.io/) - A free and open source cross platform graphics engine written in Haxe.
+- [LITIENGINE](https://github.com/gurkenlabs/litiengine) - A free and open source Java 2D Game Engine.
+- [luxe](https://luxeengine.com/) - In development: a 2d-focused engine, code in Wren.
+- [LÖVR](https://lovr.org/)- An open source framework for rapidly building VR experiences in Lua.
+- [nCine](https://ncine.github.io/) - An open source cross-platform 2D game engine with an emphasis on performance.
+- [Phaser.io](http://phaser.io/) - Desktop and mobile HTML5 game framework, using JavaScript.
+- [Pixelbox.js](https://pixwlk.itch.io/pixelbox) - Combination editor and a simple JavaScript library.
+- [Pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python.
+- [Ren'Py](https://www.renpy.org/) - Free, open source cross-platform Visual Novel development engine.
+- [Starling](https://gamua.com/starling/) - A Cross Platform Game Engine.
+- [Superpowers](http://superpowers-html5.com/index.en.html) - HTML5 2d + 3d engine, coding in Typescript.
+- [XREngine](https://github.com/XRFoundation/XREngine) - Open-source WebGL Metaverse Engine.
 
 
 ### [PCB Design Software](#pcb-design-software)
