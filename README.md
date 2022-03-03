@@ -1107,7 +1107,8 @@ Privacy oriented alternatives:
 
 ## [Covid Notification Apps](#covid-notification-apps)
 - [COVID-19 Italian monitoring](https://f-droid.org/en/packages/org.twistedappdeveloper.statocovid19italia/) – Simplified Android app to access data on the spread of Covid-19 in Italy.
-- [Corona Stats](https://f-droid.org/en/packages/com.aurora.corona/) – COVID19 Statistics for India.
+- [Corona Stats](https://f-droid.org/en/packages/com.aurora.corona/) – COVID-19 Statistics for India.
+- [CoronaTracker](https://github.com/MhdHejazi/CoronaTracker) – Coronavirus tracker app for iOS & macOS with maps & charts.
 - [FOSSWarn](https://github.com/nucleus-ffm/foss_warn) – An unofficial open source application to get emergency alerts from [warnung.bund.de](https://warnung.bund.de/meldungen).
 - [Immuni iOS](https://github.com/immuni-app/immuni-app-ios) – Official repository for the iOS version of the immuni iOS application.
 - [LibreCHovid](https://f-droid.org/en/packages/ch.corona.tracing/) – COVID-19 tracing client for Switzerland.
@@ -1132,11 +1133,11 @@ Privacy oriented alternatives:
 - [Simple Calculator](https://github.com/SimpleMobileTools/Simple-Calculator) – Part of the SMT project.
 
 ### [Mobile Calculator Apps](#mobile-calculator-apps)
-- [Calculator++](https://f-droid.org/en/packages/org.solovyev.android.calculator/) – Scientific calculator with sleek interface and powerful capabilities.
 - [BMI Calculator](https://github.com/appbrewery/BMI-Calculator-iOS13) – Simple BMI calculator for iOS.
+- [Calculator++](https://f-droid.org/en/packages/org.solovyev.android.calculator/) – Scientific calculator with sleek interface and powerful capabilities.
 - [HexaCalc](https://github.com/AnthonyH93/HexaCalc) – Programmer's calculator for iOS.
-- [Splito!](https://github.com/aleksandr-mor/Splito) – Billing and tips calculator for iOS.
 - [Simple Calculator](https://f-droid.org/en/packages/com.simplemobiletools.calculator/) – Part of the SMT project.
+- [Splito!](https://github.com/aleksandr-mor/Splito) – Billing and tips calculator for iOS.
 
 
 ## [Camera Apps](#camera-apps)
@@ -1491,7 +1492,7 @@ Privacy oriented alternatives:
 - [You-Get](https://you-get.org/) – Tiny command-line utility to download media contents (videos, audios, images) from the Web, in case there is no other handy way to do it.
 
 ### [Mobile Download Mangers](#mobile-download-managers)
-- [Aria2App](https://github.com/devgianlu/Aria2App) – An advanced download manager based on aria2 that can handle remote servers too.
+- [Aria2App](https://github.com/devgianlu/Aria2App) – An advanced download manager based on Aria2 that can handle remote servers too.
 - [Download Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) – Free and Open Source software download manager.
 - [LibreTorrent](https://github.com/proninyaroslav/libretorrent) – Free and Open Source, full-featured torrent client for Android.
 - [Motrix](https://motrix.app) – A full-featured download manager that supports downloading HTTP, FTP, BitTorrent, Magnet, etc.
@@ -1507,15 +1508,22 @@ Privacy oriented alternatives:
 
 
 ## [DNS and filtering](#dns-and-filtering)
-[NextDNS](https://help.nextdns.io/t/h7hps0b/nextdns-app-deleted-from-appstore) **will not** get listed, they make money by [limiting the DNS queries](https://help.nextdns.io/t/p8hmvaw/what-happens-after-300k-queries#:~:text=NextDNS%20can%20be%20used%20for,no%20filtering%2C%20no%20logging%20etc.), their filter-list are integrated from GitHub based on other people work (and they do not donate to such projects). I absolute have no respect for this. Making money on behalf of other peoples work will not be tolerated on my list, they designed it to make money out of it not to help the community, the argumentation that you can use it free without buying for it (unless you hit the limit) does not change the fact that they steal other people filter-list (without asking if they even wanted to be listed). It would be different if they would fully open it up and accept donations, but that is not the case. BlahDNS/youtube-dl (as example) also do not limit stuff and then forcing you to pay for it to "unlock" additional stuff, it would be unthinkable. It is beyond me why anyone should support NextDNS. Besides this argument, there is also another one, you cannot self-host it.
 
+[NextDNS](https://help.nextdns.io/t/h7hps0b/nextdns-app-deleted-from-appstore) **will not** get listed, they make money by [limiting the DNS queries](https://help.nextdns.io/t/p8hmvaw/what-happens-after-300k-queries), their filter-list are integrated from GitHub based on other people work (and they do not donate to such projects). I absolute have no respect for this. Making money on behalf of other peoples work will not be tolerated on my list, they designed it to make money out of it not to help the community, the argumentation that you can use it free without buying for it (unless you hit the limit) does not change the fact that they steal other people filter-list (without asking if they even wanted to be listed). It would be different if they would fully open it up and accept donations, but that is not the case. BlahDNS/youtube-dl (as example) also do not limit stuff and then forcing you to pay for it to "unlock" additional stuff, it would be unthinkable.
+
+There is also another reason, you cannot self-host it.
+
+
+- [Adblock Fast](https://github.com/rocketshipapps/adblockfast) – Adblock Fast is a new, faster ad blocker for Android, iOS, Chrome, and Opera.
 - [Adguard Pro](https://github.com/AdguardTeam/AdguardForiOS) – The most advanced Safari content blocker and privacy keeper for iOS, DNS option/integration is planned. You do [not need the app on iOS 14+](https://adguard.com/en/blog/encrypted-dns-ios-14.html). The source code is not fully open, you only see the [issue ticket system](https://github.com/AdguardTeam/AdguardForAndroid).
 - [DNSCloak](https://github.com/s-s/dnscloak) – A GUI and wrapper for dnscrypt-proxy 2 for [iOS](https://apps.apple.com/de/app/dnscloak-secure-dns-client/id1452162351). You can find a small guide [here](https://web.archive.org/web/20210729190756/https://blog.privacytools.io/adding-custom-dns-over-https-resolvers-to-dnscloak/).
 - [dnscrypt-proxy v2](https://github.com/DNSCrypt/dnscrypt-proxy) – A flexible DNS proxy, with support for encrypted DNS protocols.
 - [DNSCrypt](https://dnscrypt.info/) – Encrypts, authenticates and anonymizes communications between a DNS client and resolver.
 - [Nebulo](https://git.frostnerd.com/PublicAndroidApps/smokescreen/) – An open-source Android client supporting DNS-over-HTTPS and DNS-over-TLS.
-- [Unbound](https://nlnetlabs.nl/projects/unbound/about/) – A validating, recursive, and caching DNS resolver.
 - [noisy](https://github.com/1tayH/noisy) – Simple random DNS, HTTP/S internet traffic noise generator.
+- [Swab](https://github.com/pkamb/swab) – Content blocker for creative designer.
+- [Unbound](https://nlnetlabs.nl/projects/unbound/about/) – A validating, recursive, and caching DNS resolver.
+
 
 ### [Self-hosted DNS](#self-hosted-dns)
 - [BlahDNS](https://blahdns.com/) – A hobby Adblock DNS project with DoH, DoT, DoQ, DNSCryptv2 support. In theory you can self-host it, the source code is there, I maybe post a guide.
@@ -2231,24 +2239,34 @@ Some of the listed apps are not traditional firewalls. I decided included them a
 
 ## [Game Emulation](#game-emulation)
 - [86Box](https://github.com/86Box/86Box) – Emulator of x86-based machines based on PCem.
+- [ActiveGS](https://github.com/ogoguel/activegs-ios) – Apple II/II GS Emulator with in-app game browser, MFi & iCade controller support.
 - [DuckStation](https://github.com/stenzek/duckstation) – PlayStation 1, aka. PSX Emulator.
-- [dosemu2](https://github.com/dosemu2/dosemu2) – Run DOS programs under Linux.
 - [GameHub](https://tkashkin.tk/projects/gamehub/) – A unified library for all your games.
-- [itch.io](https://itch.io) – An online game marketplace and community.
 - [Ludo](https://ludo.libretro.com) – A minimalist front-end for emulators.
 - [Lutris](https://lutris.net) – An open source gaming platform for Linux.
 - [OpenEmu](https://openemu.org) – An open source project to bring game emulation to macOS.
 - [Pegasus](https://pegasus-frontend.org) – A cross platform front-end for launching emulators and managing your game collection.
-- [Playnite](https://playnite.link/) – An open source video game library manager.
 - [PlayOnLinux](https://www.playonlinux.com) – A tool to help Linux, MacOS users run games and programs for Windows.
 - [PlayStation 2 Emulator in a Web Browser](https://playjs.purei.org/) – Open Source PlayStation 2 Emulator in a Web Browser.
+- [Playnite](https://playnite.link/) – An open source video game library manager.
+- [Provenance](https://github.com/Provenance-Emu/Provenance) – iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems.
 - [RetroArch](https://retroarch.com) – A front-end for emulators, game engines and media players.
-- [vAmiga](https://github.com/dirkwhoffmann/vAmiga/) – macOS Amiga emulator.
 - [Winetricks](https://github.com/Winetricks/winetricks) – An easy way to work around problems in Wine.
+- [dosemu2](https://github.com/dosemu2/dosemu2) – Run DOS programs under Linux.
+- [iAmiga](https://github.com/emufreak/iAmiga) – Commodore Amiga emulator, based on UAE, the project seems to be abandoned.
+- [itch.io](https://itch.io) – An online game marketplace and community.
+- [vAmiga](https://github.com/dirkwhoffmann/vAmiga/) – macOS Amiga emulator.
 
 ### [Mobile Game Emulators](#mobile-game-emulators)
 - [Delta](https://github.com/rileytestut/Delta) – Delta is an iOS application that allows you to emulate and play video games for several classic video game systems, including Game Boy Advance, Nintendo 64, and Nintendo DS.
+- [DOSPad](https://github.com/litchie/dospad) – iDOS an DOSBox port on iOS.
+- [GBA4iOS](https://bitbucket.org/rileytestut/gba4ios/) – Gameboy, Gameboy Color & Gameboy Advance emulator.
 - [Lemuroid](https://github.com/Swordfish90/Lemuroid) - An open-source emulation project for Android based on Libretro. Its main goal is ease of use, good Android integration and a great user experience. It has an extensive list of built-in emulators.
+- [MAME4iOS](https://github.com/yoshisuga/MAME4iOS) – Multiple Arcade Machine Emulator for iOS, iPadOS, tvOS, macOS (Catalyst)
+- [Mini vMac](https://github.com/zydeco/minivmac4ios) – Mini vMac for iOS.
+- [nds4ios](https://github.com/raaxis/nds4ios) – Port of the Nintendo DS emulator, nds4droid to iOS.
+- [PPSSPP](https://github.com/hrydgard/ppsspp) – A PSP emulator for Android, Windows, Mac and Linux, written in C++.
+
 
 
 ## [Game Platforms](#game-platforms)
@@ -3847,7 +3865,7 @@ Only unique tests are getting listed here, it makes no sense to list 1000+ pages
 - [Framadate](https://framadate.org/) – An easy-to-use libre Doodle-style event and poll service, provided by France’s largest ethical software organization Framasoft. It costs nothing, it doesn’t track you and you don’t need to register.
 
 
-## [Payment systems](#payment-systems)
+## [Payment Systems](#payment-systems)
 Most payment systems are closed source or contain tracking or contain Cloudflare and CDNs behind their systems.
 
 Not so good in terms of privacy:
@@ -3867,13 +3885,14 @@ Privacy oriented alternatives:
 - [Conceal](https://conceal.network/) - Decentralized Finance, Private Transactions & Encrypted Messaging.
 - [Heaven](https://havenprotocol.org/) - Haven is an ecosystem of digital assets that enables users to convert between volatile assets and stable currencies directly within their vault, in complete privacy.
 - [Liberapay](https://liberapay.com/) – An easy-to-use, free open donations platform and lets your fans send you a set amount every week, month or year.
-- [Monero](https://www.getmonero.org/) – Monero is cash for a connected world. It's fast, private, untraceable and secure. The claim Monero is traceable and cracked by the feds have no evidence. There are no indicators for that found in the real-world. It was [only attacked](https://cryptopotato.com/monero-xmr-sybil-attack-not-broken/), the story that went around was about [XMR pre-ring signatures](https://old.reddit.com/r/Monero/comments/ik0t3h/ciphertrace_monero_tracing_example/). That said [it](https://arxiv.org/pdf/1704.04299/) got fixed. [Feds cannot trace Monero](https://old.reddit.com/r/Monero/comments/a1u56x/fbi_guy_on_the_panel_repeatedly_mentioned_that/).
+- [Monero](https://www.getmonero.org/) – It's fast, private, untraceable and secure. The claim Monero is traceable and cracked by the feds has no actual evidence. There are no indicators for that found in the real-world. It was [only attacked](https://cryptopotato.com/monero-xmr-sybil-attack-not-broken/), the story that went around was about [XMR pre-ring signatures](https://old.reddit.com/r/Monero/comments/ik0t3h/ciphertrace_monero_tracing_example/). That said [it](https://arxiv.org/pdf/1704.04299/) got fixed. [Feds cannot trace Monero](https://old.reddit.com/r/Monero/comments/a1u56x/fbi_guy_on_the_panel_repeatedly_mentioned_that/).
 - [Open Collective](https://opencollective.com/) – A more advanced platform specially designed for crowdfunded projects and organisations that want to be as transparent as possible about how donations are spent.
 - [Pivx Shield](https://www.pivx.org/) – Proof-of-Stake coin, with SHIELD transactions, gives users private, anonymous, nearly instant payments.
 - [Snowdrift](https://snowdrift.coop/) – Non-profit cooperative funding platform with an unique approach to fundraising called crowd matching.
 
 ### [Mobile Payment](#mobile-payment)
 - [Catima](https://f-droid.org/packages/me.hackerchick.catima) – For your Barcodes, memberships, loyalty programs, coupons and tickets.
+- [Encryptr](https://github.com/SpiderOak/Encryptr) – A zero-knowledge, cloud-based e-wallet & password manager.
 
 
 ## [Payments and Personal Finances](#payments-and-personal-finances)
@@ -4637,7 +4656,7 @@ You can Use `r/redditrequest` to take over subreddits, and/or make new subreddit
 - [junipf-reddit-frontend](https://github.com/junipf/reddit-frontend) – A Reddit front-end written in React.
 
 ### [Unblock Reddit](#unblock-reddit)
-- [Reveddit](https://www.reveddit.com/about/) – Reveal reddit's removed content. Search by username, subreddit (r/), link or the entire domain.
+- [Reveddit](https://www.reveddit.com/about/) – Reveal Reddit's removed content. Search by username, subreddit (r/), link or the entire domain.
 
 
 ### [YouTube](#youtube)
@@ -4669,7 +4688,6 @@ Privacy oriented alternatives:
 
 > Assuming you use any alternative Instance and Service make sure to read the Privacy Policy of that specific Instance/Service first.
 
-
 - [Bastyon](https://bastyon.com/) – Alternative media network to YouTube.
 - [yattee](https://github.com/yattee/yattee) – Alternative YouTube front-end for iOS, tvOS and macOS built with Invidious and Piped.
 - [ytcast](https://github.com/MarcoLucidi01/ytcast) – Cast YouTube videos to your smart TV from the command line. This program does roughly the same thing as the "Play on TV" button that appears on the player bar when you visit YouTube.com with Chrome or when you use the YouTube smartphone app.
@@ -4696,11 +4714,13 @@ Privacy oriented alternatives:
     - [Vividl](https://github.com/Bluegrams/Vividl) – Modern Windows GUI for youtube-dl.
 - [iYTBP](https://forum.xda-developers.com/android/apps-games/app-iytbp-injected-youtube-background-t3560900/post72775808#post72775808) – YouTube without ads and background playback [Magisk Module](https://forum.xda-developers.com/apps/magisk/magisk-iytbp-youtube-vanced-t3712097).
 - [mps-youtube (pc)](https://github.com/mps-youtube/mps-youtube/) – Also known as mpsyt is a command line app that let's you hear to YouTube music without using all your CPU in rendering the background image.
-- [ViewTube](https://github.com/ViewTube/viewtube-vue) – An alternative YouTube front-end with SponsorBlock functionality (Uses Invidious instances for back-end).
-- [YouTube Vanced](https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757) – A well-known modded version of the YouTube app with many features such as ad-blocking and background playback.
-- [Youtube-viewer](https://github.com/trizen/youtube-viewer) – Lightweight YouTube client for Linux.
 - [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) – Ad free app for watching tube videos on Android TV boxes.
 - [TubeSync](https://github.com/meeb/tubesync) – A personal video recorder for YouTube. It syncs YouTube channels and playlists to a locally hosted media server.
+- [ViewTube](https://github.com/ViewTube/viewtube-vue) – An alternative YouTube front-end with SponsorBlock functionality (Uses Invidious instances for back-end).
+- [YouTube Vanced](https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757) – A well-known modded version of the YouTube app with many features such as ad-blocking and background playback.
+- [YouTubeClone](https://github.com/VamshiIITBHU14/YouTubeClone) – YouTube clone using MVC API.
+- [Youtube-viewer](https://github.com/trizen/youtube-viewer) – Lightweight YouTube client for Linux.
+- [youtube-iOS](https://github.com/aslanyanhaik/youtube-iOS) – Youtube iOS Template is developed by Haik Aslanyan and written in Swift 3.
 - [uYouPlus](https://github.com/qnblackcat/uYouPlus) – Spoken uYou+ is an alternative YouTube app for Apple's iOS and iPadOS.
 
 
@@ -4788,8 +4808,10 @@ Privacy oriented alternatives:
  > These clients, although will have less tracking, still DO NOT protect your privacy at all as you will still be streaming from Spotify servers from you own **premium (paid, identified)** account. The only workaround is to use faked accounts in case you use some downloader tools.
 
 - [ncspot](https://github.com/hrkfdn/ncspot) – Cross-platform nurses Spotify client written in Rust, inspired by ncmpc and the likes.
+- [Open Apollo](https://github.com/KhaosT/open-apollo) – Simple Spotify player for watchOS.
 - [psst](https://github.com/jpochyla/psst) – Fast and multi-platform Spotify client with native GUI.
 - [Spot](https://github.com/xou816/spot) – Native Spotify client built in GTK and Rust.
+- [SpotifyClone](https://github.com/gabrieldenoni/SpotifyClone) – An iOS app that visually clones Spotify's app and consumes the official Spotify's Web API to show(and play) songs, podcasts, artists and more.
 - [Spotiqueue](https://github.com/toothbrush/Spotiqueue) – Minimalistic queue-oriented macOS-native client, with Guile Scheme scriptability.
 
 
@@ -5774,6 +5796,7 @@ Privacy oriented alternatives:
 
 ## [Wallet Apps](#wallet-apps)
 - [AirGap](https://github.com/airgap-it/airgap-vault) – AirGap is a crypto wallet system that lets you secure cypto assets with one secret on an offline device.
+- [AlphaWallet ETH Wallet](https://github.com/AlphaWallet/alpha-wallet-ios) – Easy-to-use and secure Ethereum wallet for iOS.
 - [BlueWallet Bitcoin Wallet](https://f-droid.org/en/packages/io.bluewallet.bluewallet/) – Thin Bitcoin Wallet Built with React Native and Electrum.
 - [Dash Electrum](https://f-droid.org/en/packages/org.dash.electrum.electrum_dash/) – Dash Electrum is an easy-to-use Dash client based on Electrum.
 - [Dogecoin Wallet](https://f-droid.org/en/packages/de.langerhans.wallet/) – Dogecoin is a digital currency similar to Bitcoin. The app itself is based on de.schildbach.wallet.
@@ -5781,7 +5804,8 @@ Privacy oriented alternatives:
 - [Simple Bitcoin Wallet](https://f-droid.org/en/packages/com.btcontract.wallet/) – Bitcoin wallet with Lightning Network support.
 - [Taler Wallet](https://f-droid.org/en/packages/net.taler.wallet.fdroid/) – This app is a wallet for GNU Taler. It is highly experimental, and not ready for production use yet.
 - [Tron Wallet](https://f-droid.org/en/packages/com.eletac.tronwallet/) – Tron Wallet is an officially supported, multifunctional wallet designed for the TRON network.
-- [UBIC Wallet](https://f-droid.org/en/packages/network.ubic.ubic/) – Wallet for the Unconditional Basic InCome.
+- [UBIC Wallet](https://f-droid.org/en/packages/network.ubic.ubic/) – Wallet for the Unconditional Basic income.
+- [Unstoppable Wallet](https://github.com/horizontalsystems/unstoppable-wallet-ios) – A fully decentralized Bitcoin, Ethereum, EOS, Binance Chain, Bitcoin Cash and DASH currency wallet for iOS and macOS.
 
 
 ### [Wallets Hardware based](#wallets-hardware-based)
@@ -5814,13 +5838,12 @@ Read more about the issue with Wikipedia on the [Wikiless manifesto](https://cod
 - [wego](https://github.com/schachmat/wego) – A weather client for the terminal.
 - [wttr.in](https://github.com/chubin/wttr.in) – Console-oriented weather forecast service that supports various information representation methods like terminal-oriented ANSI-sequences for console HTTP clients (curl, httpie, or wget), HTML for web browsers, or PNG for graphical viewers.
 
-
 ### [Mobile Weather Apps](#mobile-weather-apps)
 - [Forecastie](https://f-droid.org/en/packages/cz.martykan.forecastie/) – A simple, copylefted libre software weather app for Android. It gathers data from OpenWeatherMap, via their public API.
 - [Geometric Weather](https://github.com/WangDaYeeeeee/GeometricWeather) – A light and powerful weather app that provides you with real-time temperature, air quality, 15-days weather forecast, and accurate time-sharing trends.
 - [NearbyWeather](https://github.com/erikmartens/NearbyWeather) – Current weather for nearby stations with lists, maps and detail view.
 - [Privacy Friendly Weather](https://github.com/SecUSo/privacy-friendly-weather) – Privacy Friendly App for Android that can display weather for cities.
-- [QuickWeather open source weather app](https://f-droid.org/packages/com.ominous.quickweather/) – Weather at a glance for anywhere in the world!
+- [QuickWeather open source weather app](https://f-droid.org/packages/com.ominous.quickweather/) – Weather at a glance for anywhere in the world.
 - [SmileWeather](https://github.com/liu044100/SmileWeather) – A personal iOS weather app I'm building in the open.
 - [SwiftLanguageWeather](https://github.com/JakeLin/SwiftLanguageWeather) – Swift Language Weather is an iOS weather app developed in Swift 4.
 - [TemperatureAtlas](https://github.com/jhatin94/tempatlas-swiftui) – The app uses Apple Maps combined with the OpenWeather API.
@@ -5832,7 +5855,6 @@ Read more about the issue with Wikipedia on the [Wikiless manifesto](https://cod
 
 Do not even think about it wasting my time submitting nonsense tools like e.g. "O&O ClownUp", most of them are closed source anyway and the ones who are FOSS seems mostly copy and paste imitations.
 
-
 - [AeroPeek11](https://github.com/noahlbartley/AeroPeek11) – Bring back the Aero Peek feature into Windows 11.
 - [ContextMenuForWindows11](https://github.com/ikas-mc/ContextMenuForWindows11) – Add Context Menu For Windows 11.
 - [DefenderUI](https://defenderui.com/Download/InstallDefenderUI.exe) – Freeware alternative to Simple Windows Hardening, it is not FOSS and not as advanced as HC or simple HC.
@@ -5842,6 +5864,7 @@ Do not even think about it wasting my time submitting nonsense tools like e.g. "
 - [HardeningAuditor](https://github.com/cottinghamd/HardeningAuditor/) - Scripts for comparing Microsoft Windows compliance with the Australian ASD 1709 & Office 2016 Hardening Guides.
 - [MicaForEveryone](https://github.com/minusium/MicaForEveryone) – A tool to enable backdrop effect on titlebar of win32 apps on Windows 11.
 - [OpenNetMeter](https://github.com/Ashfaaq18/OpenNetMeter) – Monitors network and data usage on Windows.
+- [privacy.sexy](https://github.com/undergroundwires/privacy.sexy) – Enforce privacy & security best-practices on Windows and macOS.
 - [RoundedTB](https://github.com/torchgm/RoundedTB) – Add margins, rounded corners and segments to your taskbars.
 - [Sophia Script](https://github.com/farag2/Sophia-Script-for-Windows) – The most powerful PowerShell module on GitHub for Windows fine-tuning and tweaking.
 - [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor/) – Display network,CPU, GPU, Mem usage and temp in Windows taskbar.
@@ -5849,13 +5872,12 @@ Do not even think about it wasting my time submitting nonsense tools like e.g. "
 - [WSA Toolbox](https://github.com/voletro/wsa-toolbox) – A Windows 11 application to easily install and use the Windows Subsystem For Android™ package on your computer.
 - [WSAGAScript](https://github.com/ADeltaX/WSAGAScript) – Install Google Apps (Play Store) on WSA (Windows Subsystem Android)
 - [Windows11Upgrade](https://github.com/coofcookie/Windows11Upgrade) – Windows 11 Upgrade tool that bypasses Microsoft´s requirements.
-- [privacy.sexy](https://github.com/undergroundwires/privacy.sexy) – Enforce privacy & security best-practices on Windows and macOS.
 - [windows_hardening.cmd](https://gist.github.com/mackwage/08604751462126599d7e52f233490efe) – Script to perform some hardening of Windows 10/11.
 - [Winfetch](https://github.com/kiedtl/winfetch) – A zero-dependency Neofetch clone written in PowerShell.
 - [wsa_pacman](https://github.com/alesimula/wsa_pacman) – A GUI package manager and package installer for Windows Subsystem for Android (WSA).
 
 
-## [Windows 11 Desktop Shell replacements](#windows-11-desktop-shell-replacements)
+## [Windows 11 Desktop Shell Replacement](#windows-11-desktop-shell-replacements)
 - [BlackBox](https://github.com/bbidulock/blackboxwm) – Blackbox has specific design goals, and some functionality is provided only through other applications. One example is the bbkeys hotkey application.
 - [Cairo Shell](https://cairoshell.com/) – The Cairo taskbar preserves desktop area for your wallpaper and applications.
 - [LiteStep](http://litestep.net/) – A replacement #desktop interface for Windows.
@@ -5937,6 +5959,5 @@ Do not even think about it wasting my time submitting nonsense tools like e.g. "
 - [Why Is Privacy Important?](https://docs.fugu.lol/privacy/why-is-privacy-important/)
 - [Why privacy matters](https://whyprivacymatters.org/)
 - [Why should I care?](https://shadow53.com/android/no-gapps/faq/why-should-i-care/)
-
 
 [🔝 Back to top 🔝](#)
