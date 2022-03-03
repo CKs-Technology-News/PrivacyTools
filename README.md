@@ -161,11 +161,12 @@ Not so good in terms of privacy:
 - [Basically most keyboard apps](https://www.howtogeek.com/335428/smartphone-keyboards-are-a-privacy-nightmare/)
 - Fleksy
 - [GBoard](https://www.macworld.com/article/228011/googles-gboard-doesnt-send-your-keystrokes-but-it-does-leak-chicken-and-noodles.html) (Google)
+- Go
 - [SwiftKey](https://www.xda-developers.com/swiftkey-and-google-keyboard-ever-heard-of-user-privacy/) (Microsoft)
 - Swype
 - SlideIT
 - Swype
-- Go
+
 
 Privacy oriented alternatives:
 - [8VIM](https://f-droid.org/en/packages/inc.flide.vi8/) – Open-source. A "text editor inside a keyboard, drawing it's inspiration from 8pen and Vim."
@@ -176,10 +177,11 @@ Privacy oriented alternatives:
 - [Hacker's Keyboard](https://github.com/klausw/hackerskeyboard) – An older keyboard, but still works at least from Android 2.3 through Android 10 and has a good Dvorak layout.
 - [Indic Keyboard](https://gitlab.com/indicproject/indic-keyboard) – Open-source keyboard that supports many languages that other keyboards sometimes don't support.
 - [kboard](https://github.com/adgad/kboard) – A keyboard designed for fast responses.
-- [Multiling O Keyboard™](https://play.google.com/store/apps/details?id=kl.ime.oh) – F-Droid version planned.
+- [Multiling O Keyboard™](https://play.google.com/store/apps/details?id=kl.ime.oh) – The next generation of Multiling Keyboard, Tablet keyboard, DIY keyboard, emoji keyboard, Floating keyboard.
 - [OpenBoard](https://github.com/openboard-team/openboard) – FOSS keyboard, based on AOSP.
 - [Remote Keyboard](https://f-droid.org/packages/de.onyxbits.remotekeyboard/) – The app connects your desktop computer’s keyboard via wlan (can be forwarded over USB via ADB) to your android device so that you can control it comfortably.
 - [Simple Keyboard](https://github.com/rkkr/simple-keyboard) – A simple open source keyboard.
+- [Unexpected Keyboard](https://www.f-droid.org/en/packages/juloo.keyboard2/) – A virtual keyboard for Android. The main features are easy typing of every ASCII character using the swipe gesture, dead keys for accents and modifier keys and the presence of special keys (tab, esc, arrows, etc..).
 - [WiFiKeyboard](https://f-droid.org/packages/com.volosyukivan/) – Use your computer as a keyboard for your device, via a browser pointed to an address on the same LAN.
 
 
