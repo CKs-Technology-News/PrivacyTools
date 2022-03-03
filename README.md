@@ -1082,6 +1082,7 @@ Privacy oriented alternatives:
 - [Filecloud Community Edition](https://www.getfilecloud.com/filecloud-community-edition/) – Dropbox-like enterprise class file sharing and sync solution for home or business.
 - [Filecoin](https://filecoin.io/) – An open-source, public cryptocurrency and digital payment system intended to be a blockchain-based cooperative digital storage and data retrieval method.
 - [JottaCloud](https://jottacloud.com/) – Norway based cloud storage provider with free and paid plans.
+- [kDrive](https://github.com/Infomaniak/ios-kDrive) – Secure cloud to collaborate online, access your documents and files on all your iOS devices.
 - [Maestral](https://maestral.app/) – Open-source, lightweight alternative Dropbox client.
 - [Nextcloud](https://nextcloud.com/) – The open source self-hosted productivity platform that keeps you in control. There is also an [PI Image](https://ownyourbits.com/2017/02/13/nextcloud-ready-raspberry-pi-image/) ready to use. Tools like Cryptomator can also be used to encrypt your storage before syncing with its server.
 - [ProtonDrive](https://github.com/ProtonMail/WebClients) – You can now secure your files with end-to-end encryption.
@@ -5817,9 +5818,13 @@ Read more about the issue with Wikipedia on the [Wikiless manifesto](https://cod
 ### [Mobile Weather Apps](#mobile-weather-apps)
 - [Forecastie](https://f-droid.org/en/packages/cz.martykan.forecastie/) – A simple, copylefted libre software weather app for Android. It gathers data from OpenWeatherMap, via their public API.
 - [Geometric Weather](https://github.com/WangDaYeeeeee/GeometricWeather) – A light and powerful weather app that provides you with real-time temperature, air quality, 15-days weather forecast, and accurate time-sharing trends.
+- [NearbyWeather](https://github.com/erikmartens/NearbyWeather) – Current weather for nearby stations with lists, maps and detail view.
 - [Privacy Friendly Weather](https://github.com/SecUSo/privacy-friendly-weather) – Privacy Friendly App for Android that can display weather for cities.
 - [QuickWeather open source weather app](https://f-droid.org/packages/com.ominous.quickweather/) – Weather at a glance for anywhere in the world!
-- [Tiny Weather Forecast Germany](https://codeberg.org/Starfish/TinyWeatherForecastGermany) – Weather forecast with widgets for up to 10 days, based on open data from the Deutscher Wetterdienst (DWD).
+- [SmileWeather](https://github.com/liu044100/SmileWeather) – A personal iOS weather app I'm building in the open.
+- [SwiftLanguageWeather](https://github.com/JakeLin/SwiftLanguageWeather) – Swift Language Weather is an iOS weather app developed in Swift 4.
+- [TemperatureAtlas](https://github.com/jhatin94/tempatlas-swiftui) – The app uses Apple Maps combined with the OpenWeather API.
+- [Tiny Weather Forecast Germany](https://codeberg.org/Starfish/TinyWeatherForecastGermany) – Weather forecast with widgets for up to 10 days, based on open data from Deutscher Wetterdienst (DWD).
 - [Weather Widget](https://f-droid.org/en/packages/nl.implode.weer/) – One or more widgets to home screen with weather 5 to 7 day weather forecast in a location.
 
 
