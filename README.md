@@ -4151,7 +4151,7 @@ Privacy oriented alternatives:
 
 
 ### [Self-hosted photo storage](#self-hosted-photo-storage)
-- [DAVx⁵](https://gitlab.com/bitfireAT/davx5-ose) – Synchronization solution for both contacts (CardDAV) and calendars (CalDAV). Requires a hosting server. Previously known as DAVdroid. (Price: 3.33€ (Google Play), Free (F-Droid))
+- [DAVx⁵](https://github.com/bitfireAT/davx5-ose) – Synchronization solution for both contacts (CardDAV) and calendars (CalDAV). Requires a hosting server. Previously known as DAVdroid. The price: is around 3.33€ on Google Play and free on F-Droid.
 - [DigiKam](https://www.digikam.org/) – Awesome Professional Photo Management with the Power of Open Source.
 - [Garage](https://garagehq.deuxfleurs.fr/) – An open-source distributed storage service you can self-host to fullfill many needs.
 - [LibrePhotos](https://github.com/LibrePhotos/librephotos) – Active [OwnPhotos](https://github.com/hooram/ownphotos) fork. Self-hosted alternative to Google Photos.
