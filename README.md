@@ -1164,14 +1164,18 @@ Privacy oriented alternatives:
 - [Open-Xchange](https://www.open-xchange.com/) – A secure hosted email and productivity platform, designed for providers of all sizes to offer their customers email, calendar, storage, encryption and more.
 - [ProtonCalendar](https://calendar.protonmail.com/) – Free plan only supports 1 calendar.
 - [Radicale](https://radicale.org/) – Self-hosted calendar server written in Python. WebUI for desktop, CalDav/CardDav for mobile sync. Can use a reverse proxy with Nginx for HTTPS.
-- [Severus](https://getseverus.com/) – A privacy focused contact mangement system.
+- [Severus](https://getseverus.com/) – A privacy focused contact management system.
 - [Simple Calendar](https://www.simplemobiletools.com/calendar/) – A flexible calendar with many event related options.
 - [Tutanota Calendar](https://tutanota.com/calendar/) – Free cross-platform encrypted calendar. Allows importing of other Calendar files.
 - [Todo Agenda](https://github.com/andstatus/todoagenda) – Home screen widgets for your Android device.
 
-### [Mobile Contacts & calendars](#mobile-contacts--calendars)
+### [Mobile Contacts & Calendars](#mobile-contacts--calendars)
+- [CalendarApp](https://github.com/richardtop/CalendarApp) – iOS calendar app created with CalendarKit that shows events from EventKit.
+- [Clendar](https://github.com/vinhnx/Clendar) – A minimal calendar & widgets app for iOS.
 - [etar](https://f-droid.org/packages/ws.xsoh.etar/) – Android calendar app.
+- [FreeTimePicker](https://github.com/fromkk/FreeTimePicker) – An iOS calendar with basic functions.
 - [ICSx⁵](https://f-droid.org/en/packages/at.bitfire.icsdroid/) – ICSx⁵ is an Android app to subscribe to remote (“Webcal”) or local iCalendar files.
+- [LunarCore](https://github.com/cyanzhong/LunarCore) – A small lunar calendar for iOS that contains a today extension.
 - [Open Contacts](https://f-droid.org/en/packages/opencontacts.open.com.opencontacts/) – Hide contacts away from apps stealing your contacts information.
 - [Simple Calendar](https://f-droid.org/en/packages/com.simplemobiletools.calendar.pro/) – Be notified of the important moments in your life.
 
