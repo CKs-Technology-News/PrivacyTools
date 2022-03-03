@@ -956,6 +956,64 @@ You do not need them if you have above listed extensions/add-ons installed or in
 - [Transdroid](https://f-droid.org/packages/org.transdroid.full/) – Allows you to manage your torrents. All popular clients are supported: µTorrent, Transmission, rTorrent, Vuze, Deluge, BitTorrent 6, qBittorrent and many more.
 
 
+## [Code and Text Editors](#code-and-text-editors)
+- [Atom](https://atom.io) – A hackable text editor for the 21st Century.
+- [DTE](https://craigbarnes.gitlab.io/dte/) – A small and easy to use console text editor.
+- [Editor for Android](https://f-droid.org/en/packages/org.billthefarmer.editor/)
+- [Geany](https://www.geany.org) – A powerful, stable and lightweight programmer's text editor.
+- [Howl](https://howl.io/) – A general purpose, fast and lightweight editor with a keyboard-centric minimalistic user interface.
+- [Kakoune](https://kakoune.org/) – Modal editor, faster as in less keystrokes.
+- [Kate](https://kate-editor.org) – A multi-document editor part of KDE.
+- [Ledit](https://github.com/liz3/ledit) – Simple, GPU-rendered, no bullshit text editor.
+- [Notepad++](https://notepad-plus-plus.org) – A free code editor and Notepad replacement that supports several languages.
+  - [Notepadqq](https://notepadqq.com/) – Notepad++ for Linux.
+- [TextMate](https://macromates.com) – Powerful and customizable text editor with support for a huge list of programming languages.
+- [Vim](https://www.vim.org/) – Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient. It is included as "vi" with most UNIX systems and with Apple OS X.
+  - [Neovim](https://neovim.io/) – Hyperextensible Vim-based text editor.
+    - [GNU Emacs](https://www.gnu.org/software/emacs/) – An extensible, customizable, free/libre text editor — and more.
+    - [Yode-Nvim](https://github.com/hoschi/yode-nvim) – Focused Code Editing for Neovim.
+    - [Nano](https://www.nano-editor.org) – GNU nano was designed to be a free replacement for the Pico text editor, part of the Pine email suite from The University of Washington.
+    - [Micro](https://micro-editor.github.io) – A modern and intuitive terminal-based text editor.
+    - [Spacemacs](https://www.spacemacs.org) – A community-driven Emacs distribution.
+- [Vis](https://github.com/martanne/vis) – A vi-like editor based on Plan 9's structural regular expressions.
+- [VSCodium](https://github.com/VSCodium/vscodium) – Free/Libre Open Source Software Binaries of VSCode, on Linux there is Code OSS.
+- [Zettlr](https://github.com/Zettlr/Zettlr) – A Markdown Editor for the 21st century.
+
+
+### [APK Editors](#apk-editors)
+- [APK Editor Studio](https://github.com/kefir500/apk-editor-studio/) – Powerful yet easy to use APK editor for PC and Mac.
+
+
+### [Programming IDE](#programming-ide)
+- [Code::Blocks](https://www.codeblocks.org/) – A free C/C++ and Fortran IDE built to meet the most demanding needs of its users. It is designed to be very extensible and fully configurable.
+- [Data Stationt](https://datastation.multiprocess.io/) – The Data IDE for Developers.
+- [Doom Emacs](https://github.com/hlissner/doom-emacs) – An Emacs framework for the stubborn martian hacker.
+- [Geany](https://www.geany.org/) – Geany is a powerful, stable and lightweight programmer's text editor that provides tons of useful features without bogging down your workflow.
+- [LiteIDE](http://liteide.org/en) – LiteIDE is a simple, open source, cross-platform Go IDE.
+- [MonoDevelop](https://www.monodevelop.com/) – MonoDevelop enables developers to quickly write desktop and web applications on Linux, Windows and macOS. It also makes it easy for developers to port .NET applications created with Visual Studio to Linux and macOS maintaining a single code base for all platforms.
+- [Oberon+](https://github.com/rochus-keller/Oberon) – Oberon+ is a parser, code model, compiler and IDE.
+- [The Lazarus Project](https://www.lazarus-ide.org/) – The professional Free Pascal RAD IDE.
+- [Thonny](https://thonny.org/) – Python IDE for beginners.
+- [wxDev-C++](http://wxdsgn.sourceforge.net/) – wxDev-C++ is an extension of Dev-C++ by Colin Laplace et. al. This program helps you to create dialogs and frames for wxWidgets visually using a form designer.
+
+
+### [GitHub Copilot alternatives](#github-copilot-alternatives)
+- [OpenAI Codex (GitHub Copilot) in the Terminal](https://github.com/tom-doerr/zsh_codex) – You just need to write a comment, variable name and the AI will write the corresponding code for you.
+
+
+### [Live coding](#live-coding)
+- [Cables](https://cables.gl/) - A tool for creating beautiful interactive content with nodes.
+- [Fragment](https://www.fsynth.com/) - A collaborative cross-platform AV live coding environment with pixels.
+- [Hydra](https://hydra-editor.glitch.me) - A platform for live coding visuals, where each browser window is a node.
+- [Livecodelab](https://livecodelab.net) - A special secret place where you can make fancy "on-the-fly" 3D visuals and play awesomely offbeat (literally) sounds.
+- [Orca](https://100r.co/site/orca.html) - An esoteric language, usable as a live coding environment that can send and create MIDI, OSC & UDP signals.
+- [Overtone](https://overtone.github.io/) - Collaborative Programmable Music.
+- [Sonic Pi](https://sonic-pi.net/) - A live code-based music creation and performance tool, also can export tracks.
+- [Tooll.io](http://tooll.io/) - A free open source solution for creating interactive 3D content and animations.
+- [Vuo](https://vuo.org/) - An application to help people develop interactive experiences, live performances, digital media, and more. Basic version is free.
+- [vvvv](https://vvvv.org/) - A hybrid visual/textual live-programming environment for easy prototyping and development.
+
+
 ## [Censor Bypass Tools and Frameworks](#censor-bypass-tools-and-frameworks)
 
 [Deep packet inspection is dead, and here's why](https://security.ias.edu/deep-packet-inspection-dead-and-heres-why).
@@ -4971,64 +5029,6 @@ You can obtain a [comprehensive aggregator for news feeds here](https://en.wikip
 - [KNOPPIX](http://www.knoppix.org/) – Is not focused on a variety of diagnostic and repair tools, unlike the Ultimate Boot CD. Knoppix is an operating system Live CD which happens to have a few tools.
 - [Trinity Rescue Kit](https://trinityhome.org/) – Trinity Rescue Kit or TRK is a free live Linux distribution that aims specifically at recovery and repair operations on Windows machines, but is equally usable for Linux recovery issues.
 - [Ultimate Boot CD (UBCD)](https://www.ultimatebootcd.com/) – Ultimate Boot CD is completely free for the download, or could be obtained for a small fee.
-
-
-### [Code and Text Editors](#code-and-text-editors)
-- [Atom](https://atom.io) – A hackable text editor for the 21st Century.
-- [DTE](https://craigbarnes.gitlab.io/dte/) – A small and easy to use console text editor.
-- [Editor for Android](https://f-droid.org/en/packages/org.billthefarmer.editor/)
-- [Geany](https://www.geany.org) – A powerful, stable and lightweight programmer's text editor.
-- [Howl](https://howl.io/) – A general purpose, fast and lightweight editor with a keyboard-centric minimalistic user interface.
-- [Kakoune](https://kakoune.org/) – Modal editor, faster as in less keystrokes.
-- [Kate](https://kate-editor.org) – A multi-document editor part of KDE.
-- [Ledit](https://github.com/liz3/ledit) – Simple, GPU-rendered, no bullshit text editor.
-- [Notepad++](https://notepad-plus-plus.org) – A free code editor and Notepad replacement that supports several languages.
-  - [Notepadqq](https://notepadqq.com/) – Notepad++ for Linux.
-- [TextMate](https://macromates.com) – Powerful and customizable text editor with support for a huge list of programming languages.
-- [Vim](https://www.vim.org/) – Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient. It is included as "vi" with most UNIX systems and with Apple OS X.
-  - [Neovim](https://neovim.io/) – Hyperextensible Vim-based text editor.
-    - [GNU Emacs](https://www.gnu.org/software/emacs/) – An extensible, customizable, free/libre text editor — and more.
-    - [Yode-Nvim](https://github.com/hoschi/yode-nvim) – Focused Code Editing for Neovim.
-    - [Nano](https://www.nano-editor.org) – GNU nano was designed to be a free replacement for the Pico text editor, part of the Pine email suite from The University of Washington.
-    - [Micro](https://micro-editor.github.io) – A modern and intuitive terminal-based text editor.
-    - [Spacemacs](https://www.spacemacs.org) – A community-driven Emacs distribution.
-- [Vis](https://github.com/martanne/vis) – A vi-like editor based on Plan 9's structural regular expressions.
-- [VSCodium](https://github.com/VSCodium/vscodium) – Free/Libre Open Source Software Binaries of VSCode, on Linux there is Code OSS.
-- [Zettlr](https://github.com/Zettlr/Zettlr) – A Markdown Editor for the 21st century.
-
-
-### [APK Editors](#apk-editors)
-- [APK Editor Studio](https://github.com/kefir500/apk-editor-studio/) – Powerful yet easy to use APK editor for PC and Mac.
-
-
-### [Programming IDE](#programming-ide)
-- [Code::Blocks](https://www.codeblocks.org/) – A free C/C++ and Fortran IDE built to meet the most demanding needs of its users. It is designed to be very extensible and fully configurable.
-- [Data Stationt](https://datastation.multiprocess.io/) – The Data IDE for Developers.
-- [Doom Emacs](https://github.com/hlissner/doom-emacs) – An Emacs framework for the stubborn martian hacker.
-- [Geany](https://www.geany.org/) – Geany is a powerful, stable and lightweight programmer's text editor that provides tons of useful features without bogging down your workflow.
-- [LiteIDE](http://liteide.org/en) – LiteIDE is a simple, open source, cross-platform Go IDE.
-- [MonoDevelop](https://www.monodevelop.com/) – MonoDevelop enables developers to quickly write desktop and web applications on Linux, Windows and macOS. It also makes it easy for developers to port .NET applications created with Visual Studio to Linux and macOS maintaining a single code base for all platforms.
-- [Oberon+](https://github.com/rochus-keller/Oberon) – Oberon+ is a parser, code model, compiler and IDE.
-- [The Lazarus Project](https://www.lazarus-ide.org/) – The professional Free Pascal RAD IDE.
-- [Thonny](https://thonny.org/) – Python IDE for beginners.
-- [wxDev-C++](http://wxdsgn.sourceforge.net/) – wxDev-C++ is an extension of Dev-C++ by Colin Laplace et. al. This program helps you to create dialogs and frames for wxWidgets visually using a form designer.
-
-
-### [GitHub Copilot alternatives](#github-copilot-alternatives)
-- [OpenAI Codex (GitHub Copilot) in the Terminal](https://github.com/tom-doerr/zsh_codex) – You just need to write a comment, variable name and the AI will write the corresponding code for you.
-
-
-### [Live coding](#live-coding)
-- [Cables](https://cables.gl/) - A tool for creating beautiful interactive content with nodes.
-- [Fragment](https://www.fsynth.com/) - A collaborative cross-platform AV live coding environment with pixels.
-- [Hydra](https://hydra-editor.glitch.me) - A platform for live coding visuals, where each browser window is a node.
-- [Livecodelab](https://livecodelab.net) - A special secret place where you can make fancy "on-the-fly" 3D visuals and play awesomely offbeat (literally) sounds.
-- [Orca](https://100r.co/site/orca.html) - An esoteric language, usable as a live coding environment that can send and create MIDI, OSC & UDP signals.
-- [Overtone](https://overtone.github.io/) - Collaborative Programmable Music.
-- [Sonic Pi](https://sonic-pi.net/) - A live code-based music creation and performance tool, also can export tracks.
-- [Tooll.io](http://tooll.io/) - A free open source solution for creating interactive 3D content and animations.
-- [Vuo](https://vuo.org/) - An application to help people develop interactive experiences, live performances, digital media, and more. Basic version is free.
-- [vvvv](https://vvvv.org/) - A hybrid visual/textual live-programming environment for easy prototyping and development.
 
 
 ## [Screensavers](#screensavers)
