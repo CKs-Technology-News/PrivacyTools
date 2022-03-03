@@ -5825,6 +5825,7 @@ Do not even think about it wasting my time submitting nonsense tools like e.g. "
 - [HardenKitty](https://github.com/scipag/HardeningKitty) – Checks and hardens your Windows configuration.
 - [HardeningAuditor](https://github.com/cottinghamd/HardeningAuditor/) - Scripts for comparing Microsoft Windows compliance with the Australian ASD 1709 & Office 2016 Hardening Guides.
 - [MicaForEveryone](https://github.com/minusium/MicaForEveryone) – A tool to enable backdrop effect on titlebar of win32 apps on Windows 11.
+- [OpenNetMeter](https://github.com/Ashfaaq18/OpenNetMeter) – Monitors network and data usage on Windows.
 - [RoundedTB](https://github.com/torchgm/RoundedTB) – Add margins, rounded corners and segments to your taskbars.
 - [Sophia Script](https://github.com/farag2/Sophia-Script-for-Windows) – The most powerful PowerShell module on GitHub for Windows fine-tuning and tweaking.
 - [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor/) – Display network,CPU, GPU, Mem usage and temp in Windows taskbar.
