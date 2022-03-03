@@ -59,7 +59,7 @@ Privacy oriented alternatives:
 - [BookWyrm](https://github.com/bookwyrm-social/bookwyrm) – It's a fediverse [decentral](https://docs.joinbookwyrm.com/instances.html) alternative for Amazon's Goodreads.
 - [booqsi](https://www.booqsi.com/) – A more social, Amazon-free alternative to Goodreads.
 - [buch7.de](https://www.buch7.de/) – German platform to get free books.
-- [OpenStax](https://openstax.org/) – Free and Flexible Textbooks-
+- [OpenStax](https://openstax.org/) – Free and Flexible Textbooks.
 - [Hive](https://www.hive.co.uk/) – Delivery is free within the UK, and a bit extra overseas.
 - [Inventaire](https://inventaire.io/) – A libre volunteer-run book lending site where you can make friends and create collaborative libraries together. You can make lists of books you want to lend to friends, and browse other friends’ lists.
 - [inventaire](https://inventaire.io/welcome?__nojs) – This is the space where the community shares knowledge about inventaire and books.
@@ -325,7 +325,7 @@ Privacy oriented alternatives:
 - [Statify for WordPress](https://wordpress.org/plugins/statify/#description) – A straightforward Wordpress plugin to collect statistics on your site. It only counts page request instead of collecting personal data.
 - [Supabase](https://supabase.io/) – An open-source alternative to Firebase.
 - [Umami](https://umami.is/) – A simple, easy to use, open-source/self-hosted web analytics solution. No data export option.
-- [UserTrack](https://www.usertrack.net/) – Self-hosted alternative to Google Analytics and Hotjar.
+- [uxwizz](https://www.uxwizz.com) – Self-hosted alternative to Google Analytics and Hotjar.
 
 
 ## [Animated Charts](#animated-charts)
@@ -2208,13 +2208,14 @@ Some of the listed apps are not traditional firewalls. I decided included them a
 - [Delta](https://github.com/rileytestut/Delta) – Delta is an iOS application that allows you to emulate and play video games for several classic video game systems, including Game Boy Advance, Nintendo 64, and Nintendo DS.
 - [Lemuroid](https://github.com/Swordfish90/Lemuroid) - An open-source emulation project for Android based on Libretro. Its main goal is ease of use, good Android integration and a great user experience. It has an extensive list of built-in emulators.
 
-### [Game Platforms](#game-platforms)
+
+## [Game Platforms](#game-platforms)
 - [Good Old Games (GOG)](https://www.gog.com/) – A Steam-like video games platform without any Digital Rights Management: games you buy are yours forever, no one can take them away from you.
 - [Humble Store](https://www.humblebundle.com/store/search?sort=bestselling&drm=download) – The charity initiative Humble Bundle also has an online store that sells both DRM and DRM-free games (the link below goes to their DRM-free section).
 - [Itch.io](https://itch.io/) – Sells games without DRM, so you can buy games and keep them forever.
 
 
-## [Generate fake web browsing and mitigate tracking](#Generate-fake-web-browsing-and-mitigate-tracking)
+## [Generate Fake Web Browsing and Mitigate Tracking](#generate-fake-web-browsing-and-mitigate-tracking)
 - [PartyLoud](https://github.com/davideolgiati/PartyLoud) – A simple tool to generate fake web browsing and mitigate tracking.
 
 
@@ -3417,7 +3418,7 @@ Not so good in terms of privacy:
 - Tasker
 
 Privacy oriented alternatives:
-- [AppFlowy](https://github.com/AppFlowy-IO/appflowy) – AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
+- [AppFlowy](https://github.com/AppFlowy-IO/appflowy) – An open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [Bangle.io](https://bangle.io) – A free alternative to Notion that takes markdown notes saved right in your computer.
 - [Hyperdraft](https://hyperdraft.rosano.ca) – An open-source notes app that works in the browser and syncs with 0data protocols.
 - [TinyList](https://tinylist.app/) – Create and share notes and checklists, without sacrificing your privacy.
@@ -3521,9 +3522,10 @@ Privacy oriented alternatives:
 - [Texel](https://github.com/Lauriat/texel) – CLI tool for viewing spreadsheets.
 
 ### [Mobile Office Apps](#mobile-office-apps)
-- [LibreOffice Viewer](https://cgit.freedesktop.org/libreoffice/core/tree) – Sucks, use [Collabora Office](https://www.collaboraoffice.com/) instead.
+- [Collabora Office](https://www.collaboraoffice.com/)
+- [LibreOffice Viewer](https://cgit.freedesktop.org/libreoffice/core/tree)
 - [OnlyOffice](https://github.com/ONLYOFFICE/documents-app-android) – OnlyOffice for Android.
-- [SSuite Office](https://www.ssuitesoft.com/) – Free Software Crafted With Pure Visual Simplicity. They also have an [cloud only version](https://office.ssuiteoffice.com/)
+- [SSuite Office](https://www.ssuitesoft.com/) – Free Software Crafted With Pure Visual Simplicity. They also provide an [cloud only version](https://office.ssuiteoffice.com/).
 
 
 ## [Opt-Out of Mobile ISP location tracking](#opt-out-of-mobile-isp-location-tracking)
@@ -5351,6 +5353,7 @@ Tor Tools
 - [BlackBelt WASTE - ipv4 / Tor / i2p + AI](https://sourceforge.net/projects/blackbeltwaste/) – Download and create your own WASTE networks, to e.g. create a secure forum.
 - [Nipe](https://github.com/GouveaHeitor/nipe) – Nipe is a script to make Tor Network your default gateway.
 - [Orbot for iOS](https://apps.apple.com/us/app/orbot/id1609461599) – ‎Orbot is the original free and open-source Tor-powered VPN for iOS. Orbot helps you access the internet with more safety and privacy, and no extra cost to you.
+- [The Yellow Onion - Tor Onion Services Directory](https://www.yellowonion.org/) – A curated directory of onion services.
 
 
 ## [To-Do Manager](#to-do-manager)
