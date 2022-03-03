@@ -4,7 +4,7 @@ Overview
 [[_TOC_]]
 
 
-## [3D simulation](#3d-simulation)
+## [3D Simulation](#3d-simulation)
 - [Blender](https://www.blender.org/) – Blender is a professional suite of tools for doing 3D and 2D animations, visual effects, compositing and video editing.
 - [FlightGear](https://www.flightgear.org/) – Atmospheric and orbital flight simulator with a flight dynamics engine (JSBSim) that is used in a 2015 NASA benchmark to judge new simulation code to space industry standards.
 - [Maverick Model 3D](https://clover.moe/mm3d/) – An open source 3D model editor based on Misfit Model 3D.
@@ -186,7 +186,6 @@ Privacy oriented alternatives:
 
 
 ## [Android App Store](#android-app-store)
-
 Not so good in terms of privacy:
 - Amazon App Store
 - [F-Droid itself is not without any controversies](https://wonderfall.dev/fdroid-issues/).
@@ -3395,15 +3394,15 @@ Privacy oriented alternatives:
 - [Carnet (cloud)](https://f-droid.org/en/packages/com.spisoft.quicknote) – Design inspired by Google Keep.
 - [Easer](https://f-droid.org/app/ryey.easer) – An event-driven Android automation app. It knows various events, and you, the user, could tell it what to do on what event (and even combine multiple events!).
 - [LibreTasks](https://f-droid.org/app/libretasks.app) – A fork of Omnidroid App, now maintained and with more features.
-- [Notepad](https://f-droid.org/en/packages/com.farmerbb.notepad/) – A simple, bare-bones, no-frills note taking app.
 - [Standard notes (cloud)](https://f-droid.org/en/packages/com.standardnotes) – Encrypted notes on their server, accessible from any browser.
-- [uNote](https://f-droid.org/en/packages/app.varlorg.unote/) – Lightweight and minimalist notepad.
 - [Joplin](https://joplinapp.org/) – An open source note-taking app. Capture your thoughts and securely access them from any device.
+- [Keep The Notes - Offline](https://play.google.com/store/apps/details?id=com.pmggroup.keepthenotes) - Keep the Notes is a user-friendly free notebook app for Android. This is a clear and convenient note-taking app that allows you to take quick notes and checklists to organize your life easily.
 - [Markor](https://f-droid.org/packages/net.gsantner.markor/) – Text editor, notes & toDo. Lightweight. Markdown and todo.txt support.
 - [Material Notes](https://github.com/BijoySingh/Material-Notes-Android-App) – Simple Material based Android app.
 - [MyOwnNotes (cloud)](https://f-droid.org/en/packages/org.aykit.MyOwnNotes/) – Works with a ownCloud subscription.
 - [NeutriNote](https://github.com/appml/neutrinote) – Markdown + Math in Just 3 MB.
 - [Notally](https://github.com/OmGodse/Notally) – A beautiful notes app for Android.
+- [Notepad](https://f-droid.org/en/packages/com.farmerbb.notepad/) – A simple, bare-bones, no-frills note taking app.
 - [Noteless: Markdown note-taking](https://github.com/redsolver/noteless) – Markdown-optimized editor with syntax highlighting.
 - [Notesnook (mobile)](https://notesnook.com/) – A truly zero-knowledge note taking app, encrypted using XChaChaPoly1305-IETF & Argon2.
 - [Noto](https://www.github.com/alialbaali/Noto) – Simple and minimal note-taking Android application built with Kotlin.
@@ -3416,6 +3415,7 @@ Privacy oriented alternatives:
 - [Tasks.org](https://f-droid.org/en/packages/org.tasks/) – Tasks is libre open-source software, based on the original source code from the popular Astrid Tasks & To Do List.
 - [posidon notes](https://github.com/leoxshn/posidonNotes) – This is a very minimal Android note taking app. It has a nice design, but very minimal functionality. You can write, edit and delete notes, that's it.
 - [sNotz](https://f-droid.org/app/com.sunilpaulmathew.snotz) – An open-source and completely offline application to manage simple notes.
+- [uNote](https://f-droid.org/en/packages/app.varlorg.unote/) – Lightweight and minimalist notepad.
 - [Zettel Notes](https://thedoc.eu.org/zettel-notes/) - Android Markdown app with GPG encryption and webdav sync.
 
 
@@ -5881,7 +5881,7 @@ Do not even think about it wasting my time submitting nonsense tools like e.g. "
 - [Fancy Zones](https://github.com/microsoft/PowerToys/blob/master/src/modules/fancyzones/README.md) – A tiling window manager.
 - [gamescope: the micro-compositor formerly known as steamcompmgr](https://github.com/Plagman/gamescope) – SteamOS session compositing window manager.
 - [Hydra](https://github.com/sdegutis/hydra) – A lightweight OS X window manager with a powerful API.
-- [I3](https://i3wm.org/) – Improved Tiling Window Manager.
+- [i3](https://i3wm.org/) – i3 is a tiling window manager, completely written from scratch. The target platforms are GNU/Linux and BSD operating systems, our code is Free and Open Source Software (FOSS) under the BSD license.
 - [Komorebi](https://github.com/LGUG2Z/komorebi/) – A tiling window manager for Windows written in Rust.
 - [Kwm](https://github.com/koekeishiya/kwm) – Tiling window manager for OS X.
 - [River](https://github.com/riverwm/river) – A dynamic tiling Wayland compositor .
@@ -5890,7 +5890,6 @@ Do not even think about it wasting my time submitting nonsense tools like e.g. "
 - [TinyWM](http://incise.org/tinywm.html) – A tiny window manager in around 50 lines of C.
 - [Xmonad](http://xmonad.org/) – A dynamically tiling X11 window manager.
 - [Xterm Window Manager](https://gitlab.com/klamonte/xtermwm) – Text-based window manager for Xterm-like terminals. Works on Xterm, Linux console, and can also be run as a GUI.
-- [i3](https://i3wm.org/) – i3 is a tiling window manager, completely written from scratch. The target platforms are GNU/Linux and BSD operating systems, our code is Free and Open Source Software (FOSS) under the BSD license.
 - [wtftw](https://github.com/Kintaro/wtftw) – A tiling window manager written in Rust.
 
 
@@ -5908,18 +5907,19 @@ Do not even think about it wasting my time submitting nonsense tools like e.g. "
 - [Four Horsemen of the Infocalypse](https://en.wikipedia.org/wiki/Four_Horsemen_of_the_Infocalypse)
 - [Gapps tracks your movements, like it or not](https://apnews.com/f60bc112665b458cb6473d7ee9492932)
 - [Glenn Greenwald why privacy matters](https://www.ted.com/talks/glenn_greenwald_why_privacy_matters)
-- [Nothing to hide argument](https://en.wikipedia.org/wiki/Nothing_to_hide_argument)
 - [Google Alternatives](https://wiki.fuckoffgoogle.de/index.php?title=GoogleAlternatives)
 - [Google Data Collection research](https://digitalcontentnext.org/blog/2018/08/21/google-data-collection-research)
 - [Google is evil](https://fuckoffgoogle.de/#google-is-evil)
 - [Google is malware](https://www.gnu.org/proprietary/malware-google.html)
+- [iPhone apps can track you even after you tell them not to](https://www.washingtonpost.com/technology/2021/09/23/iphone-tracking/)
+- [Nothing to hide argument](https://en.wikipedia.org/wiki/Nothing_to_hide_argument)
 - [Privacy matters because it empowers us all](https://aeon.co/essays/privacy-matters-because-it-empowers-us-all)
 - [Privacy vs. “I have nothing to hide” (2019)](https://kevq.uk/privacy-vs-i-have-nothing-to-hide/)
-- [Survey of iOS and Android apps finds privacy gaps and likely law violations](https://www.theregister.com/2021/09/30/apple_google_privacy/)
 - [Stallman - Something to fear](https://stallman.org/something-to-fear.html)
+- [Survey of iOS and Android apps finds privacy gaps and likely law violations](https://www.theregister.com/2021/09/30/apple_google_privacy/)
 - [Why Is Privacy Important?](https://docs.fugu.lol/privacy/why-is-privacy-important/)
 - [Why privacy matters](https://whyprivacymatters.org/)
 - [Why should I care?](https://shadow53.com/android/no-gapps/faq/why-should-i-care/)
-- [iPhone apps can track you even after you tell them not to](https://www.washingtonpost.com/technology/2021/09/23/iphone-tracking/)
+
 
 [🔝 Back to top 🔝](#)
