@@ -5409,6 +5409,10 @@ Privacy oriented alternatives:
 - [publicnote](https://publicnote.com/) – Enter any title above to access a note. No account required.
 - [writefreely](https://writefreely.org/) – An open source platform for building a writing space on the web.
 
+### [Disposable Text Sharing](#disposable-text-sharing)
+- [One-Time Secret](https://github.com/onetimesecret/onetimesecret) – One-Time Secret is a way to share sensitive information simple and secure.
+- [Yopass](https://github.com/jhaals/yopass) – Yopass is a project for sharing secrets in a quick and secure manner. The sole purpose of Yopass is to minimize the amount of passwords floating around in ticket management systems, Slack messages and emails.
+
 
 ## [Terminal Emulators](#terminal-emulators)
 - [a-shell](https://github.com/holzschu/a-shell) – MacOS and iOS shell terminal based on Mosh.
