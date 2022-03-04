@@ -3494,6 +3494,7 @@ Privacy oriented alternatives:
 - [Omni Notes](https://f-droid.org/en/packages/it.feio.android.omninotes.foss/) – Very feature rich, open-source, material design notes app. Very active development.
 - [Orgzly](https://f-droid.org/en/packages/com.orgzly/) – Notes are stored in the plain-text Org mode format. Supports searching, metadata, and manual sync with Dropbox or local directory, which can be synced using e.g. Syncthing.
 - [Privacy Friendly Notes](https://github.com/SecUSo/privacy-friendly-notes) – Privacy Friendly App for creating and managing notes on Android.
+- [Quillnote](https://qosp.org/) – With Quillnote, you can take beautiful markdown notes whenever you feel inspired.
 - [Scarlet Notes FD](https://f-droid.org/packages/com.bijoysingh.quicknote/) – Works completely offline, offers rich notes with lists, headings, quotes, floating mode, and more.
 - [Simpletask](https://f-droid.org/en/packages/nl.mpcjanssen.simpletask/) + syncthing – Combining both apps allows you to take notes and syncing them.
 - [Simple Notes](https://f-droid.org/en/packages/com.simplemobiletools.notes.pro) – A beautiful quick note taking app without ads or weird permissions.
