@@ -5907,7 +5907,7 @@ Do not even think about it wasting my time submitting nonsense tools like e.g. "
 - [Windows11DragAndDropToTaskbarFix](https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix) – Fixes the missing "Drag & Drop to the Taskbar" support in Windows 11. It works with the new Windows 11 taskbar and does not require nasty changes like Undocking/Disabled or restoration of the classic taskbar.
 
 
-### [Windows 10/11 Download utilities](#Windows-1011-Download-utilities)
+### [Windows 10/11 Download Utilities](#windows-1011-download-utilities)
 - [Fido](https://github.com/pbatard/Fido) – A PowerShell script to download Windows ISOs or the UEFI Shell.
 - [MediaCreationTool by bBw0Avc4](https://pastebin.com/bBw0Avc4) – Download quickly some Windows Images. The source code is [here](https://gist.github.com/AveYo/c74dc774a8fb81a332b5d65613187b15).
 - [UUPMediaCreator](https://github.com/gus33000/UUPMediaCreator) – An utility to create Windows Media files (.ISO, .WIM, .VHD) from Unified Update Platform files.
