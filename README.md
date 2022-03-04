@@ -5396,19 +5396,18 @@ Privacy oriented alternatives:
 - [Saiy](https://github.com/brandall76/Saiy-PS/) – Fully customizable open source voice assistant.
 
 
-## [Text sharing](#text-sharing)
-- [AnonPaste](https://anonpaste.org/) – Forked from private bin, and features the option set pastes to never expire.
+## [Text Sharing](#text-sharing)
 - [0bin](https://0bin.net/) – 0bin is a client-side-encrypted alternative Pastebin. You can store code, text and images online for a set period of time and share with the world.
+- [AnonPaste](https://anonpaste.org/) – Forked from private bin, and features the option set pastes to never expire.
 - [CryptoContainer](https://github.com/Alex014/CryptoContainer) – Encrypted messaging system inside container.
+- [HedgeDoc](https://hedgedoc.org/) – The best platform to write and share markdown.
 - [NoPaste](https://github.com/bokub/nopaste) – An open-source website similar to Pastebin where you can store any piece of code, and generate links for easy sharing.
-- [pastor](https://gitlab.com/cocainefarm/pastor) – The Pastebin that hopefully doesn't suck.
+- [Pastor](https://gitlab.com/cocainefarm/pastor) – The Pastebin that hopefully doesn't suck.
 - [PrivateBin](https://privatebin.info/directory/) – Minimalist, open source online Pastebin where the server has zero knowledge of pasted data. Data is encrypted and decrypted in the browser using 256 bits AES.
-- [publicnote](https://publicnote.com/) – Enter any title above to access a note. No account required.
+- [Stikked](https://github.com/claudehohl/Stikked) – An advanced and beautiful pastebin written in PHP. You can also self-host it.
 - [VeryBin](https://www.verybin.com/) – An anonymous and encrypted online Pastebin using 256-bit AES.
+- [publicnote](https://publicnote.com/) – Enter any title above to access a note. No account required.
 - [writefreely](https://writefreely.org/) – An open source platform for building a writing space on the web.
-
-### [Disposable Text sharing](#disposable-text-sharing)
-- [Secrets.io](https://www.secrets.so/) – Securely send & receive secrets using a [disposable link](https://www.indiehackers.com/post/securely-send-receive-secrets-using-a-disposable-link-2a64894949).
 
 
 ## [Terminal Emulators](#terminal-emulators)
