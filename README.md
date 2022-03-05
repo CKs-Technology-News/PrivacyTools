@@ -552,8 +552,9 @@ There is a huge list for Audio VSTs for Linux over [here](https://audioonlinux.b
 - [T-Rex-Miner](https://github.com/trexminer/T-Rex/wiki/LHR/)
 
 
-## [Bookmark Tools](#bookmark-tools)
+## [Bookmark Management](#bookmark-management)
 - [Axomark](https://axomark.xyz/) – Anonymous Social Bookmarks.
+- [Brace](https://brace.to/) – Helps you save links to everything and visit them later easily anytime on your any devices.
 
 
 ## [Browsers - A general starter](#browsers-a-general-starter)
@@ -966,6 +967,7 @@ You do not need them if you have above listed extensions/add-ons installed or in
 - [Kakoune](https://kakoune.org/) – Modal editor, faster as in less keystrokes.
 - [Kate](https://kate-editor.org) – A multi-document editor part of KDE.
 - [Ledit](https://github.com/liz3/ledit) – Simple, GPU-rendered, no bullshit text editor.
+- [ncrypt](https://ncrypt.org/) – A free, open source, and privacy-focused online notepad.
 - [Notepad++](https://notepad-plus-plus.org) – A free code editor and Notepad replacement that supports several languages.
   - [Notepadqq](https://notepadqq.com/) – Notepad++ for Linux.
 - [TextMate](https://macromates.com) – Powerful and customizable text editor with support for a huge list of programming languages.
@@ -1253,6 +1255,7 @@ Multi functional app to find duplicates, empty folders, similar images etc.
 - [My Personal Kanban](https://greggigon.github.io/my-personal-kanban/) – Offline webapp.
 - [Nextcloud Deck](https://apps.nextcloud.com/apps/deck) – Useful when you already have Nextcloud.
 - [Nullboard](https://github.com/apankrat/nullboard) – Offline webapp.
+- [Skrifa](https://skrifa.xyz/) – A simple word processor built with web technologies.
 - [Taiga](https://www.taiga.io) – An agile, free and open source project management tool.
 - [TaskBoard](https://taskboard.matthewross.me/) – Works on almost any web host (only needs PHP5 w/SQLite etc.
 - [Twake](https://twake.app) – A complete and secure collaboration platform.
@@ -1727,6 +1730,7 @@ I will split the list in free-mailer and paid providers. Free mailer tend to use
 Privacy oriented alternatives:
 - [33Mail](https://33mail.com/) – Email alias service, including anonymous replies and custom domains.
 - [Anonymize.com Email](https://anonymize.com/) – Paid secure email service provided by Epik.com.
+- [Criptext](https://www.criptext.com/) – An encrypted email service that guarantees security, privacy and control over all your email communications.
 - [Cock.li](https://cock.li/) – Yeah it's mail with cocks.
 - [Confidesk](https://confidesk.com/) – High class encryption, maximum security. No third party access, nobody can read your mail, only you. Privacy as it should be.
 - [Cypht](https://cypht.org/) – The driving force behind Cypht development is to provide combined views for multiple accounts, but it's also a standard E-mail client that lets you browse and manage IMAP folders and send outbound messages with SMTP.
@@ -1750,6 +1754,7 @@ Privacy oriented alternatives:
 - [Systemli](https://www.systemli.org/en/service/mail.html) – Mailboxes without ads or analysis of your emails.
 - [StartMail](https://www.startmail.com) – A private email service developed by the creators of StartPage.
 - [Thexyz](https://www.thexyz.com/) – A Canadian company offering privacy-conscious business email. Premium web-mail costs around USD $2.95 per month.
+- [TildaMail](https://www.tildamail.com/) – Private. Decentralized. Secure Email. Own your data. Choose where it's stored. Protect your privacy.
 - [Tutanota](https://tutanota.com/) – Secure email for everybody and open source. The provider [accepts Bitcoin or Monero](https://digitalgoods.proxysto.re/), see [here](https://tutanota.com/faq/#cryptocurrency). Tutanota doesn't allow the use of third-party email clients and there are [no plans to pull emails from external eMail accounts using the IMAP protocol](https://github.com/tutao/tutanota/issues/544#issuecomment-670473647). This means [eMail import is currently not possible](https://github.com/tutao/tutanota/issues/630).
 - [Ubikom](https://github.com/regnull/ubikom) – Decentralized E2EE email service.
 - [VFEmail](https://vfemail.net/) – Since 2001, VFEmail has provided businesses and end-users a quick and convenient way to ensure their own security when it comes to email.
@@ -1816,6 +1821,7 @@ A Comparison of Encrypted Raid on Debian GNU/Linux is available over [here](http
 - [IronSSH](https://github.com/IronCoreLabs/ironssh) – End-to-end encrypt transferred files using sftp/scp and selectively share with others. Automatic key management works with any SSH server. Encrypted files are GPG compatible.
 - [Kestrel](https://github.com/finfet/kestrel) – A data-at-rest file encryption program that lets you encrypt files to anyone with a public key.
 - [Kryptor](https://kryptor.co.uk) – A free and open source file encryption software.
+- [PassLock](https://passlok.com/) – PassLok is a free app that provides simple, highly secure encryption for text and files.
 - [Peergos](https://peergos.org/) – The secure peer-to-peer file system and social network.
 - [Picocrypt](https://github.com/HACKERALERT/Picocrypt/) – A very small (hence "Pico"), very simple, yet very secure file encryption tool.
 - [rubberhose](https://github.com/sporkexec/rubberhose) – Julian Assange's deniable-encryption filesystem.
@@ -2094,17 +2100,20 @@ For mobile apps please check the file manager section, most file manager include
 
 
 ## [File-Sharing](#file-sharing)
-- [0x0](http://0x0.st/) – File URLs are valid for at least 30 days.
+- [0x0](https://0x0.st/) – File URLs are valid for at least 30 days.
 - [AnonFiles](https://anonfiles.com/) – Quick and easy share files.
 - [Arbore](https://arbo.re/) – A free and open-source file sharing application that enables you to send your pictures, documents, files to your contacts privately and without limits.
 - [Anoxinon Share (50 MB)](https://share.anoxinon.de/) – Clean and simple file-sharing made in Germany.
+- [Bitwarden Send](https://bitwarden.com/products/send/) – A trusted way to securely share information directly with anyone.
 - [BorgBase](https://www.borgbase.com/) – Secure encrypted backup hosting service that offers 10 GB free storage forever.
 - [Disroot Upload (2 GB)](https://upload.disroot.org/) – Simple and easy file sharing.
 - [dotfilesync](https://github.com/snvishna/dotfilesync) – Sync your dotfiles into a private GitHub gist.
 - [e2ee-cloud](https://e2ee-cloud.com/) – A self-hosted, end-to-end encryption and cloud sharing software.
 - [federalist](https://github.com/publiusfederalist/federalist) – Access files on the decentralized, unblockable torrent swarm and visit links using Handshake domains. Decentralized internet is here.
+- [ffsend](https://github.com/timvisee/ffsend) – Easily and securely share files from the command line. A fully featured Firefox Send client.
 - [fex](https://fex.net/) – A big files sharing service.
 - [FileBin](https://filebin.net/) – 6 Day file storage system.
+- [FileSend (50 MB)](https://filesend.standardnotes.com/) – Simple, encrypted file sharing.
 - [FreedomBox](https://freedombox.org/) – A private server for non-experts: it lets you install and configure server applications with only a few clicks.
 - [git-annex](https://git-annex.branchable.com/) – Git annex offers robust and flexible file management. Packed with features, future proofing, and many different back-ends to connect to cloud services.
 - [Gotify](https://gotify.net/) – A simple server for sending and receiving messages.
@@ -2132,6 +2141,8 @@ For mobile apps please check the file manager section, most file manager include
 
 ### [Send files between devices](#send-files-between-devices)
 - [Android File Transfer For Linux (and Mac OS X) (USB)](https://github.com/whoozle/android-file-transfer-linux/blob/master/README.md)
+- [CopyPaste.me](https://copypaste.me/) – Helps you when you need to send a password, text snippet or file from one phone, laptop or tablet to another device. 
+- [Datash](https://datash.co/) – Send or receive text or file from one device to another one through browser, it doesn't require any login or registration.
 - [Http Share](https://github.com/marcosdiez/shareviahttp/) – A simple way to share files on your phone or tablet with any other phone, computer or tablet.
 - [LanXchange](https://github.com/tfg13/LanXchange/) – Configuration-free, cross-platform file transfers for your local network.
 - [Mass Transfer](https://github.com/hexian000/MassTransfer/blob/master/README.md) – Only between Androids.
@@ -2144,10 +2155,15 @@ For mobile apps please check the file manager section, most file manager include
 ### [Self-hosted File-Sharing](#self-hosted-file-sharing)
 - [Lufi](https://github.com/ldidry/lufi) – Lufi means Let's Upload that File. It's a E2E encrypted file sharing software.
 - [OnionShare](https://onionshare.org/) – An open source tool that lets you securely and anonymously share files, host websites, and chat with friends using the Tor network.
+- [Portal](https://github.com/jackyzha0/portal) – Zero-config peer-to-peer encrypted live folder syncing tool that respects your .gitignore.
 - [Nextcloud](https://nextcloud.com/) – The self-hosted productivity platform that keeps you in control.
 - [Retroshare](https://github.com/RetroShare/RetroShare) – A decentralized, private, secure, cross-platform, communication toolkit. RetroShare provides file sharing, chat, messages, forums, channels and more.
 - [ProjectSend](https://www.projectsend.org/) – Share files with your clients from your own server.
 - [zend.to](https://zend.to/) – The safe, secure and completely free way to transfer large files around the Web.
+
+
+### [P2P based file-sharing](#p2p-based-file-sharng)
+- [Fission Drive](https://drive.fission.codes/) – Your files, under your control, available everywhere.
 
 
 ## [File Manager](#file-manager)
@@ -2916,25 +2932,28 @@ Peer-to-peer communications reveal one's IP address to each other, so using a re
 Keep these options in mind when communicating with your clique. Many of us belong to private groups on Telegram which are presumably free from moderator surveillance (or at least interference), but ultimately we should transition to a more durable platform that will be unable to censor our messages. Try a few out and see what works for you and your crew.
 
 - [Anonymous Messenger](https://anonymousmessenger.ly/) – A peer to peer private anonymous and secure messenger that works over tor. It's also free and [open source](https://git.anonymousmessenger.ly/dx/AnonymousMessenger) software which gives users the freedom of changing it and redistributing it under the terms of the GNU General Public License v3.
+- [Berty](https://berty.tech/) – The privacy-first messaging app that works with or without internet access, cellular data or trust in the network.
+- [Conversations](https://f-droid.org/en/packages/eu.siacs.conversations/) – Easy to use, reliable, battery friendly. With built-in support for images, group chats and e2e encryption.
 - [Ekiga](http://www.ekiga.org/) – Ekiga (formerly known as GnomeMeeting) is an open source SoftPhone, Video Conferencing and Instant Messenger application over the Internet.
+- [Mixing Messenger](https://mixin.one/messenger) – An open source cryptocurrency wallet and instant messenger which supports almost all popular cryptocurrencies.
+- [Onymochat](https://github.com/SamratDuttaOfficial/onymochat) – An end-to-end encrypted, decentralized, anonymous chat application. You can also host your anonymous .onion webpage with Onymochat.
+- [Siskin](https://siskin.im/) – Lightweight & powerful XMPP client for iPhone and iPad.
+- [Surge](https://github.com/rule110-io/surge) – A p2p file-sharing app designed to utilize blockchain technologies to enable 100% anonymous file transfers. Surge is end-to-end encrypted, decentralized and open source.
 - [Tinfoil Chat](https://github.com/maqp/tfc) – Onion-routed, endpoint secure messaging system.
 - [Tox](https://tox.chat/) – Tox is easy-to-use software that connects you with friends and family without anyone else listening in. - **controversial** due to the [donation scandal](https://lwn.net/Articles/651003/).
   - [aTox](https://github.com/evilcorpltd/aTox) – Reasonable Tox client for Android.
   - [Toxic](https://github.com/JFreegman/toxic) – A Tox-based instant messaging and video chat client.
-- [Berty](https://berty.tech/) – The privacy-first messaging app that works with or without internet access, cellular data or trust in the network.
-- [Conversations](https://f-droid.org/en/packages/eu.siacs.conversations/) – Easy to use, reliable, battery friendly. With built-in support for images, group chats and e2e encryption.
-- [Siskin](https://siskin.im/) – Lightweight & powerful XMPP client for iPhone and iPad.
-- [Surge](https://github.com/rule110-io/surge) – A p2p file-sharing app designed to utilize blockchain technologies to enable 100% anonymous file transfers. Surge is end-to-end encrypted, decentralized and open source.
-- [Onymochat](https://github.com/SamratDuttaOfficial/onymochat) – An end-to-end encrypted, decentralized, anonymous chat application. You can also host your anonymous .onion webpage with Onymochat.
 
 
 ### [Instant Messaging Decentralized](#instant-messaging-decentralized)
 
 No single point of control or failure. A decentralized network operated by different servers from different volunteers around the globe. You choose where your data stays or you can self-host your own server. Somewhat more complex protocols (because of federation between servers) and some extra metadata is added to the messages (without compromising privacy).
 
+- [Adamant](https://adamant.im/) – Decentralized anonymous messenger, Crypto Wallet & Exchange.
 - [CoyIM](https://coy.im/) – A new XMPP chat client that is safe and secure by default: no settings to change, no plugins to install, no computer configuration to change. You can also sandbox coy vis [firejail](https://github.com/coyim/coyim/issues/108#issuecomment-770347702).
 - [Jabber / XMPP (Protocol)](https://xmpp.org/) – The universal and open messaging standard. Tried and tested. Independent. Privacy-focused. E2E encrypted.
 - [Delta Chat](https://delta.chat/) – Chat over encrypted email. eMail itself is not secure, however most countries block other option, so this is more for those who cannot use alternatives,
+- [Iris](https://iris.to/) – An offline-first, secure and anonymous social networking app with encrypted private messages.
 - [Kontalk](https://kontalk.org/) – A new way of communicating.
 - [MiroTalk](https://github.com/miroslavpejic85/mirotalksfu) – An alternative to Zoom and Teams.
 - [SimpleX](https://github.com/simplex-chat/simplex-chat) – Decentralized chat with a focus on users’ privacy - doesn't use global user identities.
@@ -2963,11 +2982,11 @@ Leaked FBI Docs Suggest Telegram Safer than WhatsApp, Threema and others, see pi
 Source for this is claim is [here](https://www.rollingstone.com/politics/politics-features/whatsapp-imessage-facebook-apple-fbi-privacy-1261816/). For people saying Telegram isn't mentioned in the source article, click on the source document. It does cover various apps including Telegram. The document as PDF is hosted [here](https://propertyofthepeople.org/document-detail/?doc-id=21114562).
 
 
-- [Oversec](https://f-droid.org/packages/io.oversec.one/) – Privacy for All Apps! Encrypt and Disguise Messages in All Your Apps. This is not an IM application but listed here as "helper" application to add an encryption layer for those who are not encrypted.
+- [Cyph](https://www.cyph.com/) – Is the most secure and easiest to use encryption app.
 - [Ricochet](https://ricochet.im/) – Anonymous instant messaging (Desktop only!).
 - [Threema](https://threema.ch/en) – The messenger that puts security and privacy first. Pay once, chat forever. No collection of user data. Open Source client. [Crypto review 2021](https://soatok.blog/2021/11/05/threema-three-strikes-youre-out/) by Soatok.
     - [OpenMittsu](https://www.openmittsu.de/) – A cross-platform open source implementation and desktop client for the Threema Messenger App.
-- [Status](https://status.im/) – Status is a secure messaging app, crypto wallet, and Web3 browser built with state of the art technology.
+- [Safer.Chat](https://safer.chat/) – Share the room and password with your friends and you'll be able to chat securely with no need to install anything.
 
 
 ## [iOS Keyboard](#ios-keyboard)
@@ -3142,7 +3161,8 @@ Privacy oriented alternatives:
 - [Flyve MDM Agent](https://f-droid.org/app/org.flyve.mdm.agent.mqtt) – Manage and secure effectively your mobile devices and applications.
 - [PhoneTrack Nextcloud application](https://apps.nextcloud.com/apps/phonetrack)
 - [prey](https://github.com/prey/prey-android-client) – Android client for the Prey anti-theft software.
-- [Simple sms remote](https://f-droid.org/app/tranquvis.simplesmsremote) – Control your device by sending text messages.
+- [Simple SMS remote](https://f-droid.org/app/tranquvis.simplesmsremote) – Control your device by sending text messages.
+- [TICE App](https://ticeapp.com/) – The secure location sharing app for meeting up and locating friends and family in real-time.
 - [Traccar Client - Track your location](https://f-droid.org/en/packages/org.traccar.client/index.html) – Client for Traccar server software. A demo server is setup in the app for trying
 it out and the results can be viewed in a browser.
 - [Ulogger for Android](https://github.com/bfabiszewski/ulogger-android) – Android application for real-time collection and publishing of geo-location data.
@@ -3377,6 +3397,7 @@ Privacy oriented alternatives:
 - [Vinyl Music Player](https://f-droid.org/en/packages/com.poupa.vinylmusicplayer/) – Music player easy to use and customizable (multiple themes including a dark one).
 
 ### [Music Player Daemon](#music-player-daemon)
+- [Cantata](https://github.com/CDrummond/cantata/) – Qt5 Graphical MPD Client.
 - [clerk](https://github.com/carnager/clerk) – Simple MPD client using rofi or fzf.
 - [fmui](https://github.com/seebye/fmui) – FZF is a MPD user interface.
 - [mpc](https://www.musicpd.org/doc/mpc/html/) – MPC connects to a MPD and controls it according to commands and arguments passed to it.
@@ -3391,6 +3412,7 @@ Privacy oriented alternatives:
 
 ### [Markdown editors](#markdown-editors)
 - [Abricotine](https://abricotine.brrd.fr) – An open-source markdown editor built for desktop.
+- [Charm Glow](https://charm.sh/) – Render markdown in your terminal.
 - [Ghostwriter](https://wereturtle.github.io/ghostwriter/) – A distraction-free Markdown editor for Windows and Linux.
 - [HedgeDoc](https://pad.snopyta.org/) – Lets you create real-time collaborative markdown notes on all platforms.
 - [Logseq](https://logseq.com/) – A privacy-first alternative to WorkFlowy.
@@ -3416,10 +3438,12 @@ Privacy oriented alternatives:
 
 
 ## [Note taking apps](#note-taking-apps)
+- [Bilgge](https://bilgge.com/) – A privacy-paranoid free service for protecting your personal information, it fully works in your Browser.
 - [Boost Note](https://boostnote.io) – An open source Markdown editor for developers.
 - [Carnet](https://getcarnet.app) – A complete open source note taking app.
+- [Cryptgeon](https://cryptgeon.nicco.io/) - Easily send fully encrypted, secure notes or files with one click. Just create a note and share the link.
 - [Cryptee](https://crypt.ee) – A private and encrypted place for all your photos, documents, notes and more.
-- [Joplin](https://joplinapp.org) – A free and open source note-taking and to-do application.
+- [Encryptic](https://www.encryptic.org/) – Note taking app that heavily relies on encryption.
 - [LibreOffice Online](https://www.libreoffice.org/download/libreoffice-online/) – Self-hosted instance of LibreOffice that you can run in your browser.
     - [LibreOffice running natively in the browser via WebAssembly](https://lab.allotropia.de/wasm/)
 - [LunaTask](https://lunatask.app/) – An all-in-one privacy-focused todo list, notebook, habit and mood tracker and pomodoro timer.
@@ -3492,6 +3516,7 @@ Privacy oriented alternatives:
 - [Notesnook (mobile)](https://notesnook.com/) – A truly zero-knowledge note taking app, encrypted using XChaChaPoly1305-IETF & Argon2.
 - [Noto](https://www.github.com/alialbaali/Noto) – Simple and minimal note-taking Android application built with Kotlin.
 - [Omni Notes](https://f-droid.org/en/packages/it.feio.android.omninotes.foss/) – Very feature rich, open-source, material design notes app. Very active development.
+- [One Pile](https://onepile.app/) - Private notes and document management for macOS and iOS.
 - [Orgzly](https://f-droid.org/en/packages/com.orgzly/) – Notes are stored in the plain-text Org mode format. Supports searching, metadata, and manual sync with Dropbox or local directory, which can be synced using e.g. Syncthing.
 - [Privacy Friendly Notes](https://github.com/SecUSo/privacy-friendly-notes) – Privacy Friendly App for creating and managing notes on Android.
 - [Quillnote](https://qosp.org/) – With Quillnote, you can take beautiful markdown notes whenever you feel inspired.
@@ -4179,6 +4204,7 @@ Privacy oriented alternatives:
 - [Bitwarden](https://bitwarden.com) – An open source cloud based password manager.
     - [vaultwarden](https://github.com/dani-garcia/vaultwarden/) – Unofficial Bitwarden compatible self-hosted server, formerly known as bitwarden_rs.
 - [Buttercup](https://buttercup.pw) – A secure and open source password manager.
+- [Cozy Pass](https://cozy.io/en/features/#pass) – Fills all your passwords, payments, and personal details wherever you need them.
 - [KeePass Password Safe](https://keepass.info/) – KeePass, the free, open source, light-weight and easy-to-use password manager.
 - [KeepassXC](https://keepassxc.org/) – Securely store passwords using industry standard encryption, no sync just storage.
   - [KeepassDX](https://www.keepassdx.com/) – Save and use passwords, keys and digital identities in a secure way by integrating the Android design standards.
@@ -4583,6 +4609,7 @@ That said pretty much every listed client here is far from ideal and I list them
 
 
 - [AstraChat](https://astrachat.com/) – An enterprise alternative to WhatsApp and Slack for large organizations that want their own private messaging servers in the cloud or on premise.
+- [Chat Secure](https://chatsecure.org/) – A free and open source messaging iOS app that features OMEMO encryption and OTR encryption over XMPP.
 - [Conversations](https://conversations.im/) – Jabber/XMPP client for Android 4.0+ smartphones that has been optimized to provide a unique mobile experience. It does not support Audio or Voice.
     - [Monocles chat](https://dev.sum7.eu/sum7/Conversations) – A fork of Conversation with IPv6 support, and more.
     - [Monocles chat](https://codeberg.org/Arne/monocles_chat) – Monocles chat is a fork of blabber.im and Conversations with some changes, to improve usability.
@@ -4974,6 +5001,7 @@ Privacy oriented alternatives:
 - [Rport](https://oss.rport.io/) – Helps you to manage your remote servers without the hassle of VPNs, chained SSH connections, jump-hosts, or the use of commercial tools like TeamViewer and its clones.
 - [RDesktop](http://www.rdesktop.org/) – An implementation of a client software for Microsoft's proprietary Remote Desktop Protocol (RDP).
 - [Screego](https://screego.net/) – Screen sharing for developers.
+- [TermPair](https://chadsmith.dev/termpair/) – Easily share terminals with end-to-end encryption. Terminal data is always encrypted before being routed through the server. Learn more.
 
 
 ## [Reverse Proxy](#reverse-proxy)
@@ -5387,6 +5415,7 @@ Privacy oriented alternatives:
 - [Revolt](https://revolt.chat/) – User-first chat platform built with modern web technologies. FOSS and self-hostable, it also can bridge with Discord and Matrix and they have E2EE planned. Self-hosting DMs is not, yet, possible.
 - [RocketChat](https://rocket.chat/) – Control your communication, manage your data, and have your own collaboration platform to improve team productivity.
 - [Semaphor](https://spideroak.com/) – Encrypted, decentralized authority team chat and file sharing.
+- [Squawk](https://www.squawk.to/) – Walkie Talkie for Teams.
 - [Talk](https://github.com/vasanthv/talk) – Group video call for the web. No signups needed and no useless downloads are required.
 - [TOR Fonep2p](https://torfone.org/) – Secure and anonymous VoIP tool.
 - [Twake](https://twake.app/) – Work in a team faster, it covers all of your organizational needs through a single platform.
@@ -5681,6 +5710,7 @@ Not so good in terms of privacy:
 
 Privacy oriented alternatives:
 - [BigBlueButton](https://bigbluebutton.org/) – A web conferencing system designed for online learning.
+- [Briefing](https://brie.fi/ng) – Secure direct group video chat that works on every platform.
 - [Freenet](https://freenetproject.org/) – A peer-to-peer platform for censorship-resistant communication.
 - [Jami (formely Ring)](https://jami.net/) – Distributed universal and secure Free Software for multimedia communications.
 - [Jitsi Meet](https://meet.jit.si/) – More secure, more flexible, and completely free video conferencing. It does not need any account or installation. You find an [instances list over here](https://jitsi.github.io/handbook/docs/community/community-instances). Jitsi itself [currently does not support OMEMO](https://github.com/jitsi/jitsi/issues/199#issuecomment-170175764).
@@ -5823,6 +5853,7 @@ You find an introduction into the hardware wallet market [here](https://99bitcoi
 
 ## [Whiteboard](#whiteboard)
 - [OurBoard](https://www.ourboard.io/) – Free and open source online whiteboard.
+- [Excalidraw](https://excalidraw.com/) – Collaborative virtual whiteboard for sketching and hand-drawn like diagrams.
 
 
 ## [Wikipedia](#wikipedia)

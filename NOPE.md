@@ -73,6 +73,7 @@ Please keep in mind that every software and service is at some point fixable and
 - [MailJet](https://accounts.mxroute.com/index.php?/news/view/18/don--039-t-use-mailjet/)
 - [Mailpile](https://www.mailpile.is) – A fast web-mail client with user-friendly encryption and privacy features. [Project is considerable dead](https://twitter.com/HerraBRE/status/1399077999245463558).
 - [Mailtrash](http://mytrashmail.com/) – #fedpot.
+- [Mesh](https://mesh.im/) – Outdated.
 - [Mesibo Messenger App for iOS and Android](https://github.com/mesibo/messenger-app-android) – Phone number, weird code, no benefits over existing solutions.
 - [Migadu](https://www.migadu.com/) – Not FOSS.
 - [Mojeek](https://mojeek.com) – Independent and unbiased search results with no user tracking in UK's greenest data center. Mojeek is unfortunately proprietary, similarly to most parts of other search engines like DDG or Qwant.
@@ -166,6 +167,8 @@ Please keep in mind that every software and service is at some point fixable and
 - [Vimeo](https://www.patreon.com/posts/vimeo-is-holding-61514364) – [Patreon dumps vids on Vimeo, passes fees through to unsuspecting users](https://twitter.com/hate5six/status/1481500463317012482?s=21).
 - [WeeChat](https://weechat.org/) – Modular, lightweight ncurses-based IRC client. WeChat allegedly censors private conversations automatically in real life, for both Chinese and non-Chinese users.
 - [WordPress](https://wordpress.org) self-hosted – An open source software you can use to create a beautiful website, blog, or app. See here [why](https://theophilusn.com/blog/my-case-for-wordpress).
+- [Wormhole](https://wormhole.app/) – Simple, private file sharing.
+    - [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) - Get things from one computer to another, safely.
 - [You Search Engine](https://www.scuttlebutt.nz/) – Claims to be more private than Google Search but collects basically the same, see [here](https://you.com/legal/privacy).
 - [ZeroBin](https://github.com/sebsauvage/ZeroBin) is merged into [PrivateBin](https://privatebin.info/), however both websites still co-exist.
 
