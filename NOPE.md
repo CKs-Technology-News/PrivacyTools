@@ -10,7 +10,9 @@ Please keep in mind that every software and service is at some point fixable and
 - [5G Bio Shield](https://5gbioshield.com/) – Cash gab to tool people with nonsense and claims + promises they cannot hold.
 - [Aether](https://getaether.net/) – Peer-to-peer ephemeral public communities. The repository has not been updated with code since May 2020. The last version 0.15 has been released in November 2020 and there is no mention of it in the repository.
 - [American Civil Liberties Union](https://en.wikipedia.org/wiki/American_Civil_Liberties_Union) – ACLU unlisted because they might support and defend [Nazis](http://law2.umkc.edu/faculty/projects/ftrials/conlaw/onion_acludefends.html). There is one reference link in my guide but I reviewed it, so I only let this one link stand but I clearly say you should not support such ideology or support right-winged people.
+- [AnyType](https://anytype.io/) – Closed source.
 - [Apple’s “Share Focus” is an uncharacteristically disastrous invasion of privacy](https://old.reddit.com/r/ios/comments/r7e9pk/share_focus_is_an_uncharacteristically_disastrous/)
+- [Arattai](https://www.arattai.in/) – Closed source.
 - [Aurora OS](https://nokiamob.net/2021/11/16/aurora-os-is-based-on-sailfish-but-owned-by-omp/) – Aurora OS is based on Sailfish but owned by Russian Open Mobile Platform.
 - [Big Blue Button](https://bigbluebutton.org) – A professional video conferencing tool focused on online teaching and presenting. As such, it provides special features like slide-sharing, private and group chat, emoji feedback, polls, breakout rooms and many more. Removed due to [privacy concerns](https://empri-devops.de/blog/2022/01/26/bbb-learning-dashboard/).
 - [Bitcomet is adware](https://www.bitcomet.com/en/license)
@@ -20,6 +22,7 @@ Please keep in mind that every software and service is at some point fixable and
 - [Briar](https://briarproject.org/) – Peer-to-peer encrypted messaging and forums. You can find an unofficial list with forums [here](https://codeberg.org/PandaCoderPL/Briar-Forums). [Briar itself does not provide anonymity](https://code.briarproject.org/briar/briar/-/wikis/FAQ#does-briar-provide-anonymity) – Allows encrypted messages over Tor, WiFi, or Bluetooth (threat model is a communications-hostile environment/government). Briar gets unlisted compared to other alternatives because you need to be invited by other strangers - or friends - to join groups which makes it hard for beginners to find new groups, so it overall makes things harder to use as daily messenger. You can also not inspect the invite links or preview rooms, you just need to blindly trust people giving you a link. The program itself is perfectly fine but I ONLY suggest using it if you are on a demonstration, for other purposes other systems are more sufficient.
 - [Bridgefy](https://arstechnica.com/features/2020/08/bridgefy-the-app-promoted-for-mass-protests-is-a-privacy-disaster/)
 - [BuddyCloud](http://buddycloud.com/) – Buddycloud is built for people who care about their privacy. It is unlisted because it currently does not support SSL/TLS which is essential for a Cloud.
+- [Bundled Notes](https://bundlednotes.com/) – Closed Source.
 - [CTemplar](https://ctemplar.com/) – Privacy-focused email provider located in Iceland. This provider is known for deactivating randomly accounts based on activity. It’s anything but trusted. Besides the apps won’t work and you got continually errors. [CTemplar deletes free accounts that haven't logged in in 36 months](https://ctemplar.com/help/answer/inactive-account-policy).
 - [Canary Mail](https://canarymail.io) – A secure email client for macOS, iOS and Android (paid and closed source).
 - [Changewatch – see what’s changed between versions of policies](https://www.changewatch.co.uk/) – Behind Cloudflare and no benefit over terms did not read website.
@@ -30,6 +33,7 @@ Please keep in mind that every software and service is at some point fixable and
 - [Croc](https://github.com/schollz/croc) – Easily and securely send things from one computer to another. No expert ever heard of the encryption they are using, no audit and less documentation on the important parts.
 - [CutTheCord](https://gitdab.com/distok/cutthecord) – Distok CutTheCord: Modular Discord Android client mod.
 - [DarkMX](https://darkmx.app/) – A new decentralized communication app that utilizes Tor hidden services to allow you to easily have an anonymous, reliable, and censorship-resistant presence on the internet. The program is [closed source](https://darkmx.app/forum/53). An unofficial decompiled version including arch package and source, for Linux only is available [here](https://aur.archlinux.org/packages/darkmx).
+- [Decs](https://app.decs.xyz/) – The All-In-One Workspace To Manage Code Snippets and Protect Sensitive Data.
 - [Discord](https://twitter.com/CKsTechNews/status/1497582269372014596) – Calls out entire nations to support terrorism, weird privacy policy, working with feds and much more.
 - [DiskCryptor](https://sourceforge.net/projects/diskcryptor/) has been discontinued. It’s last update was in September 2014. It is still available on SourceForge.
 - [Dot Browser](https://dothq.co) – The browser with privacy at heart. Based on Firefox with some additions, modifications. The reason it does not get listed is that there are rarely updates which is controversial enough when it comes to overall security, if you want to use it you basically need to install nightly builds.
@@ -47,6 +51,7 @@ Please keep in mind that every software and service is at some point fixable and
 - [Freenode.net](https://freenode.net/) - Becomes a Reddit Clone.
 - [Fruux](https://fruux.com) – Securely share, sync and collaborate in teams. Fruux is a proprietary application.
 - [Gammy](https://github.com/Fushko/gammy) – Adaptive screen brightness/temperature for Windows, Linux, FreeBSD.
+- [Geneva](https://geneva.com/) – Not open source.
 - [Google Cloud Google](https://cloud.google.com/blog/topics/inside-google-cloud/update-on-google-clouds-work-with-the-us-government) #fedpot because they work together with the U.S. Government.
 - [Grammar & Spell Checker — LanguageTool](https://languagetool.org/) – Check your texts for spelling and grammar problems everywhere on the web. Contains telemetry.
 - [GrapheneOS](https://grapheneos.org/) – GrapheneOS is an open source privacy and security focused mobile OS with Android app compatibility. Mental problems with [Daniel Micay who makes things up](https://www.youtube.com/watch?v=Dx7CZ-2Bajg) and [begging for money](https://twitter.com/GrapheneOS/status/1463930841160200199) results in no trust. The developer has [no clue how Kasperskys AV really works](https://freenode.logbot.info/grapheneos/20210607) and such people dare to talk about security. All he does is to apply best practices into an OS, since there is no competition except CalyxOS this promise seems to be quickly fulfilled since there is no audit no one can disprove their promises.
@@ -114,6 +119,7 @@ Please keep in mind that every software and service is at some point fixable and
 - [Privera](https://privera.io/) – Uses Use Google Analytics as back-end.
 - [ProtonMail](https://protonmail.com/) – Secure Email. Based in Switzerland, Proton admitted to log trough third-party data centers. The reason why it is unlisted is [not security](https://protonmail.com/blog/penetration-tests/). There are other reasons, please see [here](https://twitter.com/tenacioustek/status/1434604102676271106), based on [this](https://protonmail.com/blog/climate-activist-arrest/) and [this](https://encryp.ch/blog/truth-about-protonmail/) and the [FBI request](https://twitter.com/SebGorka/status/1443686769833168905). The official F-Droid app includes trackers and other crap. [IP released in publich](ttps://www.xda-developers.com/protonmail-forced-to-release-user-ip-address/).
 - [PunkPanda](https://punkpanda.io/) – Not FOSS.
+- [QuillChat](http://quill.chat/) – Dead after Twitter takeover.
 - [Ripcord](https://cancel.fm/ripcord/) – Ripcord is a desktop chat client for group-centric services like Slack and Discord. Not FOSS, and against ToS.
 - [Rootless Pixel Launcher](https://github.com/amirzaidi/Launcher3) – A close to AOSP launcher that only changes the necessary code to allow for small extensions and backporting to older Android versions. Heavily outdated.
 - [Safari](https://www.cnet.com/tech/services-and-software/change-these-browser-settings-asap-to-protect-your-privacy-in-chrome-firefox-and-more/) – [Default "Safe Browsing" setting shares web history with Chinese company Tencent](https://blog.cryptographyengineering.com/2019/10/13/dear-apple-safe-browsing-might-not-be-that-safe/).
@@ -157,7 +163,9 @@ Please keep in mind that every software and service is at some point fixable and
 - [Qwant](https://www.qwant.com/) – A privacy oriented search engine made in France with no tracking. - *[controversial](https://codeberg.org/swiso/website/issues/138) same like [DuckDuckGo](https://lulz.com/community/thread/social-experiment-duckduckgo-hiring-racial-discrimination/)*
 - [Scuttlebutt](https://www.scuttlebutt.nz/) – Social network on a decentralized platform. Last commit from 2017, there even exist older forks with stuff from over 10 years ago.
 - [SlikSafe](https://www.sliksafe.com/) – A Decentralized, End-to-End Encrypted Alternative to Dropbox which is not FOSS.
+- [Spike](https://www.spikenow.com/) – No source code.
 - [Streamlabs](https://twitter.com/CKsTechNews/status/1461291879937552389)
+- [StickyTape](https://stickytape.app/) – Invalid certificate, no source code.
 - [TikTok Live-Streaming stolen from OBS Studio](https://mastodon.social/@CKsTechnologyNews/107462627484627178)
 - [TitanKey](https://nakedsecurity.sophos.com/2021/01/11/google-titan-security-keys-hacked-by-french-researchers/)
 - [U2F Zeror](https://github.com/conorpp/u2f-zero/blob/master/README.md) – The official website does not exist anymore, and the GitHub repository's readme.md states the project no longer maintained.

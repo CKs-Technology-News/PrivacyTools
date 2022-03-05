@@ -200,14 +200,14 @@ Privacy oriented alternatives:
 - [F-Droid](https://f-droid.org/) – F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform.
     - [Aurora Droid](https://auroraoss.com/download/#aurora-droid) –  An open-source alternative Google Play Store front end client with privacy and modern design in mind.
     - [Droid-ify](https://github.com/iamlooker/Droid-ify/) – Unofficial F-Droid client with Material UI based on Foxy-Droid.
-	- [Foxy Droid](https://github.com/kitsunyan/foxy-droid) – Unofficial F-Droid client in the style of the classic one.
-	- [G-Droid](https://gitlab.com/gdroid/gdroidclient/) – A front-end client for the F-Droid app-repository.
+    - [Foxy Droid](https://github.com/kitsunyan/foxy-droid) – Unofficial F-Droid client in the style of the classic one.
+    - [G-Droid](https://gitlab.com/gdroid/gdroidclient/) – A front-end client for the F-Droid app-repository.
 - [FossDroid](https://fossdroid.com/) – Promote free and open source apps on the Android platform: newest, trendiest and the most popular ones.
 - [Raccoon](https://raccoon.onyxbits.de) – Open source Google Play desktop client and APK downloader for downloading Android apps on Windows, Mac OS and Linux PCs.
 - [Kali Nethunter Store](https://store.nethunter.com) – For pen-testing apps only.
 
 
-### [Alternative Google Play Store clients](#alternative-google-play-store-clients)
+### [Alternative Google Play Store Clients](#alternative-google-play-store-clients)
 - [Aurora Store](https://auroraoss.com/download/#aurora-store) – Aurora Store is an open-source alternative Google Play Store front-end client with privacy and modern design in mind.
 - [Yalp Store](https://f-droid.org/app/com.github.kiliakin.yalpstore) – APKs from Google Play Store.
 
@@ -312,7 +312,7 @@ Privacy oriented alternatives:
 - [Metabase](https://www.metabase.com/) – Self-hosted data analysis and visualizer.
 - [No Cookie Analytics](https://nocookieanalytics.com/) – No Cookie Analytics is a privacy friendly & open source analytics service. No cookies ever and forever.
 - [Nullitics](https://nullitics.com/) – Zero-effort open-source cheap analytics.
-- [Offen](https://www.offen.dev) – Fair web analytics. Gain insights while your users have full access to their data.
+- [Offen](https://www.offen.dev/) – Fair web analytics. Gain insights while your users have full access to their data.
 - [Open-Analytics-Core-HTTP](https://github.com/Daniel31x13/Open-Analytics-Core-HTTP) – An open source alternative to Google Analytics back end.
 - [Open Web Analytics](https://www.openwebanalytics.com/) – Open Web Analytics is the free and open source web analytics framework that lets you stay in control of how you instrument and analyze the use of your websites and application.
 - [Panelbear](https://panelbear.com/) – Privacy-focused analytics + web performance monitoring.
@@ -325,6 +325,7 @@ Privacy oriented alternatives:
 - [Simple Analytics](https://simpleanalytics.com/) – Great analytics with privacy and simplicity in mind. Paid plans only (with free trials).
 - [Statify for WordPress](https://wordpress.org/plugins/statify/#description) – A straightforward Wordpress plugin to collect statistics on your site. It only counts page request instead of collecting personal data.
 - [Supabase](https://supabase.io/) – An open-source alternative to Firebase.
+- [Swetrix](https://swetrix.com) – Privacy-focused open-source web analytics service.
 - [Umami](https://umami.is/) – A simple, easy to use, open-source/self-hosted web analytics solution. No data export option.
 - [uxwizz](https://www.uxwizz.com) – Self-hosted alternative to Google Analytics and Hotjar.
 
@@ -380,8 +381,10 @@ Privacy oriented alternatives:
 - [Gladys Assistant](https://gladysassistant.com/) – A privacy-first, open-source home assistant.
 - [Home Assistant](https://www.home-assistant.io/) – Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server.
 - [Jasper](https://jasperproject.github.io/) – An open source platform for developing always-on, voice-controlled applications.
+- [Kalliope](https://kalliope-project.github.io/) – An open-source AI assistant.
 - [Mycroft](https://mycroft.ai/) – Open-source AI assistant, range of hardware options.
 - [Rhasspy](https://github.com/synesthesiam/rhasspy) – An voice assistant for offline home automation (Archived). Mini guide is [here](https://dev.to/jeikabu/home-assistant-voice-recognition-with-rhasspy-1jb2).
+
 
 ### [Mobile AI Assistants](#mobile-ai-assistants)
 - [Automation](https://git.server47.de/jens/Automation) – Automation is an Android app to automate certain things on your device.
@@ -555,6 +558,7 @@ There is a huge list for Audio VSTs for Linux over [here](https://audioonlinux.b
 ## [Bookmark Management](#bookmark-management)
 - [Axomark](https://axomark.xyz/) – Anonymous Social Bookmarks.
 - [Brace](https://brace.to/) – Helps you save links to everything and visit them later easily anytime on your any devices.
+- [Memex](https://memex.garden/) – Annotatee, organize and share your bookmarks.
 
 
 ## [Browsers - A general starter](#browsers-a-general-starter)
@@ -1255,6 +1259,7 @@ Multi functional app to find duplicates, empty folders, similar images etc.
 - [My Personal Kanban](https://greggigon.github.io/my-personal-kanban/) – Offline webapp.
 - [Nextcloud Deck](https://apps.nextcloud.com/apps/deck) – Useful when you already have Nextcloud.
 - [Nullboard](https://github.com/apankrat/nullboard) – Offline webapp.
+- [Radicale](https://radicle.xyz/) – Decentralized code collaboration network built on open protocols.
 - [Skrifa](https://skrifa.xyz/) – A simple word processor built with web technologies.
 - [Taiga](https://www.taiga.io) – An agile, free and open source project management tool.
 - [TaskBoard](https://taskboard.matthewross.me/) – Works on almost any web host (only needs PHP5 w/SQLite etc.
@@ -1360,19 +1365,21 @@ Privacy oriented alternatives:
 - [1984 Hosting](https://1984hosting.com) – A green, ethical web hosting that protects its user's privacy.
 - [AccuWeb Hosting](https://www.accuwebhosting.com/web-hosting/free-wordpress-hosting) – No Ads or Banners.
 - [CloudSigma](https://www.cloudsigma.com/) – CloudSigma’s cloud infrastructure and services have been certified as compliant with the highest ISO 27001 requirements for security and data privacy.
-- [cryptoho](https://cryptoho.st/) – VPS hosting service with its servers in Romania, accepts BTC,Lightning Network, XMR, LTC, DASH, ETH, USDT as payment.
+- [Cryptoho](https://cryptoho.st/) – VPS hosting service with its servers in Romania, accepts BTC,Lightning Network, XMR, LTC, DASH, ETH, USDT as payment.
 - [Exoscale](https://www.exoscale.com) – A European cloud computing for cloud native teams.
 - [FlokiNET](https://flokinet.is) – A secure, stable and anonymous web hosting.
 - [FreedomBox](https://www.freedombox.org/) – A libre self-hosting system and also a commercial product. It has less apps than YunoHost but can be bought as a ready-to-use product.
 - [Greenhost](https://greenhost.net) – A sustainable and secure webhosting.
 - [Infomaniak](https://www.infomaniak.com) – Professional web hosting, domain name, cloud server, and email service.
 - [Lohost](https://lohost.io/) –  Distributed, decentralized, anonymized local website hosting.
+- [Manitu](https://uberspace.de/en/) – Web Hosting and Root Servers made in Germany.
 - [Namecheap](https://www.namecheap.com) – Cheap domain names and web hosting.
 - [NiceVPS](https://nicevps.net/) – Proudly offering delivering the best uncensored and privacy oriented hosting service around.
 - [Njalla](https://njal.la/) – Finally, a privacy-aware domain service. It lacks a proper privacy policy, but is trusted and used by many.
 - [OrangeWebsite](https://www.orangewebsite.com) – An Icelandic web hosting provider.
 - [Sandstorm](https://sandstorm.io/) – An open-source self-hosted web hosting platform for a wide set of web applications, including Etherpad (collaborative text editing), Radicale (calendar), Lychee (image hosting), Wekan (Kanban).
 - [Takingnames.io](https://www.Takingnames.io) – The first domain name provider for self-hosters.
+- [Uberspace](https://uberspace.de/en/) – Universal hosting for various stuff.
 - [YunoHost](https://yunohost.org/) – A libre operating system, that eases installing web applications on your own hardware. It also provides you with your own email server out of the box.
 
 
@@ -2056,8 +2063,6 @@ Privacy oriented alternatives:
 - [Snapdrop](https://snapdrop.net/) – A Progressive Web App for local file sharing inspired by Apple's Airdrop.
   - [SnapDrop for Android](https://github.com/fm-sys/snapdrop-android) - Android client for local file sharing via SnapDrop.
 - [Tresorit](https://send.tresorit.com/) – Free, End-to-end encrypted alternative for file sending. Up to 5GB.
-- [Wormhole](https://wormhole.app/) – Simple, private file sharing.
-    - [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) - Get things from one computer to another, safely.
 - [YourTransfer.io](https://www.youtransfer.io/) – The simple but elegant file-sharing solution
 
 
@@ -2123,6 +2128,7 @@ For mobile apps please check the file manager section, most file manager include
 - [Rclone](https://rclone.org/) – Rclone is a command line program to manage files on cloud storage. It is a feature rich alternative to cloud vendors' web storage interfaces and like the tools listed above enables encryption for encrypting files in the cloud.
     - [RCX](https://github.com/x0b/rcx) – Android GUI for rclone. Manage files across many cloud services in a simple way under one interface.
     - [Rclone Remount](https://github.com/Magisk-Modules-Repo/com.piyushgarg.rclone) – Remount cloud storage locally during boot via rclone & fusermount directly on your Android powered smart device.
+- [SendFiles](https://sendfiles.online/) – Start sending encrypted files by generating a random password.
 - [Syncthing](https://syncthing.net/) – Continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes.
 - [Transfer.sh](https://transfer.sh/) – Easy file sharing from the command line.
 - [uMTP-Responder](https://github.com/viveris/uMTP-Responder) – Lightweight Media Transfer Protocol (MTP) responder daemon for GNU/Linux (USB).
@@ -2133,6 +2139,7 @@ For mobile apps please check the file manager section, most file manager include
 - [XD](https://xd-torrent.github.io/) – Anonymous file-sharing. Torrent client for I2P.
 - [XTahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) – Distributed file system and Cloud storage system with integrated privacy and security features.
 
+
 ### [Mobile File-Sharing](#mobile-file-sharing)
 - [Sharik](https://github.com/marchellodev/sharik) - Works with Wi-Fi connection or Tethering (via WiFi Hotspot). No internet connection needed. Available for Android, iOS, Linux, MacOS & Windows.
 - [Seeker](https://github.com/jackBonadies/SeekerAndroid) – Android client for the Soulseek peer-to-peer network.
@@ -2141,7 +2148,7 @@ For mobile apps please check the file manager section, most file manager include
 
 ### [Send files between devices](#send-files-between-devices)
 - [Android File Transfer For Linux (and Mac OS X) (USB)](https://github.com/whoozle/android-file-transfer-linux/blob/master/README.md)
-- [CopyPaste.me](https://copypaste.me/) – Helps you when you need to send a password, text snippet or file from one phone, laptop or tablet to another device. 
+- [CopyPaste.me](https://copypaste.me/) – Helps you when you need to send a password, text snippet or file from one phone, laptop or tablet to another device.
 - [Datash](https://datash.co/) – Send or receive text or file from one device to another one through browser, it doesn't require any login or registration.
 - [Http Share](https://github.com/marcosdiez/shareviahttp/) – A simple way to share files on your phone or tablet with any other phone, computer or tablet.
 - [LanXchange](https://github.com/tfg13/LanXchange/) – Configuration-free, cross-platform file transfers for your local network.
@@ -2938,7 +2945,7 @@ Keep these options in mind when communicating with your clique. Many of us belon
 - [Mixing Messenger](https://mixin.one/messenger) – An open source cryptocurrency wallet and instant messenger which supports almost all popular cryptocurrencies.
 - [Onymochat](https://github.com/SamratDuttaOfficial/onymochat) – An end-to-end encrypted, decentralized, anonymous chat application. You can also host your anonymous .onion webpage with Onymochat.
 - [Siskin](https://siskin.im/) – Lightweight & powerful XMPP client for iPhone and iPad.
-- [Surge](https://github.com/rule110-io/surge) – A p2p file-sharing app designed to utilize blockchain technologies to enable 100% anonymous file transfers. Surge is end-to-end encrypted, decentralized and open source.
+- [Surge](https://getsurge.io/) – A p2p file-sharing app designed to utilize blockchain technologies to enable 100% anonymous file transfers. Surge is end-to-end encrypted, decentralized and open source.
 - [Tinfoil Chat](https://github.com/maqp/tfc) – Onion-routed, endpoint secure messaging system.
 - [Tox](https://tox.chat/) – Tox is easy-to-use software that connects you with friends and family without anyone else listening in. - **controversial** due to the [donation scandal](https://lwn.net/Articles/651003/).
   - [aTox](https://github.com/evilcorpltd/aTox) – Reasonable Tox client for Android.
@@ -2948,6 +2955,7 @@ Keep these options in mind when communicating with your clique. Many of us belon
 ### [Instant Messaging Decentralized](#instant-messaging-decentralized)
 
 No single point of control or failure. A decentralized network operated by different servers from different volunteers around the globe. You choose where your data stays or you can self-host your own server. Somewhat more complex protocols (because of federation between servers) and some extra metadata is added to the messages (without compromising privacy).
+
 
 - [Adamant](https://adamant.im/) – Decentralized anonymous messenger, Crypto Wallet & Exchange.
 - [CoyIM](https://coy.im/) – A new XMPP chat client that is safe and secure by default: no settings to change, no plugins to install, no computer configuration to change. You can also sandbox coy vis [firejail](https://github.com/coyim/coyim/issues/108#issuecomment-770347702).
@@ -3358,7 +3366,7 @@ Privacy oriented alternatives:
 - [MPlayer](https://mplayerhq.hu/) – Video player that supports a complete and versatile array of video and audio formats.
 - [MPV](https://mpv.io) – A free, open source, and cross-platform cmd based media player.
     - [mpv-android](https://f-droid.org/en/packages/is.xyz.mpv) – Plays almost any kind of multimedia files on Android.
-    - [Smplayer](https://www.smplayer.info/en/mpv) – Smplayer is a GUI for MPV, you find an entire [list of GUI applications here](https://github.com/mpv-player/mpv/wiki/Applications-using-mpv).
+    - [Smplayer](https://www.smplayer.info/en/mpv) – A GUI for MPV, you find an entire [list of GUI applications here](https://github.com/mpv-player/mpv/wiki/Applications-using-mpv).
 - [PotPlayer](https://potplayer.daum.net/) – Similar like MPC but with a better skin, audio and video player for Windows.
 - [VLC](https://www.videolan.org/) – Multimedia player for almost every platform.
 
@@ -3474,6 +3482,7 @@ Privacy oriented alternatives:
 
 ## [NFT](#nft)
 - [NFT Reverse Search Engine](https://bing.ly/) – NFT Reverse Search Engine.
+- [NFT Generator](https://github.com/Jamesbarford/nft-generator) – Easily generate NFTs.
 
 
 ## [Notes and Tasks](#notes-and-tasks)
@@ -3662,7 +3671,7 @@ Can you crack the logic....?
 - [Suomenlinna](https://blog.jolla.com/suomenlinna/) – Sailfish OS, Linux for mobile phones.
 
 
-### [Android GSI images](#android-gsi-images)
+### [Android GSI Images](#android-gsi-images)
 
 Android Generic System Images ([GSIs](https://github.com/phhusson/treble_experimentations/)) are for app developers to perform app validation and for development purposes, which means they are bare naked images without anything e.g. GAPPS preinstalled. Since version [401+](https://github.com/phhusson/treble_experimentations/releases/tag/v401) OTA is supported for devices with dynamic partition.
 
@@ -4074,7 +4083,7 @@ Consider joining and donating to one, several or all of the listed organizations
 - [Pirate Party](https://en.wikipedia.org/wiki/Pirate_Party)
 - [Pirate Party UK](https://en.wikipedia.org/wiki/Pirate_Party_UK)
 - [Pirate Party of Latvia](https://en.wikipedia.org/wiki/Pirate_Party_of_Latvia)
-- [Pirate parties‎](https://en.wikipedia.org/wiki/Category:Pirate_parties)
+- [Pirate Parties‎](https://en.wikipedia.org/wiki/Category:Pirate_parties)
 - [Privacy International](https://en.wikipedia.org/wiki/Pirate_Parties_International)
 - [Riseup](https://en.wikipedia.org/wiki/Riseup)
 - [Seattle Privacy Coalition](https://en.wikipedia.org/wiki/Seattle_Privacy_Coalition)
@@ -4872,7 +4881,7 @@ These are only a handful suggested Distros. I do not intent do list all distros 
 Not so good in terms of privacy:
 - [Microsoft Windows](https://www.gnu.org/proprietary/proprietary.html), please see [here](https://www.gnu.org/proprietary/malware-microsoft.html) and [here](https://twitter.com/netresec/status/1440036446291693574) to get a small overview.
 - iOS
-- macOS
+- macOS sends [by default, Spotlight sends all your search data to Apple](https://lifehacker.com/safari-and-spotlight-can-send-data-to-apple-heres-how-1648453540).
 
 Privacy oriented alternatives:
 - [GNU/Linux](https://www.linux.com/what-is-linux/) – GNU/Linux is a family of mostly free and open source Operating Systems mostly developed by the community. If you don't know where to start, [not (Cinnamon)](https://linuxmint.com/edition.php?id=281) is a beginner friendly distribution. If you want to try it out without installing it to your computer, you can use a [Live USB Stick](https://www.fosslinux.com/274/how-to-create-linux-mint-live-usb-drive-on-windows.htm). If you want to install Linux but keep your current operating system, you can set up [dual boot](https://averagelinuxuser.com/dualboot-linux-windows/).
@@ -5012,7 +5021,7 @@ Privacy oriented alternatives:
 - [Cutter](https://github.com/rizinorg/cutter) – Free and Open Source Reverse Engineering Platform.
 
 
-## [RSS and Atom Reader](#rss-and-atom-reader)
+## [RSS and ATOM Reader](#rss-and-atom-reader)
 
 You can obtain a [comprehensive aggregator for news feeds here](https://en.wikipedia.org/wiki/Comparison_of_feed_aggregators/).
 
@@ -5041,9 +5050,8 @@ You can obtain a [comprehensive aggregator for news feeds here](https://en.wikip
 - [Sismics Reader](https://www.sismics.com/reader/) – Simple and effective RSS Reader.
 - [Stringer](https://github.com/swanson/stringer) – Simple reader with the ability to run it at your hosting provider or for free at e.g. heroky.
 - [Snownews](https://github.com/kouya/snownews) – A command-line RSS feed reader. It runs on everything Unix.
-- [Thunderbird](https://www.thunderbird.net/) – Thunderbird also includes a chat as well as an RSS reader.
+- [Thunderbird](https://www.thunderbird.net/) – Thunderbird includes a chat as well as an RSS and ATOM reader.
 - [Weloverss](https://weloverss.com/) – Another Web RSS-Reader.
-
 
 ### [Mobile RSS and Atom Reader](#mobile-rss-and-atom-reader)
 - [Flym](https://f-droid.org/packages/net.frju.flym) – A simple, modern, totally free (no ads) and open source project which keeps you inform by fetching your websites/blogs and is playing them in a mobile-optimized way.
@@ -5416,7 +5424,7 @@ Privacy oriented alternatives:
 - [RocketChat](https://rocket.chat/) – Control your communication, manage your data, and have your own collaboration platform to improve team productivity.
 - [Semaphor](https://spideroak.com/) – Encrypted, decentralized authority team chat and file sharing.
 - [Squawk](https://www.squawk.to/) – Walkie Talkie for Teams.
-- [Talk](https://github.com/vasanthv/talk) – Group video call for the web. No signups needed and no useless downloads are required.
+- [Talk](https://github.com/vasanthv/talk) – Group video call for the web. No sign-ups needed and no useless downloads are required.
 - [TOR Fonep2p](https://torfone.org/) – Secure and anonymous VoIP tool.
 - [Twake](https://twake.app/) – Work in a team faster, it covers all of your organizational needs through a single platform.
 - [Zulip](https://zulip.com/) – Chat for distributed teams.
@@ -5647,7 +5655,7 @@ The main reason why some VPN provider adding it is not security, or privacy, it 
 
 ### [VPN Providers](#vpn-providers)
 - [Azire](https://www.azirevpn.com/) – Swedish provider that uses secure and modern protocols, along with SOCKS5 proxies, DNS servers and IPv6 connectivity in carefully chosen locations.
-- [IVPN](https://www.ivpn.net) – An audited, open-source VPN service with WireGuard, kill-switch and tracker blocker, they also accept Monero.
+- [IVPN](https://www.ivpn.net) – An audited, open-source VPN service with WireGuard, kill-switch and tracker blocker, they accept Bitcoin and Monero.
 - [Mullvad](https://mullvad.net/) – Mullvad has some [port forwarding restrictions](https://mullvad.net/en/help/port-forwarding-and-mullvad/) due to [ToS changes](https://mullvad.net/en/blog/2021/3/22/minor-change-our-terms-service/).
 - [OVPN](https://www.ovpn.com/) – OVPN is the VPN service that makes you anonymous online.
 - [Perfect Privacy VPN](https://www.perfect-privacy.com/) – Perfect Privacy is committed to the privacy and anonymity of its customers since 2008 and is one of the most secure VPN providers worldwide.
@@ -5716,6 +5724,7 @@ Privacy oriented alternatives:
 - [Jitsi Meet](https://meet.jit.si/) – More secure, more flexible, and completely free video conferencing. It does not need any account or installation. You find an [instances list over here](https://jitsi.github.io/handbook/docs/community/community-instances). Jitsi itself [currently does not support OMEMO](https://github.com/jitsi/jitsi/issues/199#issuecomment-170175764).
     - [Brave Talk](https://brave.com/talk/) – Based on Jitsi integrated into Brave Browser.
 - [kMeet](https://github.com/Infomaniak/android-infomaniak-meet) – Free and secure videoconferencing solution for Android and iOS.
+- [LinePhone](https://www.linphone.org/) – For smartphones, tablets and desktop platforms.
 - [Mumla (client for Mumble)](https://mumla-app.gitlab.io/) – Third-party Android client for Mumble.
 - [MiroTalk](https://github.com/miroslavpejic85/mirotalk) – Video up to 4k and 60 FPS WebRTC P2P open source and self-hosted.
 - [PeerCalls](https://peercalls.com/) – Group peer to peer video calls for everyone written in Go and TypeScript.
@@ -5941,7 +5950,7 @@ Do not even think about it wasting my time submitting nonsense tools like e.g. "
 ### [Windows 10/11 Download Utilities](#windows-1011-download-utilities)
 - [Fido](https://github.com/pbatard/Fido) – A PowerShell script to download Windows ISOs or the UEFI Shell.
 - [MediaCreationTool by bBw0Avc4](https://pastebin.com/bBw0Avc4) – Download quickly some Windows Images. The source code is [here](https://gist.github.com/AveYo/c74dc774a8fb81a332b5d65613187b15).
-- [UUPMediaCreator](https://github.com/gus33000/UUPMediaCreator) – An utility to create Windows Media files (.ISO, .WIM, .VHD) from Unified Update Platform files.
+- [UUPMediaCreator](https://github.com/gus33000/UUPMediaCreator/) – An utility to create Windows Media files (.ISO, .WIM, .VHD) from Unified Update Platform files.
 
 ### [Windows Forensic Tools](#windows-forensic-tools)
 - [Eric Zimmerman's Tools for Windows Forensics](https://ericzimmerman.github.io/#!index.md) – FOSS tool collection of forensic tools.
@@ -5995,5 +6004,6 @@ Do not even think about it wasting my time submitting nonsense tools like e.g. "
 - [Why Is Privacy Important?](https://docs.fugu.lol/privacy/why-is-privacy-important/)
 - [Why privacy matters](https://whyprivacymatters.org/)
 - [Why should I care?](https://shadow53.com/android/no-gapps/faq/why-should-i-care/)
+
 
 [🔝 Back to top 🔝](#)
