@@ -23,6 +23,7 @@ Please keep in mind that every software and service is at some point fixable and
 - [Bridgefy](https://arstechnica.com/features/2020/08/bridgefy-the-app-promoted-for-mass-protests-is-a-privacy-disaster/)
 - [BuddyCloud](http://buddycloud.com/) – Buddycloud is built for people who care about their privacy. It is unlisted because it currently does not support SSL/TLS which is essential for a Cloud.
 - [Bundled Notes](https://bundlednotes.com/) – Closed Source.
+- [Cached Pages](http://www.cachedpages.com/) – No HTTPS.
 - [CTemplar](https://ctemplar.com/) – Privacy-focused email provider located in Iceland. This provider is known for deactivating randomly accounts based on activity. It’s anything but trusted. Besides the apps won’t work and you got continually errors. [CTemplar deletes free accounts that haven't logged in in 36 months](https://ctemplar.com/help/answer/inactive-account-policy).
 - [Canary Mail](https://canarymail.io) – A secure email client for macOS, iOS and Android (paid and closed source).
 - [Changewatch – see what’s changed between versions of policies](https://www.changewatch.co.uk/) – Behind Cloudflare and no benefit over terms did not read website.

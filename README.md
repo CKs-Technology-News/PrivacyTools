@@ -5782,6 +5782,14 @@ Not so good in terms of privacy:
 - [WinFF](https://www.biggmatt.com/p/winff.html), [FFQueue](https://ffqueue.bruchhaus.dk), [StaxRip](https://github.com/staxrip/staxrip), [QWinFF](https://qwinff.github.io) and many other front-ends for FFmpe.g. Keep in mind that every single [font-end violates the copyright](https://ffmpe.g.org/shame.html).
 
 
+## [Wayback Machine](#wayback-machine)
+- [Archive Today](https://archive.ph/) – Archive.today is a time capsule for web pages. - **controversial**
+- [ArchiveBox](https://archivebox.io/) – Open source self-hosted web archive.
+- [LinkAce](https://github.com/gwu-libraries/sfm-ui) – Self hosted archive to store and organize links of your favorite websites.
+- [Social Feed Archive](https://github.com/gwu-libraries/sfm-ui) – Open source self-hosted web archive.
+- [Resurrect Pages](https://github.com/arantius/resurrect-pages) – Search trough web crawlers and caches, create snapshots etc.
+
+
 ## [WebDAV](#webdav)
 - [Duplicati](https://github.com/duplicati/duplicati) - WebDAV as a backup target, currently for Windows, Mac and Linux.
 - [WinSCP](https://winscp.net/eng/docs/webdav) - SFTP Windows client that also supports WebDAV.
