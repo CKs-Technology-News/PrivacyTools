@@ -1645,17 +1645,19 @@ You can find an open-source home cloud that allows you to run Docker application
 - [iRedMail](https://github.com/iredmail/iRedMail) – Full-featured, open source mail server solution for mainstream Linux/BSD distributions.
 - [Kolab Now](https://kolabnow.com/) – Online service providing personal Kolab Groupware on desired level.
 - [Mailfence](https://mailfence.com/) – Secure and private email-suite.
-- [mu/mu4e](https://www.djcbsoftware.nl/code/mu/mu4e.html) – Maildir indexer/searcher + emacs mail client and guile bindings.
+- [Mailspring](https://github.com/Foundry376/Mailspring) – A fast email client written with Electron and React.
 - [Mutt](http://mutt.org/) – Small but very powerful text-based mail client.
+- [mu/mu4e](https://www.djcbsoftware.nl/code/mu/mu4e.html) – Maildir indexer/searcher + emacs mail client and guile bindings.
 - [NeoMutt](https://neomutt.org/) – Command line mail reader (or MUA). It's a fork of Mutt with added features.
 - [Notmuchmail](https://notmuchmail.org/) – A fast mail indexer built on top of xapian.
 - [S-nail](https://www.sdaoden.eu/code.html#s-mailx) – S-nail provides a simple and friendly environment for sending and receiving mail.
 - [Thunderbird](https://www.thunderbird.net) – A free customizable open source email client.
+    - [Betterbird](https://www.betterbird.eu/) – A fork of Mozilla Thunderbird with some extra candy in it, you still need to install essential add-ons and tweak the configuration.
     - [Allow HTML Temp](https://addons.thunderbird.net/thunderbird/addon/allow-html-temp/) – Allows to have HTML temporarily enabled (and displayed) in the currently selected message by only one click. When switching to another message, it'll be shown automatically again in plain text or simple html mode (according to your settings).
     - [MetaClean](https://addons.thunderbird.net/en-US/thunderbird/addon/metaclean-for-thunderbird/) – Removes metadata and hidden data in email attachments preventing the leakage of confidential information that occurs in this type of communication and avoiding possible economic and reputational damages derived from the malicious use of metadata. The add-on is controversial because it uploads every attachment into a Cloud, however an AV usually does the same to check against a reputation database.
-    - [pgpgeek](https://github.com/pgpgeek/pgpgeek) – Quick & easy PGP encryption / decryption tool using openPGP.js
     - [Octopus](https://sequoia-pgp.org/blog/2021/12/13/202112-octopus/) – Alternative OpenPGP Back End for Thunderbird.
-    - [Betterbird](https://www.betterbird.eu/) – A fork of Mozilla Thunderbird with some extra candy in it, you still need to install essential add-ons and tweak the configuration.
+    - [pgpgeek](https://github.com/pgpgeek/pgpgeek) – Quick & easy PGP encryption / decryption tool using openPGP.js.
+
 
 ### [CLI based eMail Clients](#cli-based-email-clients)
 - [Himalaya](https://github.com/soywod/himalaya) – A CLI based Email Client.
