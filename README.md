@@ -4301,7 +4301,6 @@ Privacy oriented alternatives:
 
 ### [Third-party photo storage cloud options](#third-party-photo-storage-cloud-options)
 - [Crypt.ee](https://crypt.ee/) – A private and encrypted place for all your photos, documents, notes and more.
-- [Ente](https://ente.io/) – Encrypted backups for your photos, videos and memories.
 - [IMGZ](https://imgz.org/) – A paid image sharing site that doesn't make you the product.
 
 ### [Mobile apps for photo storage](#mobile-apps-for-photo-storage)

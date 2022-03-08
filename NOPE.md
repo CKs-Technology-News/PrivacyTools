@@ -42,6 +42,7 @@ Please keep in mind that every software and service is at some point fixable and
 - [EncroChat](https://www.theguardian.com/australia-news/2021/sep/11/inside-story-most-daring-surveillance-sting-in-history) #fedpot
 - [ElectronMail](https://github.com/vladimiry/ElectronMail) – Unofficial ProtonMail Desktop App, for Windows, Mac and Linux.
 - [Enigma](https://enigma.im/en/) – E2E encrypted video chat app for Android/iOS/macOS/Linux. Collects data.
+- [Ente](https://ente.io/) – Encrypted backups for your photos, videos and memories.
 - [Etherpad](https://etherpad.org/) – Highly customizable open source online editor providing collaborative editing in really real-time.
 - [ethical.net](https://ethical.net/) - How ethical it is to include trackers in your website? Get lost.
 - [ExpressVPN](https://www.theregister.com/2021/09/14/expressvpn_bought_kape/) – [High-Level ExpressVPN Executive Ensnared in Criminal Surveillance Operation](https://restoreprivacy.com/expressvpn-executive-uae-surveillance/), check also the [video](https://odysee.com/@AlphaNerd:8/expressvpn-gets-even-spookier:8).
