@@ -3267,6 +3267,7 @@ Tools and utilities mentioned in [The Art of Mac Malware by Patrick Wardle](http
 ## [Microblogging](#microblogging)
 - [Bear blog](https://bearblog.dev) – Microblogging without trackers, the upper layer is Heroku.
 - [Heaven Web previously known as Simple Blogs](https://havenweb.org/) – Good for private blogs but not for commercial/public blogging. Built-in feed reader.
+- [HTML Simple Publishing (HSP)](https://github.com/domenicomazza/HSP) – Neat Web Publications
 - [Gollum](https://github.com/gollum/gollum) – A simple, Git-powered wiki with a sweet API and local front-end.
 - [Orca](https://github.com/ElevenSymbols/orca) – An open-source platform for building modern community apps.
 - [Rainbow Stream](https://github.com/orakaro/rainbowstream) – A smart and nice Twitter client on terminal written in Python.
@@ -5931,11 +5932,12 @@ Do not even think about it wasting my time submitting nonsense tools like e.g. "
 - [Sophia Script](https://github.com/farag2/Sophia-Script-for-Windows) – The most powerful PowerShell module on GitHub for Windows fine-tuning and tweaking.
 - [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor/) – Display network,CPU, GPU, Mem usage and temp in Windows taskbar.
 - [TweakUIX](https://github.com/builtbybel/TweakUIX) – The user interface is based on the classic Tweak UI app from XP times. It provides some tweaking toggles for Windows.
+- [ViVeTool-GUI](https://github.com/PeterStrick/ViVeTool-GUI) – Windows Feature Control GUI based on ViVe - ViVeTool.
 - [WSA Toolbox](https://github.com/voletro/wsa-toolbox) – A Windows 11 application to easily install and use the Windows Subsystem For Android™ package on your computer.
 - [WSAGAScript](https://github.com/ADeltaX/WSAGAScript) – Install Google Apps (Play Store) on WSA (Windows Subsystem Android)
 - [Windows11Upgrade](https://github.com/coofcookie/Windows11Upgrade) – Windows 11 Upgrade tool that bypasses Microsoft´s requirements.
-- [windows_hardening.cmd](https://gist.github.com/mackwage/08604751462126599d7e52f233490efe) – Script to perform some hardening of Windows 10/11.
 - [Winfetch](https://github.com/kiedtl/winfetch) – A zero-dependency Neofetch clone written in PowerShell.
+- [windows_hardening.cmd](https://gist.github.com/mackwage/08604751462126599d7e52f233490efe) – Script to perform some hardening of Windows 10/11.
 - [wsa_pacman](https://github.com/alesimula/wsa_pacman) – A GUI package manager and package installer for Windows Subsystem for Android (WSA).
 
 
