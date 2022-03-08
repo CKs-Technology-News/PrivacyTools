@@ -895,12 +895,22 @@ You do not need them if you have above listed extensions/add-ons installed or in
 - [removebg](https://www.remove.bg/) – Remove Image Background. - **controversial**
 
 
-## [Barcode Scanner](#barcode-scanner)
-- [BarcodeReader](https://github.com/DDoSolitary/BarcodeReader) – Simple multi-format Barcode/QR Code reader for Windows.
+## [QR-Code Reader](#qr-code-reader)
+- [BarcodeReader](https://github.com/DDoSolitary/BarcodeReader) – Simple multi-format barcode/QR Code reader for Windows.
+- [BarcodeScanner](https://github.com/hyperoslo/BarcodeScanner) – A simple and beautiful barcode scanner.
+- [QR Scanner](https://github.com/nimiq/qr-scanner) – Lightweight Javascript QR Code Scanner.
+- [Web App](https://github.com/code-kotis/qr-code-scanner) - A progressive web application (PWA) to scan QR codes.
+- [qrap](https://github.com/aureooms/qrap) - Generate a QR code payload for Wi-Fi access point credentials.
+- [qrencode](https://fukuchi.org/works/qrencode) - Command line tool to generate QR codes.
+- [spqr](https://github.com/aureooms/spqr) - Generate a QR code payload for initiating a SEPA transfer.
 
-### [Mobile Barcode Scanner Apps](#mobile-barcode-scanner-apps)
-- [AndrOBD](https://f-droid.org/packages/com.fr3ts0n.ecu.gui.androbd/) – Use your phone/tablet to connect to your car's on-board diagnostics system via any ELM327 Bluetooth adapter.
-- [Binary Eye](https://f-droid.org/packages/de.markusfisch.android.binaryeye/) – Yet another Barcode scanner for Android. Free, no ads and open source.
+
+## Mobile [QR-Code Reader](#mobile-qr-code-reader)
+- [BGAQRCode-Android](https://github.com/bingoogolapple/BGAQRCode-Android) - QR code reader and generator written in C.
+- [Binary Eye](https://f-droid.org/en/packages/de.markusfisch.android.binaryeye/) – Yet another barcode scanner for Android. Free, no ads and open source.
+- [Code Scanner](https://github.com/czlucius/code-scanner) – An Android app to scan and generate codes(barcodes/QR codes).
+- [QR Scanner (Privacy Friendly)](https://f-droid.org/en/packages/com.secuso.privacyFriendlyCodeScanner/) – (SECUSO) Privacy Friendly QR-Scanner with minimal permissions.
+- [obsqr](https://f-droid.org/app/trikita.obsqr) – Fastest and most lightweight qr code reader.
 
 
 ## [Benchmark](#benchmark)
