@@ -43,11 +43,13 @@ Please keep in mind that every software and service is at some point fixable and
 - [ElectronMail](https://github.com/vladimiry/ElectronMail) – Unofficial ProtonMail Desktop App, for Windows, Mac and Linux.
 - [Enigma](https://enigma.im/en/) – E2E encrypted video chat app for Android/iOS/macOS/Linux. Collects data.
 - [Etherpad](https://etherpad.org/) – Highly customizable open source online editor providing collaborative editing in really real-time.
+- [ethical.net](https://ethical.net/) - How ethical it is to include trackers in your website? Get lost.
 - [ExpressVPN](https://www.theregister.com/2021/09/14/expressvpn_bought_kape/) – [High-Level ExpressVPN Executive Ensnared in Criminal Surveillance Operation](https://restoreprivacy.com/expressvpn-executive-uae-surveillance/), check also the [video](https://odysee.com/@AlphaNerd:8/expressvpn-gets-even-spookier:8).
 - [FairEmail](https://github.com/M66B/FairEmail) – Fully featured, open source, privacy-friendly email app for Android. Developer release so-called "free" apps and locks specific features behind "paid" or "pro" features instead of only accepting donations, because he exactly knows that no one would donate once he does that. So he plays the "game" to make money.
 - [Fathom](https://usefathom.com/) – A simple, light-weight, privacy-first alternative to Google Analytics. Not fully open source.
 - [Framadrop](https://alt.framasoft.org/framadrop/) – Service is end of life.
 - [Framasoft](https://framasoft.org/) – Collecting money with community tool findings, no respect for such people/organization.
+- [freezer-life](https://freezer.life/) & [Bot](https://t.me/Deez_BIB_bot) – The website says "does not work" but last time I checked it, it worked fine. The project is not maintained anymore.
 - [Freedom Phone](https://www.inputmag.com/tech/surprise-erik-finmans-freedom-phone-is-a-scam-a-privacy-horror) – Scam to make cash.
 - [Freenode.net](https://freenode.net/) - Becomes a Reddit Clone.
 - [Fruux](https://fruux.com) – Securely share, sync and collaborate in teams. Fruux is a proprietary application.
@@ -56,8 +58,10 @@ Please keep in mind that every software and service is at some point fixable and
 - [Google Cloud Google](https://cloud.google.com/blog/topics/inside-google-cloud/update-on-google-clouds-work-with-the-us-government) #fedpot because they work together with the U.S. Government.
 - [Grammar & Spell Checker — LanguageTool](https://languagetool.org/) – Check your texts for spelling and grammar problems everywhere on the web. Contains telemetry.
 - [GrapheneOS](https://grapheneos.org/) – GrapheneOS is an open source privacy and security focused mobile OS with Android app compatibility. Mental problems with [Daniel Micay who makes things up](https://www.youtube.com/watch?v=Dx7CZ-2Bajg) and [begging for money](https://twitter.com/GrapheneOS/status/1463930841160200199) results in no trust. The developer has [no clue how Kasperskys AV really works](https://freenode.logbot.info/grapheneos/20210607) and such people dare to talk about security. All he does is to apply best practices into an OS, since there is no competition except CalyxOS this promise seems to be quickly fulfilled since there is no audit no one can disprove their promises.
+- [gtkcord3](https://github.com/diamondburned/gtkcord3) – Just keep in mind, using 3rd party Discord clients can result in your account being banned, but this is rarely enforced by Discord.
 - [HiddenLake](https://github.com/Number571/HiddenLake) – Outdated social media source code.
 - [Igloo](https://twitter.com/CKsTechNews/status/1464959988586229762)
+- [iodéOS](https://blog.jolla.com/suomenlinna/) – Based on [LineageOS](https://github.com/iodeOS/ota). The OS and their ad-blocker itself is [not FOSS](https://github.com/iodeOS), they only release why this is listed is beause some of their apps as [FOSS](https://forum.xda-developers.com/t/rom-fp4-11-0-iodeos-lineageos-18-1-microg-adblocker-02-02-2022.4397481/).
 - [ImageGlass](https://github.com/d2phap/ImageGlass/commit/97c716cf1ad23535b7b6840ba189270e440e742e) – Malware added. The malware makes the user's machine the exit node of a commercial proxy service, without users' knowledge or consent. They [reverted](https://github.com/d2phap/ImageGlass/issues/1252#issuecomment-1018625643) it but the trust is gone because they deleted and locked the [discussion](https://github.com/d2phap/ImageGlass/issues/1252), which is not how you deal with this.
 - [Intra (DNS)](https://getintra.org) for Android but owned by Google.
 - [JetBrains Fleet IDE](https://www.jetbrains.com/fleet/) is not FOSS.
@@ -66,6 +70,7 @@ Please keep in mind that every software and service is at some point fixable and
 - [KeePassX is no longer actively maintained](https://www.keepassx.org/index.html%3Fp=636.html).
 - [Kiwi Browser](https://kiwibrowser.com) - Collects and submits data to third-parties as [explained here](https://kiwibrowser.com/privacy-policy/), you find the [discussion on this matter here](https://github.com/Tobi823/ffupdater/issues/35). [KiwiBrowser](https://github.com/Tobi823/ffupdater/issues/35) has lots of dirt, see the [details](https://old.reddit.com/r/androidapps/comments/nt0pgc/kiwi_browser_is_a_spyware/).
 - [Kolor](https://app.kolor.social/) – Blockchain Social Media, uses Google Analytics.
+- [kvak](https://kvak.io/) – Not private enough and therefore not real benefit over already listed solutions.
 - [LibreCMC](https://librecmc.org/) – Missing documentation and semitransparent.
 - [Libregit](https://libregit.org/) – Outdated, slow etc.
 - [Lightning SHARE](https://github.com/chroline/lightning-share) – Open-source file sharing service. It uses [Firebase](https://crisp.chat/blog/why-you-should-never-use-firebase-realtime-database/).
@@ -73,6 +78,17 @@ Please keep in mind that every software and service is at some point fixable and
 - [Linguee](https://www.linguee.com/) – Does not allow you to post large blocks of text like DeepL. However, it will give you very accurate translations for single words or phrases, along with context examples. It is not FOSS.
 - [LiquidVPN](https://arstechnica.com/information-technology/2021/09/film-studios-sue-liquidvpn-for-10-million-but-is-it-fair/)
 - [Liveschedule](https://liveschedule.tv/) – Search for the streaming schedules of content creators, contains Google Trackers.
+- [Matrix (Protocol)](https://matrix.org/) – An open network for secure, decentralized communication. Read [this](https://gitlab.com/libremonde-org/papers/research/privacy-matrix.org/-/blob/master/part1/README.md) and the [response](https://matrix.org/~matthew/Response_to_-_Notes_on_privacy_and_data_collection_of_Matrix.pdf). You can find a list of public home servers over [here](https://austinhuang.me/matrix-homeservers.html). Matrix is [questionable](https://lemmy.ml/post/134488). Group calls via VOIP have [no authentication](https://github.com/vector-im/element-web/issues/13074) currently, meaning that non room participants can also join the calls. We recommend that you do not use this feature for the time being.
+    - [Cinny](https://zulip.com/) – Imagine a Matrix client where you can enjoy the conversation using simple, elegant and secure interface protected by e2ee with the power of open source.
+    - [Commune Chat](https://commune.chat/) – Commune unifies chat, email and forums into one powerful tool.
+    - [Element](https://element.io/) – All-in-one secure chat app for teams, friends and organizations. Keeps conversations in your control, safe from data-mining and ads. [End-to-end encryption](https://blog.cryptoaustralia.org.au/2017/03/21/run-your-end-to-end-encrypted-chat-server-matrix-riot/). A list of official clients can be found [here](https://matrix.org/clients/). Profile pictures, reactions, and nicknames are not encrypted this among the fact that encryption is by default enabled for everything is the main reason why I do not list it.
+    - [Nheko](https://github.com/Nheko-Reborn/nheko) – Desktop client for Matrix using Qt and C++17.
+    - [Privacy research on Matrix.org](https://gitlab.com/libremonde-org/papers/research/privacy-matrix.org) – Small research project on Matrix.org. - **controversial**
+    - [SchildiChat (Android)](https://github.com/SchildiChat/SchildiChat-android) – Based on Element, with a more traditional instant messaging.
+    - [The Grid protocol](https://github.com/thegridprotocol/home) – The Grid is a Push-Native, Federated and Decentralized Event bus designed around privacy (EU GDPR) and self-hosting. It is an alternative protocol to Matrix. - **controversial**
+    - [gomuks](https://maunium.net/go/gomuks) – A terminal based Matrix client written in Go.
+    - [syphon](https://github.com/syphon-org/syphon) – A privacy focused Matrix client, not often updated and slower than e.g. FluffyChat.
+    - [weechat-matrix](https://github.com/poljar/weechat-matrix) – Weechat Matrix protocol script written in Python.
 - [MPC](https://www.vice.com/en/article/wjwbmm/inside-the-phone-company-secretly-run-by-drug-traffickers) #fedpot
 - [Mail Catch](http://mailcatch.com/en/disposable-email) – No SSL or TLS.
 - [Mail2Tor](https://mail2tor.com/) – No SSL or TLS.
@@ -88,24 +104,6 @@ Please keep in mind that every software and service is at some point fixable and
 - [Neeva](https://neeva.com/) – 5 Dollars a month for a search engine. Say no more. The search engine will be at the beginning free and later they take money.
 - [NordVPN](https://nordvpn.com/) – Two seconds Telegram search and you find cracked accounts in mass, if they cannot even protect customers data against leaks then how good they can be in terms of security? No leaks for e.g. Mullvad (just saying).
 - [NvidiaRTX-LHRv2Unlocker](https://github.com/BySergeyDev/NvidiaRTX-LHRv2Unlocker) – Does not work and contains Malware.
-- [Privacy R Us](https://privacyrus.io/) – Custom Mobile Phones focused on FOSS and privacy. They use GrapheneOS as OS.
-- [YubiKey](https://www.techdirt.com/articles/20160515/02094934446/bad-news-two-factor-authentication-pioneer-yubikey-drops-open-source-pgp-proprietary-version.shtml) – The YubiKey is a one-time password device for secure login with two-factor authentication.
-- [ethical.net](https://ethical.net/) - How ethical it is to include trackers in your website? Get lost.
-- [freezer-life](https://freezer.life/) & [Bot](https://t.me/Deez_BIB_bot) – The website says "does not work" but last time I checked it, it worked fine. The project is not maintained anymore.
-- [gtkcord3](https://github.com/diamondburned/gtkcord3) – Just keep in mind, using 3rd party Discord clients can result in your account being banned, but this is rarely enforced by Discord.
-- [iodéOS](https://blog.jolla.com/suomenlinna/) – Based on [LineageOS](https://github.com/iodeOS/ota). The OS and their ad-blocker itself is [not FOSS](https://github.com/iodeOS), they only release why this is listed is beause some of their apps as [FOSS](https://forum.xda-developers.com/t/rom-fp4-11-0-iodeos-lineageos-18-1-microg-adblocker-02-02-2022.4397481/).
-- [kvak](https://kvak.io/) – Not private enough and therefore not real benefit over already listed solutions.
-- [Matrix (Protocol)](https://matrix.org/) – An open network for secure, decentralized communication. Read [this](https://gitlab.com/libremonde-org/papers/research/privacy-matrix.org/-/blob/master/part1/README.md) and the [response](https://matrix.org/~matthew/Response_to_-_Notes_on_privacy_and_data_collection_of_Matrix.pdf). You can find a list of public home servers over [here](https://austinhuang.me/matrix-homeservers.html). Matrix is [questionable](https://lemmy.ml/post/134488). Group calls via VOIP have [no authentication](https://github.com/vector-im/element-web/issues/13074) currently, meaning that non room participants can also join the calls. We recommend that you do not use this feature for the time being.
-    - [Cinny](https://zulip.com/) – Imagine a Matrix client where you can enjoy the conversation using simple, elegant and secure interface protected by e2ee with the power of open source.
-    - [Commune Chat](https://commune.chat/) – Commune unifies chat, email and forums into one powerful tool.
-    - [Element](https://element.io/) – All-in-one secure chat app for teams, friends and organizations. Keeps conversations in your control, safe from data-mining and ads. [End-to-end encryption](https://blog.cryptoaustralia.org.au/2017/03/21/run-your-end-to-end-encrypted-chat-server-matrix-riot/). A list of official clients can be found [here](https://matrix.org/clients/). Profile pictures, reactions, and nicknames are not encrypted this among the fact that encryption is by default enabled for everything is the main reason why I do not list it.
-    - [Nheko](https://github.com/Nheko-Reborn/nheko) – Desktop client for Matrix using Qt and C++17.
-    - [Privacy research on Matrix.org](https://gitlab.com/libremonde-org/papers/research/privacy-matrix.org) – Small research project on Matrix.org. - **controversial**
-    - [SchildiChat (Android)](https://github.com/SchildiChat/SchildiChat-android) – Based on Element, with a more traditional instant messaging.
-    - [The Grid protocol](https://github.com/thegridprotocol/home) – The Grid is a Push-Native, Federated and Decentralized Event bus designed around privacy (EU GDPR) and self-hosting. It is an alternative protocol to Matrix. - **controversial**
-    - [gomuks](https://maunium.net/go/gomuks) – A terminal based Matrix client written in Go.
-    - [syphon](https://github.com/syphon-org/syphon) – A privacy focused Matrix client, not often updated and slower than e.g. FluffyChat.
-    - [weechat-matrix](https://github.com/poljar/weechat-matrix) – Weechat Matrix protocol script written in Python.
 - [Odysee](https://lemmy.ml/post/67875) – [Odysee](https://tosdr.org/en/service/2391) is a video platform backed by the creators of lbry and uses the lbry blockchain protocol. Unlisted due to [privacy concerns](https://lemmy.cat/post/3188), beginners [mistakes](https://twitter.com/CKsTechNews/status/1486817941534527492) and [tracking cookies](https://lemmy.ml/post/116308) which make it hard or even impossible to use with e.g. Tor.
     - [lbry for Android](https://github.com/lbryio/lbry-fdroid) – The rumours that the F-Droid Clients containing [telemetry are wrong](https://github.com/lbryio/lbry-android/issues/1047), the app itself has no anti-features.
 - Pidgen + [Lurch1317: A new pidgin plugin with strong crypto for deniablity (WIP)](https://github.com/hardenedvault/lurch/blob/lurch1317/README-lurch1317.md) – Same like Briar it does not make you fully anonym which most people want and prefer using an IM. You still leak metadata during file-transfer.
@@ -115,11 +113,14 @@ Please keep in mind that every software and service is at some point fixable and
 - [Osiris Browser](https://browseosiris.com/) – Closed source and copied from Brave.
 - [Passepartout](https://github.com/passepartoutvpn) – A non-official, user-friendly OpenVPN client without a kill-switch.
 - [Paysafecard](https://mrdatenschutz.de/paysafecard-anonym-im-internet-bezahlen/)
+- [Phone by Google](https://play.google.com/store/apps/details?id=com.google.android.diale) – Proprietary.
 - [Photopee](https://old.reddit.com/r/IAmA/comments/s2elpv/i_made_a_free_alternative_to_photoshop_that_is/) – An advanced photo editor which works in a web browser.
 - [PowerCord](https://powercord.dev/) – Against Discord ToS.
 - [Privera](https://privera.io/) – Uses Use Google Analytics as back-end.
-- [ProtonMail](https://protonmail.com/) – Secure Email. Based in Switzerland, Proton admitted to log trough third-party data centers. The reason why it is unlisted is [not security](https://protonmail.com/blog/penetration-tests/). There are other reasons, please see [here](https://twitter.com/tenacioustek/status/1434604102676271106), based on [this](https://protonmail.com/blog/climate-activist-arrest/) and [this](https://encryp.ch/blog/truth-about-protonmail/) and the [FBI request](https://twitter.com/SebGorka/status/1443686769833168905). The official F-Droid app includes trackers and other crap. [IP released in publich](ttps://www.xda-developers.com/protonmail-forced-to-release-user-ip-address/).
 - [PunkPanda](https://punkpanda.io/) – Not FOSS.
+- [ProtonMail](https://protonmail.com/) – Secure Email. Based in Switzerland, Proton admitted to log trough third-party data centers. The reason why it is unlisted is [not security](https://protonmail.com/blog/penetration-tests/). There are other reasons, please see [here](https://twitter.com/tenacioustek/status/1434604102676271106), based on [this](https://protonmail.com/blog/climate-activist-arrest/) and [this](https://encryp.ch/blog/truth-about-protonmail/) and the [FBI request](https://twitter.com/SebGorka/status/1443686769833168905). The official F-Droid app includes trackers and other crap. [IP released in publich](ttps://www.xda-developers.com/protonmail-forced-to-release-user-ip-address/).
+- [Privacy R Us](https://privacyrus.io/) – Custom Mobile Phones focused on FOSS and privacy. They use GrapheneOS as OS.
+- [YubiKey](https://www.techdirt.com/articles/20160515/02094934446/bad-news-two-factor-authentication-pioneer-yubikey-drops-open-source-pgp-proprietary-version.shtml) – The YubiKey is a one-time password device for secure login with two-factor authentication.
 - [QuillChat](http://quill.chat/) – Dead after Twitter takeover.
 - [Ripcord](https://cancel.fm/ripcord/) – Ripcord is a desktop chat client for group-centric services like Slack and Discord. Not FOSS, and against ToS.
 - [Rootless Pixel Launcher](https://github.com/amirzaidi/Launcher3) – A close to AOSP launcher that only changes the necessary code to allow for small extensions and backporting to older Android versions. Heavily outdated.
