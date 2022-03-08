@@ -627,17 +627,11 @@ Browsers are typically used as gateways to a lot of things and not only Browsing
 - [Ungoogled Chromium](https://ungoogled-software.github.io/) – Ungoogled-Chromium-Android is the Android version of Ungoogled-Chromium. - **controversial**
 - [Fennec F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) – A privacy-focused version of Firefox Android available on F-Droid. Fennec itself has telemetry but you can easily [opt-out](https://old.reddit.com/r/privacy/comments/pxlijb/is_fennec_actually_private/).
 - [Frameless](https://github.com/stakes/Frameless) – A full-screen web browser for iOS.
-- [Firefox](https://www.mozilla.org/en-US/firefox/mobile/) – For Android and iOS, Mozilla is evaluating Firefox usage by changing the [default search engine to Bing](https://www.techspot.com/news/91395-mozilla-evaluating-firefox-usage-changing-default-search-engine.html).
-    - [Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos/) – Privacy hardened fork of Firefox for Android, with proprietary blobs removed.
-    - [Iceraven](https://github.com/fork-maintainers/iceraven-browser) – A web browser for Android, based on Mozilla's Fenix version of Firefox.
 - [iCab Mobile (Web Browser)](https://apps.apple.com/us/app/icab-mobile-web-browser/id308111628) - The default settings are not optimal but it is overall a considerable good Browser choice for iOS.
 - [Lynket](https://github.com/arunkumar9t2/lynket-browser) – Utilizes Chrome Custom Tab API to create a customized browsing experience while adding innovative features like background loading with floating bubbles, article mode and multitasking using Android's recent menu. - **controversial**
 - [Lightning Browser](https://github.com/anthonycr/Lightning-Browser) – A lightweight Android browser with modern navigation. The price is free version on F-Droid but there is a Pro version for $1.50 on Google Play.
-- [Orion Browser](https://browser.kagi.com/) – For iOS and macOS. - **controversial**
-- [Privacy Browser](https://www.stoutner.com/privacy-browser/) – Android only with some nice features. - **controversial**
 - [Tor Browser](https://www.torproject.org/) – Tor Browser for Android and iOS.
 - [SnowHaze](https://snowhaze.com/en/index.html) – Claims to be an privacy-oriented Browser.
-- [SmartCookieWeb](https://github.com/CookieJarApps/SmartCookieWeb) – A lightweight, basic and secure web browser that uses less than 8MB of space. - **controversial**
 - [Via Browser](https://github.com/tuyafeng/Via) – Via Browser is a powerful browser based on WebView.
 
 
@@ -3367,6 +3361,7 @@ Privacy oriented alternatives:
 - [ImagePipe](https://codeberg.org/Starfish/Imagepipe) – Reduces image size and removes exif-tags when sharing images on Android devices.
 - [MAT](https://github.com/jubalh/MAT) – Metadata Anonymization Toolkit.
 - [Pocket Paint](https://github.com/Catrobat/Paintroid) – The standard image manipulation app for Catroid.
+- [PrivacyBlur](https://f-droid.org/en/packages/de.mathema.privacyblur/) – App which can blur sensitive portions of pictures before sharing them online.
 - [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif) – Remove Exif data from pictures before sharing them.
 - [scrambledeggsif](https://f-droid.org/packages/com.jarsilio.android.scrambledeggsif/) – Delete meta data from image files on mobile.
 
