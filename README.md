@@ -4475,7 +4475,7 @@ Onlyfans has a [controversial history](https://www.vice.com/en/article/4avjvq/fo
 
 ### [Twitter](#twitter)
 
-Avoid using Twitter official app or the website. It tracks users and creates user profiles based on what they follow, retweet and like. You can request your Twitter data over [here](https://help.twitter.com/en/managing-your-account/how-to-download-your-twitter-archive).
+Avoid using Twitter official app or the website. It tracks users and creates user profiles based on what they follow, retweet and like. You can request your Twitter data over [here](https://help.twitter.com/en/managing-your-account/how-to-download-your-twitter-archive). Since 2022 [Twitter offers an .onion address](https://twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion/).
 
 - [Bleeter](https://www.github.com/sumeetdas/Bleeter) – [Twitter UI](https://sumeetdas.me/Bleeter/) built using F#.
 - [Fritter](https://github.com/jonjomckay/fritter) – A free, open-source Twitter client for Android.
