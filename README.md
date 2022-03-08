@@ -3622,7 +3622,9 @@ Privacy oriented alternatives:
 - [OKFN - Open knowledge for a digital civil society](https://okfn.de/en/)
 - [Prototype Fund - We Fund Public Interest Tech](https://prototypefund.de/en/)
 - [Schulcampus RLP](https://www.schulcampus-rlp.de/)
+- [TutFlix](https://tutflix.org/)
 - [Wikipedia Library: Free Access to Paywalled Resources for Wiki Editors](https://wikipedialibrary.wmflabs.org/)
+- [paprView](https://paprview.com/)
 
 
 ## [Operating Systems](#operating-systems)
