@@ -5154,6 +5154,7 @@ Privacy oriented alternatives:
 - [Gibiru](https://gibiru.com/) – Search Provider since 2009.
 - [Givero](https://www.givero.com/) – Donates a large part of it’s gross revenue to Non-Profit organizations.
 - [Goopt](https://github.com/jokenox/Goopt) – Search Engine for a Procedural Simulation of the Web with GPT-3.
+- [Marginalia](https://search.marginalia.nu/) – An independent DIY search engine that focuses on non-commercial content, and attempts to show you sites you perhaps weren't aware of in favor of the sort of sites you probably already knew existed.
 - [MetaGer](https://metager.org/) – Search engine project from the registered nonprofit organization SUMA E.V. in Germany. There is an .de and .org domain, one is for german and the .org domain is for english results.
     - [Gigablast](http://gigablast.com/) – A search provider focused on privacy and one of only a handful of search engines in the US that maintains its own index of over a billion pages.
 - [Okeano](https://okeano.com/) – Claims to not store any [identifiable information](https://okeano.com/privacy).
