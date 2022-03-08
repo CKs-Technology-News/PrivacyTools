@@ -2872,7 +2872,7 @@ Not so good in terms of privacy:
 
 Privacy oriented alternatives:
 - [IMGZ.org](https://imgz.org/) – IMGZ is paid-only. It's [no-hassle](https://imgz.org/blog/2021/03/04/yeah-right/), one-click, super easy image uploads, and it's cheap. So cheap, the only way to pay will be yearly, because it's too cheap to pay monthly. **The tool is not FOSS but listed in case you look for an alternative to get supported/sponsored.**
-- [Imgin](https://imgin.voidnet.tech/) – A minimalist read-only Imgur proxy.
+- [Imgin](https://imgin.voidnet.tech/) – A minimalist read-only Imgur proxy. - **down**
 - [Lutim](https://entraide.chatons.org/en/) – Let’s Upload That IMage is a privacy-friendly and libre photo sharing service. You can set your image to be deleted at first view or after a specified time.
 - [Picc.io](https://picc.io/) – Pinterest/Imgur alternative anonymous image selfie sharing. Each image you upload has a built image sharing widget to share images on social media. FOSS is planned.
 - [Rimgo](https://codeberg.org/3np/rimgu) – Self-hosted free and ad/trackless front end for Imgur.
