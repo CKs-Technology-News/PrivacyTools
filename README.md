@@ -5154,7 +5154,7 @@ Privacy oriented alternatives:
 - [Gibiru](https://gibiru.com/) – Search Provider since 2009.
 - [Givero](https://www.givero.com/) – Donates a large part of it’s gross revenue to Non-Profit organizations.
 - [Goopt](https://github.com/jokenox/Goopt) – Search Engine for a Procedural Simulation of the Web with GPT-3.
-- [Marginalia](https://search.marginalia.nu/) – An independent DIY search engine that focuses on non-commercial content, and attempts to show you sites you perhaps weren't aware of in favor of the sort of sites you probably already knew existed.
+- [Marginalia](https://search.marginalia.nu/) – An independent DIY search engine that focuses on non-commercial content, and attempts to show you sites you perhaps weren't aware of in favor of the sort of sites you probably already knew existed. - **controversial**
 - [MetaGer](https://metager.org/) – Search engine project from the registered nonprofit organization SUMA E.V. in Germany. There is an .de and .org domain, one is for german and the .org domain is for english results.
     - [Gigablast](http://gigablast.com/) – A search provider focused on privacy and one of only a handful of search engines in the US that maintains its own index of over a billion pages.
 - [Okeano](https://okeano.com/) – Claims to not store any [identifiable information](https://okeano.com/privacy).
@@ -5162,6 +5162,7 @@ Privacy oriented alternatives:
 - [Personal Search Engine](https://github.com/beenotung/personal-search-engine) – A home-grown search engine for individuals.
 - [Presearch](https://presearch.org) – A decentralized search engine, powered by the community.
 - [The Social Search Engine Find Unique Topics and Make Anonymous Comments](https://thesocialsearchengine.com/) – A crowd-sourced, anonymous social search tool. Pretty unique search engine and the only reason why it is listed.
+- [wiby](https://wiby.me/) – Search engine focuses of non-commercial, lightweight websites. - **controversial**
 
 
 ### [Metasearch engines](#metasearch-engines)
@@ -5176,6 +5177,7 @@ Be careful if you use public instances, this applies to every self-hosted public
 - [Givero](https://www.givero.com/) – Based in Denmark, Givero offers more privacy than Google and combines search with charitable donations.
 - [Infinity Search](https://infinitysearch.co/) – Infinity Search is a privacy metasearch engine that does not log any information about its users. In terms of privacy, it works the same way as [DuckDuckGo](https://codeberg.org/swiso/website/issues/137).
 - [MeiliSearch](https://codefibershq.com/blog/hands-on-meilisearch-a-next-generation-search-engine-for-modern-web) – A next generation search engine for modern web.
+- [Million short](https://millionshort.com/) – Million Short started out as an experimental web search engine that allows you to filter and refine your search results set. - **controversial**
 - [Mwmbl](https://github.com/mwmbl/mwmbl) – An open source, non-profit search engine implemented in Python.
 - [Oscobo](https://www.oscobo.com/) – A search engine created for the sole purpose of protecting your privacy while you search the web.
 - [Private](https://private.sh/) – The search engine that cryptographically protects your privacy.
