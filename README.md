@@ -4899,7 +4899,6 @@ Privacy oriented alternatives:
 
 ### [MacOS OS alternatives](#macos-os-alternatives)
 - [Distrochooser](https://distrochooser.de/en/) – Helps you to choose a suitable Linux distro. The name is derived from “Linux distributions”, the term for such variants.
-- [elementary OS](https://elementary.io/) – elementary OS is an Ubuntu-based distribution with a focus on non-technical users. Its user interface resembles the one of macOS.
 - [Zorin OS](https://zorinos.com/) – A beautiful Ubuntu-based operating system. It’s focused on making the transition from Windows or macOS to Linux as easy as possible.
 
 

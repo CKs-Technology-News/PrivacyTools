@@ -41,6 +41,7 @@ Please keep in mind that every software and service is at some point fixable and
 - [Duolingo](https://reports.exodus-privacy.eu.org/en/reports/com.duolingo/latest/)
 - [EncroChat](https://www.theguardian.com/australia-news/2021/sep/11/inside-story-most-daring-surveillance-sting-in-history) #fedpot
 - [ElectronMail](https://github.com/vladimiry/ElectronMail) – Unofficial ProtonMail Desktop App, for Windows, Mac and Linux.
+- [Elementary OS](https://elementary.io/) – [Elementary OS](https://lunduke.substack.com/p/elementary-os-is-imploding) is an Ubuntu-based distribution with a focus on non-technical users. Its user interface resembles the one of macOS.
 - [Enigma](https://enigma.im/en/) – E2E encrypted video chat app for Android/iOS/macOS/Linux. Collects data.
 - [Ente](https://ente.io/) – Encrypted backups for your photos, videos and memories. Several issue, IP vs GPL and [several other findings](https://old.reddit.com/r/PrivacyGuides/comments/rjzc9s/compare_cryptee_and_enteio/) that makes me question the service in general.
 - [Etherpad](https://etherpad.org/) – Highly customizable open source online editor providing collaborative editing in really real-time.
