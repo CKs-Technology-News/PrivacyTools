@@ -893,6 +893,7 @@ You do not need them if you have above listed extensions/add-ons installed or in
 - [BarcodeReader](https://github.com/DDoSolitary/BarcodeReader) – Simple multi-format barcode/QR Code reader for Windows.
 - [BarcodeScanner](https://github.com/hyperoslo/BarcodeScanner) – A simple and beautiful barcode scanner.
 - [QR Scanner](https://github.com/nimiq/qr-scanner) – Lightweight Javascript QR Code Scanner.
+- [QR-Code Reader for MacOS X via Terminal](https://asahiocean.medium.com/qr-code-reader-for-os-x-via-terminal-3fba994a7217) - QR code reader for OS X via Terminal.
 - [Web App](https://github.com/code-kotis/qr-code-scanner) - A progressive web application (PWA) to scan QR codes.
 - [qrap](https://github.com/aureooms/qrap) - Generate a QR code payload for Wi-Fi access point credentials.
 - [qrencode](https://fukuchi.org/works/qrencode) - Command line tool to generate QR codes.
