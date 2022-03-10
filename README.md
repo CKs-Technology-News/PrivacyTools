@@ -3856,6 +3856,7 @@ Only unique tests are getting listed here, it makes no sense to list 1000+ pages
 - [Amulet](http://www.amulet.xyz/) - A free Lua-based audio/visual toolkit suitable for small games and experimentation, with online editor.
 - [DOME](https://domeengine.com/) - A framework for making 2D games using the Wren programming language.
 - [DuckEngine](https://github.com/ksplatdev/DuckEngine) - A 2D Game Engine for the web.
+- [GameStudio](https://github.com/ensisoft/gamestudio) - 2D Game engine and editor for Windows and Linux.
 - [Godot](https://godotengine.org/) - Perhaps the most complete and well documented open source engine, for 2d and 3d.
 - [HaxeFlixel](http://haxeflixel.com/) - Cross-platform development, open source
 - [Heaps](https://heaps.io/) - A free and open source cross platform graphics engine written in Haxe.
