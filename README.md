@@ -5142,7 +5142,7 @@ List of GitHub repositories and articles with [list of dorks for different searc
 Not so good in terms of privacy:
 - [Bing](https://www.makeuseof.com/tag/best-privacy-focused-search-engines/)
 - [Brave Search](https://chef-koch.bearblog.dev/brave-browser-hardening-by-chef-koch/#brave-search-faq)
-- [DuckDuckGo](http://techrights.org/2020/07/02/ddg-privacy-abuser-in-disguise/), please see [here](https://old.reddit.com/r/degoogle/comments/pwf7q0/twitter_censors_email_correspondence_that_appears/hegyiik/).
+- [DuckDuckGo](http://techrights.org/2020/07/02/ddg-privacy-abuser-in-disguise/), please see [here](https://old.reddit.com/r/degoogle/comments/pwf7q0/twitter_censors_email_correspondence_that_appears/hegyiik/). [Users upset DuckDuckGo down-ranks sites associated with Russian disinformation](https://twitter.com/yegg/status/1501716484761997318), the question here is who decides what information is legit and what is actual fake.
 - [Google Search](https://en.wikipedia.org/wiki/Privacy_concerns_regarding_Google)
 - [Yahoo Search](https://en.wikipedia.org/wiki/Search_engine_privacy)
 - [Yandex](https://www.dailymail.co.uk/sciencetech/article-7894643/Privacy-concerns-Russias-popular-search-engine-Yandex-uses-facial-recognition.html)
