@@ -9,6 +9,7 @@ Please keep in mind that every software and service is at some point fixable and
 
 - [5G Bio Shield](https://5gbioshield.com/) – Cash gab to tool people with nonsense and claims + promises they cannot hold.
 - [Aether](https://getaether.net/) – Peer-to-peer ephemeral public communities. The repository has not been updated with code since May 2020. The last version 0.15 has been released in November 2020 and there is no mention of it in the repository.
+- [Afterplay](https://afterplay.io/) – Play your retro games in a browser across all your devices.
 - [American Civil Liberties Union](https://en.wikipedia.org/wiki/American_Civil_Liberties_Union) – ACLU unlisted because they might support and defend [Nazis](http://law2.umkc.edu/faculty/projects/ftrials/conlaw/onion_acludefends.html). There is one reference link in my guide but I reviewed it, so I only let this one link stand but I clearly say you should not support such ideology or support right-winged people.
 - [AnyType](https://anytype.io/) – Closed source.
 - [Apple’s “Share Focus” is an uncharacteristically disastrous invasion of privacy](https://old.reddit.com/r/ios/comments/r7e9pk/share_focus_is_an_uncharacteristically_disastrous/)

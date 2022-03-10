@@ -366,6 +366,7 @@ There are [some benefits](https://en.wikipedia.org/wiki/Anti-reflective_coating)
 - [MoeList](https://github.com/axiel7/MoeList) – Another unofficial Android MyAnimeList client, track your progress in both anime and mangas.
 - [Nekome](https://github.com/Chesire/Nekome) – An Android application to manage tracked Anime and Manga lists.
 - [tachiyomi](https://github.com/tachiyomiorg/tachiyomi) – A free and open source manga reader for Android 6.0 and above.
+    - [Aniyomi](https://github.com/jmir1/aniyomi) – Fork that allows to show videos.
 
 
 ## [AI Assistants](#ai-assistants)
@@ -2097,6 +2098,7 @@ Privacy oriented alternatives:
     - [Fossil Hybrid HR](https://codeberg.org/Freeyourgadget/fossil-hr-watchface) – Fossil Hybrid HR watchface code intended to be used by Gadgetbridge.
 - [Pedometer](https://f-droid.org/packages/org.secuso.privacyfriendlyactivitytracker/) – Counts your steps in background. Customize daily goals, notifications + modes.
 - [Workout Time!](https://f-droid.org/en/packages/es.ideotec.workouttime/) – An app for managing and performing timed workouts.
+- [Loop Habit Tracker](https://f-droid.org/en/packages/org.isoron.uhabits/) – Track your habits and long-term goals.
 
 
 ## [Fitness and Health Resources](#fitness-and-health-resources)
@@ -2159,6 +2161,7 @@ For mobile apps please check the file manager section, most file manager include
 - [CopyPaste.me](https://copypaste.me/) – Helps you when you need to send a password, text snippet or file from one phone, laptop or tablet to another device.
 - [Datash](https://datash.co/) – Send or receive text or file from one device to another one through browser, it doesn't require any login or registration.
 - [Http Share](https://github.com/marcosdiez/shareviahttp/) – A simple way to share files on your phone or tablet with any other phone, computer or tablet.
+- [KDE Connect](https://f-droid.org/en/packages/org.kde.kdeconnect_tp/) – KDE Connect provides a set of features to integrate your workflow across devices.
 - [LanXchange](https://github.com/tfg13/LanXchange/) – Configuration-free, cross-platform file transfers for your local network.
 - [Mass Transfer](https://github.com/hexian000/MassTransfer/blob/master/README.md) – Only between Androids.
 - [NitroShare](https://f-droid.org/app/net.nitroshare.android) – Simplifies the task of sending files from one device to another on a local network.
