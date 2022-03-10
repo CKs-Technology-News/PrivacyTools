@@ -1795,6 +1795,7 @@ Privacy oriented alternatives:
 ### [Mail Server](#mail-server)
 - [AnsiMail](https://github.com/AnsiMail/AnsiMail) – Security focused mailserver based on OpenSMTPD/OpenBSD using ansible.
 - [Maddy](https://github.com/foxcpp/maddy) – Composable all-in-one mail server in Go.
+- [Mailcow](https://mailcow.email/) – An open source Dockerized mail server suite.
 - [Mailpopbox](https://github.com/rsesek/mailpopbox) – Single-user wildcard mail server with arbitrary reply addressing.
 - [Mailu](https://mailu.io/) – A simple yet full-featured mail server as a set of Docker images. It is free software (both as in free beer and as in free speech), open to suggestions and external contributions.
 - [NixOS Mailserver](https://github.com/r-raymond/nixos-mailserver) – A Complete and Simple NixOS Mailserver.
