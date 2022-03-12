@@ -2262,7 +2262,11 @@ Some of the listed apps are not traditional firewalls. I decided included them a
 - [ironbee](https://github.com/ironbee/ironbee) – IronBee is an open source project to build a universal web application security sensor. IronBee as a framework for developing a system for securing web applications – a framework for building a web application firewall (WAF).
 - [ModSecurity](http://www.modsecurity.org/) – ModSecurity is a toolkit for real-time web application monitoring, logging, and access control.
 - [NAXSI](https://github.com/nbs-system/naxsi) – NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX, NAXSI means Nginx Anti Xss & Sql Injection.
-- [sql_firewall](https://github.com/uptimejp/sql_firewall) – SQL Firewall Extension for PostgreSQL.
+- [SQL Firewall](https://github.com/uptimejp/sql_firewall) – SQL Firewall Extension for PostgreSQL.
+
+
+## [Firmware Analysis](#firmware-analysis)
+- [FirmWire](https://github.com/FirmWire/FirmWire) – A full-system baseband firmware analysis platform that supports Samsung and MediaTek.
 
 
 ## [Gaming Preservation](#gaming-preservation)
