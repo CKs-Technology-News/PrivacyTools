@@ -5368,6 +5368,7 @@ Privacy oriented alternatives:
 
 [Open source tax software is a difficult topic](https://ctskennerton.github.io/2021/08/30/open-source-tax-software/) with a lots of issues and concerns.
 
+- [Akaunting](https://akaunting.com/) – A free, open-source, and online accounting software for small businesses and freelancers.
 - [excel1040](https://excel1040.com/) – Federal Income Tax Spreadsheet 1040 Complete your US Federal Income Tax Form 1040 using my Microsoft Excel spreadsheet income tax system.
 - [hledger](https://hledger.org/) – Free cross-platform accounting software, for folks new to accounting and also for power users.
 - [OpenTaxSolver](http://opentaxsolver.sourceforge.net/index.html) – OpenTaxSolver is meant to be used with the IRS's tax [booklet](https://www.irs.gov/pub/irs-pdf/i1040gi.pdf).
