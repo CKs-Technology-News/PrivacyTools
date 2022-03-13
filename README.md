@@ -965,7 +965,7 @@ You do not need them if you have above listed extensions/add-ons installed or in
 - [rTorrent](https://rakshasa.github.io/rtorrent/) – Simple and lightweight BitTorrent client. Requires libtorrent backend.
 - [Transmission](https://transmissionbt.com) – A cross-platform BitTorrent client.
     - [Transmission-CLI](https://transmissionbt.com/) – A Fast, Easy and Free BitTorrent Client.
-- [Tribler](https://www.tribler.org/) – Privacy using our Tor-inspired onion routing, search and download torrents with less worries or censorship.
+- [Tribler](https://www.tribler.org/) – [Privacy](https://www.ctrl.blog/entry/tribler-onion-routed-bittorrent.html) using our Tor-inspired onion routing, search and download torrents with less worries or censorship.
 - [WebTorrent](https://webtorrent.io) – A multi-platform desktop app for streaming torrents.
 
 ### [Mobile BitTorrent Clients](#mobile-bittorrent-clients)
