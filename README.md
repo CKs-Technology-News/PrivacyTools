@@ -258,6 +258,7 @@ Privacy oriented alternatives:
 
 
 ## [Anti-Facial Recognition](#anti-facial-recognition)
+- [DoNotPay](https://donotpay.com/) – A [tool](https://www.inputmag.com/tech/photo-ninja-makes-photos-undetectable-to-facial-recognition-software) makes your photos undetectable to facial recognition software.
 - [MaskID](https://mask.id/en/) – MaskID keeps your face hidden from the machines! Share your identity and morph with the community.
 
 
