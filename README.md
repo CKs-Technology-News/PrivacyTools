@@ -5069,6 +5069,7 @@ You can obtain a [comprehensive aggregator for news feeds here](https://en.wikip
 - [RSSOwl](http://www.rssowl.org) – Search and filter news so you never miss stuff that matters anymore.
 - [rerss](https://rerss.xyz/) – Receive old updates from RSS feed.
 - [rf](https://github.com/eigenhombre/rf) – A terminal-based RSS/Atom feed reader, reminiscent of an '80s Usenet news reader
+- [RSS404](https://demo.rss404.com/) – Automatically convert web page to RSS without any code.
 - [RSSHub](https://github.com/DIYgod/RSSHub) – An open source, easy to use, and extensible RSS feed generator. It's capable of generating RSS feeds from pretty much everything.
 - [Sfeed](https://codemadness.org/sfeed-simple-feed-parser.html) – RSS and Atom parser (and some format programs). It converts RSS or Atom feeds from XML to a TAB-separated file.
 - [Sismics Reader](https://www.sismics.com/reader/) – Simple and effective RSS Reader.
