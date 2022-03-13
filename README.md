@@ -623,17 +623,22 @@ Browsers are typically used as gateways to a lot of things and not only Browsing
 
 
 ### [Android & iOS Browser](#android--ios-browser)
+
+[All browsers on iOS must use Apple's WebKit to be allowed on the App Store](https://developer.apple.com/app-store/review/guidelines/#2.5.6).
+
 - [Brave Browser](https://brave.com/) – In case you use Brave Browser on Desktop already then keep it for mobile too.
 - [Bromite](https://www.bromite.org/) – Android version which includes some hardening and additional tweaks and changes.
 - [Ungoogled Chromium](https://ungoogled-software.github.io/) – Ungoogled-Chromium-Android is the Android version of Ungoogled-Chromium. - **controversial**
-- [Fennec F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) – A privacy-focused version of Firefox Android available on F-Droid. Fennec itself has telemetry but you can easily [opt-out](https://old.reddit.com/r/privacy/comments/pxlijb/is_fennec_actually_private/).
 - [Frameless](https://github.com/stakes/Frameless) – A full-screen web browser for iOS.
 - [iCab Mobile (Web Browser)](https://apps.apple.com/us/app/icab-mobile-web-browser/id308111628) - The default settings are not optimal but it is overall a considerable good Browser choice for iOS.
 - [Lynket](https://github.com/arunkumar9t2/lynket-browser) – Utilizes Chrome Custom Tab API to create a customized browsing experience while adding innovative features like background loading with floating bubbles, article mode and multitasking using Android's recent menu. - **controversial**
 - [Lightning Browser](https://github.com/anthonycr/Lightning-Browser) – A lightweight Android browser with modern navigation. The price is free version on F-Droid but there is a Pro version for $1.50 on Google Play.
+- [Orion Browser](https://browser.kagi.com/) – For iOS and macOS. - **controversial**
 - [Tor Browser](https://www.torproject.org/) – Tor Browser for Android and iOS.
+- [Safari Browser](https://www.apple.com/safari/) – Safari is the best way to experience the internet on all your Apple devices. [Default "Safe Browsing" setting shares web history with Chinese company Tencent](https://blog.cryptographyengineering.com/2019/10/13/dear-apple-safe-browsing-might-not-be-that-safe/).
+    - [Via Browser](https://github.com/tuyafeng/Via) – Via Browser is a powerful browser based on WebView.
 - [SnowHaze](https://snowhaze.com/en/index.html) – Claims to be an privacy-oriented Browser.
-- [Via Browser](https://github.com/tuyafeng/Via) – Via Browser is a powerful browser based on WebView.
+- [SmartCookieWeb](https://github.com/CookieJarApps/SmartCookieWeb) – A lightweight, basic and secure web browser that uses less than 8MB of space. - **controversial**
 
 
 ### [Flash Browser](#flash-browser)
