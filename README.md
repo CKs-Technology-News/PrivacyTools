@@ -3759,7 +3759,7 @@ Some Distros, mobile as well as desktop using Google Fonts, however there is no 
 - [TinyNES](https://www.crowdsupply.com/tall-dog-electronics/tinynes) – NES compatible open hardware video game console.
 
 
-## [Online Leak and Fingerprint tests](#online-leak-and-fingerprinting-tests)
+## [Online Leak and Leakproofing Tests](#online-leak-and-leakproofing-tests)
 
 Only unique tests are getting listed here, it makes no sense to list 1000+ pages who do all the same or offering absolute nothing new regarding fingerprinting/leaking.
 
@@ -3773,7 +3773,7 @@ Only unique tests are getting listed here, it makes no sense to list 1000+ pages
 - [Etag Check](https://privacycheck.sec.lrz.de/passive/fp_etag/fp_etag.php)
 - [Firefox Addon detector](https://thehackerblog.com/addon_scanner/)
 - [Firefox Storage Test](https://firefox-storage-test.glitch.me/)
-- [JA3 SSL Fingerprint](https://ja3er.com/)
+- [JA3 SSL/TLS Fingerprint Test](https://ja3er.com/)
 - [No-JavaScript Fingerprinting Test page](https://noscriptfingerprint.com/), see how it works [here](https://fingerprintjs.com/blog/disabling-javascript-wont-stop-fingerprinting/)
 - [Privacytests.org](https://privacytests.org/) – Open-source tests of web browser privacy.
 - [Spectre & Meltdown checker](https://github.com/speed47/spectre-meltdown-checker) – Script to check security of your Linux distribution, Android devices too. Run as root.
@@ -3811,9 +3811,9 @@ Only unique tests are getting listed here, it makes no sense to list 1000+ pages
 - [ipv6leak](https://ipv6leak.com/)
 - [is-chrome-100-yet.glitch.me](https://is-chrome-100-yet.glitch.me/)) – See here [how it works](https://developer.chrome.com/blog/force-major-version-to-100/).
 - [jShelter Test Page](https://polcak.github.io/jsrestrictor/test/test.html)
-- [ja3er](https://ja3er.com/) – JA3 SSL Fingerprint test.
 - [key-event-viewer](https://w3c.github.io/uievents/tools/key-event-viewer.html)
 - [kitchensink](https://kitchensink.ssl.fun/vendor/shape/fp)
+- [LocateJS](https://z0ccc.github.io/LocateJS/)
 - [Mullvad torrent check](https://mullvad.net/en/check/)
 - [Panopticlick](https://panopticlick.eff.org/) or the new version [Cover Your Tracks](https://coveryourtracks.eff.org/) - **controversial**
 - [permission](https://permission.site/)
