@@ -150,10 +150,11 @@ Please keep in mind that every software and service is at some point fixable and
     - [MTProxy](https://github.com/TelegramMessenger/MTProxy) – Proxy server which helps telegram users who are inside censored areas still be able to connect to Telegram.
     - [Neko X](https://github.com/NekoX-Dev/NekoX) - Another FOSS Telegram client (based on Telegram FOSS and Nekogram which was earlier FOSS) with more features and different variants (check release page on GitHub).
     - [Telegram ADs blocker](https://github.com/Xposed-Modules-Repo/io.github.tehcneko.tgadblocker) – Block sponsored messages.
+    - [Telegram Nearby Map](https://github.com/tejado/telegram-nearby-map) – Walk virtually around and locate hundreds of nearby Telegram users.
     - [Uploadgram](https://f-droid.org/repo/com.pato05.uploadgram) – File sharing service that uses the Telegram network as file storage.
     - [tok](https://github.com/KDE/tok) - Telegram client built using Kirigami.
     - [ton](https://ton.org/) – The telegram blockchain.
-    - [Telegram Nearby Map](https://github.com/tejado/telegram-nearby-map) – Walk virtually around and locate hundreds of nearby Telegram users.
+- [TorGuard](https://www.bleepingcomputer.com/news/security/vpn-provider-bans-bittorrent-after-getting-sued-by-film-studios/) – Pretty much finished.
 - [Ubuntu](https://www.networkworld.com/article/2226648/canonical-flip-flops-on-ubuntu-s-controversial-amazon-feature.html) – See [this](https://old.reddit.com/r/Ubuntu/comments/dkm15d/forced_snaps_are_ruining_ubuntu/) and [this](https://en.wikipedia.org/wiki/Snappy_(package_manager)#Criticism). I still list some [Ubuntu](https://github.com/butteff/Ubuntu-Telemetry-Free-Privacy-Secure) based modified projects which I reviewed.
 - [UC Browser](https://indianexpress.com/article/india/china-apps-banned-in-india-6482079/#:~:text=The%20IT%20ministry%20has%20banned,of%20state%20and%20public%20order.%E2%80%9D&text=The%20list%20of%20apps%20banned%20by%20India) – Needs no explanation.
 - [Vanadium](https://vanadium.app/) – Privacy and security enhanced releases of Chromium for GrapheneOS.
