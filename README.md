@@ -4781,7 +4781,6 @@ Privacy oriented alternatives:
 - [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) – Ad free app for watching tube videos on Android TV boxes.
 - [TubeSync](https://github.com/meeb/tubesync) – A personal video recorder for YouTube. It syncs YouTube channels and playlists to a locally hosted media server.
 - [ViewTube](https://github.com/ViewTube/viewtube-vue) – An alternative YouTube front-end with SponsorBlock functionality (Uses Invidious instances for back-end).
-- [YouTube Vanced](https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757) – A well-known modded version of the YouTube app with many features such as ad-blocking and background playback.
 - [YouTubeClone](https://github.com/VamshiIITBHU14/YouTubeClone) – YouTube clone using MVC API.
 - [Youtube-viewer](https://github.com/trizen/youtube-viewer) – Lightweight YouTube client for Linux.
 - [youtube-iOS](https://github.com/aslanyanhaik/youtube-iOS) – Youtube iOS Template is developed by Haik Aslanyan and written in Swift 3.
