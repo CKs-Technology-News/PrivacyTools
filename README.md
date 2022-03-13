@@ -4450,9 +4450,10 @@ Privacy oriented alternatives:
 ### [Alternative Instagram clients](#alternative-instagram-clients)
 **Keep in mind that there are some [problems](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instagram%20rate%20limits.md#tldr-what-does-it-mean-if-an-instance-is-blocked) coming from Instagram’s end.**
 
-- [Bibliogram](https://sr.ht/~cadence/bibliogram/) – Bibliogram is an alternative front-end for Instagram.
-  - [Bibliogram instances list](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md)
-  - Official instance is [https://bibliogram.art](https://bibliogram.art/)
+- [Bibliogram](https://sr.ht/~cadence/bibliogram/) – Bibliogram is an alternative front-end for Instagram. - **controversial** often [unreliable](https://proxy.vulpes.one/gemini/cadence.moe/gemlog/2020-12-17-future-of-bibliogram.bliz).
+    - [Bibliogram instances list](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md)
+    - Official instance is [https://bibliogram.art](https://bibliogram.art/)
+- [Dumpor](https://dumpor.com/) – Instagram story viewer anonymously. - **controversial**
 
 
 ### [Instagram Tools](#instagram-tools)
