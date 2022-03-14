@@ -1771,6 +1771,7 @@ Privacy oriented alternatives:
 - [Migadu](https://www.migadu.com/) – Migadu is an independent email hosting from Switzerland.
 - [Paranoid Mail](https://paranoid.email/) – GPG encrypted mail provider.
 - [Posteo](https://posteo.de) – Ad-free and anonymous email service based in Germany.
+- [ProtonMail](https://protonmail.com/) – Secure Email. Based in Switzerland, the [Proton Team admitted to log trough third-party data centers](https://encryp.ch/blog/disturbing-facts-about-protonmail/). The reason why it is unlisted is [not security](https://protonmail.com/blog/penetration-tests/). There are other reasons, please see [here](https://twitter.com/tenacioustek/status/1434604102676271106), based on [this](https://protonmail.com/blog/climate-activist-arrest/) and [this](https://encryp.ch/blog/truth-about-protonmail/) and the [FBI request](https://twitter.com/SebGorka/status/1443686769833168905). The official F-Droid app includes trackers and other crap. [IP released in publich](ttps://www.xda-developers.com/protonmail-forced-to-release-user-ip-address/).
 - [RiseUp](https://riseup.net/en/about-us) – Online communication tools for people and groups working on libratory social change.
 - [Runbox](https://runbox.com/) – Privacy focused eMail provider.
 - [seznam](https://registrace.seznam.cz/) – Similar like Inbox, ads based free mailer.
