@@ -8,6 +8,7 @@ Overview
 - [Blender](https://www.blender.org/) – A professional suite of tools for doing 3D and 2D animations, visual effects, compositing and video editing.
 - [FlightGear](https://www.flightgear.org/) – Atmospheric and orbital flight simulator with a flight dynamics engine (JSBSim) that is used in a 2015 NASA benchmark to judge new simulation code to space industry standards.
 - [Maverick Model 3D](https://clover.moe/mm3d/) – An open source 3D model editor based on Misfit Model 3D.
+- [NATRON](https://natrongithub.github.io/) – Open Source Compositing Software for VFX and Motion Graphics.
 - [SimPy](http://simpy.readthedocs.org/) – Queue-theoretic event-based simulator written in Python.
 
 
