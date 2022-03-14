@@ -135,6 +135,12 @@ Privacy oriented alternatives:
 - [M3O](https://github.com/m3o/m3o) – Open source AWS alternative.
 
 
+## [AirPod Apps](#airpod-apps)
+- [OpenPods](https://github.com/adolfintel/OpenPods) – The Free and Open Source app for monitoring your AirPods on Android.
+- [Pods Companion for Android™](https://github.com/Domi04151309/PodsCompanion) – View the battery status and more.
+- [AirPods Battery Monitor For MAC OS](https://github.com/mohamed-arradi/AirpodsBattery-Monitor-For-Mac) – Mac OS Status Bar App that puts at eyesight your AirPods battery levels. Intel + M1 Compatible.
+
+
 ## [Android Apps on Linux](#android-apps-on-linux)
 - [anbox](https://anbox.io/) – Anbox puts the Android operating system into a container, abstracts hardware access and integrates core system services into a GNU/Linux system.
 - [Jolla](https://jolla.com/appsupport/) – Run Android apps seamlessly on your Linux platform.
