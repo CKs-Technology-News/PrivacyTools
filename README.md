@@ -398,8 +398,9 @@ Privacy oriented alternatives:
 
 ## [App Isolation](#app-isolation)
 - [Insular](https://f-droid.org/en/packages/com.oasisfeng.island.fdroid/) – A FLOSS fork of Island, allows you to isolate privacy invading Android apps and prevent them from running when you don't want them too.
+- [Island](https://github.com/oasisfeng/island) – Island for Android.
 - [Riru – Enhanced mode for Storage Isolation](https://github.com/Magisk-Modules-Repo/riru_storage_redirect) – Storage Isolation (Storage Redirect) is an app which provides isolated storage feature for apps. It can prevent poor-designed apps making your storage messy and let you control files app can access. **Not entirely free, 3 apps can be isolated more needs unlocked version**.
-- [Shelter](https://f-droid.org/packages/net.typeblog.shelter/) – Shelter is a Free and Open-Source app that leverages the “Work Profile” feature of Android to provide an isolated space that you can install or clone apps into.
+- [Shelter](https://f-droid.org/packages/net.typeblog.shelter/) – Shelter is a Free and Open-Source app that leverages the “Work Profile” feature of Android to provide an isolated space that you can install or clone apps into. The Shelter app is recommended over Insular and Island because it supports [contact search blocking](https://secure-system.gitlab.io/Insular/faq.html).
 
 
 ## [Anti-Theft Protection](#anti-theft-protection)
