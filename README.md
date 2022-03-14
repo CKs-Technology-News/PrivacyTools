@@ -5017,6 +5017,10 @@ There is no definition regarding the term - for developers - I only list Distros
 - [GalliumOS](https://wiki.galliumos.org/Hardware_Compatibility) – To run GalliumOS, your ChromeOS device needs firmware support for Legacy/BIOS or UEFI booting.
 
 
+### [Fire OS alternatives](#fire-os-alternatives)
+- [LineageOS](https://forum.xda-developers.com/t/rom-unofficial-11-lineageos-18-1-for-fire-tv-stick-lite-sheldon.4410317/) – LineageOS 18.1 for Fire TV Stick Lite (sheldon).
+
+
 ## [Remote Access and Control](#remote-access-and-control)
 Not so good in terms of privacy:
 - [TeamViewer](https://old.reddit.com/r/sysadmin/comments/bqsuey/is_teamviewer_secure_enough_for_professional_use/)
