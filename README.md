@@ -4658,6 +4658,10 @@ That said pretty much every listed client here is far from ideal and I list them
 - [txmppc: Tiny XMPP Client](https://holmeinbuch.de/repo/txmppc/file?name=txmppc.c&ci=tip) - Cmdline based client, keep in mind that OMEMO is not supported.
 
 
+### [XMPP Server Software](#xmpp-server-software)
+- [Prosody](https://blog.prosody.im/) – A lightweight and flexible XMPP server designed with ease-of-use and extensibility in mind.
+
+
 ### [Clubhouse](#clubhouse)
 - [clubhouse-clone](https://github.com/MelkdeSousa/clubhouse-clone) – A clone of of the app Clubhouse, but available in Web, Android and IOS.
 - [Clubhouse](https://github.com/perpetio/clubhouse) – Clubhouse clone written in Flutter using Firebase/Firestore and Agora services.
