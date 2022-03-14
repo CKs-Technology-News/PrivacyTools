@@ -4759,34 +4759,35 @@ Privacy oriented alternatives:
 > Assuming you use any alternative Instance and Service make sure to read the Privacy Policy of that specific Instance/Service first.
 
 - [Bastyon](https://bastyon.com/) – Alternative media network to YouTube.
-- [yattee](https://github.com/yattee/yattee) – Alternative YouTube front-end for iOS, tvOS and macOS built with Invidious and Piped.
-- [ytcast](https://github.com/MarcoLucidi01/ytcast) – Cast YouTube videos to your smart TV from the command line. This program does roughly the same thing as the "Play on TV" button that appears on the player bar when you visit YouTube.com with Chrome or when you use the YouTube smartphone app.
-- [ytcc](https://github.com/woefe/ytcc) – Command line tool to keep track of your favorite playlists on YouTube and many other places. You can import YouTube subscriptions from Google Takeout and provide them as an RSS feed for your favorite reader.
-- [Piped](https://github.com/TeamPiped/Piped) – The Privacy-friendly [YouTube front-end](https://piped.kavin.rocks/) and alternative that's efficient by design. A list of instances can be found [here](https://github.com/TeamPiped/Piped/wiki/Instances).
-- [New Piped UIl](https://ui-v2.piped.pages.dev/) – Similar like Piped Material.
-- [Piped Material](https://github.com/mmjee/Piped-Material) – A fork of Piped, focusing on better performance and a more usable design.
-- [Plumber](https://github.com/keshavbhatt/plumber) – Local and remote video trimmer, can trim parts of video without downloading whole video, utilizes youtube-dl, allows conversion to GIFs.
-- [Invidious](https://github.com/iv-org/invidious) – Alternative and privacy respecting YouTube front-end. Most instances that use invidious still need JavaScript enabled despite the claim on the GitHub claim that invidious does not need JavaScript.
-    - [Invidious-viewer](https://github.com/git-bruh/invidious-viewer) – Python application to watch YouTube videos through the Invidious API, in the terminal (requires MPV player and libmpv.so).
-- [Maurice Oegerli](https://github.com/ViewTube/viewtube-vue) – An alternative YouTube front-end using the invidio.us API.
-- [NewPipe](https://newpipe.net/) – Alternative Android YouTube app. No account needed, privacy respecting, no ads.
-    - [NewPipe X Sponsorblock](https://github.com/polymorphicshade/NewPipe) – NewPipe fork that incorporates Sponsorblock.
-- [SkyTube](https://github.com/SkyTubeTeam/SkyTube) – Alternative Android YouTube app. No account needed, privacy respecting, no ads.
-- [FluTube](https://github.com/prateekmedia/flutube) – Multi-platform YouTube video downloader made using flutter.
 - [FreeTube](https://github.com/FreeTubeApp/FreeTube) – An open source desktop YouTube player built with privacy in mind. Uses Local RSS API or Invidious for back-end.
     - [CloudTube](https://git.sr.ht/~cadence/cloudtube) – An alternative front-end for YouTube that does not depend on JavaScript.
     - [MiniTube](https://flavio.tordini.org/minitube) – Watch YouTube videos in a new way: you type a keyword, Minitube gives you an endless video stream.
+- [FluTube](https://github.com/prateekmedia/flutube) – Multi-platform YouTube video downloader made using flutter.
+- [LibreTube](https://github.com/libre-tube/LibreTube) – An open source YouTube front-end.
+- [Plumber](https://github.com/keshavbhatt/plumber) – Local and remote video trimmer, can trim parts of video without downloading whole video, utilizes youtube-dl, allows conversion to GIFs.
+    - [Invidious-viewer](https://github.com/git-bruh/invidious-viewer) – Python application to watch YouTube videos through the Invidious API, in the terminal (requires MPV player and libmpv.so).
+- [Piped](https://github.com/TeamPiped/Piped) – The Privacy-friendly [YouTube front-end](https://piped.kavin.rocks/) and alternative that's efficient by design. A list of instances can be found [here](https://github.com/TeamPiped/Piped/wiki/Instances).
+    - [New Piped UIl](https://ui-v2.piped.pages.dev/) – Similar like Piped Material.
+    - [Piped Material](https://github.com/mmjee/Piped-Material) – A fork of Piped, focusing on better performance and a more usable design.
+- [Maurice Oegerli](https://github.com/ViewTube/viewtube-vue) – An alternative YouTube front-end using the invidio.us API.
+- [NewPipe](https://newpipe.net/) – Alternative Android YouTube app. No account needed, privacy respecting, no ads.
+    - [NewPipe X Sponsorblock](https://github.com/polymorphicshade/NewPipe) – NewPipe fork that incorporates Sponsorblock.
 - [youtube-local](https://github.com/user234683/youtube-local) – Browser-based client for watching YouTube anonymously and with greater page performance.
     - [Alltube](https://github.com/Rudloff/alltube) – Web GUI for youtube-dl.
     - [Tartube](https://github.com/axcore/tartube) – A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3.
-    - [yt-local](https://git.sr.ht/~heckyel/yt-local) – (Fork of YouTube-local) Browser-based client for watching YouTube anonymously without forcing JavaScript.
-    - [yt-dlp](https://github.com/yt-dlp/yt-dlp) – A youtube-dl fork with additional features and some other fixes.
     - [Vividl](https://github.com/Bluegrams/Vividl) – Modern Windows GUI for youtube-dl.
+    - [yt-dlp](https://github.com/yt-dlp/yt-dlp) – A youtube-dl fork with additional features and some other fixes.
+    - [yt-local](https://git.sr.ht/~heckyel/yt-local) – (Fork of YouTube-local) Browser-based client for watching YouTube anonymously without forcing JavaScript.
+- [Invidious](https://github.com/iv-org/invidious) – Alternative and privacy respecting YouTube front-end. Most instances that use invidious still need JavaScript enabled despite the claim on the GitHub claim that invidious does not need JavaScript.
 - [iYTBP](https://forum.xda-developers.com/android/apps-games/app-iytbp-injected-youtube-background-t3560900/post72775808#post72775808) – YouTube without ads and background playback [Magisk Module](https://forum.xda-developers.com/apps/magisk/magisk-iytbp-youtube-vanced-t3712097).
 - [mps-youtube (pc)](https://github.com/mps-youtube/mps-youtube/) – Also known as mpsyt is a command line app that let's you hear to YouTube music without using all your CPU in rendering the background image.
+- [SkyTube](https://github.com/SkyTubeTeam/SkyTube) – Alternative Android YouTube app. No account needed, privacy respecting, no ads.
 - [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) – Ad free app for watching tube videos on Android TV boxes.
 - [TubeSync](https://github.com/meeb/tubesync) – A personal video recorder for YouTube. It syncs YouTube channels and playlists to a locally hosted media server.
 - [ViewTube](https://github.com/ViewTube/viewtube-vue) – An alternative YouTube front-end with SponsorBlock functionality (Uses Invidious instances for back-end).
+- [yattee](https://github.com/yattee/yattee) – Alternative YouTube front-end for iOS, tvOS and macOS built with Invidious and Piped.
+- [ytcast](https://github.com/MarcoLucidi01/ytcast) – Cast YouTube videos to your smart TV from the command line. This program does roughly the same thing as the "Play on TV" button that appears on the player bar when you visit YouTube.com with Chrome or when you use the YouTube smartphone app.
+- [ytcc](https://github.com/woefe/ytcc) – Command line tool to keep track of your favorite playlists on YouTube and many other places. You can import YouTube subscriptions from Google Takeout and provide them as an RSS feed for your favorite reader.
 - [YouTubeClone](https://github.com/VamshiIITBHU14/YouTubeClone) – YouTube clone using MVC API.
 - [Youtube-viewer](https://github.com/trizen/youtube-viewer) – Lightweight YouTube client for Linux.
 - [youtube-iOS](https://github.com/aslanyanhaik/youtube-iOS) – Youtube iOS Template is developed by Haik Aslanyan and written in Swift 3.
