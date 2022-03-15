@@ -1398,6 +1398,8 @@ Privacy oriented alternatives:
 - [NiceVPS](https://nicevps.net/) – Proudly offering delivering the best uncensored and privacy oriented hosting service around.
 - [Njalla](https://njal.la/) – Finally, a privacy-aware domain service. It lacks a proper privacy policy, but is trusted and used by many.
 - [OrangeWebsite](https://www.orangewebsite.com) – An Icelandic web hosting provider.
+- [Project Shield by Google](https://projectshield.withgoogle.com/landing) –  Project Shield is a free service that defends news, human rights and election monitoring sites from DDoS attacks.
+- [Qurium](https://www.qurium.org/) – Qurium’s Secure hosting solution – Virtualroad.org – is the result of a decade of research and development, hand-on experience of preventing and mitigating targeted digital attacks.
 - [Sandstorm](https://sandstorm.io/) – An open-source self-hosted web hosting platform for a wide set of web applications, including Etherpad (collaborative text editing), Radicale (calendar), Lychee (image hosting), Wekan (Kanban).
 - [Takingnames.io](https://www.Takingnames.io) – The first domain name provider for self-hosters.
 - [Uberspace](https://uberspace.de/en/) – Universal hosting for various stuff.
@@ -3350,10 +3352,12 @@ Not so good in terms of privacy:
 
 Privacy oriented alternatives:
 - [Open Street Map (OSM)](https://www.openstreetmap.org/) – OpenStreetMap is built by a community of mappers that contribute and maintain data about roads, trails, cafés, railway stations, and much more, all over the world.
-    - [OSMAnd](https://osmand.net/) – Android/iOS Navigation app using OSM. It is a feature-rich app with all you expect.
     - [Benmaps](https://benmaps.fr/) – Alternative based on OpenStreetMap.
+    - [OSMAnd](https://osmand.net/) – Android/iOS Navigation app using OSM. It is a feature-rich app with all you expect.
+    - [Osm.el](https://github.com/minad/osm) – OpenStreetMap Viewer for Emacs.
+    - [ohsome](https://ohsome.org/apps/dashboard/) – OpenStreetMap History Analyizer.
     - [StreetComplete](https://f-droid.org/en/packages/de.westnordost.streetcomplete/) – To fill missing OpenStreetMaps info you encounter, in an almost fun manner.
-    - [ohsome](https://ohsome.org/apps/dashboard/) – OpenStreetMap History Analyizer .
+    - [Vespucci](https://vespucci.io/) – The first OpenStreetMap editor for Android.
 - [Qwant Maps](https://www.qwant.com/maps/) – An OpenStreetMap-based private Google Maps alternative. Qwant Maps has better search results than OSMAnd+.
 - [Organic Maps](https://organicmaps.app/) – Great offline maps for hikers and cyclists.
 - [Positional](https://github.com/Hamza417/Positional) – An elegant and colorful location information app for Android with Compass, Clock, Level, Sun, Moon, Trail Marker and many other features.
