@@ -5108,6 +5108,7 @@ You can obtain a [comprehensive aggregator for news feeds here](https://en.wikip
 - [Nextcloud News Reader](https://github.com/nextcloud/news-android) – Connects to your Nextcloud or ownCloud instance and downloads the RSS-feeds. The Price is 2.39 €  via Google Play and it is free on F-Droid.
 - [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) – RSS reader for macOS and iOS which is also a cross-platform RSS/Atom news feeds.
 - [Nunti](https://f-droid.org/en/packages/com.nunti/) – Finally a smart RSS reader which doesn't suck ass or your data.
+- [Reams](https://apps.apple.com/us/app/reams/id1229027127) – A deeply superficial RSS iOS app.
 - [spaRSS](https://f-droid.org/packages/net.etuldan.sparss.floss/) – Based on `Feedex` and `Sparserss`, this checks RSS/Atom news feeds, polling for updates from the device on a regular basis. Fetched items are available for offline reading.
 - [Tiny Tiny RSS](https://f-droid.org/en/packages/org.fox.tttrss/) – Android based RSS reader.
 - [TTRSS-Reader](https://github.com/nilsbraden/ttrss-reader-fork/) – An Android-Client for the self-hosted Tiny Tiny RSS feed-reader.
