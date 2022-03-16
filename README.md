@@ -1276,6 +1276,24 @@ Privacy oriented alternatives:
 Multi functional app to find duplicates, empty folders, similar images etc.
 
 
+## [Color Choices](#color-choices)
+- [Blend](http://www.colinkeany.com/blend/) – CSS gradient generator.
+- [colors.lol](https://colors.lol/) – Overly descriptive color palettes.
+- [Leonardo.io by Adobe](https://leonardocolor.io/) – Simple but advance color contrast generator.
+- [Tanaguru](https://leonardocolor.io/) – A tool to find complementary colors.
+
+
+## [CSS Frameworks](#css-frameworks)
+- [BASCSS](https://www.basscss.com/) – Lightning-Fast, Modular CSS for Designers.
+- [Bootstrap](https://getbootstrap.com/) – Mature HTML, CSS (LESS) & Javascript.
+- [Bourbon](https://bourbon.io/) – A simple and lightweight mixin library for Sass.
+- [Foundation](http://foundation.zurb.com/) – Fully featured mature HTML, CSS (Sass) & Javascript.
+- [Kickoff](https://tmwagency.github.io/kickoff/) – A lightweight front-end framework for creating scalable, responsive sites.
+- [PatternFly](https://patternfly.org/) – A community of designers and developers collaborating to build a UI framework for enterprise web applications.
+- [Rebar](https://github.com/brennannovak/rebar) – Lightweight HTML, CSS (LESS).
+- [Space](https://spacebase.space150.com/) – Base A sass-based responsive css framework.
+
+
 ## [Collaboration Platforms](#collaboration-platforms)
 - [Kanboard](https://kanboard.org) – A free and open source Kanban project management software.
 - [My Personal Kanban](https://greggigon.github.io/my-personal-kanban/) – Offline webapp.
@@ -1490,6 +1508,12 @@ Privacy oriented alternatives:
 - [Windows 10 Enterprise telemetry network traffic analysis, part 1](https://voat.co/v/technology/comments/835741)
 - [Windows 10: HOSTS file blocking telemetry is now flagged as a risk](https://www.bleepingcomputer.com/news/microsoft/windows-10-hosts-file-blocking-telemetry-is-now-flagged-as-a-risk/)
 - [You want to get an idea what your Android sends to Google APIs? Decoded some traffic for you!](https://twitter.com/mame82/status/1450787567759249416)
+
+
+## [Designing things](#designing-things)
+- [Design Lab Design course with mentorship and projectsy](https://trydesignlab.com/)
+- [Hack Design Free design lessons by inspirational designers](https://hackdesign.org/)
+- [Voice and Tone Learn about writing good copyy](https://voiceandtone.com/)
 
 
 ## [Disqus alternatives](#disqus-alternatives)
@@ -2834,6 +2858,7 @@ We only unlist stuff that is entirely incorrect or even dangerous to follow beca
 ## [Icon Libraries](#icon-libraries)
 - [3dicons](https://3dicons.co/) – Open-source 3D icon library.
 - [Ant Design Icons, by Ant Financial](https://ant.design/components/icon/) – Ant Design SVG Icons.
+- [Bitcoin Icons](https://bitcoinicons.com/) – Icons made for Bitcoin applications that you can freely use.
 - [Bootstrap Icons](https://icons.getbootstrap.com/) – Official open source SVG icon library for Bootstrap.
 - [Boxicons](https://boxicons.com/) – Boxicons is a simple vector icons set carefully crafted for designers and developers to use in your next project.
 - [CoreUI Icons](https://coreui.io/icons/free/) – Premium designed free icon set with marks in SVG, Webfont and raster formats.
@@ -2847,6 +2872,7 @@ We only unlist stuff that is entirely incorrect or even dangerous to follow beca
 - [Font Awesome](http://fontawesome.io/) – Scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS.
 - [Foundation Icon Fonts 2](http://zurb.com/playground/foundation-icons) – Custom icon sets that are stored in a handy web font and are coded to be more accessible. A couple lines of CSS and the right markup will get you going in no time.
 - [Foundation Icon Fonts 3](http://zurb.com/playground/foundation-icon-fonts-3) – A custom collection of lots of icons.
+- [Font Fabulous](https://manageiq.github.io/font-fabulous/) – A fabulous iconset packaged as a font.
 - [Glyphicons](http://glyphicons.com/) – Is a library of precisely prepared monochromatic icons and symbols, created with an emphasis to simplicity and easy orientation.
 - [Google Material Design Icons, by Google](https://design.google.com/icons/) – Official Google Material Design Icons.
 - [Govicons](http://govicons.io/) – Gov Icons is a font and CSS toolkit with over 100 government themed icons.
@@ -2856,26 +2882,34 @@ We only unlist stuff that is entirely incorrect or even dangerous to follow beca
 - [Iconic.app](https://iconic.app/) – Free, “do wtf you want with” pixel-perfect SVG icons.
 - [Iconic](https://useiconic.com/open/) – An open source icon set with 300 marks in SVG, webfont and raster formats.
 - [iconmonstr](http://iconmonstr.com/) – Discover over 3k free simple icons in various collections.
+- [Iconoir](https://iconoir.com/) – A set of free SVG graphics.
 - [icons](https://github.com/twbs/icons) – Official open source SVG icon library for Bootstrap.
 - [icons8](https://icons8.com/) – 70k Free Flat Icons.
+- [IcoMoon](https://icomoon.io/) – IcoMoon CC icons and free to use icon-font creation software.
 - [IconSweets2](https://www.designbombs.com/iconsweets2/) – Is a huge set containing over 1k custom designed icons. Icon Sweets 2 will quench your icon thirst for all your iPhone, iPad & Android apps or new web projects.
 - [Ionicons](http://ionicons.com/) – The premium icon font for Ionic Framework.
 - [IconShock](https://www.iconshock.com/freeicons/) – Over 100k free icons, icons are taken from open source projects and then they got optimized.
 - [Jam Icons](https://jam-icons.com/) – Jam icons is a set of icons designed for web projects, illustrations, print projects, etc. Shipped in JavaScript, font & SVG versions.
 - [Marka](http://fian.my.id/marka/) – 36 Beautiful transformable icons.
+- [Mono Icons](https://icons.mono.company/) – A simple, consistent open-source icon set designed to be used in a wide variety of digital products.
 - [Octicons](https://octicons.github.com/) – All GitHub's icons.
-- [Pepicons](https://pepicons.com) – Pepicons is a completely original 80s themed set of hand-crafted icons, made in two retro variants: Pop! and Print.
+- [Pepicons](https://pepicons.com) – A completely original 80s themed set of hand-crafted icons, made in two retro variants: Pop! and Print.
 - [pictonic](https://pictonic.co) – Over 300+ free icons.
-- [Remix Icon](https://remixicon.com/) – Remix Icon is a set of open-source neutral-style system symbols elaborately crafted for designers and developers.
+- [React Icons](https://react-icons.github.io/react-icons/) – SVG react icons of popular icon packs.
+- [React Feather Icons](https://www.npmjs.com/package/react-feather) – Collection of simply beautiful open source icons for React.js.
+- [Remix Icon](https://remixicon.com/) – A set of open-source neutral-style system symbols elaborately crafted for designers and developers.
 - [RPG-Awesome](https://nagoshiashumari.github.io/Rpg-Awesome/) – A fantasy themed font and CSS toolkit.
 - [Simple icons](https://github.com/simple-icons/simple-icons) – Over 1000 Free SVG icons for popular brands.
 - [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) – Miniscule SVG versions of website and app logos, under 1KB each.
+- [Styled Icons](https://styled-icons.js.org/) – Icon packs like Font Awesome, Material Design, and Octicons, available as React Styled Components.
 - [svg-icon](https://github.com/leungwensen/svg-icon) – An ultimate svg icons collection done right, with over 5k SVG icons out of the box.
 - [teenyicons](https://teenyicons.com/) – Tiny minimal 1px icons designed to fit in the smallest places.
+- [ToIcon](http://www.toicon.com/) – All icons are licensed under a Creative Commons.
+- [The Noun Project](http://thenounproject.com/) – Provides CC and purchasable icons.
 - [Themify Icons](https://themify.me/themify-icons) – Themify Icons is a complete set of icons for use in web design and apps, consisting of 500+ pixel-perfect, hand-crafted icons that draw inspiration from Apple iOS 7.
 - [TheNounProject](https://thenounproject.com/) – Search over 150k icons designed by creators from around the world.
 - [uiw-icons](https://uiwjs.github.io/icons) – The premium icon font for UIW Framework.
-- [zondicons](http://www.zondicons.com/) – A set of free premium SVG icons for you to use on your digital products.
+- [zondicons](https://www.zondicons.com/) – A set of free premium SVG icons for you to use on your digital products.
 
 ### [Mobile Icon Libraries](#mobile-icon-libraries)
 - [Ameixa](https://f-droid.org/packages/org.xphnx.ameixa) – Port of TwelF CMTheme for many launchers.
@@ -2889,6 +2923,12 @@ We only unlist stuff that is entirely incorrect or even dangerous to follow beca
 - [Penpot](https://github.com/penpot/penpot) – The Open-Source design & prototyping platform.
 - [svg-icon](http://leungwensen.github.io/svg-icon/) – Select as many SVG icons as you need, and download as an SVG symbols sprite file.
 - [svgtofont](https://github.com/jaywcjlove/svgtofont) – Read a set of SVG icons and output a TTF/EOT/WOFF/WOFF2/SVG font.
+
+
+### [Pictogram Libraries](#pictogram-libraries)
+- [Inkscape Open Symbols](https://github.com/Xaviju/inkscape-open-symbols) – Open source icon sets to use as Inkscape symbols.
+- [IconMonstr](https://iconmonstr.com/) – Provides a large collection of glyph icons from a German artist. Free to use without attribution and free to modify.
+- [Pictogramas](https://github.com/adrianmg/pictogramas) – Open source free icons for personal and commercial purposes.
 
 
 ## [Imgur & Photobucket](#imgur--photobucket)
@@ -3059,6 +3099,21 @@ In May 2020 Keybase was acquired by [Zoom](https://keybase.io/blog/keybase-joins
 
 ### [Mobile Key Remapper](#mobile-key-remapper)
 - [KeyMapper](https://github.com/keymapperorg/KeyMapper) – Change what the buttons do, the Android app is on Google Play Store and F-Droid.
+
+
+## [Learn Coding](#learn-coding)
+- [Code School learn even more](https://www.codeschool.com/)
+- [Code.org](http://code.org/)
+- [Codecademy with interactive tutorials](http://www.codecademy.com/)
+- [Course: How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
+- [Egghead to learn the Angular framework](http://egghead.io/).
+- [Mozilla Developer Network for great web dev documentation](https://developer.mozilla.org/)
+- [Open Source Guide: How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
+- [Tota11y a bookmarklet to check that your website is a11y compliant](https://github.com/Khan/tota11y)
+- [Transitional Interfaces, Coded for good animations](http://css-tricks.com/transitional-interfaces-coded/)
+- [Try Git also with interactive tutorials](http://try.github.io/)
+- [Unheap a tidy repository of jQuery plugins](http://www.unheap.com/)
+- [WebPlatform web development resources](http://www.webplatform.org/)
 
 
 ## [Life360 Alternatives](#Life360-alternatives)
@@ -5876,22 +5931,33 @@ Some notes regarding the Web3.
 - Internet itself has no versions numbers, it constantly evolves and changes + adopts new + removes obsolete protocols and tech.
 
 
-## [Wallpapers](#wallpapers)
+## [Wallpapers and Images](#wallpapers-and-images)
 Not so good in terms of privacy:
 - 500px
 - DeviantArt
-- fotocommunity
+- Foto Community
 - Google Photos
 - ipernity
 - Photobucket
+- [Unsplash](https://unsplash.com/s/photos/open-source) – Free Wallpaper resources. It's [not really an open license](https://unsplash.com/license).
 
 Privacy oriented alternatives:
 - [CC Search](https://search.creativecommons.org/) – Big catalog of images, search, also based on tags and filter for CC license.
+- [Flickr Creative Commons](https://www.flickr.com/creativecommons/) – Many Flickr users have chosen to offer their work under a Creative Commons license, and you can browse or search through content under each type of license.
 - [Fotopia](https://fotopia.cc) – CC platform for all sorts of free material.
+- [FreeImages](https://www.freeimages.com/) – Free Stock Photos & Royalty-Free Images.
+- [Getty Images](https://www.gettyimages.com) – Royalty Free Stock Photos, Illustrations, Vector images and more.
+- [Gratisography](https://www.gratisography.com/) – Royalty free HD Stock Photos and Images.
+- [New York Public Library Public Domain Images](https://www.nypl.org/research/collections/digital-collections/public-domain?hspace=331354) – Public Domain Collections: Free to Share & Reuse.
+- [Open Doodles by Pablo Stanley](https://www.opendoodles.com/) – A Free Set of Open-Source Illustrations. Free for Commercial and Personal Use. No need to credit, license, or anything.
+- [Pixabay](https://pixabay.com/) – Stunning free images & royalty free stock.
+- [StockSnap](https://stocksnap.io/) – Free Stock Images.
+- [The Stocks](http://thestocks.im/) – Royalty free Photos and other resources.
 - [Trianglify Desktop Wallpaper](https://github.com/VictorioBerra/trianglify-desktop-wallpaper) –  A cross platform desktop app that generates pleasing triangle wallpapers.
-- [Unsplash](https://unsplash.com/s/photos/open-source) – Free Wallpaper resources. It's [not really an open license](https://unsplash.com/license).
+- [unDraw](https://undraw.co/) – Open-source illustrations for any idea you can imagine and create.
 - [Wallpaper Cave](https://wallpapercave.com/open-source-wallpapers) – Open source wallpapers from the community.
 - [Wallpaper Generator](https://github.com/pinpox/wallpaper-generator) – Generate wallpaper images from mathematical functions.
+- [Interfacer](https://interfacer.xyz/) – Get access to 300+ high quality free design resources.
 
 ### [Mobile Wallpaper Apps](#mobile-wallpaper-apps)
 - [Muzei](https://f-droid.org/packages/net.nurik.roman.muzei) – A live wallpaper that gently refreshes your home screen each day with famous works of art.
