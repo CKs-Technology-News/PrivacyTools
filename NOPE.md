@@ -127,6 +127,7 @@ Please keep in mind that every software and service is at some point fixable and
 - [Privera](https://privera.io/) – Uses Use Google Analytics as back-end.
 - [PunkPanda](https://punkpanda.io/) – Not FOSS.
 - [Privacy R Us](https://privacyrus.io/) – Custom Mobile Phones focused on FOSS and privacy. They use GrapheneOS as OS.
+- [Presearch](https://presearch.org) – A decentralized search engine, powered by the community. Google Captchas, centralized provider but other decentralized providers should use their interface to provide search results, that is a no-no.
 - [YubiKey](https://www.techdirt.com/articles/20160515/02094934446/bad-news-two-factor-authentication-pioneer-yubikey-drops-open-source-pgp-proprietary-version.shtml) – The YubiKey is a one-time password device for secure login with two-factor authentication.
 - [YouTube Vanced](https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757) – A well-known modded version of the YouTube app with many features such as ad-blocking and background playback. [Discontinued](https://twitter.com/YTVanced/status/1503052250268286980).
 - [QuillChat](http://quill.chat/) – Dead after Twitter takeover.

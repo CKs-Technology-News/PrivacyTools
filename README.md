@@ -5256,7 +5256,6 @@ Privacy oriented alternatives:
 - [Okeano](https://okeano.com/) – Claims to not store any [identifiable information](https://okeano.com/privacy).
 - [Qdrant](https://qdrant.tech/) – Vector Search Engine.
 - [Personal Search Engine](https://github.com/beenotung/personal-search-engine) – A home-grown search engine for individuals.
-- [Presearch](https://presearch.org) – A decentralized search engine, powered by the community.
 - [The Social Search Engine Find Unique Topics and Make Anonymous Comments](https://thesocialsearchengine.com/) – A crowd-sourced, anonymous social search tool. Pretty unique search engine and the only reason why it is listed.
 - [wiby](https://wiby.me/) – Search engine focuses of non-commercial, lightweight websites. - **controversial**
 
