@@ -124,6 +124,7 @@ Please keep in mind that every software and service is at some point fixable and
 - [Phone by Google](https://play.google.com/store/apps/details?id=com.google.android.diale) – Proprietary.
 - [Photopee](https://old.reddit.com/r/IAmA/comments/s2elpv/i_made_a_free_alternative_to_photoshop_that_is/) – An advanced photo editor which works in a web browser.
 - [PowerCord](https://powercord.dev/) – Against Discord ToS.
+- [Prav](https://prav.app/) – Privacy Respecting XMPP Chatting App. Mention several times source code but there is no link to the actual source code + no benefit over existing solutions.
 - [Privera](https://privera.io/) – Uses Use Google Analytics as back-end.
 - [PunkPanda](https://punkpanda.io/) – Not FOSS.
 - [Privacy R Us](https://privacyrus.io/) – Custom Mobile Phones focused on FOSS and privacy. They use GrapheneOS as OS.
