@@ -1,9 +1,3 @@
-Overview
-==========
-
-[[_TOC_]]
-
-
 ## [This is not an "awesome", "ultimate" or "perfect" list](#this-is-not-an-awesome-ultimate-or-perfect-list)
 
 This is my own collection I gathered over the years, written down into one single file which anyone can freely access. I do claim that the listed tools are good enough alternatives to e.g. Google, Microsoft etc. products. I believe it's an important piece of democracy that we have the right to be anonymous and free of tracking in our personal life, this is why I've created this list in the first place. I do [not believe](https://numair.medium.com/competitive-losers-e4e8cf06bda9) in any [competition](https://rugpullindex.com/blog#IsCompetitionForLosers), which means listed tools/products are not in any competition to each one another and I do not get paid nor sponsored showing them on my page.
@@ -15,7 +9,10 @@ Please keep in mind that [open source depends on funding](https://tilvids.com/w/
 
 ## [Do not drag me into so-called "privacy communities"](#do-not-drag-me-into-so-called-privacy-communities)
 
-I do not want to have anything to do with [PrivacyGuides](https://lemmy.ml/post/31433), [PrismBreak](https://news.ycombinator.com/item?id=6010803) or any other "privacy clown community". Please do not link me or my guides into such communities. The reason is simply, I want to stay unbiased and objective. I do not advertise tools to gain money / reputation, or to get any benefit out from it. I fully stand behind listed products because I tested or reviewed them and can suggest them without hesitation, if new findings occur I will update entries as soon as possible.
+
+I do not want to have anything to do with [PrivacyGuides](https://lemmy.ml/post/31433), [PrismBreak](https://news.ycombinator.com/item?id=6010803) or any other "privacy clown community". Especially [PrivacyClows have a huge history stealing donations and other shady stuff](https://www.privacytools.io/guides/jonah-aragon-privacyguides-failed-attempt-to-takeover).
+
+Please do not link me or my guides into such communities. The reason is simply, I want to stay unbiased and objective. I do not advertise tools to gain money / reputation, or to get any benefit out from it. I fully stand behind listed products because I tested or reviewed them and can suggest them without hesitation, if new findings occur I will update entries as soon as possible.
 
 
 ## [About evidence aka links as so-called proof](#about-evidence-aka-links-as-so-called-proof)
@@ -47,7 +44,8 @@ I plan to split this list once I collected enough apps for those closed source p
 
 ## [Something incorrect, outdated or you want to contribute?](#something-incorrect-outdated-or-you-want-to-contribute)
 
-In case you have some questions, you can ask them directly on our official [Matrix Server](https://matrix.to/#/#cktn-chat:matrix.org). In case you want RSS based news/feeds for mostly FOSS tools only, you can follow my community on [Lemmy](https://lemmy.ml/c/ckstechnologynews) if you want.
+In case you have some questions, you can ask them directly on our official [Matrix Server](https://matrix.to/#/#cktn-chat:matrix.org). In case you want RSS based news/feeds for mostly FOSS tools only, you can follow my community on [Reddit](https://new.reddit.com/r/CKsTechNews/) if you want.
+
 
 --------------------------------------------------
 
@@ -127,4 +125,5 @@ The reputation damage here would be so big that no one seriously can risk that, 
 - Automatically remove software which got no update within 365 days or add a warning emoji, hint.
 - Color blindness tweaking to this page, assuming it is possible.
 
---------------------------------------------------
+[🔝 Back to top 🔝](#)
+

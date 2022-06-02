@@ -1,8 +1,6 @@
-
-## [Changelog](#changelog)
-
 | Date | Changes made on this guide |
 | ------ | ------ |
+| 02.06.2022   | Another massive update. Several fixes, countless new additions and more evidence added. |
 | 21.05.2022   | Lots of additions, eMail feedback addressed, minor link corrections and obsolete software removed. |
 | 08.05.2022   | Not even in its final form. Many fixes, new additions etc. |
 | 23.04.2022   | Grammar fixed in several categories, added new apps, updated NOPE section, various link fixes. |

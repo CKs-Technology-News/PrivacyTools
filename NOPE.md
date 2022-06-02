@@ -15,6 +15,7 @@ Please keep in mind that every software and service is at some point fixable and
 - [AnyType](https://anytype.io/) – Closed source.
 - [Apple’s “Share Focus” is an uncharacteristically disastrous invasion of privacy](https://old.reddit.com/r/ios/comments/r7e9pk/share_focus_is_an_uncharacteristically_disastrous/)
 - [Arattai](https://www.arattai.in/) – Closed source.
+- [Arachne DOS Web Browser](http://www.glennmcc.org/) – Also works on Linux. The Browser does not frequently gets updated and should not be used as better alternatives exists.
 - [Aurora OS](https://nokiamob.net/2021/11/16/aurora-os-is-based-on-sailfish-but-owned-by-omp/) – Aurora OS is based on Sailfish but owned by Russian Open Mobile Platform.
 - [Becky! Internet Mail](https://rimarts.co.jp/becky.htm) – Closed source.
 - [Big Blue Button](https://bigbluebutton.org) – A professional video conferencing tool focused on online teaching and presenting. As such, it provides special features like slide-sharing, private and group chat, emoji feedback, polls, breakout rooms and many more. Removed due to [privacy concerns](https://empri-devops.de/blog/2022/01/26/bbb-learning-dashboard/).
@@ -31,7 +32,7 @@ Please keep in mind that every software and service is at some point fixable and
 - [Cached Pages](http://www.cachedpages.com/) – No HTTPS.
 - [CTemplar](https://ctemplar.com/) – Privacy-focused email provider located in Iceland. This provider is known for deactivating randomly accounts based on activity. It’s anything but trusted besides the fact that the app won’t work and you got continually errors. [CTemplar deletes free accounts that haven't logged in in 36 months](https://ctemplar.com/help/answer/inactive-account-policy). [Privacy email provider CTemplar is shutting down](https://ctemplar.com/ctemplar-is-shutting-down/).
 - [Canary Mail](https://canarymail.io) – A secure email client for macOS, iOS and Android (paid and closed source).
-- [Changewatch – see what’s changed between versions of policies](https://www.changewatch.co.uk/) – Behind Cloudflare and no benefit over terms did not read website.
+- [Changewatch – see what’s changed between versions of policies](https://www.changewatch.co.uk/) – Behind Cloudflare and no benefit over terms did not read Website.
 - [CipherShed](https://www.ciphershed.org/) - CipherShed started as a fork of TrueCrypt. It’s available for Windows PC, Mac OSX, and Linux, although it must be compiled for the latter two. The software was not updated in years.
 - [Clementine](https://www.clementine-player.org/#news) – Outdated, latest real update was in 2016.
 - [Cloudflare hosted websites are critical](https://thetrichordist.com/2019/02/26/cloudflare-the-bad-the-worse-and-the-criminal-goldmansachs-ustreasury-ofac/)
@@ -55,7 +56,7 @@ Please keep in mind that every software and service is at some point fixable and
 - [Etherpad](https://etherpad.org/) – Highly customizable open source online editor providing collaborative editing in really real-time.
 - [ethical.net](https://ethical.net/) - How ethical it is to include trackers in your website? Get lost.
 - [ExpressVPN](https://www.theregister.com/2021/09/14/expressvpn_bought_kape/) – [High-Level ExpressVPN Executive Ensnared in Criminal Surveillance Operation](https://restoreprivacy.com/expressvpn-executive-uae-surveillance/), check also the [video](https://odysee.com/@AlphaNerd:8/expressvpn-gets-even-spookier:8).
-- [FairEmail](https://github.com/M66B/FairEmail) – Fully featured, open source, privacy-friendly email app for Android. Developer release so-called "free" apps and locks specific features behind "paid" or "pro" features instead of only accepting donations, because he exactly knows that no one would donate once he does that. So he plays the "game" to make money and [when he does not make enough money he quits](https://www.ghacks.net/2022/05/19/fairemail-developer-calls-it-quits-and-pulls-apps-from-google-play/).
+- [FairEmail](https://github.com/M66B/FairEmail) – Fully featured, open source, privacy-friendly email app for Android. Developer release so-called "free" apps and locks specific features behind "paid" or "pro" features instead of only accepting donations, because he exactly knows that no one would donate once he does that. So he plays the "game" to make money and [when he does not make enough money he quits](https://www.ghacks.net/2022/05/19/fairemail-developer-calls-it-quits-and-pulls-apps-from-google-play/). [FairEmail development continues with the changes to the Privacy Policy](https://forum.xda-developers.com/t/app-5-0-fairemail-fully-featured-open-source-privacy-oriented-email-app.3824168/page-1107#post-86938021).
 - [Fathom](https://usefathom.com/) – A simple, light-weight, privacy-first alternative to Google Analytics. Not fully open source.
 - [Firefox for Mobile](https://www.mozilla.org/en-US/firefox/mobile/) – For Android and iOS, Mozilla is evaluating Firefox usage by changing the [default search engine to Bing](https://www.techspot.com/news/91395-mozilla-evaluating-firefox-usage-changing-default-search-engine.html).
     - [Fennec via F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) – A privacy-focused version of Firefox Android available on F-Droid. Fennec itself has telemetry but you can easily [opt-out](https://old.reddit.com/r/privacy/comments/pxlijb/is_fennec_actually_private/).
@@ -87,6 +88,7 @@ Please keep in mind that every software and service is at some point fixable and
 - [Kolor](https://app.kolor.social/) – Blockchain Social Media, uses Google Analytics.
 - [kvak](https://kvak.io/) – Not private enough and therefore not real benefit over already listed solutions.
 - [LibreCMC](https://librecmc.org/) – Missing documentation and semitransparent.
+- [Librarian](https://librarian.codeberg.page/) – Librarian is a free and open source front-end for the LBRY/Odysee video sharing network that is also self-hostable. It does not proxy video streams by default. Videos watched through Librarian will still make direct connections to Odysee's servers but some instances may enable proxying which would be detailed in the instance's privacy policy.
 - [Libregit](https://libregit.org/) – Outdated, slow etc.
 - [Lightning SHARE](https://github.com/chroline/lightning-share) – Open-source file sharing service. It uses [Firebase](https://crisp.chat/blog/why-you-should-never-use-firebase-realtime-database/).
 - [LineageOS](https://lineageos.org/) – A free and open-source operating system for various devices, based on the Android mobile platform. See [here](https://www.reddit.com/r/privacy/comments/cldrym/how_to_degoogle_lineageos_in_2019/) their Google statement.
@@ -121,7 +123,8 @@ Please keep in mind that every software and service is at some point fixable and
 - [Migadu](https://www.migadu.com/) – Not FOSS.
 - [Mojeek](https://mojeek.com) – Independent and unbiased search results with no user tracking in UK's greenest data center. Mojeek is unfortunately proprietary, similarly to most parts of other search engines like DDG or Qwant.
 - [Mozilla VPN](https://vpn.mozilla.org/) – Rebranded Mullvad with an Mozilla Logo on top of it.
-- [MusicButler will shutdown on February 15, 2022 ](https://www.musicbutler.io/goodbye)
+- [MusicButler will shutdown on February 15, 2022](https://www.musicbutler.io/goodbye)
+- [Murena One](https://liliputing.com/2022/05/murena-one-is-a-privacy-focused-android-phone-without-google-apps-and-services.html) – Murena One is a privacy-focused Android phone without Google apps and services. Same reason as GrapheneOS, its scam to trick you buying something you can do on your own, just installed naked eOS or GSI and you be fine, besides that argument you usually depend on Google Phones while the irony is that you want to get rid of Google. SO these are half-measurements. Tweaking things is easier than ever in almost every OS these days and only takes a script you apply on boot. [Most of these clown forks are also often behind security patches wise](https://divestos.org/misc/ch-dates.txt).
 - [Min Browser](https://minbrowser.org/) – A fast, minimal browser that protects your privacy. Compared to other Browser less maintained.
 - [Neeva](https://neeva.com/) – 5 Dollars a month for a search engine. Say no more. The search engine will be at the beginning free and later they take money.
 - [NordVPN](https://nordvpn.com/) – Two seconds Telegram search and you find cracked accounts in mass, if they cannot even protect customers data against leaks then how good they can be in terms of security? No leaks for e.g. Mullvad (just saying).
@@ -179,6 +182,7 @@ Please keep in mind that every software and service is at some point fixable and
     - [ton](https://ton.org/) – The Telegram blockchain.
 - [TorGuard](https://www.bleepingcomputer.com/news/security/vpn-provider-bans-bittorrent-after-getting-sued-by-film-studios/) – Pretty much finished.
 - [Tusk Browser](https://tuskbrowser.com/) – No benefit over existing solutions, possible more vulnerable because less maintainer, interest and reviews from the community.
+- [Two Bird Email Client](https://www.twobird.com/) – Not FOSS.
 - [Ubuntu](https://www.networkworld.com/article/2226648/canonical-flip-flops-on-ubuntu-s-controversial-amazon-feature.html) – See [this](https://old.reddit.com/r/Ubuntu/comments/dkm15d/forced_snaps_are_ruining_ubuntu/) and [this](https://en.wikipedia.org/wiki/Snappy_(package_manager)#Criticism). I still list some [Ubuntu](https://github.com/butteff/Ubuntu-Telemetry-Free-Privacy-Secure) based modified projects which I reviewed.
 - [UC Browser](https://indianexpress.com/article/india/china-apps-banned-in-india-6482079/#:~:text=The%20IT%20ministry%20has%20banned,of%20state%20and%20public%20order.%E2%80%9D&text=The%20list%20of%20apps%20banned%20by%20India) – Needs no explanation.
 - [Vanadium](https://vanadium.app/) – Privacy and security enhanced releases of Chromium for GrapheneOS.
@@ -194,6 +198,7 @@ Please keep in mind that every software and service is at some point fixable and
 - [Signal hardening guide](https://freedom.press/training/locking-down-signal/)
 - [Synergy](https://symless.com/synergy) – Synergy is outdated, replaced with Barrier which is a fork that works on basically all Desktop OS.
 - [WindowsFX](https://www.windowsfx.org/) – Still contains telemetry which makes it not worth to install, since you can tweak stock OS.
+    - [Axolotl](https://axolotl.chat/) –  First cross-platform Signal client.
     - [Langis](https://langis.cloudfrancois.fr/) - Signal without Google Play Services support, Signal sans Google Play Services.
     - [Molly](https://github.com/mollyim/mollyim-android) – Signal-compatible fork client with some security enhancements. The fork still uses Signal's servers but it's essentially an alternative Android client for Signal. For Android only and with passphrase lock support.
     - [Signal-FOSS](https://www.twinhelix.com/apps/signal-foss/) – A fork of Signal for Android with proprietary Google binary blobs removed. Uses OpenStreetMap for maps and a websocket server connection, instead of Google Maps and Firebase Cloud Messaging.
@@ -213,6 +218,7 @@ Please keep in mind that every software and service is at some point fixable and
 - [Vimeo](https://www.patreon.com/posts/vimeo-is-holding-61514364) – [Patreon dumps vids on Vimeo, passes fees through to unsuspecting users](https://twitter.com/hate5six/status/1481500463317012482?s=21).
 - [Video Lite](https://apps.apple.com/app/video-lite-no-ads/id1598997500) – Closed source.
 - [WeeChat](https://weechat.org/) – Modular, lightweight ncurses-based IRC client. WeChat allegedly censors private conversations automatically in real life, for both Chinese and non-Chinese users.
+- [Windscribe](https://restoreprivacy.com/windscribe-vpn-security-breach-servers-seized/) – Data breaches, cracked accounts on Telegra,, lies and their free version has a higher likelihood of IPs being blacklisted.
 - [WordPress](https://wordpress.org) self-hosted – An open source software you can use to create a beautiful website, blog, or app. See here [why](https://theophilusn.com/blog/my-case-for-wordpress).
 - [Wormhole](https://wormhole.app/) – Simple, private file sharing.
     - [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) - Get things from one computer to another, safely.
