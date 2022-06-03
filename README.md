@@ -352,7 +352,6 @@ Privacy oriented alternatives:
 - [PrivateAnalytix](https://privateanalytix.com) – A privacy-first alternative to Google Analytics and Microsoft Clarity.
 - [Piratepx](https://www.piratepx.com/) – Does not support multi websites and there is no data export.
 - [Shynet](https://github.com/milesmcc/shynet) – Modern, privacy-friendly, and detailed web analytics that works without cookies or JS. No data export option.
-- [Squeaky](https://squeaky.ai) – The most comprehensive, user-friendly, and privacy-focused analytics suite on the web. - **controversial**
 - [Simple Analytics](https://simpleanalytics.com/) – Great analytics with privacy and simplicity in mind. Paid plans only (with free trials).
 - [Statify for WordPress](https://wordpress.org/plugins/statify/#description) – A straightforward WordPress plugin to collect statistics on your site. It only counts page request instead of collecting personal data.
 - [Supabase](https://supabase.io/) – An open-source alternative to Firebase.
