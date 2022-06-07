@@ -1243,7 +1243,6 @@ Privacy oriented alternatives:
 - [Nextcloud Calendar](https://apps.nextcloud.com/apps/calendar) – A user interface for Nextcloud's CalDAV server.
 - [Open-Xchange](https://www.open-xchange.com/) – A secure hosted email and productivity platform, designed for providers of all sizes to offer their customers email, calendar, storage, encryption and more.
 - [ProtonCalendar](https://calendar.protonmail.com/) – Free plan only supports 1 calendar. Certain information stored in [Proton Contacts](https://proton.me/support/proton-contacts), such as display names and email addresses, are not secured with zero-access encryption. Contact fields that support zero-access encryption, such as phone numbers, are indicated with a padlock icon.
-
 - [Radicale](https://radicale.org/) – Self-hosted calendar server written in Python. WebUI for desktop, CalDav/CardDav for mobile sync. Can use a reverse proxy with Nginx for HTTPS.
 - [Severus](https://getseverus.com/) – A privacy focused contact management system.
 - [Simple Calendar](https://www.simplemobiletools.com/calendar/) – A flexible calendar with many event related options.
