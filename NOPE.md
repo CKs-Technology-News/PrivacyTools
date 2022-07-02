@@ -1,3 +1,4 @@
+## [NOPE Software and Services](#nope-software-and-services)
 
 ![Image credit: devrant + RMS himself](https://img.devrant.com/devrant/rant/r_1195970_gW3o6.jpg)
 
@@ -8,6 +9,7 @@ Please keep in mind that every software and service is at some point fixable and
 
 - [5G Bio Shield](https://5gbioshield.com/) – Cash gab to tool people with nonsense and claims + promises they cannot hold.
 - [ABrowser](https://github.com/proninyaroslav/abrowser-android) – ABrowser for Android not updated since 2019.
+- [Above Phone](https://abovephone.com) – The Above Knowledge Base is dedicated to education on the use of privacy-first tools with detailed articles and real solutions. Already covered in this guide.
 - [Aether](https://getaether.net/) – Peer-to-peer ephemeral public communities. The repository has not been updated with code since May 2020. The last version 0.15 has been released in November 2020 and there is no mention of it in the repository.
 - [Afterplay](https://afterplay.io/) – Play your retro games in a browser across all your devices.
 - [American Civil Liberties Union](https://en.wikipedia.org/wiki/American_Civil_Liberties_Union) – ACLU unlisted because they might support and defend [Nazis](http://law2.umkc.edu/faculty/projects/ftrials/conlaw/onion_acludefends.html). There is one reference link in my guide but I reviewed it, so I only let this one link stand but I clearly say you should not support such ideology or support right-winged people.
@@ -32,6 +34,7 @@ Please keep in mind that every software and service is at some point fixable and
 - [Bundled Notes](https://bundlednotes.com/) – Closed Source.
 - [Ceno Browser](https://censorship.no/en/index.html) – Firefox for Android (Fennec) with Ouinet integration
 - [Cached Pages](http://www.cachedpages.com/) – No HTTPS.
+- [CopperheadOS](https://copperhead.co/android/) – Same reason like GrapehenOS, dubios people behind, lots of claims, no actual proof and de-google is not something that is impossible to do on your own these days.
 - [CTemplar](https://ctemplar.com/) – Privacy-focused email provider located in Iceland. This provider is known for deactivating randomly accounts based on activity. It’s anything but trusted besides the fact that the app won’t work and you got continually errors. [CTemplar deletes free accounts that haven't logged in in 36 months](https://ctemplar.com/help/answer/inactive-account-policy). [Privacy email provider CTemplar is shutting down](https://ctemplar.com/ctemplar-is-shutting-down/).
 - [Canary Mail](https://canarymail.io) – A secure email client for macOS, iOS and Android (paid and closed source).
 - [Changewatch – see what’s changed between versions of policies](https://www.changewatch.co.uk/) – Behind Cloudflare and no benefit over terms did not read Website.
@@ -39,14 +42,14 @@ Please keep in mind that every software and service is at some point fixable and
 - [Clementine](https://www.clementine-player.org/#news) – Outdated, latest real update was in 2016.
 - [Cloudflare hosted websites are critical](https://thetrichordist.com/2019/02/26/cloudflare-the-bad-the-worse-and-the-criminal-goldmansachs-ustreasury-ofac/)
 - [Cordless](https://github.com/Bios-Marcel/cordless) – Against Discord ToS, if you plan breaking ToS then use BetterDiscord instead.
-- [ControlD](https://controld.com) – Does not support DNSSEC, [check here for yourself](https://cmdns.dev.dns-oarc.net/).
+- [Control D](https://controld.com) – Does not support DNSSEC, [check here for yourself](https://cmdns.dev.dns-oarc.net/).
 - [Croc](https://github.com/schollz/croc) – Easily and securely send things from one computer to another. No expert ever heard of the encryption they are using, no audit and less documentation on the important parts.
 - [CutTheCord](https://gitdab.com/distok/cutthecord) – Distok CutTheCord: Modular Discord Android client mod.
 - [DarkMX](https://darkmx.app/) – A new decentralized communication app that utilizes Tor hidden services to allow you to easily have an anonymous, reliable, and censorship-resistant presence on the internet. The program is [closed source](https://darkmx.app/forum/53). An unofficial de-compiled version including arch package and source, for Linux only is available [here](https://aur.archlinux.org/packages/darkmx).
 - [Decs](https://app.decs.xyz/) – The All-In-One Workspace To Manage Code Snippets and Protect Sensitive Data. No end-to-end encryption, no 2FA etc.
-- [Disroot](https://disroot.org) – An online services provider based in the Netherlands.
+- [Disroot](https://disroot.org) – An online services provider based in the Netherlands. No 2FA, WebAuthn and other standards that are mandatory.
     - [Dismail](https://dismail.de/info.html#email) – You might need to contact the support via Jabber first.
-- [Discord](https://twitter.com/CKsTechNews/status/1497582269372014596) – Calls out entire nations to support terrorism, weird privacy policy, working with feds and much more.
+- [Discord](https://twitter.com/CKsTechNews/status/1497582269372014596) – Calls out entire nations to support terrorism, weird privacy policy, working with feds and much more. E.G. [Discord Trust and Safety Employee Abuses Administrative Power for Personal Gain](https://discord.news/trust-and-scam/).
 - [DiskCryptor](https://sourceforge.net/projects/diskcryptor/) has been discontinued. It’s last update was in September 2014. It is still available on SourceForge.
 - [Dot Browser](https://dothq.co) – The browser with privacy at heart. Based on Firefox with some additions, modifications. The reason it does not get listed is that there are rarely updates which is controversial enough when it comes to overall security, if you want to use it you basically need to install nightly builds.
 - [Duolingo](https://reports.exodus-privacy.eu.org/en/reports/com.duolingo/latest/)
@@ -68,6 +71,7 @@ Please keep in mind that every software and service is at some point fixable and
 - [Framadrop](https://alt.framasoft.org/framadrop/) – Service is end of life.
 - [Framasoft](https://framasoft.org/) – Collecting money with community tool findings, no respect for such people/organization.
 - [freezer-life](https://freezer.life/) & [Bot](https://t.me/Deez_BIB_bot) – The website says "does not work" but last time I checked it, it worked fine. The project is not maintained anymore.
+    - [Freezer](https://git.freezerapp.xyz/) – Official Gitea repo for Freezer, which is now offline.
 - [Freedom Phone](https://www.inputmag.com/tech/surprise-erik-finmans-freedom-phone-is-a-scam-a-privacy-horror) – Scam to make cash.
 - [Freenode.net](https://freenode.net/) - Becomes a Reddit Clone.
 - [Fruux](https://fruux.com) – Securely share, sync and collaborate in teams, it is a proprietary application.
@@ -77,6 +81,7 @@ Please keep in mind that every software and service is at some point fixable and
 - [Grammar & Spell Checker — LanguageTool](https://languagetool.org/) – Check your texts for spelling and grammar problems everywhere on the web. Contains telemetry.
 - [GrapheneOS](https://grapheneos.org/) – GrapheneOS is an open source privacy and security focused mobile OS with Android app compatibility. Mental problems with [Daniel Micay who makes things up](https://www.youtube.com/watch?v=Dx7CZ-2Bajg) and [begging for money](https://twitter.com/GrapheneOS/status/1463930841160200199) results in no trust. The developer has [no clue how Kasperskys AV really works](https://freenode.logbot.info/grapheneos/20210607) and such people dare to talk about security. All he does is to apply best practices into an OS, since there is no competition except CalyxOS this promise seems to be quickly fulfilled since there is no audit no one can disprove their promises.
 - [gtkcord3](https://github.com/diamondburned/gtkcord3) – Just keep in mind, using 3rd party Discord clients can result in your account being banned, but this is rarely enforced by Discord.
+- [Haven](https://guardianproject.github.io/haven/) – For people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors. No benefit, less to no updates and ther eis no guidance for how the user should handle compromised devices. It also has no blocking abilities.
 - [HiddenLake](https://github.com/Number571/HiddenLake) – Outdated social media source code.
 - [Igloo](https://twitter.com/CKsTechNews/status/1464959988586229762)
 - [iodéOS](https://blog.jolla.com/suomenlinna/) – Based on [LineageOS](https://github.com/iodeOS/ota). The OS and their ad-blocker itself is [not FOSS](https://github.com/iodeOS), they only release why this is listed is beause some of their apps as [FOSS](https://forum.xda-developers.com/t/rom-fp4-11-0-iodeos-lineageos-18-1-microg-adblocker-02-02-2022.4397481/).
@@ -90,6 +95,7 @@ Please keep in mind that every software and service is at some point fixable and
 - [Kolor](https://app.kolor.social/) – Blockchain Social Media, uses Google Analytics.
 - [kvak](https://kvak.io/) – Not private enough and therefore not real benefit over already listed solutions.
 - [LibreCMC](https://librecmc.org/) – Missing documentation and semitransparent.
+- [LibreOffice Viewer](https://cgit.freedesktop.org/libreoffice/core/tree) – Pretty much outdated Android app which is riddled with problems.
 - [Librarian](https://librarian.codeberg.page/) – Librarian is a free and open source front-end for the LBRY/Odysee video sharing network that is also self-hostable. It does not proxy video streams by default. Videos watched through Librarian will still make direct connections to Odysee's servers but some instances may enable proxying which would be detailed in the instance's privacy policy.
 - [Libregit](https://libregit.org/) – Outdated, slow etc.
 - [Lightning SHARE](https://github.com/chroline/lightning-share) – Open-source file sharing service. It uses [Firebase](https://crisp.chat/blog/why-you-should-never-use-firebase-realtime-database/).
@@ -130,7 +136,7 @@ Please keep in mind that every software and service is at some point fixable and
 - [Murena One](https://liliputing.com/2022/05/murena-one-is-a-privacy-focused-android-phone-without-google-apps-and-services.html) – Murena One is a privacy-focused Android phone without Google apps and services. Same reason as GrapheneOS, its scam to trick you buying something you can do on your own, just installed naked eOS or GSI and you be fine, besides that argument you usually depend on Google Phones while the irony is that you want to get rid of Google. SO these are half-measurements. Tweaking things is easier than ever in almost every OS these days and only takes a script you apply on boot. [Most of these clown forks are also often behind security patches wise](https://divestos.org/misc/ch-dates.txt).
 - [Min Browser](https://minbrowser.org/) – A fast, minimal browser that protects your privacy. Compared to other Browser less maintained.
 - [Neeva](https://neeva.com/) – 5 Dollars a month for a search engine. Say no more. The search engine will be at the beginning free and later they take money.
-- [NordVPN](https://nordvpn.com/) – Two seconds Telegram search and you find cracked accounts in mass, if they cannot even protect customers data against leaks then how good they can be in terms of security? No leaks for e.g. Mullvad (just saying).
+- [NordVPN](https://nordvpn.com/) – Two seconds Telegram search and you find cracked accounts in mass, if they cannot even protect customers data against leaks then how good they can be in terms of security?
 - [NvidiaRTX-LHRv2Unlocker](https://github.com/BySergeyDev/NvidiaRTX-LHRv2Unlocker) – Does not work and contains Malware.
 - [Odysee](https://lemmy.ml/post/67875) – [Odysee](https://tosdr.org/en/service/2391) is a video platform backed by the creators of lbry and uses the lbry blockchain protocol. Unlisted due to [privacy concerns](https://lemmy.cat/post/3188), beginners [mistakes](https://twitter.com/CKsTechNews/status/1486817941534527492) and [tracking cookies](https://lemmy.ml/post/116308) which make it hard or even impossible to use with e.g. Tor.
     - [lbry for Android](https://github.com/lbryio/lbry-fdroid) – The rumors that the F-Droid Clients containing [telemetry are wrong](https://github.com/lbryio/lbry-android/issues/1047), the app itself has no anti-features.
@@ -144,6 +150,7 @@ Please keep in mind that every software and service is at some point fixable and
 - [Passepartout](https://github.com/passepartoutvpn) – A non-official, user-friendly OpenVPN client without a kill-switch.
 - [Paysafecard](https://mrdatenschutz.de/paysafecard-anonym-im-internet-bezahlen/)
 - [Phone by Google](https://play.google.com/store/apps/details?id=com.google.android.diale) – Proprietary.
+- [pfSense](https://www.pfsense.org/) – Firewall and Router FreeBSD distribution. [pfSense is closed source](https://github.com/rapi3/pfsense-is-closed-source).
 - [Photopee](https://old.reddit.com/r/IAmA/comments/s2elpv/i_made_a_free_alternative_to_photoshop_that_is/) – An advanced photo editor which works in a web browser.
 - [PowerCord](https://powercord.dev/) – Against Discord ToS.
 - [Prav](https://prav.app/) – Privacy Respecting XMPP Chatting App. Mention several times source code but there is no link to the actual source code + no benefit over existing solutions.
@@ -179,6 +186,7 @@ Please keep in mind that every software and service is at some point fixable and
     - [Kotatogram](https://kotatogram.github.io/) - Experimental fork of Telegram Desktop.
     - [MTProxy](https://github.com/TelegramMessenger/MTProxy) – Proxy server which helps telegram users who are inside censored areas still be able to connect to Telegram.
     - [Neko X](https://github.com/NekoX-Dev/NekoX) - Another FOSS Telegram client (based on Telegram FOSS and Nekogram which was earlier FOSS) with more features and different variants (check release page on GitHub).
+    - [OwlGram](https://github.com/OwlGramDev/OwlGram) – An unofficial messaging app that uses Telegram's API.
     - [Telegram ADs blocker](https://github.com/Xposed-Modules-Repo/io.github.tehcneko.tgadblocker) – Block sponsored messages.
     - [Telegram Nearby Map](https://github.com/tejado/telegram-nearby-map) – Walk virtually around and locate hundreds of nearby Telegram users.
     - [Telegraher](https://github.com/nikitasius/Telegraher/) – Telegram fork with blackjack and other stuff.
@@ -195,7 +203,7 @@ Please keep in mind that every software and service is at some point fixable and
 - [Waterfox](https://www.waterfox.net/blog/waterfox-has-joined-system1/) – Joined System1.
 - [Wire](https://wire.com/en/) – Modern day collaboration meets the most advanced security and superior user experience. Fully open source, both client and server, and third-party audited. [Metadata leakage possible](https://github.com/wireapp/wire/issues/214) / [this](https://motherboard.vice.com/en_us/article/secure-messaging-app-wire-stores-everyone-youve-ever-contacted-in-plain-text).
     - [Wire for Android](https://f-droid.org/en/packages/com.wire/) – Wire offers highly secure communication – anywhere and anytime.
-- VSCode nor the [Web Version](https://vscode.dev/), the Browser Version due to enabled [Telemetry](https://code.visualstudio.com/docs/getstarted/telemetry) by default, same like the crash reporter, you need to disable it, restart the app or block it via ad-blocker. Their [marketplace is also known to be vulnerable](https://snyk.io/blog/vulnerable-visual-studio-code-extensions-marketplace/).
+- VSCode nor the [Web Version](https://vscode.dev/), the Browser Version due to enabled [Telemetry](https://code.visualstudio.com/docs/getstarted/telemetry) by default, same like the crash reporter, you need to disable it, restart the app or block it via ad-blocker. Their [marketplace is also known to be vulnerable](https://snyk.io/blog/vulnerable-visual-studio-code-extensions-marketplace/). [Microsoft discloses plans to turn parts of VS Code C# extension to closed source](https://github.com/omnisharp/omnisharp-vscode/issues/5276).
 - [RTranslator](https://github.com/niedev/RTranslator) - Universal translator based on Google's APIs and Bluetooth LE. It connects to Google endpoints.
 - [Sayches](https://sayches.com/) – [Sayches](https://github.com/Sayches) is a micro-blogging social media platform for ephemeral content giving its users the freedom of expression without the fear of repercussion. Weird claims against Mastodon and other social networks + beta + unprofessional claims.
 - [Session - Private Messenger](https://getsession.org/) – Extreme focus on privacy based on [Blockchain technology](https://cointelegraph.com/news/homeland-security-to-use-blockchain-in-tracking-goods-people-globally). Session is a much more complicated protocol with way too many additions and differing specs for it to be able to interoperate with Signal at this point. Possible [#fedpot](https://nitter.net/WPalant/status/1281540005190672384) and a gulag for nazis and [alt-right scene](https://nitter.net/WPalant/status/1281578526932705281) in general. - **highly controversial**
@@ -219,7 +227,7 @@ Please keep in mind that every software and service is at some point fixable and
 - [TitanKey](https://nakedsecurity.sophos.com/2021/01/11/google-titan-security-keys-hacked-by-french-researchers/)
 - [U2F Zeror](https://github.com/conorpp/u2f-zero/blob/master/README.md) – The official website does not exist anymore, and the GitHub repository's readme.md states the project no longer maintained.
 - [UPX Browser](https://www.upxb.net/) – Contains trackers.
-- [UXWizz – Self-hosted analytics platform](https://www.uxwizz.com/), is paid, you can self-host it if you like but some things are still paid.
+- [UXWizz – Self-hosted analytics platform](https://www.uxwizz.com/) – Paid, you can self-host it if you like but some things are still remain as service.
 - [UncensoredDNS](https://blog.uncensoreddns.org/dns-servers/)
 - [Vimeo](https://www.patreon.com/posts/vimeo-is-holding-61514364) – [Patreon dumps vids on Vimeo, passes fees through to unsuspecting users](https://twitter.com/hate5six/status/1481500463317012482?s=21).
 - [Video Lite](https://apps.apple.com/app/video-lite-no-ads/id1598997500) – Closed source.
@@ -244,7 +252,7 @@ I never gave my permission to link or copy parts of my guidance on such websites
 ![Against nazis](https://pbs.twimg.com/media/FF2a5cPXIAQVSKy?format=jpg&name=medium)
 
 
-Do not bother nor give those platforms any clicks or attention. Mostly [filled with alt-right people and extremists](https://www.splcenter.org/peril-guide-online-youth-radicalization/). Some of listed projects are down for good. I do not link the evidence but ~~Google~~ searching and checking who is behind those platforms clearly shows that they are mostly alt-right winged, often used by people who got banned on legitimate social media platforms.
+Do not bother nor give those platforms any clicks or attention. Mostly [filled with alt-right people and extremists](https://www.splcenter.org/peril-guide-online-youth-radicalization/). Some of listed projects are down for good. I do not link the evidence but ~~Google~~ searching and checking who is behind those platforms clearly shows that they are mostly alt-right winged, very often used by people who got banned on legitimate social media platforms because they are not accepted by normal society standards and ethics.
 
 - 4chan
 - 8kun
