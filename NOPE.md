@@ -20,6 +20,7 @@ Please keep in mind that every software and service is at some point fixable and
 - [Arachne DOS Web Browser](http://www.glennmcc.org/) – Also works on Linux. The Browser does not frequently gets updated and should not be used as better alternatives exists.
 - [Atom](https://atom.io) – A hackable text editor for the 21st Century. [Outdated](https://github.blog/2022-06-08-sunsetting-atom/).
 - [Aurora OS](https://nokiamob.net/2021/11/16/aurora-os-is-based-on-sailfish-but-owned-by-omp/) – Aurora OS is based on Sailfish but owned by Russian Open Mobile Platform.
+- [Barinsta](https://github.com/austinhuang0131/barinsta) – Open-source alternative Instagram client for Android. The original project is gone.
 - [Beeper](https://beeper.com) – A dressed up Matrix client plus server stack.
 - [Becky! Internet Mail](https://rimarts.co.jp/becky.htm) – Closed source.
 - [Big Blue Button](https://bigbluebutton.org) – A professional video conferencing tool focused on online teaching and presenting. As such, it provides special features like slide-sharing, private and group chat, emoji feedback, polls, breakout rooms and many more. Removed due to [privacy concerns](https://empri-devops.de/blog/2022/01/26/bbb-learning-dashboard/).
@@ -61,6 +62,7 @@ Please keep in mind that every software and service is at some point fixable and
 - [Etherpad](https://etherpad.org/) – Highly customizable open source online editor providing collaborative editing in really real-time.
 - [ethical.net](https://ethical.net/) - How ethical it is to include trackers in your website? Get lost.
 - [ExpressVPN](https://www.theregister.com/2021/09/14/expressvpn_bought_kape/) – [High-Level ExpressVPN Executive Ensnared in Criminal Surveillance Operation](https://restoreprivacy.com/expressvpn-executive-uae-surveillance/), check also the [video](https://odysee.com/@AlphaNerd:8/expressvpn-gets-even-spookier:8).
+- Firefox Lockwise
 - [FairEmail](https://github.com/M66B/FairEmail) – Fully featured, open source, privacy-friendly email app for Android. Developer release so-called "free" apps and locks specific features behind "paid" or "pro" features instead of only accepting donations, because he exactly knows that no one would donate once he does that. So he plays the "game" to make money and [when he does not make enough money he quits](https://www.ghacks.net/2022/05/19/fairemail-developer-calls-it-quits-and-pulls-apps-from-google-play/). [FairEmail development continues with the changes to the Privacy Policy](https://forum.xda-developers.com/t/app-5-0-fairemail-fully-featured-open-source-privacy-oriented-email-app.3824168/page-1107#post-86938021).
 - [Fathom](https://usefathom.com/) – A simple, light-weight, privacy-first alternative to Google Analytics. Not fully open source.
 - [Firefox for Mobile](https://www.mozilla.org/en-US/firefox/mobile/) – For Android and iOS, Mozilla is evaluating Firefox usage by changing the [default search engine to Bing](https://www.techspot.com/news/91395-mozilla-evaluating-firefox-usage-changing-default-search-engine.html).
@@ -84,7 +86,8 @@ Please keep in mind that every software and service is at some point fixable and
 - [Haven](https://guardianproject.github.io/haven/) – For people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors. No benefit, less to no updates and ther eis no guidance for how the user should handle compromised devices. It also has no blocking abilities.
 - [HiddenLake](https://github.com/Number571/HiddenLake) – Outdated social media source code.
 - [Igloo](https://twitter.com/CKsTechNews/status/1464959988586229762)
-- [iodéOS](https://blog.jolla.com/suomenlinna/) – Based on [LineageOS](https://github.com/iodeOS/ota). The OS and their ad-blocker itself is [not FOSS](https://github.com/iodeOS), they only release why this is listed is beause some of their apps as [FOSS](https://forum.xda-developers.com/t/rom-fp4-11-0-iodeos-lineageos-18-1-microg-adblocker-02-02-2022.4397481/).
+- [iodéOS](https://blog.jolla.com/suomenlinna/) – Based on [LineageOS](https://github.com/iodeOS/ota). The OS and their ad-blocker itself is [not FOSS](https://github.com/iodeOS), they only release why this is listed is because some of their apps as [FOSS](https://forum.xda-developers.com/t/rom-fp4-11-0-iodeos-lineageos-18-1-microg-adblocker-02-02-2022.4397481/).
+- [Imgin](https://imgin.voidnet.tech/) – A minimalist read-only Imgur proxy. - **down**
 - [ImageGlass](https://github.com/d2phap/ImageGlass/commit/97c716cf1ad23535b7b6840ba189270e440e742e) – Malware added. The malware makes the user's machine the exit node of a commercial proxy service, without users' knowledge or consent. They [reverted](https://github.com/d2phap/ImageGlass/issues/1252#issuecomment-1018625643) it but the trust is gone because they deleted and locked the [discussion](https://github.com/d2phap/ImageGlass/issues/1252), which is not how you deal with this.
 - [Intra (DNS)](https://getintra.org) for Android but owned by Google.
 - [JetBrains Fleet IDE](https://www.jetbrains.com/fleet/) is not FOSS.
@@ -94,6 +97,7 @@ Please keep in mind that every software and service is at some point fixable and
 - [Kiwi Browser](https://kiwibrowser.com) - Collects and submits data to third-parties as [explained here](https://kiwibrowser.com/privacy-policy/), you find the [discussion on this matter here](https://github.com/Tobi823/ffupdater/issues/35). [KiwiBrowser](https://github.com/Tobi823/ffupdater/issues/35) has lots of dirt, see the [details](https://old.reddit.com/r/androidapps/comments/nt0pgc/kiwi_browser_is_a_spyware/).
 - [Kolor](https://app.kolor.social/) – Blockchain Social Media, uses Google Analytics.
 - [kvak](https://kvak.io/) – Not private enough and therefore not real benefit over already listed solutions.
+- [Ladybird Web Browser](https://github.com/awesomekling/ladybird) – The Ladybird Web Browser is a browser using the SerenityOS LibWeb engine with a Qt GUI.
 - [LibreCMC](https://librecmc.org/) – Missing documentation and semitransparent.
 - [LibreOffice Viewer](https://cgit.freedesktop.org/libreoffice/core/tree) – Pretty much outdated Android app which is riddled with problems.
 - [Librarian](https://librarian.codeberg.page/) – Librarian is a free and open source front-end for the LBRY/Odysee video sharing network that is also self-hostable. It does not proxy video streams by default. Videos watched through Librarian will still make direct connections to Odysee's servers but some instances may enable proxying which would be detailed in the instance's privacy policy.
@@ -171,7 +175,7 @@ Please keep in mind that every software and service is at some point fixable and
 - [Securimage is no longer maintained](https://github.com/dapphp/securimage/issues/66#issuecomment-636279862)
 - [Simplenote](https://simplenote.com/) – The simplest way to keep notes. No database encryption and no self-hosting option + No p2p sync (centralized) and Google Analytics.
 - [Sky Global](https://www.theguardian.com/australia-news/2021/sep/11/inside-story-most-daring-surveillance-sting-in-history) #fedpot
-- [Skiff](https://skiff.com/) – Collects too much metadata and offers no benefit over listed solutions.
+- [Skiff](https://skiff.com/) – Collects too much metadata and offers no benefit over listed solutions. Provides zero benefits to other listed products. Some [issues got fixed](https://www.hardenize.com/report/skiff.com/16576711482), other are still valid.
 - [Spotfy.one](https://spotfy.one) – Privacy-aware and login-free Spotify clone. Rips and connects to YouTube which probably means it only scrapes songs from YouTube and not Spotify.
 - [Squeaky](https://squeaky.ai) – The most comprehensive, user-friendly, and privacy-focused analytics suite on the web. Not FOSS.
 - [StartPage](https://startpage.com) – Startpage was acquired by United States-based System1. StartPage itself block several VPNs and unusual traffic, eg Tor traffic, depending on specific reasons, this is done to protect their services against some attacks. The main reason why StartPage is not listed is that it is owned by targeted ad agency among [several other severe reasons](https://lemmy.eus/post/1497/comment/5048).
@@ -232,6 +236,7 @@ Please keep in mind that every software and service is at some point fixable and
 - [Vimeo](https://www.patreon.com/posts/vimeo-is-holding-61514364) – [Patreon dumps vids on Vimeo, passes fees through to unsuspecting users](https://twitter.com/hate5six/status/1481500463317012482?s=21).
 - [Video Lite](https://apps.apple.com/app/video-lite-no-ads/id1598997500) – Closed source.
 - [WeeChat](https://weechat.org/) – Modular, lightweight ncurses-based IRC client. WeChat allegedly censors private conversations automatically in real life, for both Chinese and non-Chinese users.
+- W10Privacy is closed source.
 - [Windscribe](https://restoreprivacy.com/windscribe-vpn-security-breach-servers-seized/) – Data breaches, cracked accounts on Telegram, lies and their free version has a higher likelihood of IPs being blacklisted.
 - [WordPress](https://wordpress.org) self-hosted – An open source software you can use to create a beautiful website, blog, or app. See here [why](https://theophilusn.com/blog/my-case-for-wordpress).
 - [Wormhole](https://wormhole.app/) – Simple, private file sharing.
