@@ -4659,6 +4659,13 @@ None of below listed tools or websites are FOSS. I plan to change that, however 
 
 Well worth searching your GitHub URL with [Google Scholar](https://scholar.google.com/scholar), which is a great way to find out if your code has made it into any academic publications.
 
+
+- [https://www.prepostseo.com/plagiarism-checker](https://www.prepostseo.com/plagiarism-checker)
+- [https://www.check-plagiarism.com](https://www.check-plagiarism.com)
+- [https://www.editpad.org/tool/plagiarism-checker](https://www.editpad.org/tool/plagiarism-checker)
+- [https://www.paraphraser.io/plagiarism-checker](https://www.paraphraser.io/plagiarism-checker)
+- [https://www.textreverse.com/plagiarism-checker.php](https://www.textreverse.com/plagiarism-checker.php)
+- [https://www.softo.org/tool/plagiarism-checker](https://www.softo.org/tool/plagiarism-checker)
 - [https://1text.com/plagiarismchecker](https://1text.com/plagiarismchecker)
 - [https://copyleaks.com/](https://copyleaks.com/)
 - [https://myassignmenthelp.com/plagiarism-checker.php](https://myassignmenthelp.com/plagiarism-checker.php)
