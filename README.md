@@ -1,1 +1,1 @@
-
+Please consider to donate to the actual developers, I do not take any money from you nor is this project designed to make any donations out from other peoples projects. It is more helpful to all of us if the mentioned developers receiving funding to push their projects.
